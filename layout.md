@@ -4,5 +4,5 @@ introduction.tex
 Methods.tex
 results.tex
 figures/ggplot_dragonfly1/ggplot_dragonfly1.png
-results_table.tex
+Discussion.tex
 figures/ggplot_dragonfly/ggplot_dragonfly.png

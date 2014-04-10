@@ -4,4 +4,5 @@ introduction.tex
 Methods.tex
 figures/ordination_all/ordination_all.png
 figures/l2fc_fig/l2fc_fig.png
+figures/shift_and_rabund/shift_and_rabund.png
 Results & Discussion.tex

@@ -1,5 +1,6 @@
 Thesis Statement.tex
 abstract.tex
+Significance.tex
 introduction.tex
 Methods.tex
 figures/ordination_all1/ordination_all1.png

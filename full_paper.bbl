@@ -466,49 +466,6 @@
       \verb http://dx.doi.org/10.1099/ijs.0.053348-0
       \endverb
     \endentry
-    \entry{Darcy_2011}{article}{}
-      \name{labelname}{5}{}{%
-        {{hash=a552069d6dbaac22245e48e43900c9dc}{Darcy}{D\bibinitperiod}{John\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{Lynch}{L\bibinitperiod}{Ryan\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=69a617c0830dbff0a485ac4eecc600ca}{King}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=cc2d68f5dd9863101d27adc609fb5531}{Robeson}{R\bibinitperiod}{Michael\bibnamedelima S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=136f09072d0d272d09bbc70de8177a5d}{Schmidt}{S\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{hash=a552069d6dbaac22245e48e43900c9dc}{Darcy}{D\bibinitperiod}{John\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{Lynch}{L\bibinitperiod}{Ryan\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=69a617c0830dbff0a485ac4eecc600ca}{King}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=cc2d68f5dd9863101d27adc609fb5531}{Robeson}{R\bibinitperiod}{Michael\bibnamedelima S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=136f09072d0d272d09bbc70de8177a5d}{Schmidt}{S\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=90a9bcdf8c207fad6616f4544446e89a}{L{\'{o}}pez-Garc{\'{\i}}a}{L\bibinithyphendelim G\bibinitperiod}{Purificaci{\'{o}}n}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Public Library of Science ($\lbrace$PLoS$\rbrace$)}%
-      }
-      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
-      \strng{fullhash}{150fe28d4de12df8838cfed2b28744c9}
-      \field{sortinit}{D}
-      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
-      \field{labelyear}{2011}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Global Distribution of Polaromonas Phylotypes - Evidence for a Highly Successful Dispersal Capacity}}
-      \field{journaltitle}{$\lbrace$PLoS$\rbrace$ $\lbrace$ONE$\rbrace$}
-      \field{month}{08}
-      \field{number}{8}
-      \field{title}{{Global Distribution of Polaromonas Phylotypes - Evidence for a Highly Successful Dispersal Capacity}}
-      \field{volume}{6}
-      \field{year}{2011}
-      \field{pages}{e23742}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0023742
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1371/journal.pone.0023742
-      \endverb
-    \endentry
     \entry{DAVIDSON_2006}{article}{}
       \name{labelname}{3}{}{%
         {{hash=a56b0d0cc2d0f6004e2deb761b5356fc}{DAVIDSON}{D\bibinitperiod}{ERIC\bibnamedelima A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -680,38 +637,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1073/pnas.1215210110
-      \endverb
-    \endentry
-    \entry{Finkel_2006}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=df393ea5b66d88070f2e573779fefc16}{Finkel}{F\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=df393ea5b66d88070f2e573779fefc16}{Finkel}{F\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{df393ea5b66d88070f2e573779fefc16}
-      \strng{fullhash}{df393ea5b66d88070f2e573779fefc16}
-      \field{sortinit}{F}
-      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
-      \field{labelyear}{2006}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Long-term survival during stationary phase: evolution and the $\lbrace$GASP$\rbrace$ phenotype}}
-      \field{journaltitle}{Nat Rev Micro}
-      \field{month}{02}
-      \field{number}{2}
-      \field{title}{{Long-term survival during stationary phase: evolution and the $\lbrace$GASP$\rbrace$ phenotype}}
-      \field{volume}{4}
-      \field{year}{2006}
-      \field{pages}{113\bibrangedash 120}
-      \verb{doi}
-      \verb 10.1038/nrmicro1340
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/nrmicro1340
       \endverb
     \endentry
     \entry{Friedlingstein_2006}{article}{}
@@ -1340,30 +1265,6 @@
       \verb http://dx.doi.org/10.1097/00010694-200004000-00001
       \endverb
     \endentry
-    \entry{11125085}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{99c85077ca2afe32b9f81860effd1d90}
-      \strng{fullhash}{858aafdef6923f4cf4f8d076b7b83de7}
-      \field{sortinit}{K}
-      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
-      \field{title}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
-      \field{volume}{29}
-      \field{pages}{181\bibrangedash 4}
-      \warn{\item Datamodel: Entry '11125085' (bibliography/biblio.bib): Invalid format '2001 Jan 1' of date field 'date' - ignoring}
-    \endentry
     \entry{Labeda_2001}{article}{}
       \name{labelname}{4}{}{%
         {{hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
@@ -1470,70 +1371,6 @@
       \verb http://dx.doi.org/10.1099/00207713-39-3-355
       \endverb
     \endentry
-    \entry{Lay_2013}{article}{}
-      \name{labelname}{6}{}{%
-        {{hash=d73e66355eb63954092b61a917a146c6}{Lay}{L\bibinitperiod}{C.-Y.}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=45a771adbc5b56b3e1306dbc2c7592b8}{Mykytczuk}{M\bibinitperiod}{N.\bibnamedelimi C.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=e51a9aaafe80c71efdd3a074c9a412aa}{Yergeau}{Y\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=2e10ad5bb3c1fc71182371c05e1fb521}{Lamarche-Gagnon}{L\bibinithyphendelim G\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6968390a02b8daf5dac807e59c3c58d9}{Greer}{G\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=00f9098fdbbf176a6b2174ebb11f654f}{Whyte}{W\bibinitperiod}{L.\bibnamedelimi G.}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{6}{}{%
-        {{hash=d73e66355eb63954092b61a917a146c6}{Lay}{L\bibinitperiod}{C.-Y.}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=45a771adbc5b56b3e1306dbc2c7592b8}{Mykytczuk}{M\bibinitperiod}{N.\bibnamedelimi C.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=e51a9aaafe80c71efdd3a074c9a412aa}{Yergeau}{Y\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=2e10ad5bb3c1fc71182371c05e1fb521}{Lamarche-Gagnon}{L\bibinithyphendelim G\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6968390a02b8daf5dac807e59c3c58d9}{Greer}{G\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=00f9098fdbbf176a6b2174ebb11f654f}{Whyte}{W\bibinitperiod}{L.\bibnamedelimi G.}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {American Society for Microbiology}%
-      }
-      \strng{namehash}{e241839b7bede0e699ec1d8d82195293}
-      \strng{fullhash}{896b3925528bbb86c809939377fb9ce0}
-      \field{sortinit}{L}
-      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
-      \field{labelyear}{2013}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Defining the Functional Potential and Active Community Members of a Sediment Microbial Community in a High-Arctic Hypersaline Subzero Spring}}
-      \field{journaltitle}{{Appl Environ Microbiol}}
-      \field{month}{04}
-      \field{number}{12}
-      \field{title}{{Defining the Functional Potential and Active Community Members of a Sediment Microbial Community in a High-Arctic Hypersaline Subzero Spring}}
-      \field{volume}{79}
-      \field{year}{2013}
-      \field{pages}{3637\bibrangedash 3648}
-      \verb{doi}
-      \verb 10.1128/aem.00153-13
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1128/aem.00153-13
-      \endverb
-    \endentry
-    \entry{18948294}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=1afba83478a5c782b7c551177b334c03}{Lee}{L\bibinitperiod}{ZM}{Z\bibinitperiod}{}{}{}{}}%
-        {{hash=e673f1138f52a81fead66c93a7584236}{Bussema}{B\bibinitperiod}{C\bibnamedelima 3rd}{C\bibinitperiod\bibinitdelim 3\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=1afba83478a5c782b7c551177b334c03}{Lee}{L\bibinitperiod}{ZM}{Z\bibinitperiod}{}{}{}{}}%
-        {{hash=e673f1138f52a81fead66c93a7584236}{Bussema}{B\bibinitperiod}{C\bibnamedelima 3rd}{C\bibinitperiod\bibinitdelim 3\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{24efa3dbb77276ec37834653461e66e8}
-      \strng{fullhash}{b93002e8809cfb6cef3821c88ba3abc6}
-      \field{sortinit}{L}
-      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{{rrnDB: documenting the number of rRNA and tRNA genes in bacteria and archaea.}}
-      \field{title}{{rrnDB: documenting the number of rRNA and tRNA genes in bacteria and archaea.}}
-      \field{volume}{37}
-      \field{pages}{D489\bibrangedash 93}
-      \warn{\item Datamodel: Entry '18948294' (bibliography/biblio.bib): Invalid format '2009 Jan' of date field 'date' - ignoring}
-    \endentry
     \entry{Lu_2005}{article}{}
       \name{labelname}{1}{}{%
         {{hash=66b38f33aa2ed63e81a07a297c7f9815}{Lu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
@@ -1602,52 +1439,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1128/aem.68.11.5367-5373.2002
-      \endverb
-    \endentry
-    \entry{Mulyukin_2009}{article}{}
-      \name{labelname}{8}{}{%
-        {{hash=c68948d08cfdd6642dc8600e482ab1fb}{Mulyukin}{M\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=7e5a4eafa2a3f2dc32441f9c69f37dc4}{Demkina}{D\bibinitperiod}{E.\bibnamedelimi V.}{E\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-        {{hash=26e5c7eaa3fd07df98a236e4c91f5d2d}{Kryazhevskikh}{K\bibinitperiod}{N.\bibnamedelimi A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=aa314cacd073d51135cf1973f4e6ae24}{Suzina}{S\bibinitperiod}{N.\bibnamedelimi E.}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=20f18eda83cb2fc0169f05338b19240b}{Vorob'eva}{V\bibinitperiod}{L.\bibnamedelimi I.}{L\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=06e93d5cbebc428405d432e6e12ad136}{Duda}{D\bibinitperiod}{V.\bibnamedelimi I.}{V\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f4ed843588effc4d05f181901de5ef}{Galchenko}{G\bibinitperiod}{V.\bibnamedelimi F.}{V\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=5be6167a383c5cd6217fa4f8b7ea1172}{El-Registan}{E\bibinithyphendelim R\bibinitperiod}{G.\bibnamedelimi I.}{G\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{8}{}{%
-        {{hash=c68948d08cfdd6642dc8600e482ab1fb}{Mulyukin}{M\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=7e5a4eafa2a3f2dc32441f9c69f37dc4}{Demkina}{D\bibinitperiod}{E.\bibnamedelimi V.}{E\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-        {{hash=26e5c7eaa3fd07df98a236e4c91f5d2d}{Kryazhevskikh}{K\bibinitperiod}{N.\bibnamedelimi A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=aa314cacd073d51135cf1973f4e6ae24}{Suzina}{S\bibinitperiod}{N.\bibnamedelimi E.}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=20f18eda83cb2fc0169f05338b19240b}{Vorob'eva}{V\bibinitperiod}{L.\bibnamedelimi I.}{L\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=06e93d5cbebc428405d432e6e12ad136}{Duda}{D\bibinitperiod}{V.\bibnamedelimi I.}{V\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f4ed843588effc4d05f181901de5ef}{Galchenko}{G\bibinitperiod}{V.\bibnamedelimi F.}{V\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=5be6167a383c5cd6217fa4f8b7ea1172}{El-Registan}{E\bibinithyphendelim R\bibinitperiod}{G.\bibnamedelimi I.}{G\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Pleiades Publishing Ltd}%
-      }
-      \strng{namehash}{14c9bac201729a1b6a66683fd3011839}
-      \strng{fullhash}{fbd9cf167c36da48452f64a7d0fe9200}
-      \field{sortinit}{M}
-      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
-      \field{labelyear}{2009}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Dormant forms of Micrococcus luteus and Arthrobacter globiformis not platable on standard media}}
-      \field{journaltitle}{Microbiology}
-      \field{month}{08}
-      \field{number}{4}
-      \field{title}{{Dormant forms of Micrococcus luteus and Arthrobacter globiformis not platable on standard media}}
-      \field{volume}{78}
-      \field{year}{2009}
-      \field{pages}{407\bibrangedash 418}
-      \verb{doi}
-      \verb 10.1134/s0026261709040031
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1134/s0026261709040031
       \endverb
     \endentry
     \entry{Nannipieri_2003}{article}{}
@@ -2064,42 +1855,6 @@
       \verb http://dx.doi.org/10.7554/elife.01102
       \endverb
     \endentry
-    \entry{Rittershaus_2013}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=eb5d4969ee40546ec5f477d9ddd218ed}{Rittershaus}{R\bibinitperiod}{Emily\bibnamedelima S.C.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=9b9acbe5616a41d1b4a7532daca40be6}{Baek}{B\bibinitperiod}{Seung-Hun}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=212252da348e56988feb961c999e8322}{Sassetti}{S\bibinitperiod}{Christopher\bibnamedelima M.}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=eb5d4969ee40546ec5f477d9ddd218ed}{Rittershaus}{R\bibinitperiod}{Emily\bibnamedelima S.C.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=9b9acbe5616a41d1b4a7532daca40be6}{Baek}{B\bibinitperiod}{Seung-Hun}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=212252da348e56988feb961c999e8322}{Sassetti}{S\bibinitperiod}{Christopher\bibnamedelima M.}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier $\lbrace$BV$\rbrace$}%
-      }
-      \strng{namehash}{94014df51930eca5c2a6e629cb4622fb}
-      \strng{fullhash}{417e759b9e38fa7e91c01dc89873f405}
-      \field{sortinit}{R}
-      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
-      \field{labelyear}{2013}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The Normalcy of Dormancy: Common Themes in Microbial Quiescence}}
-      \field{journaltitle}{Cell Host {\&} Microbe}
-      \field{month}{06}
-      \field{number}{6}
-      \field{title}{{The Normalcy of Dormancy: Common Themes in Microbial Quiescence}}
-      \field{volume}{13}
-      \field{year}{2013}
-      \field{pages}{643\bibrangedash 651}
-      \verb{doi}
-      \verb 10.1016/j.chom.2013.05.012
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.chom.2013.05.012
-      \endverb
-    \endentry
     \entry{Rui_2009}{article}{}
       \name{labelname}{3}{}{%
         {{hash=d416ba6478f3312ece063b273b90d42f}{Rui}{R\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
@@ -2135,40 +1890,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1128/aem.00702-09
-      \endverb
-    \endentry
-    \entry{Sachidanandham_2008}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=26eb04f17b587869a7f9ab053ce107a7}{Sachidanandham}{S\bibinitperiod}{Ramaiah}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4e79fd75ff8ac4619372acedf06488f4}{Gin}{G\bibinitperiod}{Karina\bibnamedelima Yew-Hoong}{K\bibinitperiod\bibinitdelim Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=26eb04f17b587869a7f9ab053ce107a7}{Sachidanandham}{S\bibinitperiod}{Ramaiah}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4e79fd75ff8ac4619372acedf06488f4}{Gin}{G\bibinitperiod}{Karina\bibnamedelima Yew-Hoong}{K\bibinitperiod\bibinitdelim Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Science $\mathplus$ Business Media}%
-      }
-      \strng{namehash}{3fb745a61358d8147a9f166783197202}
-      \strng{fullhash}{3fb745a61358d8147a9f166783197202}
-      \field{sortinit}{S}
-      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
-      \field{labelyear}{2008}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{A dormancy state in nonspore-forming bacteria}}
-      \field{journaltitle}{Applied Microbiology and Biotechnology}
-      \field{month}{09}
-      \field{number}{5}
-      \field{title}{{A dormancy state in nonspore-forming bacteria}}
-      \field{volume}{81}
-      \field{year}{2008}
-      \field{pages}{927\bibrangedash 941}
-      \verb{doi}
-      \verb 10.1007/s00253-008-1712-y
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s00253-008-1712-y
       \endverb
     \endentry
     \entry{Schimel_1995}{incollection}{}
@@ -2390,40 +2111,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1890/08-0296.1
-      \endverb
-    \endentry
-    \entry{Tada_2013}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=e4b705497d40ff300e4f2de06aa6b963}{Tada}{T\bibinitperiod}{Yuya}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=f223567c19dd471b09502ff0682cc5b0}{Grossart}{G\bibinitperiod}{Hans-Peter}{H\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=e4b705497d40ff300e4f2de06aa6b963}{Tada}{T\bibinitperiod}{Yuya}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=f223567c19dd471b09502ff0682cc5b0}{Grossart}{G\bibinitperiod}{Hans-Peter}{H\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{9445ac94eedd278aacf5e9591f5b314c}
-      \strng{fullhash}{9445ac94eedd278aacf5e9591f5b314c}
-      \field{sortinit}{T}
-      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
-      \field{labelyear}{2013}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Community shifts of actively growing lake bacteria after N-acetyl-glucosamine addition: improving the $\lbrace$BrdU$\rbrace$-$\lbrace$FACS$\rbrace$ method}}
-      \field{journaltitle}{The $\lbrace$ISME$\rbrace$ Journal}
-      \field{month}{08}
-      \field{number}{2}
-      \field{title}{{Community shifts of actively growing lake bacteria after N-acetyl-glucosamine addition: improving the $\lbrace$BrdU$\rbrace$-$\lbrace$FACS$\rbrace$ method}}
-      \field{volume}{8}
-      \field{year}{2013}
-      \field{pages}{441\bibrangedash 454}
-      \verb{doi}
-      \verb 10.1038/ismej.2013.148
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/ismej.2013.148
       \endverb
     \endentry
     \entry{Tavernier_2008}{article}{}
@@ -3410,38 +3097,6 @@
       \verb http://dx.doi.org/10.1111/j.1365-2486.2005.01065.x
       \endverb
     \endentry
-    \entry{Finkel_2006}{article}{}
-      \name{labelname}{1}{}{%
-        {{hash=df393ea5b66d88070f2e573779fefc16}{Finkel}{F\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=df393ea5b66d88070f2e573779fefc16}{Finkel}{F\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{df393ea5b66d88070f2e573779fefc16}
-      \strng{fullhash}{df393ea5b66d88070f2e573779fefc16}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2006}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Long-term survival during stationary phase: evolution and the $\lbrace$GASP$\rbrace$ phenotype}}
-      \field{journaltitle}{Nat Rev Micro}
-      \field{month}{02}
-      \field{number}{2}
-      \field{title}{{Long-term survival during stationary phase: evolution and the $\lbrace$GASP$\rbrace$ phenotype}}
-      \field{volume}{4}
-      \field{year}{2006}
-      \field{pages}{113\bibrangedash 120}
-      \verb{doi}
-      \verb 10.1038/nrmicro1340
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/nrmicro1340
-      \endverb
-    \endentry
     \entry{Friedlingstein_2006}{article}{}
       \name{labelname}{29}{}{%
         {{hash=a13b5ee5ceb82975c813e667444a1e0b}{Friedlingstein}{F\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
@@ -3906,40 +3561,6 @@
       \verb http://dx.doi.org/10.1099/ijs.0.65474-0
       \endverb
     \endentry
-    \entry{Sachidanandham_2008}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=26eb04f17b587869a7f9ab053ce107a7}{Sachidanandham}{S\bibinitperiod}{Ramaiah}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4e79fd75ff8ac4619372acedf06488f4}{Gin}{G\bibinitperiod}{Karina\bibnamedelima Yew-Hoong}{K\bibinitperiod\bibinitdelim Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=26eb04f17b587869a7f9ab053ce107a7}{Sachidanandham}{S\bibinitperiod}{Ramaiah}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4e79fd75ff8ac4619372acedf06488f4}{Gin}{G\bibinitperiod}{Karina\bibnamedelima Yew-Hoong}{K\bibinitperiod\bibinitdelim Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Science $\mathplus$ Business Media}%
-      }
-      \strng{namehash}{3fb745a61358d8147a9f166783197202}
-      \strng{fullhash}{3fb745a61358d8147a9f166783197202}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2008}
-      \field{labelmonth}{09}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{A dormancy state in nonspore-forming bacteria}}
-      \field{journaltitle}{Applied Microbiology and Biotechnology}
-      \field{month}{09}
-      \field{number}{5}
-      \field{title}{{A dormancy state in nonspore-forming bacteria}}
-      \field{volume}{81}
-      \field{year}{2008}
-      \field{pages}{927\bibrangedash 941}
-      \verb{doi}
-      \verb 10.1007/s00253-008-1712-y
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s00253-008-1712-y
-      \endverb
-    \endentry
     \entry{Schneckenberger_2008}{article}{}
       \name{labelname}{4}{}{%
         {{hash=b123a2e59e6562b6d15e3f5c6c28ce4d}{Schneckenberger}{S\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
@@ -4014,52 +3635,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.2174/1874070700802010073
-      \endverb
-    \endentry
-    \entry{Mulyukin_2009}{article}{}
-      \name{labelname}{8}{}{%
-        {{hash=c68948d08cfdd6642dc8600e482ab1fb}{Mulyukin}{M\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=7e5a4eafa2a3f2dc32441f9c69f37dc4}{Demkina}{D\bibinitperiod}{E.\bibnamedelimi V.}{E\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-        {{hash=26e5c7eaa3fd07df98a236e4c91f5d2d}{Kryazhevskikh}{K\bibinitperiod}{N.\bibnamedelimi A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=aa314cacd073d51135cf1973f4e6ae24}{Suzina}{S\bibinitperiod}{N.\bibnamedelimi E.}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=20f18eda83cb2fc0169f05338b19240b}{Vorob'eva}{V\bibinitperiod}{L.\bibnamedelimi I.}{L\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=06e93d5cbebc428405d432e6e12ad136}{Duda}{D\bibinitperiod}{V.\bibnamedelimi I.}{V\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f4ed843588effc4d05f181901de5ef}{Galchenko}{G\bibinitperiod}{V.\bibnamedelimi F.}{V\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=5be6167a383c5cd6217fa4f8b7ea1172}{El-Registan}{E\bibinithyphendelim R\bibinitperiod}{G.\bibnamedelimi I.}{G\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{8}{}{%
-        {{hash=c68948d08cfdd6642dc8600e482ab1fb}{Mulyukin}{M\bibinitperiod}{A.\bibnamedelimi L.}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=7e5a4eafa2a3f2dc32441f9c69f37dc4}{Demkina}{D\bibinitperiod}{E.\bibnamedelimi V.}{E\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
-        {{hash=26e5c7eaa3fd07df98a236e4c91f5d2d}{Kryazhevskikh}{K\bibinitperiod}{N.\bibnamedelimi A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=aa314cacd073d51135cf1973f4e6ae24}{Suzina}{S\bibinitperiod}{N.\bibnamedelimi E.}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=20f18eda83cb2fc0169f05338b19240b}{Vorob'eva}{V\bibinitperiod}{L.\bibnamedelimi I.}{L\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=06e93d5cbebc428405d432e6e12ad136}{Duda}{D\bibinitperiod}{V.\bibnamedelimi I.}{V\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f4ed843588effc4d05f181901de5ef}{Galchenko}{G\bibinitperiod}{V.\bibnamedelimi F.}{V\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{hash=5be6167a383c5cd6217fa4f8b7ea1172}{El-Registan}{E\bibinithyphendelim R\bibinitperiod}{G.\bibnamedelimi I.}{G\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Pleiades Publishing Ltd}%
-      }
-      \strng{namehash}{14c9bac201729a1b6a66683fd3011839}
-      \strng{fullhash}{fbd9cf167c36da48452f64a7d0fe9200}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2009}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Dormant forms of Micrococcus luteus and Arthrobacter globiformis not platable on standard media}}
-      \field{journaltitle}{Microbiology}
-      \field{month}{08}
-      \field{number}{4}
-      \field{title}{{Dormant forms of Micrococcus luteus and Arthrobacter globiformis not platable on standard media}}
-      \field{volume}{78}
-      \field{year}{2009}
-      \field{pages}{407\bibrangedash 418}
-      \verb{doi}
-      \verb 10.1134/s0026261709040031
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1134/s0026261709040031
       \endverb
     \endentry
     \entry{Rui_2009}{article}{}
@@ -4336,49 +3911,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1038/nrmicro2367
-      \endverb
-    \endentry
-    \entry{Darcy_2011}{article}{}
-      \name{labelname}{5}{}{%
-        {{hash=a552069d6dbaac22245e48e43900c9dc}{Darcy}{D\bibinitperiod}{John\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{Lynch}{L\bibinitperiod}{Ryan\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=69a617c0830dbff0a485ac4eecc600ca}{King}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=cc2d68f5dd9863101d27adc609fb5531}{Robeson}{R\bibinitperiod}{Michael\bibnamedelima S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=136f09072d0d272d09bbc70de8177a5d}{Schmidt}{S\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{hash=a552069d6dbaac22245e48e43900c9dc}{Darcy}{D\bibinitperiod}{John\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{hash=31bcd6ee6ecba87912ab0bcdec907403}{Lynch}{L\bibinitperiod}{Ryan\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=69a617c0830dbff0a485ac4eecc600ca}{King}{K\bibinitperiod}{Andrew\bibnamedelima J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=cc2d68f5dd9863101d27adc609fb5531}{Robeson}{R\bibinitperiod}{Michael\bibnamedelima S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=136f09072d0d272d09bbc70de8177a5d}{Schmidt}{S\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=90a9bcdf8c207fad6616f4544446e89a}{L{\'{o}}pez-Garc{\'{\i}}a}{L\bibinithyphendelim G\bibinitperiod}{Purificaci{\'{o}}n}{P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Public Library of Science ($\lbrace$PLoS$\rbrace$)}%
-      }
-      \strng{namehash}{75f1436779ce8acf2a66b91ca34b8009}
-      \strng{fullhash}{150fe28d4de12df8838cfed2b28744c9}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2011}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Global Distribution of Polaromonas Phylotypes - Evidence for a Highly Successful Dispersal Capacity}}
-      \field{journaltitle}{$\lbrace$PLoS$\rbrace$ $\lbrace$ONE$\rbrace$}
-      \field{month}{08}
-      \field{number}{8}
-      \field{title}{{Global Distribution of Polaromonas Phylotypes - Evidence for a Highly Successful Dispersal Capacity}}
-      \field{volume}{6}
-      \field{year}{2011}
-      \field{pages}{e23742}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0023742
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1371/journal.pone.0023742
       \endverb
     \endentry
     \entry{Goldfarb_2011}{article}{}
@@ -4896,48 +4428,6 @@
       \verb http://dx.doi.org/10.1186/2049-2618-1-22
       \endverb
     \endentry
-    \entry{Lay_2013}{article}{}
-      \name{labelname}{6}{}{%
-        {{hash=d73e66355eb63954092b61a917a146c6}{Lay}{L\bibinitperiod}{C.-Y.}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=45a771adbc5b56b3e1306dbc2c7592b8}{Mykytczuk}{M\bibinitperiod}{N.\bibnamedelimi C.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=e51a9aaafe80c71efdd3a074c9a412aa}{Yergeau}{Y\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=2e10ad5bb3c1fc71182371c05e1fb521}{Lamarche-Gagnon}{L\bibinithyphendelim G\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6968390a02b8daf5dac807e59c3c58d9}{Greer}{G\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=00f9098fdbbf176a6b2174ebb11f654f}{Whyte}{W\bibinitperiod}{L.\bibnamedelimi G.}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{6}{}{%
-        {{hash=d73e66355eb63954092b61a917a146c6}{Lay}{L\bibinitperiod}{C.-Y.}{C\bibinithyphendelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=45a771adbc5b56b3e1306dbc2c7592b8}{Mykytczuk}{M\bibinitperiod}{N.\bibnamedelimi C.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=e51a9aaafe80c71efdd3a074c9a412aa}{Yergeau}{Y\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=2e10ad5bb3c1fc71182371c05e1fb521}{Lamarche-Gagnon}{L\bibinithyphendelim G\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6968390a02b8daf5dac807e59c3c58d9}{Greer}{G\bibinitperiod}{C.\bibnamedelimi W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=00f9098fdbbf176a6b2174ebb11f654f}{Whyte}{W\bibinitperiod}{L.\bibnamedelimi G.}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {American Society for Microbiology}%
-      }
-      \strng{namehash}{e241839b7bede0e699ec1d8d82195293}
-      \strng{fullhash}{896b3925528bbb86c809939377fb9ce0}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2013}
-      \field{labelmonth}{04}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Defining the Functional Potential and Active Community Members of a Sediment Microbial Community in a High-Arctic Hypersaline Subzero Spring}}
-      \field{journaltitle}{{Appl Environ Microbiol}}
-      \field{month}{04}
-      \field{number}{12}
-      \field{title}{{Defining the Functional Potential and Active Community Members of a Sediment Microbial Community in a High-Arctic Hypersaline Subzero Spring}}
-      \field{volume}{79}
-      \field{year}{2013}
-      \field{pages}{3637\bibrangedash 3648}
-      \verb{doi}
-      \verb 10.1128/aem.00153-13
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1128/aem.00153-13
-      \endverb
-    \endentry
     \entry{Parveen_2013}{article}{}
       \name{labelname}{5}{}{%
         {{hash=746b4839b2199e29f6d9c80f69c4714b}{Parveen}{P\bibinitperiod}{Bushra}{B\bibinitperiod}{}{}{}{}}%
@@ -5026,76 +4516,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.7554/elife.01102
-      \endverb
-    \endentry
-    \entry{Rittershaus_2013}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=eb5d4969ee40546ec5f477d9ddd218ed}{Rittershaus}{R\bibinitperiod}{Emily\bibnamedelima S.C.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=9b9acbe5616a41d1b4a7532daca40be6}{Baek}{B\bibinitperiod}{Seung-Hun}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=212252da348e56988feb961c999e8322}{Sassetti}{S\bibinitperiod}{Christopher\bibnamedelima M.}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=eb5d4969ee40546ec5f477d9ddd218ed}{Rittershaus}{R\bibinitperiod}{Emily\bibnamedelima S.C.}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=9b9acbe5616a41d1b4a7532daca40be6}{Baek}{B\bibinitperiod}{Seung-Hun}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
-        {{hash=212252da348e56988feb961c999e8322}{Sassetti}{S\bibinitperiod}{Christopher\bibnamedelima M.}{C\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier $\lbrace$BV$\rbrace$}%
-      }
-      \strng{namehash}{94014df51930eca5c2a6e629cb4622fb}
-      \strng{fullhash}{417e759b9e38fa7e91c01dc89873f405}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2013}
-      \field{labelmonth}{06}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{The Normalcy of Dormancy: Common Themes in Microbial Quiescence}}
-      \field{journaltitle}{Cell Host {\&} Microbe}
-      \field{month}{06}
-      \field{number}{6}
-      \field{title}{{The Normalcy of Dormancy: Common Themes in Microbial Quiescence}}
-      \field{volume}{13}
-      \field{year}{2013}
-      \field{pages}{643\bibrangedash 651}
-      \verb{doi}
-      \verb 10.1016/j.chom.2013.05.012
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1016/j.chom.2013.05.012
-      \endverb
-    \endentry
-    \entry{Tada_2013}{article}{}
-      \name{labelname}{2}{}{%
-        {{hash=e4b705497d40ff300e4f2de06aa6b963}{Tada}{T\bibinitperiod}{Yuya}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=f223567c19dd471b09502ff0682cc5b0}{Grossart}{G\bibinitperiod}{Hans-Peter}{H\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{2}{}{%
-        {{hash=e4b705497d40ff300e4f2de06aa6b963}{Tada}{T\bibinitperiod}{Yuya}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=f223567c19dd471b09502ff0682cc5b0}{Grossart}{G\bibinitperiod}{Hans-Peter}{H\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{9445ac94eedd278aacf5e9591f5b314c}
-      \strng{fullhash}{9445ac94eedd278aacf5e9591f5b314c}
-      \field{sortinit}{2}
-      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
-      \field{labelyear}{2013}
-      \field{labelmonth}{08}
-      \field{datelabelsource}{}
-      \field{labeltitle}{{Community shifts of actively growing lake bacteria after N-acetyl-glucosamine addition: improving the $\lbrace$BrdU$\rbrace$-$\lbrace$FACS$\rbrace$ method}}
-      \field{journaltitle}{The $\lbrace$ISME$\rbrace$ Journal}
-      \field{month}{08}
-      \field{number}{2}
-      \field{title}{{Community shifts of actively growing lake bacteria after N-acetyl-glucosamine addition: improving the $\lbrace$BrdU$\rbrace$-$\lbrace$FACS$\rbrace$ method}}
-      \field{volume}{8}
-      \field{year}{2013}
-      \field{pages}{441\bibrangedash 454}
-      \verb{doi}
-      \verb 10.1038/ismej.2013.148
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/ismej.2013.148
       \endverb
     \endentry
     \entry{Soo_2014}{article}{}
@@ -5188,52 +4608,6 @@
       \field{volume}{65}
       \field{pages}{5042\bibrangedash 9}
       \warn{\item Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring}
-    \endentry
-    \entry{11125085}{article}{}
-      \name{labelname}{4}{}{%
-        {{hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{4}{}{%
-        {{hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{99c85077ca2afe32b9f81860effd1d90}
-      \strng{fullhash}{858aafdef6923f4cf4f8d076b7b83de7}
-      \field{sortinit}{9}
-      \field{sortinithash}{b3f47cb880e317e036058bc3e99111c5}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
-      \field{title}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
-      \field{volume}{29}
-      \field{pages}{181\bibrangedash 4}
-      \warn{\item Datamodel: Entry '11125085' (bibliography/biblio.bib): Invalid format '2001 Jan 1' of date field 'date' - ignoring}
-    \endentry
-    \entry{18948294}{article}{}
-      \name{labelname}{3}{}{%
-        {{hash=1afba83478a5c782b7c551177b334c03}{Lee}{L\bibinitperiod}{ZM}{Z\bibinitperiod}{}{}{}{}}%
-        {{hash=e673f1138f52a81fead66c93a7584236}{Bussema}{B\bibinitperiod}{C\bibnamedelima 3rd}{C\bibinitperiod\bibinitdelim 3\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=1afba83478a5c782b7c551177b334c03}{Lee}{L\bibinitperiod}{ZM}{Z\bibinitperiod}{}{}{}{}}%
-        {{hash=e673f1138f52a81fead66c93a7584236}{Bussema}{B\bibinitperiod}{C\bibnamedelima 3rd}{C\bibinitperiod\bibinitdelim 3\bibinitperiod}{}{}{}{}}%
-        {{hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{24efa3dbb77276ec37834653461e66e8}
-      \strng{fullhash}{b93002e8809cfb6cef3821c88ba3abc6}
-      \field{sortinit}{9}
-      \field{sortinithash}{b3f47cb880e317e036058bc3e99111c5}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{{rrnDB: documenting the number of rRNA and tRNA genes in bacteria and archaea.}}
-      \field{title}{{rrnDB: documenting the number of rRNA and tRNA genes in bacteria and archaea.}}
-      \field{volume}{37}
-      \field{pages}{D489\bibrangedash 93}
-      \warn{\item Datamodel: Entry '18948294' (bibliography/biblio.bib): Invalid format '2009 Jan' of date field 'date' - ignoring}
     \endentry
   \endsortlist
 \endrefsection

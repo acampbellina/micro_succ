@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  19 NOV 2014 15:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  20 NOV 2014 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -994,18 +994,6 @@ lformed, skipping.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '11125085':
-(biblatex)                - Datamodel: Entry '11125085' (bibliography/biblio.bi
-b): Invalid format '2001 Jan 1' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '18948294':
-(biblatex)                - Datamodel: Entry '18948294' (bibliography/biblio.bi
-b): Invalid format '2009 Jan' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Herlemann_2013':
 (biblatex)                - Range field 'pages' in entry 'Herlemann_2013' is ma
 lformed, skipping.
@@ -1015,18 +1003,6 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                with '10543821':
 (biblatex)                - Datamodel: Entry '10543821' (bibliography/biblio.bi
 b): Invalid format '1999 Nov' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '11125085':
-(biblatex)                - Datamodel: Entry '11125085' (bibliography/biblio.bi
-b): Invalid format '2001 Jan 1' of date field 'date' - ignoring.
-
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with '18948294':
-(biblatex)                - Datamodel: Entry '18948294' (bibliography/biblio.bi
-b): Invalid format '2009 Jan' of date field 'date' - ignoring.
 
 )
 Package biblatex Info: Reference section=0 on input line 2.
@@ -1086,53 +1062,53 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 23.
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 80--91
+Underfull \hbox (badness 6268) in paragraph at lines 81--92
 \T1/phv/m/n/9 dy-namic lifestyles rang-ing from anoxy-genic pho-totropy to
  []
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 122.
+(hyperref)                removing `math shift' on input line 124.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 122.
+(hyperref)                removing `superscript' on input line 124.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 122.
+(hyperref)                removing `math shift' on input line 124.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 186.
+(hyperref)                removing `math shift' on input line 172.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 186.
+(hyperref)                removing `superscript' on input line 172.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 186.
+(hyperref)                removing `math shift' on input line 172.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 187.
+(hyperref)                removing `math shift' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 187.
+(hyperref)                removing `superscript' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 187.
+(hyperref)                removing `math shift' on input line 173.
 
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 187.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 173.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 187.
+(Font)              scaled to size 8.54997pt on input line 173.
 [3] [4]) (./Methods.tex) [5] [6] [7] (./figures.tex
-<figures/ordination_all1/ordination_all1.png, id=291, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all1.png, id=270, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all1.png Graphic file (type png)
 
 <use figures/ordination_all1/ordination_all1.png>
@@ -1143,7 +1119,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 5.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=293, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=272, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -1151,7 +1127,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 11.
 (pdftex.def)             Requested size: 510.0pt x 350.45854pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/bacteria_tree/bacteria_tree.pdf, id=294, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=273, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1163,7 +1139,7 @@ line 18.
 
 LaTeX Warning: Float too large for page by 29.01045pt on input line 21.
 
-<figures/shift_and_rabund2/shift_and_rabund.pdf, id=295, 794.97pt x 289.08pt>
+<figures/shift_and_rabund2/shift_and_rabund.pdf, id=274, 794.97pt x 289.08pt>
 File: figures/shift_and_rabund2/shift_and_rabund.pdf Graphic file (type pdf)
 
 <use figures/shift_and_rabund2/shift_and_rabund.pdf>
@@ -1172,13 +1148,23 @@ Package pdftex.def Info: figures/shift_and_rabund2/shift_and_rabund.pdf used on
 (pdftex.def)             Requested size: 510.0pt x 185.46048pt.
 
 (./figures/shift_and_rabund2/caption.tex)
-(./figures/shift_and_rabund2/caption.tex))
+(./figures/shift_and_rabund2/caption.tex)
+<figures/copy_number/copy_number.pdf, id=275, 650.43pt x 289.08pt>
+File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
+
+<use figures/copy_number/copy_number.pdf>
+Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
+ 32.
+(pdftex.def)             Requested size: 510.0pt x 226.67245pt.
+ (./figures/copy_number/caption.tex))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
- [8] [9 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/l2
-fc_fig.pdf>] [10 <./figures/bacteria_tree/bacteria_tree.pdf>] [11 <./figures/sh
-ift_and_rabund2/shift_and_rabund.pdf>]
+
+[8] [9 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/l2f
+c_fig.pdf>] [10 <./figures/bacteria_tree/bacteria_tree.pdf>] [11 <./figures/shi
+ft_and_rabund2/shift_and_rabund.pdf> <./figures/copy_number/copy_number.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
- (./full_paper.aux)
+
+(./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
@@ -1188,13 +1174,13 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17730 strings out of 493485
- 288321 string characters out of 3143526
- 768516 words of memory out of 3000000
- 20640 multiletter control sequences out of 15000+200000
+ 17703 strings out of 493485
+ 288004 string characters out of 3143526
+ 768388 words of memory out of 3000000
+ 20617 multiletter control sequences out of 15000+200000
  38640 words of font info for 70 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 52i,11n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,11n,57p,2059b,1184s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
@@ -1209,10 +1195,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (11 pages, 1753801 bytes).
+Output written on full_paper.pdf (11 pages, 1765556 bytes).
 PDF statistics:
- 5031 PDF objects out of 5155 (max. 8388607)
- 390 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5022 PDF objects out of 5155 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 

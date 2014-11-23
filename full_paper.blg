@@ -1,29 +1,29 @@
-[1] Config.pm:320> INFO - This is Biber 1.9
-[1] Config.pm:323> INFO - Logfile is 'full_paper.blg'
-[62] biber:277> INFO - === Thu Nov 20, 2014, 13:03:27
-[63] Biber.pm:333> INFO - Reading 'full_paper.bcf'
-[210] Biber.pm:635> INFO - Found 61 citekeys in bib section 0
-[250] Biber.pm:3051> INFO - Processing section 0
-[282] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
-[307] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[338] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography/biblio.bib'
-[509] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
-[514] Utils.pm:144> WARN - Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring
-[797] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
-[797] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
-[797] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
-[1766] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1766] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1766] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[1767] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[2955] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2955] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2955] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
-[2956] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[3326] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
-[3346] Utils.pm:144> WARN - The entry 'Gilbert_2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3367] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3407] Utils.pm:144> WARN - The entry 'Gilbert_2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3422] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3426] bbl.pm:606> INFO - Output to full_paper.bbl
-[3427] Biber.pm:106> INFO - WARNINGS: 9
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'full_paper.blg'
+[26] biber:277> INFO - === Sun Nov 23, 2014, 17:29:45
+[26] Biber.pm:333> INFO - Reading 'full_paper.bcf'
+[89] Biber.pm:635> INFO - Found 61 citekeys in bib section 0
+[107] Biber.pm:3051> INFO - Processing section 0
+[121] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
+[132] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[146] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography/biblio.bib'
+[219] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
+[221] Utils.pm:144> WARN - Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring
+[323] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
+[323] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
+[323] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
+[732] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[732] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[732] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[732] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[1242] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1242] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1243] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
+[1243] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[1400] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
+[1409] Utils.pm:144> WARN - The entry 'Gilbert_2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1418] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1435] Utils.pm:144> WARN - The entry 'Gilbert_2010' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1443] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1444] bbl.pm:606> INFO - Output to full_paper.bbl
+[1444] Biber.pm:106> INFO - WARNINGS: 9

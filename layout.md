@@ -12,3 +12,4 @@ figures/shift_and_rabund2/shift_and_rabund.png
 figures/bacteria_tree/bacteria_tree.png
 figures/copy_number/copy_number.png
 figures/all_rspndr_bar/all_rspndr_bar.png
+figures/bulk_ordination/bulk_ordination.png

@@ -25,16 +25,16 @@ fractions of $^{13}$C-xylose and $^{13}$C-cellulose samples vary from
 corresponding controls and from each other, indicating that the substrates were
 assimilated by different members of the  microbial community.
 Analysis of 16S rRNA gene surveys has greatly benefitted from utilizing
-conventional methods for data exploratoration in ecology such as ordination CITE. 
+conventional methods for data exploratoration in ecology such as ordination \citep{Lozupone_2008}. 
 Recently, 16S rRNA gene profiles in CsCl gradient fractions have been surveyed
-with NGS technology (CITE Conrad and Neufeld) and the gradient 16S rRNA 
-phylogenetic profiles explored via ordination. Ordination of CsCl gradient fraction
+with high-throughpur DNA sequencing technology and the gradient 16S rRNA 
+phylogenetic profiles explored via ordination \citep{Angel_2013, Verastegui_2014}. Ordination of CsCl gradient fraction
 phylogenetic profiles has reveled the relative influence of buoyant density and 
-soil type on gradient fraction phylogenetic profile variance CITE. However, ordination
+soil type on gradient fraction phylogenetic profile variance. However, ordination
 has not been used to demonstrate isotope incorporation into DNA which requires careful
 comparisons between control and labeled gradients over the same buoyant density range. By
 sequencing all CsCl gradient fractions from both control and labeled gradients, we can 
-observe when--as in at want time point during incubation--as well as \text{where}--as in
+observe when--as in at want time point during incubation--as well as \textit{where}--as in
 at what buoyant densities along the CsCl gradients--does isotope incorporation signal 
 becomes apparent (Figure~\ref{fig:ord}). Specifically, $^{13}$C incorporation from xylose
 and cellulose is most apparent at days 1/3/7 and days 14/30, respectively 
@@ -198,18 +198,22 @@ share high sequence identities with canonical soil genera including
 \textit{Micrococcales} order. One $^{13}$C-xylose responding
 \textit{Actinobacteria} OTU shares 100\% seqeunce identity with
 \textit{Agromyces ramosus} (Table~XX).  \textit{Agromyces ramosus} is a known
-predatotry bacterium CITE but is not dependent on a host for growth in culture
-CITE. It is not possible to determine the specific origin of assimilated
+predatotry bacterium but is not dependent on a host for growth in culture
+\citep{16346402}. It is not possible to determine the specific origin of assimilated
 $^{13}$C in a DNA-SIP experiment. The isotopically labeled C can be passed down
-through trophic levels CITE. It's possible that the $^{13}$C labeled
-\textit{Agromyces} OTU assimilating $^{13}$C by predataion on alreadly $^{13}$C
-labeled OTUs.
+through trophic levels CITE although isotope incorporation via cross-feeding or predatory
+interactions would decrease with depth into the trohpic cascade unless the the predator or 
+cross feeder is assimilating C exlusively from responders to the originally labeled substrate. It's possible, however, that the $^{13}$C labeled
+\textit{Agromyces} OTU is assimilating $^{13}$C primarily by predatation if \textit{Agromyces} is selective enough with respect to its prey such that it primarily attacked $^{13}$C-xylose assimilating organisms.
 
 \subsection{Cellulose degrader DNA exhibits greater bouyant density shifts upon
 $^{13}$C incorporation than xylose degrader DNA} 
 Cellulose responders exhibited a greater shift in BD (i.e. assimilated more
 $^{13}$C per unit DNA) than xylose responders in response to isotope
-incorporation (Figure~XX).  DNA buoyant density increases as it incorporates
+incorporation (Figure~XX, p-value XXXX). Cellulose responders exhibited an average shift of 
+XXXX (sd XXXX) whereas xylose responders exhibited an average shift of XXXX (sd XXXX).
+One hundred percent $^{13}$C DNA has a buoyant density X.XX g/mL higher than
+its $^{12}$C counterpart. DNA buoyant density increases as it incorporates
 more $^{13}$C carbons. An organism that only assimilates C into DNA from a
 $^{13}$C isotopically labeled source, will have a greater $^{13}$C:$^{12}$C
 ratio in its DNA than an organism utilizing a mixture of isotopically labeled
@@ -219,7 +223,18 @@ to its original $^{12}$C-DNA position than the DNA buoyant density shift from
 an organism that doesn't exclusively utilize isotopically labeled C. Therefore
 DNA buoyant density shifts (labeled versus unlabeled DNA) indicate substrate
 specificity.  We measured density shift as the change in an OTU's density
-profile center of mass between corresponding contol and labeled gradients.
+profile center of mass between corresponding contol and labeled gradients. Density
+shifts, however, should not be evaluated on an individual OTU basis as a small
+number of density shifts are observed for each OTU and the variance of the density
+shift metric at the level of individual OTUs is unknown. It is therefore more
+informative to compare density shifts among substrate responder groups. Further, density
+shifts are based on relative abundance profiles and would be theoretically muted in comparison to
+density shifts based on absolute abundance profiles and should be interpreted with this
+transformation in mind. It should
+also be noted that there was overlap in observed density shifts between $^{13}$C-cellulose
+and $^{13}$C-xylose responder groups suggesting that although the general signal suggests
+cellulose degraders are more substrate specific than xylose utilizers, some cellulose degraders
+show less substrate specificity for cellulose than some xylose utilizers for xylose (Figure~XX), and, each responder group exhibits a range of substrate specificites (Figure~XX).
 
 A density profile for each responder is generated for the experimental and
 control treatment at each of the sampling time points using relative abundances
@@ -238,7 +253,7 @@ genome and and day of first response are correlated (p-value,
 Figure~\ref{fig:copy}). $^{13}$C-xylose responder rRNA operon geneome copy
 number is inversely related to time; that is, OTUs that first respond at later
 time points have fewer estimated rRNA operons per genome than OTUs that first
-respond earlier. rRNA operon copy number estimation is a recent advance in
+respond earlier (Figure~XX). rRNA operon copy number estimation is a recent advance in
 microbiome science \citep{Kembel_2012} and the relationship of rRNA operon copy
 number per genome with ecological strategy is well established
 \citep{Klappenbach_2000}. Specifically, microorganisms with a high number of
@@ -253,160 +268,17 @@ Further, $^{13}$C-xylose responders have fewer estimated rRNA operon copy
 numbers per genome than $^{13}$C-cellulose responders suggesting xylose
 respiring mircrobes are generally faster growers than cellulose degraders.
 
+\subsection{Xylose responders are more abundant in the soil community than cellulose
+responders}
+$^{13}$C-xylose responders are generally more abundant members based on relative abundance in bulk DNA SSU rRNA gene content than $^{13}$C-cellulose responders (Figure~XX, p-value).
+However, both $^{13}$C-xylose and $^{13}$C-cellulose responders were found in abundant and 
+rare OTUs (Figure~XX). For instance, a \textit{Delftia} $^{13}$C-cellulose responder is fairly
+abundant in the bulk samples ("OTU.5", Table~XX) with a mean bulk rank of 13 (\textit{i.e.} 
+on average the 13th most abundant OTU) and a $^{13}$C-xylose responder ("OTU.1040, Table~XX) has
+a mean abundance in bulk relative abundance in samples of 2.85e$^{-05}$. Only one substrate
+responder ($^{13}$C-cellulose) was not found in any bulk samples ("OTU.862", Table~XX). Of the top 10 responders sorted by descending mean rank (essentially the 10 most abundandant responders
+in the bulk samples), 8 are $^{13}$C-xylose responders and 5 of these 8 have mean ranks less than
+10 in bulk samples.
 
 \subsection{Variation in bulk soil DNA microbial community structure is significantly less
 than variation in gradient fractions} 
-\subsection{Temporal dynamics of C-assimilation in soil.}  
-The $^{13}$C-incorporation reveals temporal dynamics of C degradation
-demonstrated by $^{13}$C-xylose incorporation at days 1, 3, and 7 and
-$^{13}$C-cellulose incorporation at days 14 and 30, as expected
-\citep{Amelung_2008}. The microbial community changed significantly (pval) with
-time in the bulk community supporting the temporal dynamics observed in the
-gradient fraction amplicons . Although within a single time point, the bulk
-community demonstrated no significant difference between treatments. 
-
-'Heavy' fraction amplicon pools from samples that received $^{13}$C-xylose
-diverged from corresponding controls on days 1 through 7 . Furthermore,
-amplicon pool composition varied across these days indicating dynamic changes
-in $^{13}$C-xylose assimilation with time. At days 14 and 30 heavy fractions
-from $^{13}$C-xylose labeled samples are no longer differentiated from
-corresponding controls indicating that $^{13}$C is no longer detectable in DNA.
-The decline in $^{13}$C-labelling of DNA is likely due to isotopic dilution
-resulting from assimilation of unlabeled C and/or due to cell turnover
-resulting from mortality. 
-
-$^{13}$C-cellulose incorporation isn't detected until day 14 and amplicon
-composition is consistent for both days 14 and 30.
-
-There were 6 shared responders among all unique responders identified in both
-the xylose and cellulose treatments (n = 72); Stenotrophomonas, Planctomyces,
-two Rhizobiaceae, Comamonadaceae, and Cellvibrio. Of these, Stenotrophomonas
-and Comamonadaceae are the only taxa that are among the top ten l2fc responses
-measured in both treatments. On the other hand, the only shared responder that
-is not among the top ten responders for either the cellulose or xylose
-treatment is Rhizobiaceae. Two of the shared responders corresponded in time
-between the two treatments
-
-Most xylose responders are found at higher rank abundances than cellulose
-responders (0.01 \textless \textit{p} \textless 0.05), which fall among the
-rarer taxa in the tail of the RA curve (Fig 3B). This demonstrates that many
-taxa important to cellulose cycling are present in the rarer fraction of the
-overall microbial community. Yet, the transitions in abundances of responders
-is difficult to discern in the bulk community abundances or may not be detected
-with bulk community sequencing efforts. For example, the increase in
-Bacteroidetes in the xylose treatment at d3 is not observed in the bulk
-community abundances. Other instances may result in subtle changes in bulk
-community abundance that would be difficult to differentiate from natural
-variation or methodological noise.
-
-\textbf{Patterns of carbon use vary dramatically within phylum.} Dynamic
-patterns of $^{13}$C-assimilation from xylose and cellulose occur at discrete,
-fine-scale taxonomic units . Responders for xylose and cellulose are widespread
-across 6 and 7 phyla, respectively . There are 5 phyla containing responders
-for both treatments; of all the responder OTUS detected within those phyla for
-either xylose or cellulose, there are only six OTUs that respond to both xylose
-and cellulose (discussed previously). This result suggests that phyla do not
-represent coherent ecological units with respect to the soil C-cycle, that is,
-taxa within phyla exhibit differences in substrate use, level of substrate
-specialization, and dynamics of incorporation. 
-
-In this study, we have identified Actinobacteria responders for both substrates
-. Although there were no shared Actinobacteria OTUs that responded to both
-xylose (Microbacteriaceae, Micrococcaceae, Cellulomonadaceae, Nakamurellaceae,
-Promicromonosporaceae, and Geodermatophilaceae) and cellulose
-(Streptomycetaceae and Pseudonocardiaceae). This information may suggest that
-while Actinobacteria exhibit an ability to utilize an array of carbon
-substrates, substrate use may be more clade specific and not widespread
-throughout the phylum . Similarly, Bacteroidetes responders were identified for
-both substrates, yet, at a finer taxonomic resolution there is a clear
-differential response for xylose (Flavobacteriaceae and Chitinophagaceae) and
-cellulose (Cytophagaceae). 
-
-Whole phylum responses were not detected for xylose or cellulose yet
-utilization of these substrates spanned many phylogenetically diverse groups.
-Within each phylum we observed substrate utilization at the clade or single
-taxa level with each exhibiting a unique pattern of $^{13}$C-assimilation over
-time. It has previously been suggested that all taxa within a phylum are
-unlikely to share ecological characteristics \citep{Fierer_2007}, and
-furthermore, within a species population
-\citep{Choudoir_2012,Preheim_2011,Hunt_2008}. Habitat traits of coastal Vibrio
-isolates were mapped onto microbial phylogeny revealing discrete ecological
-populations based on seasonal occurrence and particulate size fractionation
-\citep{Preheim_2011,Hunt_2008}. Yet, it has been proposed that the microbial
-community functionality responsible for soil C cycling appear at the level of
-phlya rather than species/genera \citep{Schimel_2012}. The traditional phylum
-level assignment conventions could in part be due to limitations in finer scale
-taxonomic identifications or methodological limitations (\textit{i.e.}
-sequencing depth). Our data in concert with others
-\citep{Goldfarb_2011,Fierer_2007,Choudoir_2012,Preheim_2011,Hunt_2008} would
-suggest that assigning substrate utilization of a few OTUs or clades as a
-phylum level response is not accurate.
-
-\textbf{Conclusions.} We have demonstrated how next generation
-sequencing-enabled SIP gives an OTU level resolution for substrate utilization.
-Using this technique, we are able to resolve discrete OTUs that would otherwise
-be missed using bulk community sequencing efforts. Additionally, this technique
-provides greater taxonomic resolution than previous techniques (cloning, TRFLP,
-ARISA) used to determine substrate utilizing community members. While we are
-currently able to resolve highly responsive OTUs, there is still a need to
-resolve taxa that are partially responsive which we cannot differentiate from
-noise with confidence at this time. Although, if we could identify partially
-responsive taxa, their contributions to the C-cycle would still be difficult to
-discern. For example, a generalist utilizing many substrates including $^{12}$C
-substrates and the $^{13}$C-labeled substrate may exhibit the same partial
-labeling that a specialist utilizing both the $^{13}$C-substrate and the same
-substrate (unlabeled) that is inherent in the soil. Additionally, partially
-labeled taxa could be further down the trophic cascade including predators or
-secondary consumers of waste products from primary consumer microbes that were
-highly labeled.   
-
-OTUs that assimilate xylose and those that assimilate cellulose are largely
-mutually exclusive. Those OTUs that assimilate xylose are labeled within 1-7
-days, while those that assimilate cellulose are labeled primarily after 2-4
-weeks. The xylose responders demonstrate a smaller change in BD than the
-cellulose responders suggesting that xylose responders assimilate multiple C
-sources (labeled and unlabeled) consistent with a generalist response, while
-cellulose responders are more heavily labeled suggesting that cellulose is
-their main source of C, a response more consistent with a specialist lifestyle.
-Xylose responders include many taxa, such as spore-fomers, known for the
-ability to respond rapidly to an influx of new nutrients while cellulose
-responders include many OTUs that are common uncultivated soil organisms.
-Finally, xylose responders are more abundant in the community while cellulose
-responders are, on average, more rare as indicated by their rank abundance
-within the soil community. These results indicate that different bacteria in
-soil have distinct physiological and ecological responses which govern their
-interactions with soil C pools. 
-
-We did not observe consistent C utilization at the phylum level although both
-xylose and cellulose utilization were observed across 7 phyla each revealing a
-high diversity of bacteria able to utilize these substrates. The high taxonomic
-diversity may enable substrate metabolism under a broad range of environmental
-conditions \citep{Goldfarb_2011}. Other studies of microbial communities have
-observed a positive correlation with taxonomic or phylogenetic diversity and
-functional diversity
-\citep{Fierer_2012,Fierer_2013,Philippot_2010,Tringe_2005,Gilbert_2010,Bryant_2012}.
-The data presented here supports that specific functional attributes can be
-shared among diverse, yet distinct, taxa while closely related taxa may have
-very different physiologies \citep{Fierer_2012,Philippot_2010}. This
-information adds to the growing collection of data suggesting that community
-membership is important to biogeochemical processes. Furthermore, it highlights
-a need to examine substrate utilization by discrete microbial taxa within a
-whole community context to better understand how specific community members
-function within the whole. 
-
-The sensitivity of SIP-NGS provides a means to elucidate substrate utilization
-by discrete microbial taxa with the hope that we can begin to construct a
-belowground C food web. We obtained enough information to conclusively
-determine isotope incorporation for 61\% of the more than 6,000 OTUs detected.
-For those OTUs with enough information (n = 3,825), approximately 2\% (n = 72)
-significantly assimilated $^{13}$C from either xylose or cellulose. In the
-future deeper sequencing will enable us to increase coverage and assess C use
-by more community members. Using the informations we gain from SIP-NGS, we can
-expand our knowledge of specific C-cycling OTUs by taking a targeted
-metagenomic approach in the nucleic acid pools of 'heavy' fractions.
-Furthermore, we can now expand our knowledge of soil C use dynamics to a wide
-array of C substrates and increase our grasp on specific community member
-contributions. Illuminating these microbial contributions associated with
-decomposition in soil are important because as environments change, there are
-measurable and functional changes in soil C \citep{Grandy_2008} which could
-cumulatively have large impacts at a global scale.

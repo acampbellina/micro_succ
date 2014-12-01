@@ -1,0 +1,5 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'full_paper.tex.blg'
+[25] biber:277> INFO - === Mon Dec  1, 2014, 10:23:11
+[61] Utils.pm:160> ERROR - Cannot find control file 'full_paper.tex.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[61] Biber.pm:110> INFO - ERRORS: 1

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  1 DEC 2014 16:04
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  1 DEC 2014 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,73 +1115,73 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]) (./Results.tex
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 10.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 25.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 21.
+(hyperref)                removing `math shift' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 21.
+(hyperref)                removing `superscript' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 21.
+(hyperref)                removing `math shift' on input line 25.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 51.
+(hyperref)                removing `math shift' on input line 55.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 51.
+(hyperref)                removing `superscript' on input line 55.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 51.
+(hyperref)                removing `math shift' on input line 55.
 
 [2]
-Underfull \hbox (badness 6268) in paragraph at lines 113--124
+Underfull \hbox (badness 6268) in paragraph at lines 117--128
 \T1/phv/m/n/9 dy-namic lifestyles rang-ing from anoxy-genic pho-totropy to
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 159.
+(hyperref)                removing `math shift' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 159.
+(hyperref)                removing `superscript' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 159.
+(hyperref)                removing `math shift' on input line 163.
+
+[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 217.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 211.
+(hyperref)                removing `superscript' on input line 217.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 211.
+(hyperref)                removing `math shift' on input line 217.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 211.
-
-[3]) (./Methods.tex [4])
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 10.
- [5] [6] (./figures.tex
-<figures/ordination_all1/ordination_all1.png, id=252, 1156.32pt x 433.62pt>
+) (./Methods.tex [4]) [5] [6] (./figures.tex
+<figures/ordination_all1/ordination_all1.png, id=258, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all1.png Graphic file (type png)
 
 <use figures/ordination_all1/ordination_all1.png>
@@ -1192,7 +1192,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 5.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=254, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=260, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -1200,13 +1200,13 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 11.
 (pdftex.def)             Requested size: 510.0pt x 350.45854pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=255, 289.08pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=261, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
 n input line 18.
-(pdftex.def)             Requested size: 510.0pt x 765.03941pt.
+(pdftex.def)             Requested size: 510.0pt x 1020.13196pt.
 
 (./figures/xylose_rspndr_bar/caption.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
@@ -1215,9 +1215,9 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 1.
 )
 
-LaTeX Warning: Float too large for page by 112.63945pt on input line 21.
+LaTeX Warning: Float too large for page by 367.732pt on input line 21.
 
-<figures/bacteria_tree/bacteria_tree.pdf, id=256, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=262, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1229,7 +1229,7 @@ line 25.
 
 LaTeX Warning: Float too large for page by 29.01045pt on input line 28.
 
-<figures/shift_and_rabund2/shift_and_rabund.pdf, id=257, 794.97pt x 289.08pt>
+<figures/shift_and_rabund2/shift_and_rabund.pdf, id=263, 794.97pt x 289.08pt>
 File: figures/shift_and_rabund2/shift_and_rabund.pdf Graphic file (type pdf)
 
 <use figures/shift_and_rabund2/shift_and_rabund.pdf>
@@ -1239,7 +1239,7 @@ Package pdftex.def Info: figures/shift_and_rabund2/shift_and_rabund.pdf used on
 
 (./figures/shift_and_rabund2/caption.tex)
 (./figures/shift_and_rabund2/caption.tex)
-<figures/copy_number/copy_number.pdf, id=258, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=264, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -1247,7 +1247,110 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  39.
 (pdftex.def)             Requested size: 510.0pt x 226.67245pt.
  (./figures/copy_number/caption.tex)
-(./table_xyl.tex
+<figures/bulk_ordination/bulk_ordination.pdf, id=265, 939.51pt x 361.35pt>
+File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
+
+<use figures/bulk_ordination/bulk_ordination.pdf>
+Package pdftex.def Info: figures/bulk_ordination/bulk_ordination.pdf used on in
+put line 46.
+(pdftex.def)             Requested size: 510.0pt x 196.15164pt.
+
+(./figures/bulk_ordination/caption.tex) (./table_cellulose.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|[]\T1/phv/m/n/9 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|[]\T1/phv/m/n/9 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 61--61
+[]\T1/phv/m/n/9 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|[]\T1/phv/m/n/9 , [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]\T1/phv/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|[]\T1/phv/m/n/9 ,
+ []
+
+[7]) (./table_xyl.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|[]\T1/phv/m/n/9 ,
  []
@@ -1372,110 +1475,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 []|[]\T1/phv/m/n/9 , [],
  []
 
-[7]) (./table_cellulose.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 61--61
-[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|[]\T1/phv/m/n/9 ,
- []
-
 [8] [9]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
  [10] [11 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/
 l2fc_fig.pdf>] [12 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [13 <./
 figures/bacteria_tree/bacteria_tree.pdf>] [14 <./figures/shift_and_rabund2/shif
-t_and_rabund.pdf> <./figures/copy_number/copy_number.pdf>]
+t_and_rabund.pdf> <./figures/copy_number/copy_number.pdf>] [15 <./figures/bulk_
+ordination/bulk_ordination.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
-
-(./full_paper.aux)
+ (./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
@@ -1485,10 +1493,10 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17886 strings out of 493485
- 290448 string characters out of 3143526
- 795949 words of memory out of 3000000
- 20774 multiletter control sequences out of 15000+200000
+ 17901 strings out of 493485
+ 290851 string characters out of 3143526
+ 791034 words of memory out of 3000000
+ 20782 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  52i,10n,57p,2059b,1184s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1506,10 +1514,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (14 pages, 1774920 bytes).
+Output written on full_paper.pdf (15 pages, 1792605 bytes).
 PDF statistics:
- 5027 PDF objects out of 5155 (max. 8388607)
- 379 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5049 PDF objects out of 5155 (max. 8388607)
+ 398 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

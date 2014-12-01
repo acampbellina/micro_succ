@@ -2145,14 +2145,15 @@
     <bcf:citekey order="42">Kembel_2012</bcf:citekey>
     <bcf:citekey order="43">Klappenbach_2000</bcf:citekey>
     <bcf:citekey order="44">Klappenbach_2000</bcf:citekey>
-    <bcf:citekey order="45">Schneckenberger_2008</bcf:citekey>
-    <bcf:citekey order="46">Griffiths_2000</bcf:citekey>
-    <bcf:citekey order="47">Buckley_2007</bcf:citekey>
-    <bcf:citekey order="48">Neufeld_2007</bcf:citekey>
-    <bcf:citekey order="49">Manefield_2002</bcf:citekey>
-    <bcf:citekey order="50">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="45">Lozupone_2005</bcf:citekey>
+    <bcf:citekey order="46">Schneckenberger_2008</bcf:citekey>
+    <bcf:citekey order="47">Griffiths_2000</bcf:citekey>
+    <bcf:citekey order="48">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="49">Neufeld_2007</bcf:citekey>
+    <bcf:citekey order="50">Manefield_2002</bcf:citekey>
     <bcf:citekey order="51">Buckley_2007</bcf:citekey>
-    <bcf:citekey order="52">Hamady_2008</bcf:citekey>
+    <bcf:citekey order="52">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="53">Hamady_2008</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt" type="entry" sortscheme="nyt">
   <bcf:sorting>

@@ -1107,6 +1107,40 @@
       \verb http://dx.doi.org/10.1099/00207713-39-3-355
       \endverb
     \endentry
+    \entry{Lozupone_2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5b52046a5eba7524715bf5f13732263c}{Lozupone}{L\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5b52046a5eba7524715bf5f13732263c}{Lozupone}{L\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{ef38ade2687311241420d2853e3c6d91}
+      \strng{fullhash}{ef38ade2687311241420d2853e3c6d91}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2005}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{UniFrac}: a New Phylogenetic Method for Comparing Microbial Communities}}
+      \field{journaltitle}{{Appl Environ Microbiol}}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{{UniFrac}: a New Phylogenetic Method for Comparing Microbial Communities}}
+      \field{volume}{71}
+      \field{year}{2005}
+      \field{pages}{8228\bibrangedash 8235}
+      \verb{doi}
+      \verb 10.1128/aem.71.12.8228-8235.2005
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.71.12.8228-8235.2005
+      \endverb
+    \endentry
     \entry{Lozupone_2008}{article}{}
       \name{labelname}{2}{}{%
         {{hash=653f826dbd7285560fba5e641ea91e75}{Lozupone}{L\bibinitperiod}{Catherine\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
@@ -2750,6 +2784,40 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1890/03-3050
+      \endverb
+    \endentry
+    \entry{Lozupone_2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=5b52046a5eba7524715bf5f13732263c}{Lozupone}{L\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5b52046a5eba7524715bf5f13732263c}{Lozupone}{L\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{ef38ade2687311241420d2853e3c6d91}
+      \strng{fullhash}{ef38ade2687311241420d2853e3c6d91}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labelyear}{2005}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{UniFrac}: a New Phylogenetic Method for Comparing Microbial Communities}}
+      \field{journaltitle}{{Appl Environ Microbiol}}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{{UniFrac}: a New Phylogenetic Method for Comparing Microbial Communities}}
+      \field{volume}{71}
+      \field{year}{2005}
+      \field{pages}{8228\bibrangedash 8235}
+      \verb{doi}
+      \verb 10.1128/aem.71.12.8228-8235.2005
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.71.12.8228-8235.2005
       \endverb
     \endentry
     \entry{Lu_2005}{article}{}

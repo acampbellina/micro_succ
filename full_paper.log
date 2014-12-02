@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 16:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1248,7 +1248,16 @@ Package pdftex.def Info: figures/bulk_ordination/bulk_ordination.pdf used on in
 put line 47.
 (pdftex.def)             Requested size: 510.0pt x 196.15164pt.
 
-(./figures/bulk_ordination/caption.tex) (./table_cellulose.tex
+(./figures/bulk_ordination/caption.tex)
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=276, 361.35pt x 216.81pt>
+File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
+
+<use figures/all_rspndr_bar/all_rspndr_bar.pdf>
+Package pdftex.def Info: figures/all_rspndr_bar/all_rspndr_bar.pdf used on inpu
+t line 54.
+(pdftex.def)             Requested size: 510.0pt x 306.00317pt.
+
+(./figures/all_rspndr_bar/caption.tex) (./table_cellulose.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
 []|[]\T1/phv/m/n/9 ,
  []
@@ -1474,7 +1483,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
 l2fc_fig.pdf>] [12 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [13 <./
 figures/bacteria_tree/bacteria_tree.pdf>] [14 <./figures/shift_and_rabund1/shif
 t_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [15 <./figures/bulk
-_ordination/bulk_ordination.pdf>]
+_ordination/bulk_ordination.pdf> <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
  (./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
@@ -1486,10 +1495,10 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17905 strings out of 493485
- 290917 string characters out of 3143526
- 792052 words of memory out of 3000000
- 20785 multiletter control sequences out of 15000+200000
+ 17915 strings out of 493485
+ 291239 string characters out of 3143526
+ 792114 words of memory out of 3000000
+ 20790 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  52i,10n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1507,10 +1516,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (15 pages, 2117472 bytes).
+Output written on full_paper.pdf (15 pages, 2121816 bytes).
 PDF statistics:
- 5054 PDF objects out of 5155 (max. 8388607)
- 401 compressed objects within 5 object streams
- 93 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5062 PDF objects out of 5155 (max. 8388607)
+ 407 compressed objects within 5 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

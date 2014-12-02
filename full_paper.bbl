@@ -1001,6 +1001,60 @@
       \verb http://dx.doi.org/10.1128/aem.66.4.1328-1333.2000
       \endverb
     \endentry
+    \entry{Kong_2012}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{ed5f9bdb38bb4ac61ad0910885147480}
+      \strng{fullhash}{37ace75287b6757a962eaab01a52c943}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2012}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{journaltitle}{{Genome Res}}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{850\bibrangedash 859}
+      \verb{doi}
+      \verb 10.1101/gr.131029.111
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1101/gr.131029.111
+      \endverb
+    \endentry
     \entry{Labeda_2001}{article}{}
       \name{labelname}{4}{}{%
         {{hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
@@ -3553,6 +3607,60 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1371/journal.pcbi.1002743
+      \endverb
+    \endentry
+    \entry{Kong_2012}{article}{}
+      \name{labelname}{12}{}{%
+        {{hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{ed5f9bdb38bb4ac61ad0910885147480}
+      \strng{fullhash}{37ace75287b6757a962eaab01a52c943}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labelyear}{2012}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{journaltitle}{{Genome Res}}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{850\bibrangedash 859}
+      \verb{doi}
+      \verb 10.1101/gr.131029.111
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1101/gr.131029.111
       \endverb
     \endentry
     \entry{Otsuka_2012}{article}{}

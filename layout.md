@@ -13,3 +13,4 @@ figures/bacteria_tree/bacteria_tree.png
 figures/copy_number/copy_number.png
 figures/all_rspndr_bar/all_rspndr_bar.png
 figures/bulk_ordination/bulk_ordination.png
+figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.png

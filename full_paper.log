@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 18:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1266,7 +1266,7 @@ File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
 Package pdftex.def Info: figures/all_rspndr_bar/all_rspndr_bar.pdf used on inpu
 t line 62.
-(pdftex.def)             Requested size: 203.99689pt x 122.39862pt.
+(pdftex.def)             Requested size: 382.5pt x 229.5032pt.
 
 (./figures/all_rspndr_bar/caption.tex) (./table_cellulose.tex
 Underfull \hbox (badness 10000) in paragraph at lines 17--17
@@ -1528,7 +1528,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (16 pages, 2132052 bytes).
+Output written on full_paper.pdf (16 pages, 2132060 bytes).
 PDF statistics:
  5075 PDF objects out of 5155 (max. 8388607)
  417 compressed objects within 5 object streams

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 16:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 18:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1501,7 +1501,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
-(rerunfilecheck)             Checksum: EE5F6F7D9F03CC8AB7BB3A1700968948;1511.
+(rerunfilecheck)             Checksum: 436B019FBE36987C28484A1506D754C7;1523.
 Package logreq Info: Writing requests to 'full_paper.run.xml'.
 \openout1 = `full_paper.run.xml'.
 
@@ -1528,7 +1528,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (16 pages, 2131819 bytes).
+Output written on full_paper.pdf (16 pages, 2132052 bytes).
 PDF statistics:
  5075 PDF objects out of 5155 (max. 8388607)
  417 compressed objects within 5 object streams

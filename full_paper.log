@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  2 DEC 2014 18:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  3 DEC 2014 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1140,41 +1140,41 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 82.
+(hyperref)                removing `math shift' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 82.
+(hyperref)                removing `superscript' on input line 76.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 82.
+(hyperref)                removing `math shift' on input line 76.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 195.
+(hyperref)                removing `math shift' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 195.
+(hyperref)                removing `superscript' on input line 189.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 195.
+(hyperref)                removing `math shift' on input line 189.
 
 [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 250.
+(hyperref)                removing `math shift' on input line 244.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 250.
+(hyperref)                removing `superscript' on input line 244.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 250.
+(hyperref)                removing `math shift' on input line 244.
 
 ) (./Methods.tex [4]) [5] [6] (./figures.tex
 <figures/ordination_all1/ordination_all1.png, id=270, 1156.32pt x 433.62pt>
@@ -1513,7 +1513,7 @@ Here is how much of TeX's memory you used:
  20795 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 52i,10n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,11n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
@@ -1528,7 +1528,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (16 pages, 2132060 bytes).
+Output written on full_paper.pdf (16 pages, 2131968 bytes).
 PDF statistics:
  5075 PDF objects out of 5155 (max. 8388607)
  417 compressed objects within 5 object streams

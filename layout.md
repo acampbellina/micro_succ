@@ -2,6 +2,7 @@ Thesis Statement.tex
 Abstract.tex
 Significance.tex
 paragraph1.tex
+paragraph2.tex
 introduction.tex
 Results.tex
 Disscussion.tex

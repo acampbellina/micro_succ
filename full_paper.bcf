@@ -2157,37 +2157,17 @@
     <bcf:citekey order="54">Wertz_2011</bcf:citekey>
     <bcf:citekey order="55">Wertz_2011</bcf:citekey>
     <bcf:citekey order="56">Wertz_2011</bcf:citekey>
+    <bcf:citekey order="57">Otsuka_2012</bcf:citekey>
     <bcf:citekey order="57">Wertz_2011</bcf:citekey>
-    <bcf:citekey order="58">Fierer_2007</bcf:citekey>
-    <bcf:citekey order="59">Choudoir_2012</bcf:citekey>
-    <bcf:citekey order="59">Preheim_2011</bcf:citekey>
-    <bcf:citekey order="59">Hunt_2008</bcf:citekey>
-    <bcf:citekey order="60">Preheim_2011</bcf:citekey>
-    <bcf:citekey order="60">Hunt_2008</bcf:citekey>
-    <bcf:citekey order="61">Schimel_2012</bcf:citekey>
-    <bcf:citekey order="62">Goldfarb_2011</bcf:citekey>
-    <bcf:citekey order="62">Fierer_2007</bcf:citekey>
-    <bcf:citekey order="62">Choudoir_2012</bcf:citekey>
-    <bcf:citekey order="62">Preheim_2011</bcf:citekey>
-    <bcf:citekey order="62">Hunt_2008</bcf:citekey>
-    <bcf:citekey order="63">Goldfarb_2011</bcf:citekey>
-    <bcf:citekey order="64">Fierer_2012</bcf:citekey>
-    <bcf:citekey order="64">Fierer_2013</bcf:citekey>
-    <bcf:citekey order="64">Philippot_2010</bcf:citekey>
-    <bcf:citekey order="64">Tringe_2005</bcf:citekey>
-    <bcf:citekey order="64">Gilbert_2010</bcf:citekey>
-    <bcf:citekey order="64">Bryant_2012</bcf:citekey>
-    <bcf:citekey order="65">Fierer_2012</bcf:citekey>
-    <bcf:citekey order="65">Philippot_2010</bcf:citekey>
-    <bcf:citekey order="66">Grandy_2008</bcf:citekey>
-    <bcf:citekey order="67">Schneckenberger_2008</bcf:citekey>
-    <bcf:citekey order="68">Griffiths_2000</bcf:citekey>
-    <bcf:citekey order="69">Buckley_2007</bcf:citekey>
-    <bcf:citekey order="70">Neufeld_2007</bcf:citekey>
-    <bcf:citekey order="71">Manefield_2002</bcf:citekey>
-    <bcf:citekey order="72">Buckley_2007</bcf:citekey>
-    <bcf:citekey order="73">Buckley_2007</bcf:citekey>
-    <bcf:citekey order="74">Hamady_2008</bcf:citekey>
+    <bcf:citekey order="58">Bergmann_2011</bcf:citekey>
+    <bcf:citekey order="59">Schneckenberger_2008</bcf:citekey>
+    <bcf:citekey order="60">Griffiths_2000</bcf:citekey>
+    <bcf:citekey order="61">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="62">Neufeld_2007</bcf:citekey>
+    <bcf:citekey order="63">Manefield_2002</bcf:citekey>
+    <bcf:citekey order="64">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="65">Buckley_2007</bcf:citekey>
+    <bcf:citekey order="66">Hamady_2008</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt" type="entry" sortscheme="nyt">
   <bcf:sorting>

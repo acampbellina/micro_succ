@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  3 DEC 2014 19:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 DEC 2014 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,77 +1107,83 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
-) (./kwabbr.tex) (./introduction.tex
+) (./kwabbr.tex) (./paragraph1.tex) (./paragraph2.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 4.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              scaled to size 8.54997pt on input line 1.
+)
+(./paragraph3.tex) (./paragraph4.tex) (./paragraph5.tex) [1{/var/lib/texmf/font
+s/map/pdftex/updmap/pdftex.map}
 
-]) (./Results.tex
+] (./results_p1.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 8.54997pt on input line 14.
+) (./results_p3.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 39.
+(Font)              scaled to size 11.39996pt on input line 3.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 39.
+(Font)              scaled to size 11.39996pt on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 39.
+(hyperref)                removing `superscript' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 39.
+(hyperref)                removing `math shift' on input line 3.
 
-[2]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 87.
-
+) (./results_p5.tex [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 87.
+(hyperref)                removing `math shift' on input line 4.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 87.
+(hyperref)                removing `superscript' on input line 4.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 4.
+
+) (./results_p6.tex) (./results_p7.tex) (./results_p8.tex) (./results_p9.tex)
+(./results_p10.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 4.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 200.
+(hyperref)                removing `superscript' on input line 4.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 4.
 
-[3]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 255.
-
+) (./results_p12.tex) (./results_p13.tex [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 255.
+(hyperref)                removing `math shift' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 255.
+(hyperref)                removing `superscript' on input line 3.
 
-) (./Disscussion.tex [4] [5]) (./Methods.tex) [6] [7] [8] (./figures.tex
-<figures/ordination_all1/ordination_all1.png, id=327, 1156.32pt x 433.62pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 3.
+
+) (./results_p14.tex) (./results_p15.tex) (./results_p16.tex)
+(./Disscussion.tex [4]) (./Methods.tex) [5] [6] [7] (./figures.tex
+<figures/ordination_all1/ordination_all1.png, id=294, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all1.png Graphic file (type png)
 
 <use figures/ordination_all1/ordination_all1.png>
@@ -1188,7 +1194,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 5.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=329, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=296, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -1196,7 +1202,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 11.
 (pdftex.def)             Requested size: 510.0pt x 350.45854pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=330, 216.81pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=297, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
@@ -1210,7 +1216,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 1.
 )
-<figures/bacteria_tree/bacteria_tree.pdf, id=331, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=298, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1223,7 +1229,7 @@ line 25.
 LaTeX Warning: Float too large for page by 29.01045pt on input line 28.
 
 
-<figures/shift_and_rabund1/shift_and_rabund1.pdf, id=332, 903.375pt x 361.35pt>
+<figures/shift_and_rabund1/shift_and_rabund1.pdf, id=299, 903.375pt x 361.35pt>
 File: figures/shift_and_rabund1/shift_and_rabund1.pdf Graphic file (type pdf)
 <use figures/shift_and_rabund1/shift_and_rabund1.pdf>
 Package pdftex.def Info: figures/shift_and_rabund1/shift_and_rabund1.pdf used o
@@ -1232,7 +1238,7 @@ n input line 32.
 
 (./figures/shift_and_rabund1/caption.tex)
 (./figures/shift_and_rabund1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=333, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=300, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -1240,7 +1246,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  40.
 (pdftex.def)             Requested size: 510.0pt x 226.67245pt.
  (./figures/copy_number/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=334, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=301, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -1249,7 +1255,7 @@ put line 47.
 (pdftex.def)             Requested size: 510.0pt x 196.15164pt.
 
 (./figures/bulk_ordination/caption.tex)
-<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=335, 361.35p
+<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=302, 361.35p
 t x 722.7pt>
 File: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf Graphic fil
 e (type pdf)
@@ -1260,7 +1266,7 @@ und.pdf used on input line 54.
 (pdftex.def)             Requested size: 203.99689pt x 407.99542pt.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=336, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=303, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -1363,7 +1369,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--74
 []|[]\T1/phv/m/n/9 ,
  []
 
-[9]) (./table_xyl.tex
+[8]) (./table_xyl.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|[]\T1/phv/m/n/9 ,
  []
@@ -1488,18 +1494,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 []|[]\T1/phv/m/n/9 , [],
  []
 
-[10] [11]))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 16.
- [12] [13 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/
-l2fc_fig.pdf>] [14 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [15 <./
-figures/bacteria_tree/bacteria_tree.pdf>] [16 <./figures/shift_and_rabund1/shif
-t_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [17 <./figures/bulk
+[9] [10]))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+ [11] [12 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/
+l2fc_fig.pdf>] [13 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [14 <./
+figures/bacteria_tree/bacteria_tree.pdf>] [15 <./figures/shift_and_rabund1/shif
+t_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [16 <./figures/bulk
 _ordination/bulk_ordination.pdf> <./figures/bulk_phylum_rspndr_abund/bulk_phylu
-m_rspndr_abund.pdf>] [18 <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 16.
+m_rspndr_abund.pdf>] [17 <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (./full_paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 16.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 16.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 82AEB2E8273CA51FD3C08F3F00B2A5EE;1571.
 Package logreq Info: Writing requests to 'full_paper.run.xml'.
@@ -1507,13 +1513,13 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18003 strings out of 493485
- 292822 string characters out of 3143526
- 792526 words of memory out of 3000000
- 20853 multiletter control sequences out of 15000+200000
+ 18000 strings out of 493485
+ 292706 string characters out of 3143526
+ 793280 words of memory out of 3000000
+ 20813 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 52i,10n,57p,2059b,1184s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,10n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
@@ -1528,10 +1534,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (18 pages, 2149164 bytes).
+Output written on full_paper.pdf (17 pages, 2138275 bytes).
 PDF statistics:
- 5135 PDF objects out of 5155 (max. 8388607)
- 475 compressed objects within 5 object streams
- 112 named destinations out of 1000 (max. 500000)
+ 5099 PDF objects out of 5155 (max. 8388607)
+ 440 compressed objects within 5 object streams
+ 101 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 

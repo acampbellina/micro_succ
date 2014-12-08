@@ -8,7 +8,6 @@ paragraph4.tex
 paragraph5.tex
 results_p1.tex
 results_p3.tex
-results_p4.tex
 results_p5.tex
 results_p6.tex
 results_p7.tex

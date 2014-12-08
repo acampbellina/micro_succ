@@ -14,7 +14,6 @@ results_p7.tex
 results_p8.tex
 results_p9.tex
 results_p10.tex
-results_p11.tex
 results_p12.tex
 results_p13.tex
 results_p14.tex

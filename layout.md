@@ -12,7 +12,7 @@ x_rsp.tex
 cell_rsp.tex
 cell_rsp_proteo.tex
 cell_resp_verr.tex
-results_p8.tex
+cell_rsp_chloroflex.tex
 results_p9.tex
 results_p13.tex
 results_p14.tex

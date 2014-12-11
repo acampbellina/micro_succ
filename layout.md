@@ -16,7 +16,7 @@ cell_rsp_chloroflex.tex
 cell_resp_others.tex
 BD.tex
 rrn.tex
-results_p15.tex
+bulk_rspndr_abund.tex
 results_p16.tex
 Disscussion.tex
 text.tex

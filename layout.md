@@ -15,7 +15,7 @@ cell_resp_verr.tex
 cell_rsp_chloroflex.tex
 cell_resp_others.tex
 results_p13.tex
-results_p14.tex
+rrn.tex
 results_p15.tex
 results_p16.tex
 Disscussion.tex

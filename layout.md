@@ -14,7 +14,6 @@ cell_resp_others.tex
 BD.tex
 rrn.tex
 bulk_rspndr_abund.tex
-results_p16.tex
 Disscussion.tex
 text.tex
 Methods.tex

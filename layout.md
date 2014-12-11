@@ -4,6 +4,7 @@ Significance.tex
 intro_1.tex
 intro_2.tex
 results_intro.tex
+bulk_community.tex
 x_rsp.tex
 cell_rsp.tex
 cell_rsp_proteo.tex

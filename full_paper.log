@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 12:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1109,9 +1109,9 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
 ) (./kwabbr.tex) (./intro_1.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 4.
 ) (./intro_2.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]) (./results_intro.tex
@@ -1119,15 +1119,15 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 8.54997pt on input line 14.
-) (./bulk.tex
+)
+(./bulk_community.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 11.39996pt on input line 2.
-)
-(./x_rsp.tex
+) (./x_rsp.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -1140,7 +1140,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
 
-) [2] (./cell_rsp.tex
+) (./cell_rsp.tex [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
@@ -1493,17 +1493,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
  []
 
 [9] [10]))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
  [11] [12 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/
 l2fc_fig.pdf>] [13 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [14 <./
 figures/bacteria_tree/bacteria_tree.pdf>] [15 <./figures/shift_and_rabund1/shif
 t_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [16 <./figures/bulk
 _ordination/bulk_ordination.pdf> <./figures/bulk_phylum_rspndr_abund/bulk_phylu
 m_rspndr_abund.pdf>] [17 <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
  (./full_paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 81EE36A80B307B4D6E5A40C2D14DCDC3;1509.
 Package logreq Info: Writing requests to 'full_paper.run.xml'.
@@ -1512,7 +1512,7 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  17985 strings out of 493485
- 292488 string characters out of 3143526
+ 292518 string characters out of 3143526
  792283 words of memory out of 3000000
  20813 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
@@ -1532,7 +1532,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (17 pages, 2138634 bytes).
+Output written on full_paper.pdf (17 pages, 2138657 bytes).
 PDF statistics:
  5099 PDF objects out of 5155 (max. 8388607)
  440 compressed objects within 5 object streams

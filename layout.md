@@ -7,6 +7,7 @@ paragraph3.tex
 paragraph4.tex
 paragraph5.tex
 results_p1.tex
+bulk.tex
 results_p10.tex
 results_p12.tex
 results_p5.tex

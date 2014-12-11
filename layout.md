@@ -18,7 +18,6 @@ results_p13.tex
 results_p14.tex
 results_p15.tex
 results_p16.tex
-results_p3.tex
 Disscussion.tex
 text.tex
 Methods.tex

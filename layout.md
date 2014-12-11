@@ -1,7 +1,7 @@
 Thesis Statement.tex
 Abstract.tex
 Significance.tex
-paragraph1.tex
+intro_1.tex
 paragraph2.tex
 paragraph3.tex
 paragraph4.tex

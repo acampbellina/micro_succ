@@ -3,7 +3,6 @@ Abstract.tex
 Significance.tex
 intro_1.tex
 intro_2.tex
-paragraph5.tex
 results_p1.tex
 bulk.tex
 x_rsp.tex

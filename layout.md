@@ -10,7 +10,7 @@ results_p1.tex
 bulk.tex
 x_rsp.tex
 cell_rsp.tex
-results_p6.tex
+cell_rsp_proteo.tex
 results_p7.tex
 results_p8.tex
 results_p9.tex

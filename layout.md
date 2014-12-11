@@ -11,7 +11,7 @@ bulk.tex
 x_rsp.tex
 cell_rsp.tex
 cell_rsp_proteo.tex
-results_p7.tex
+cell_resp_verr.tex
 results_p8.tex
 results_p9.tex
 results_p13.tex

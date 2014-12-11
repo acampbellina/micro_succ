@@ -8,7 +8,7 @@ paragraph4.tex
 paragraph5.tex
 results_p1.tex
 bulk.tex
-results_p10.tex
+x_rsp.tex
 results_p5.tex
 results_p6.tex
 results_p7.tex

@@ -1,32 +1,32 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'full_paper.blg'
-[25] biber:277> INFO - === Mon Dec  8, 2014, 16:01:41
-[26] Biber.pm:333> INFO - Reading 'full_paper.bcf'
-[88] Biber.pm:635> INFO - Found 58 citekeys in bib section 0
-[106] Biber.pm:3051> INFO - Processing section 0
-[120] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
-[131] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[145] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography/biblio.bib'
-[215] Utils.pm:144> WARN - Range field 'pages' in entry 'Verastegui_2014' is malformed, skipping
-[227] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
-[228] Utils.pm:144> WARN - Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring
-[277] Utils.pm:144> WARN - Datamodel: Entry '16346402' (bibliography/biblio.bib): Invalid format '1983 Oct' of date field 'date' - ignoring
-[315] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
-[315] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
-[315] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
-[316] Utils.pm:144> WARN - The field 'month' in entry '16346402' cannot be null, deleting it
-[316] Utils.pm:144> WARN - The field 'number' in entry '16346402' cannot be null, deleting it
-[316] Utils.pm:144> WARN - The field 'year' in entry '16346402' cannot be null, deleting it
-[700] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[700] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[701] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[701] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[1185] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1186] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1186] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
-[1186] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[1329] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
-[1344] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[1364] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[1366] bbl.pm:606> INFO - Output to full_paper.bbl
-[1366] Biber.pm:106> INFO - WARNINGS: 12
+[25] biber:277> INFO - === Thu Dec 11, 2014, 19:30:34
+[28] Biber.pm:333> INFO - Reading 'full_paper.bcf'
+[88] Biber.pm:635> INFO - Found 60 citekeys in bib section 0
+[107] Biber.pm:3051> INFO - Processing section 0
+[121] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
+[133] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[147] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography/biblio.bib'
+[227] Utils.pm:144> WARN - Datamodel: Entry '16346402' (bibliography/biblio.bib): Invalid format '1983 Oct' of date field 'date' - ignoring
+[252] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
+[254] Utils.pm:144> WARN - Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring
+[288] Utils.pm:144> WARN - Range field 'pages' in entry 'Verastegui_2014' is malformed, skipping
+[326] Utils.pm:144> WARN - The field 'month' in entry '16346402' cannot be null, deleting it
+[326] Utils.pm:144> WARN - The field 'number' in entry '16346402' cannot be null, deleting it
+[326] Utils.pm:144> WARN - The field 'year' in entry '16346402' cannot be null, deleting it
+[327] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
+[327] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
+[327] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
+[725] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[725] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[725] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[725] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[1220] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1220] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1220] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
+[1220] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[1373] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
+[1388] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1409] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[1411] bbl.pm:606> INFO - Output to full_paper.bbl
+[1411] Biber.pm:106> INFO - WARNINGS: 12

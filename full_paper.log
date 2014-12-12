@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 12:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1181,7 +1181,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 17.
 
 [4]) (./Methods.tex) [5] [6] [7] (./figures.tex
-<figures/ordination_all1/ordination_all1.png, id=294, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all1.png, id=298, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all1.png Graphic file (type png)
 
 <use figures/ordination_all1/ordination_all1.png>
@@ -1192,7 +1192,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 5.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=296, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=300, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -1200,7 +1200,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 11.
 (pdftex.def)             Requested size: 510.0pt x 350.45854pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=297, 216.81pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=301, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
@@ -1214,7 +1214,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 1.
 )
-<figures/bacteria_tree/bacteria_tree.pdf, id=298, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=302, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1227,7 +1227,7 @@ line 25.
 LaTeX Warning: Float too large for page by 29.01045pt on input line 28.
 
 
-<figures/shift_and_rabund1/shift_and_rabund1.pdf, id=299, 903.375pt x 361.35pt>
+<figures/shift_and_rabund1/shift_and_rabund1.pdf, id=303, 903.375pt x 361.35pt>
 File: figures/shift_and_rabund1/shift_and_rabund1.pdf Graphic file (type pdf)
 <use figures/shift_and_rabund1/shift_and_rabund1.pdf>
 Package pdftex.def Info: figures/shift_and_rabund1/shift_and_rabund1.pdf used o
@@ -1236,7 +1236,7 @@ n input line 32.
 
 (./figures/shift_and_rabund1/caption.tex)
 (./figures/shift_and_rabund1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=300, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=304, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -1244,7 +1244,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  40.
 (pdftex.def)             Requested size: 510.0pt x 226.67245pt.
  (./figures/copy_number/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=301, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=305, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -1253,7 +1253,7 @@ put line 47.
 (pdftex.def)             Requested size: 510.0pt x 196.15164pt.
 
 (./figures/bulk_ordination/caption.tex)
-<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=302, 361.35p
+<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=306, 361.35p
 t x 722.7pt>
 File: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf Graphic fil
 e (type pdf)
@@ -1264,7 +1264,7 @@ und.pdf used on input line 54.
 (pdftex.def)             Requested size: 203.99689pt x 407.99542pt.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=303, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=307, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -1511,10 +1511,10 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17985 strings out of 493485
- 292518 string characters out of 3143526
- 792283 words of memory out of 3000000
- 20813 multiletter control sequences out of 15000+200000
+ 18013 strings out of 493485
+ 293139 string characters out of 3143526
+ 792327 words of memory out of 3000000
+ 20839 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  52i,10n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1532,10 +1532,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (17 pages, 2138657 bytes).
+Output written on full_paper.pdf (17 pages, 2140410 bytes).
 PDF statistics:
- 5099 PDF objects out of 5155 (max. 8388607)
- 440 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 5104 PDF objects out of 5155 (max. 8388607)
+ 445 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 

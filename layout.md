@@ -17,6 +17,7 @@ bulk_rspndr_abund.tex
 Disscussion.tex
 text.tex
 Methods.tex
+figures/l2fc_time/l2fc_time.png
 figures/ordination_all1/ordination_all1.png
 figures/l2fc_fig1/l2fc_fig.png
 figures/xylose_rspndr_bar/xylose_rspndr_bar.png

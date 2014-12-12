@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 19:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,15 +1130,15 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 ) (./x_rsp.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 4.
+(hyperref)                removing `math shift' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 4.
+(hyperref)                removing `superscript' on input line 3.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 4.
+(hyperref)                removing `math shift' on input line 3.
 
 ) (./cell_rsp.tex [2]
 
@@ -1154,20 +1154,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 4.
 
 ) (./cell_resp_others.tex) (./cell_resp_verr.tex) (./cell_rsp_chloroflex.tex)
-(./cell_rsp_proteo.tex) (./bulk_rspndr_abund.tex [3]) (./BD.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 3.
-
-) (./rrn.tex) (./Disscussion.tex
+(./cell_rsp_proteo.tex) (./bulk_rspndr_abund.tex [3]) (./BD.tex) (./rrn.tex)
+(./Disscussion.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 17.
@@ -1505,7 +1493,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
-(rerunfilecheck)             Checksum: 81EE36A80B307B4D6E5A40C2D14DCDC3;1509.
+(rerunfilecheck)             Checksum: 6CE06312E327C3CE0EB06254C5E7EC10;1368.
 Package logreq Info: Writing requests to 'full_paper.run.xml'.
 \openout1 = `full_paper.run.xml'.
 
@@ -1513,7 +1501,7 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 Here is how much of TeX's memory you used:
  18013 strings out of 493485
  293142 string characters out of 3143526
- 792327 words of memory out of 3000000
+ 793327 words of memory out of 3000000
  20839 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1532,7 +1520,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (17 pages, 2140432 bytes).
+Output written on full_paper.pdf (17 pages, 2140192 bytes).
 PDF statistics:
  5104 PDF objects out of 5155 (max. 8388607)
  445 compressed objects within 5 object streams

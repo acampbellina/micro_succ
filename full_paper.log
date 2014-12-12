@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 20:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 DEC 2014 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1261,235 +1261,91 @@ t line 62.
 (pdftex.def)             Requested size: 382.5pt x 229.5032pt.
 
 (./figures/all_rspndr_bar/caption.tex) (./table_cellulose.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 3--9
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 9--16
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 16--36
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (14.4383pt too wide) in paragraph at lines 51--51
+[]\T1/phv/m/n/9 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 36--56
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-[]|[]\T1/phv/m/n/9 , [],
+Overfull \hbox (3.01094pt too wide) in paragraph at lines 76--76
+[]|[]|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
-[]|[]\T1/phv/m/n/9 , [],
+Overfull \hbox (27.57303pt too wide) in alignment at lines 56--76
+ [] [] [] [] [] 
+ []
+
+[8]
+Overfull \hbox (17.43483pt too wide) in paragraph at lines 77--77
+[]|[]|  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (5.38774pt too wide) in paragraph at lines 78--78
+[]|[]\T1/phv/m/n/9 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 76--82
+ [] [] [] [] [] 
+ []
+
+) (./table_xyl.tex
+Overfull \hbox (27.57303pt too wide) in alignment at lines 3--9
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 9--16
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 61--61
-[]\T1/phv/m/n/9 , [],
+Overfull \hbox (27.57303pt too wide) in alignment at lines 16--36
+ [] [] [] [] [] 
+ []
+
+[9]
+Overfull \hbox (27.57303pt too wide) in alignment at lines 36--56
+ [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]|[]\T1/phv/m/n/9 ,
+Overfull \hbox (27.57303pt too wide) in alignment at lines 56--61
+ [] [] [] [] [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-[]|[]\T1/phv/m/n/9 ,
- []
-
-[8]) (./table_xyl.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]|[]\T1/phv/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[]|[]\T1/phv/m/n/9 , [],
- []
-
-[9] [10]))
+[10]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
  [11] [12 <./figures/ordination_all1/ordination_all1.png> <./figures/l2fc_fig1/
-l2fc_fig.pdf>] [13 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [14 <./
-figures/bacteria_tree/bacteria_tree.pdf>] [15 <./figures/shift_and_rabund1/shif
-t_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [16 <./figures/bulk
-_ordination/bulk_ordination.pdf> <./figures/bulk_phylum_rspndr_abund/bulk_phylu
-m_rspndr_abund.pdf>] [17 <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
+l2fc_fig.pdf>] [13 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>]
+[14 <./figures/bacteria_tree/bacteria_tree.pdf>] [15 <./figures/shift_and_rabun
+d1/shift_and_rabund1.pdf> <./figures/copy_number/copy_number.pdf>] [16 <./figur
+es/bulk_ordination/bulk_ordination.pdf> <./figures/bulk_phylum_rspndr_abund/bul
+k_phylum_rspndr_abund.pdf>] [17 <./figures/all_rspndr_bar/all_rspndr_bar.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
- (./full_paper.aux)
+
+(./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
@@ -1499,10 +1355,10 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18013 strings out of 493485
- 293142 string characters out of 3143526
- 793327 words of memory out of 3000000
- 20839 multiletter control sequences out of 15000+200000
+ 18015 strings out of 493485
+ 293163 string characters out of 3143526
+ 802355 words of memory out of 3000000
+ 20841 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  52i,10n,57p,2059b,1182s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1520,7 +1376,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (17 pages, 2140192 bytes).
+Output written on full_paper.pdf (17 pages, 2142124 bytes).
 PDF statistics:
  5104 PDF objects out of 5155 (max. 8388607)
  445 compressed objects within 5 object streams

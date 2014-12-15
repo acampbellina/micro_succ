@@ -18,7 +18,7 @@ Disscussion.tex
 text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png
-figures/abndVtime_class/abndVtime_class.png
+figures/abndVtime_class/l2fc_time.png
 figures/ordination_all1/ordination_all.png
 figures/l2fc_fig1/l2fc_fig.png
 figures/xylose_rspndr_bar/xylose_rspndr_bar.png

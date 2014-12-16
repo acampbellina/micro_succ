@@ -11,10 +11,11 @@ cell_rsp_proteo.tex
 cell_resp_verr.tex
 cell_rsp_chloroflex.tex
 cell_resp_others.tex
+bulk_rspndr_abund.tex
 BD.tex
 rrn.tex
-bulk_rspndr_abund.tex
 Disscussion.tex
+ecological_strategies.tex
 text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png

@@ -15,6 +15,7 @@ bulk_rspndr_abund.tex
 BD.tex
 rrn.tex
 Disscussion.tex
+ecological_strategies.tex
 text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png

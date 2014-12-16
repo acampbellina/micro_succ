@@ -11,9 +11,9 @@ cell_rsp_proteo.tex
 cell_resp_verr.tex
 cell_rsp_chloroflex.tex
 cell_resp_others.tex
+bulk_rspndr_abund.tex
 BD.tex
 rrn.tex
-bulk_rspndr_abund.tex
 Disscussion.tex
 text.tex
 Methods.tex

@@ -1700,6 +1700,36 @@
       \verb http://dx.doi.org/10.1111/j.1574-6941.2012.01469.x
       \endverb
     \endentry
+    \entry{radajewski2000stable}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=709dfb971fcfc1b0c54d9018a73dc857}{Radajewski}{R\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8ebd92b5dba7a731532c63d848979464}{Ineson}{I\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41759caf11a2e8a9bf2112cf32b87291}{Parekh}{P\bibinitperiod}{Nisha\bibnamedelima R}{N\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=709dfb971fcfc1b0c54d9018a73dc857}{Radajewski}{R\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8ebd92b5dba7a731532c63d848979464}{Ineson}{I\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41759caf11a2e8a9bf2112cf32b87291}{Parekh}{P\bibinitperiod}{Nisha\bibnamedelima R}{N\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a389e0a33101b00e2aa84558c9de5931}
+      \strng{fullhash}{42db33f82bec38415bdfc9c06ef0b3bd}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Stable-isotope probing as a tool in microbial ecology}}
+      \field{journaltitle}{Nature}
+      \field{number}{6770}
+      \field{title}{{Stable-isotope probing as a tool in microbial ecology}}
+      \field{volume}{403}
+      \field{year}{2000}
+      \field{pages}{646\bibrangedash 649}
+    \endentry
     \entry{Di_Rienzi_2013}{article}{}
       \name{labelname}{11}{}{%
         {{hash=9947e4d874da7b6c471536d1ff6ec66a}{Rienzi}{R\bibinitperiod}{Sara\bibnamedelimb C\bibnamedelima Di}{S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
@@ -1785,6 +1815,41 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1128/aem.00702-09
+      \endverb
+    \endentry
+    \entry{Schellenberger_2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{9446183fe63580dbee87dd494e1f5311}
+      \strng{fullhash}{bcb57f5aa8b4ab73c24b48708964b7dd}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{issn}{1462-2920}
+      \field{journaltitle}{{Environ Microbiol}}
+      \field{number}{4}
+      \field{title}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{volume}{12}
+      \field{year}{2010}
+      \field{pages}{845\bibrangedash 861}
+      \verb{doi}
+      \verb 10.1111/j.1462-2920.2009.02128.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1462-2920.2009.02128.x
       \endverb
     \endentry
     \entry{Schimel_1995}{incollection}{}
@@ -2700,6 +2765,36 @@
       \verb{url}
       \verb http://dx.doi.org/10.1128/aem.66.4.1328-1333.2000
       \endverb
+    \endentry
+    \entry{radajewski2000stable}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=709dfb971fcfc1b0c54d9018a73dc857}{Radajewski}{R\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8ebd92b5dba7a731532c63d848979464}{Ineson}{I\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41759caf11a2e8a9bf2112cf32b87291}{Parekh}{P\bibinitperiod}{Nisha\bibnamedelima R}{N\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=709dfb971fcfc1b0c54d9018a73dc857}{Radajewski}{R\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8ebd92b5dba7a731532c63d848979464}{Ineson}{I\bibinitperiod}{Philip}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=41759caf11a2e8a9bf2112cf32b87291}{Parekh}{P\bibinitperiod}{Nisha\bibnamedelima R}{N\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a389e0a33101b00e2aa84558c9de5931}
+      \strng{fullhash}{42db33f82bec38415bdfc9c06ef0b3bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Stable-isotope probing as a tool in microbial ecology}}
+      \field{journaltitle}{Nature}
+      \field{number}{6770}
+      \field{title}{{Stable-isotope probing as a tool in microbial ecology}}
+      \field{volume}{403}
+      \field{year}{2000}
+      \field{pages}{646\bibrangedash 649}
     \endentry
     \entry{Amundson_2001}{article}{}
       \name{labelname}{1}{}{%
@@ -3755,6 +3850,41 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1016/j.tim.2010.02.002
+      \endverb
+    \endentry
+    \entry{Schellenberger_2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{9446183fe63580dbee87dd494e1f5311}
+      \strng{fullhash}{bcb57f5aa8b4ab73c24b48708964b7dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{issn}{1462-2920}
+      \field{journaltitle}{{Environ Microbiol}}
+      \field{number}{4}
+      \field{title}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{volume}{12}
+      \field{year}{2010}
+      \field{pages}{845\bibrangedash 861}
+      \verb{doi}
+      \verb 10.1111/j.1462-2920.2009.02128.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1462-2920.2009.02128.x
       \endverb
     \endentry
     \entry{Bergmann_2011}{article}{}

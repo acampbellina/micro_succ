@@ -3,7 +3,6 @@ Abstract.tex
 Significance.tex
 Introduction.tex
 Results.tex
-bulk_rspndr_abund.tex
 BD.tex
 rrn.tex
 Discussion.tex

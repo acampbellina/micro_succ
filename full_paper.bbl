@@ -568,6 +568,55 @@
       \verb http://dx.doi.org/10.1111/j.1365-2486.2005.01065.x
       \endverb
     \endentry
+    \entry{Haichar_2007}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=338eece2a87f7c60305db5ddc55b83ec}{El\bibnamedelima Zahar\bibnamedelima Haichar}{E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim H\bibinitperiod}{Feth}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05d8904bbf76260a96bd288a98e449c1}{Achouak}{A\bibinitperiod}{Wafa}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00ab2f8c3c5aed84047a82d690f11bb1}{Christen}{C\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=561a33d7ca3e2405d23b7a45741d4826}{Heulin}{H\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ab0dea7ddf24483bacee54289ff337f9}{Marol}{M\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3980fedbd4edaab08f749b0eeffdabca}{Marais}{M\bibinitperiod}{Marie-France}{M\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e197b70d0fa50ff4ef73f835d180894a}{Mougel}{M\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f5921280ce8a5361bf2b21949aa7ab2e}{Ranjard}{R\bibinitperiod}{Lionel}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bba067e4c1f52df92d4d95ded1345503}{Balesdent}{B\bibinitperiod}{J\x{fffd}\x{fffd}r\x{fffd}\x{fffd}me}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ea850dd246245533d82939515a6c2f68}{Berge}{B\bibinitperiod}{Odile}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=338eece2a87f7c60305db5ddc55b83ec}{El\bibnamedelima Zahar\bibnamedelima Haichar}{E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim H\bibinitperiod}{Feth}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05d8904bbf76260a96bd288a98e449c1}{Achouak}{A\bibinitperiod}{Wafa}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00ab2f8c3c5aed84047a82d690f11bb1}{Christen}{C\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=561a33d7ca3e2405d23b7a45741d4826}{Heulin}{H\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ab0dea7ddf24483bacee54289ff337f9}{Marol}{M\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3980fedbd4edaab08f749b0eeffdabca}{Marais}{M\bibinitperiod}{Marie-France}{M\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e197b70d0fa50ff4ef73f835d180894a}{Mougel}{M\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f5921280ce8a5361bf2b21949aa7ab2e}{Ranjard}{R\bibinitperiod}{Lionel}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bba067e4c1f52df92d4d95ded1345503}{Balesdent}{B\bibinitperiod}{J\x{fffd}\x{fffd}r\x{fffd}\x{fffd}me}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ea850dd246245533d82939515a6c2f68}{Berge}{B\bibinitperiod}{Odile}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{0c1e5337c487bfdf98620a314f7d9e26}
+      \strng{fullhash}{c952aba4f264a888294b38bbdb0ac86f}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Identification of cellulolytic bacteria in soil by stable isotope probing}
+      \field{issn}{1462-2920}
+      \field{journaltitle}{{Environ Microbiol}}
+      \field{number}{3}
+      \field{title}{Identification of cellulolytic bacteria in soil by stable isotope probing}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{625\bibrangedash 634}
+      \verb{doi}
+      \verb 10.1111/j.1462-2920.2006.01182.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1462-2920.2006.01182.x
+      \endverb
+    \endentry
     \entry{Fierer_2013}{article}{}
       \name{labelname}{9}{}{%
         {{hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
@@ -3479,6 +3528,55 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1128/aem.02609-06
+      \endverb
+    \endentry
+    \entry{Haichar_2007}{article}{}
+      \name{labelname}{10}{}{%
+        {{hash=338eece2a87f7c60305db5ddc55b83ec}{El\bibnamedelima Zahar\bibnamedelima Haichar}{E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim H\bibinitperiod}{Feth}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05d8904bbf76260a96bd288a98e449c1}{Achouak}{A\bibinitperiod}{Wafa}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00ab2f8c3c5aed84047a82d690f11bb1}{Christen}{C\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=561a33d7ca3e2405d23b7a45741d4826}{Heulin}{H\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ab0dea7ddf24483bacee54289ff337f9}{Marol}{M\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3980fedbd4edaab08f749b0eeffdabca}{Marais}{M\bibinitperiod}{Marie-France}{M\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e197b70d0fa50ff4ef73f835d180894a}{Mougel}{M\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f5921280ce8a5361bf2b21949aa7ab2e}{Ranjard}{R\bibinitperiod}{Lionel}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bba067e4c1f52df92d4d95ded1345503}{Balesdent}{B\bibinitperiod}{J\x{fffd}\x{fffd}r\x{fffd}\x{fffd}me}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ea850dd246245533d82939515a6c2f68}{Berge}{B\bibinitperiod}{Odile}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{hash=338eece2a87f7c60305db5ddc55b83ec}{El\bibnamedelima Zahar\bibnamedelima Haichar}{E\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim H\bibinitperiod}{Feth}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=05d8904bbf76260a96bd288a98e449c1}{Achouak}{A\bibinitperiod}{Wafa}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=00ab2f8c3c5aed84047a82d690f11bb1}{Christen}{C\bibinitperiod}{Richard}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=561a33d7ca3e2405d23b7a45741d4826}{Heulin}{H\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=ab0dea7ddf24483bacee54289ff337f9}{Marol}{M\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3980fedbd4edaab08f749b0eeffdabca}{Marais}{M\bibinitperiod}{Marie-France}{M\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=e197b70d0fa50ff4ef73f835d180894a}{Mougel}{M\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=f5921280ce8a5361bf2b21949aa7ab2e}{Ranjard}{R\bibinitperiod}{Lionel}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=bba067e4c1f52df92d4d95ded1345503}{Balesdent}{B\bibinitperiod}{J\x{fffd}\x{fffd}r\x{fffd}\x{fffd}me}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=ea850dd246245533d82939515a6c2f68}{Berge}{B\bibinitperiod}{Odile}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{0c1e5337c487bfdf98620a314f7d9e26}
+      \strng{fullhash}{c952aba4f264a888294b38bbdb0ac86f}
+      \field{sortinit}{2}
+      \field{sortinithash}{bf63d623a0391c2c4e5a334ddaf25b12}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Identification of cellulolytic bacteria in soil by stable isotope probing}
+      \field{issn}{1462-2920}
+      \field{journaltitle}{{Environ Microbiol}}
+      \field{number}{3}
+      \field{title}{Identification of cellulolytic bacteria in soil by stable isotope probing}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{625\bibrangedash 634}
+      \verb{doi}
+      \verb 10.1111/j.1462-2920.2006.01182.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1462-2920.2006.01182.x
       \endverb
     \endentry
     \entry{Neufeld_2007}{article}{}

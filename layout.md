@@ -1,7 +1,7 @@
 Thesis Statement.tex
 Abstract.tex
 Significance.tex
-intro_1.tex
+Introduction.tex
 results_intro.tex
 bulk_community.tex
 x_rsp.tex

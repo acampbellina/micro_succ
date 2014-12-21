@@ -2,7 +2,7 @@ Thesis Statement.tex
 Abstract.tex
 Significance.tex
 Introduction.tex
-results_intro.tex
+Results.tex
 cell_rsp_proteo.tex
 cell_resp_verr.tex
 cell_rsp_chloroflex.tex

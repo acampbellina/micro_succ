@@ -3,7 +3,6 @@ Abstract.tex
 Significance.tex
 Introduction.tex
 results_intro.tex
-bulk_community.tex
 x_rsp.tex
 cell_rsp.tex
 cell_rsp_proteo.tex

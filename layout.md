@@ -4,7 +4,6 @@ Significance.tex
 Introduction.tex
 Results.tex
 Discussion.tex
-ecological_strategies.tex
 text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png

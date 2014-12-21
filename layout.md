@@ -3,7 +3,6 @@ Abstract.tex
 Significance.tex
 Introduction.tex
 Results.tex
-BD.tex
 rrn.tex
 Discussion.tex
 ecological_strategies.tex

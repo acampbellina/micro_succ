@@ -1,21 +1,9 @@
 Thesis Statement.tex
 Abstract.tex
 Significance.tex
-intro_1.tex
-intro_2.tex
-results_intro.tex
-bulk_community.tex
-x_rsp.tex
-cell_rsp.tex
-cell_rsp_proteo.tex
-cell_resp_verr.tex
-cell_rsp_chloroflex.tex
-cell_resp_others.tex
-bulk_rspndr_abund.tex
-BD.tex
-rrn.tex
+Introduction.tex
+Results.tex
 Discussion.tex
-ecological_strategies.tex
 text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png

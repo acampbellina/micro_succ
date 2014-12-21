@@ -3,7 +3,6 @@ Abstract.tex
 Significance.tex
 Introduction.tex
 Results.tex
-cell_rsp_proteo.tex
 cell_resp_verr.tex
 cell_rsp_chloroflex.tex
 cell_resp_others.tex

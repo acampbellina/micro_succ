@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  21 DEC 2014 20:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  21 DEC 2014 20:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1021,39 +1021,39 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 [2] [3]) (./Discussion.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 21.
+(hyperref)                removing `math shift' on input line 22.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 21.
+(hyperref)                removing `superscript' on input line 22.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 21.
+(hyperref)                removing `math shift' on input line 22.
 
-[4] [5]) (./Methods.tex) [6] [7] [8] (./figures.tex <figures/l2fc_time/l2fc_time.pdf, id=330, 578.16pt x 722.7pt>
+[4] [5]) (./Methods.tex) [6] [7] [8] (./figures.tex <figures/l2fc_time/l2fc_time.pdf, id=332, 578.16pt x 722.7pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 <use figures/l2fc_time/l2fc_time.pdf>
 Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 4.
 (pdftex.def)             Requested size: 255.0pt x 318.74988pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 5.
-(./figures/l2fc_time/caption.tex) (./figures/l2fc_time/caption.tex) <figures/abndVtime_class/abndVtime_class.pdf, id=331, 578.16pt x 433.62pt>
+(./figures/l2fc_time/caption.tex) (./figures/l2fc_time/caption.tex) <figures/abndVtime_class/abndVtime_class.pdf, id=333, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 <use figures/abndVtime_class/abndVtime_class.pdf>
 Package pdftex.def Info: figures/abndVtime_class/abndVtime_class.pdf used on input line 11.
 (pdftex.def)             Requested size: 306.00311pt x 229.49991pt.
-(./figures/abndVtime_class/caption.tex) <figures/ordination_all1/ordination_all.pdf, id=332, 1156.32pt x 433.62pt>
+(./figures/abndVtime_class/caption.tex) <figures/ordination_all1/ordination_all.pdf, id=334, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 <use figures/ordination_all1/ordination_all.pdf>
 Package pdftex.def Info: figures/ordination_all1/ordination_all.pdf used on input line 18.
 (pdftex.def)             Requested size: 510.0pt x 191.24992pt.
-(./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex) <figures/l2fc_fig1/l2fc_fig.pdf, id=333, 837.88533pt x 575.7761pt>
+(./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex) <figures/l2fc_fig1/l2fc_fig.pdf, id=335, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 <use figures/l2fc_fig1/l2fc_fig.pdf>
 Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 25.
 (pdftex.def)             Requested size: 510.0pt x 350.45854pt.
-(./figures/l2fc_fig1/caption.tex) (./figures/l2fc_fig1/caption.tex) <figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=334, 216.81pt x 433.62pt>
+(./figures/l2fc_fig1/caption.tex) (./figures/l2fc_fig1/caption.tex) <figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=336, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used on input line 32.
@@ -1063,7 +1063,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 7.59998pt on input line 1.
-) <figures/bacteria_tree/bacteria_tree.pdf, id=335, 359.86633pt x 1875.31364pt>
+) <figures/bacteria_tree/bacteria_tree.pdf, id=337, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 <use figures/bacteria_tree/bacteria_tree.pdf>
 Package pdftex.def Info: figures/bacteria_tree/bacteria_tree.pdf used on input line 39.
@@ -1072,27 +1072,27 @@ Package pdftex.def Info: figures/bacteria_tree/bacteria_tree.pdf used on input l
 
 LaTeX Warning: Float too large for page by 29.01045pt on input line 42.
 
-<figures/shift_and_rabund1/shift_and_rabund.png, id=336, 722.7pt x 289.08pt>
+<figures/shift_and_rabund1/shift_and_rabund.png, id=338, 722.7pt x 289.08pt>
 File: figures/shift_and_rabund1/shift_and_rabund.png Graphic file (type png)
 <use figures/shift_and_rabund1/shift_and_rabund.png>
 Package pdftex.def Info: figures/shift_and_rabund1/shift_and_rabund.png used on input line 46.
 (pdftex.def)             Requested size: 510.0pt x 203.99991pt.
-(./figures/shift_and_rabund1/caption.tex) (./figures/shift_and_rabund1/caption.tex) <figures/copy_number/copy_number.pdf, id=337, 650.43pt x 289.08pt>
+(./figures/shift_and_rabund1/caption.tex) (./figures/shift_and_rabund1/caption.tex) <figures/copy_number/copy_number.pdf, id=339, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 <use figures/copy_number/copy_number.pdf>
 Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line 54.
 (pdftex.def)             Requested size: 510.0pt x 226.67245pt.
-(./figures/copy_number/caption.tex) <figures/bulk_ordination/bulk_ordination.pdf, id=338, 939.51pt x 361.35pt>
+(./figures/copy_number/caption.tex) <figures/bulk_ordination/bulk_ordination.pdf, id=340, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 <use figures/bulk_ordination/bulk_ordination.pdf>
 Package pdftex.def Info: figures/bulk_ordination/bulk_ordination.pdf used on input line 61.
 (pdftex.def)             Requested size: 510.0pt x 196.15164pt.
-(./figures/bulk_ordination/caption.tex) <figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=339, 361.35pt x 722.7pt>
+(./figures/bulk_ordination/caption.tex) <figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=341, 361.35pt x 722.7pt>
 File: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf Graphic file (type pdf)
 <use figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf>
 Package pdftex.def Info: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf used on input line 68.
 (pdftex.def)             Requested size: 203.99689pt x 407.99542pt.
-(./figures/bulk_phylum_rspndr_abund/caption.tex) <figures/all_rspndr_bar/all_rspndr_bar.pdf, id=340, 361.35pt x 216.81pt>
+(./figures/bulk_phylum_rspndr_abund/caption.tex) <figures/all_rspndr_bar/all_rspndr_bar.pdf, id=342, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
 Package pdftex.def Info: figures/all_rspndr_bar/all_rspndr_bar.pdf used on input line 76.
@@ -1186,18 +1186,18 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18031 strings out of 493485
- 293770 string characters out of 3143526
- 803782 words of memory out of 3000000
- 20869 multiletter control sequences out of 15000+200000
+ 18035 strings out of 493485
+ 293836 string characters out of 3143526
+ 803803 words of memory out of 3000000
+ 20872 multiletter control sequences out of 15000+200000
  41656 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  52i,11n,57p,2030b,1185s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on full_paper.pdf (19 pages, 1715051 bytes).
+Output written on full_paper.pdf (19 pages, 1715306 bytes).
 PDF statistics:
- 5175 PDF objects out of 6186 (max. 8388607)
- 510 compressed objects within 6 object streams
- 114 named destinations out of 1000 (max. 500000)
+ 5178 PDF objects out of 6186 (max. 8388607)
+ 513 compressed objects within 6 object streams
+ 115 named destinations out of 1000 (max. 500000)
  192 words of extra memory for PDF output out of 10000 (max. 10000000)
 

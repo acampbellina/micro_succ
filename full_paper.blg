@@ -1,34 +1,36 @@
-[0] Config.pm:320> INFO - This is Biber 1.9
+[1] Config.pm:320> INFO - This is Biber 1.9
 [1] Config.pm:323> INFO - Logfile is 'full_paper.blg'
-[61] biber:277> INFO - === Sun Dec 21, 2014, 20:08:35
-[61] Biber.pm:333> INFO - Reading 'full_paper.bcf'
-[204] Biber.pm:635> INFO - Found 63 citekeys in bib section 0
-[245] Biber.pm:3051> INFO - Processing section 0
-[279] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
-[307] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[58] biber:277> INFO - === Sun Dec 21, 2014, 20:49:02
+[59] Biber.pm:333> INFO - Reading 'full_paper.bcf'
+[206] Biber.pm:635> INFO - Found 64 citekeys in bib section 0
+[246] Biber.pm:3051> INFO - Processing section 0
+[278] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography/biblio.bib' for section 0
+[306] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
 [341] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography/biblio.bib'
-[524] Utils.pm:144> WARN - Datamodel: Entry '16346402' (bibliography/biblio.bib): Invalid format '1983 Oct' of date field 'date' - ignoring
-[545] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
+[523] Utils.pm:144> WARN - Datamodel: Entry '16346402' (bibliography/biblio.bib): Invalid format '1983 Oct' of date field 'date' - ignoring
+[544] Utils.pm:144> WARN - Range field 'pages' in entry 'Herlemann_2013' is malformed, skipping
 [549] Utils.pm:144> WARN - Datamodel: Entry '10543821' (bibliography/biblio.bib): Invalid format '1999 Nov' of date field 'date' - ignoring
-[681] Utils.pm:144> WARN - Range field 'pages' in entry 'Verastegui_2014' is malformed, skipping
-[775] Utils.pm:144> WARN - The field 'month' in entry '16346402' cannot be null, deleting it
-[775] Utils.pm:144> WARN - The field 'number' in entry '16346402' cannot be null, deleting it
-[776] Utils.pm:144> WARN - The field 'year' in entry '16346402' cannot be null, deleting it
-[776] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
-[776] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
-[777] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
-[1764] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1764] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1764] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[1764] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[2987] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2987] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2987] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
-[2988] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
-[3365] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
-[3381] Utils.pm:144> WARN - The entry 'Haichar_2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3405] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3440] Utils.pm:144> WARN - The entry 'Haichar_2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3461] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
-[3467] bbl.pm:606> INFO - Output to full_paper.bbl
-[3467] Biber.pm:106> INFO - WARNINGS: 14
+[680] Utils.pm:144> WARN - Range field 'pages' in entry 'Verastegui_2014' is malformed, skipping
+[780] Utils.pm:144> WARN - The field 'month' in entry '16346402' cannot be null, deleting it
+[781] Utils.pm:144> WARN - The field 'number' in entry '16346402' cannot be null, deleting it
+[781] Utils.pm:144> WARN - The field 'year' in entry '16346402' cannot be null, deleting it
+[781] Utils.pm:144> WARN - The field 'month' in entry '10543821' cannot be null, deleting it
+[782] Utils.pm:144> WARN - The field 'number' in entry '10543821' cannot be null, deleting it
+[782] Utils.pm:144> WARN - The field 'year' in entry '10543821' cannot be null, deleting it
+[1811] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1811] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1811] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1811] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[3085] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3085] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3085] Biber.pm:2928> INFO - Sorting list 'ynt' of type 'entry' with scheme 'ynt' and locale 'en-US'
+[3085] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[3468] bbl.pm:517> INFO - Writing 'full_paper.bbl' with encoding 'ascii'
+[3484] Utils.pm:144> WARN - The entry 'Haichar_2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3505] Utils.pm:144> WARN - The entry 'McMurdie2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3514] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3549] Utils.pm:144> WARN - The entry 'Haichar_2007' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3570] Utils.pm:144> WARN - The entry 'Parveen_2013' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3577] Utils.pm:144> WARN - The entry 'McMurdie2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[3581] bbl.pm:606> INFO - Output to full_paper.bbl
+[3581] Biber.pm:106> INFO - WARNINGS: 16

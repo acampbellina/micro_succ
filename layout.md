@@ -4,6 +4,7 @@ Significance.tex
 Introduction.tex
 Results.tex
 Discussion.tex
+text.tex
 Methods.tex
 figures/l2fc_time/l2fc_time.png
 figures/abndVtime_class/abndVtime_class.png

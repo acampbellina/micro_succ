@@ -1,0 +1,38 @@
+%% PNAStwoS.tex
+%% Sample file to use for PNAS articles prepared in LaTeX
+%% For two column PNAS articles
+%% Version1: Apr 15, 2008
+%% Version2: Oct 04, 2013
+
+%% BASIC CLASS FILE
+\documentclass{pnastwo}
+
+%% ADDITIONAL OPTIONAL STYLE FILES Font specification
+
+%\usepackage{pnastwoF}
+
+\usepackage[
+    backend=biber,
+    style=authoryear-icomp,
+    sortlocale=de_DE,
+    natbib=true,
+    doi=false,
+    url=false, 
+    isbn=false,
+    eprint=false
+]{biblatex}
+\addbibresource{bibliography/biblio.bib}
+
+\usepackage{hyperref}
+
+\usepackage{url}
+
+\usepackage{longtable}
+
+\usepackage{booktabs}
+
+\begin{document}
+
+%% OPTIONAL MACRO DEFINITIONS
+\def\s{\sigma}
+%%%%%%%%%%%%

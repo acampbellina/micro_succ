@@ -1,0 +1,2703 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{Alexander1977}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4b9645be0c07a35f3f6f9769331e50d6}{Alexander}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4b9645be0c07a35f3f6f9769331e50d6}{Alexander}{A\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New Jersey}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{4b9645be0c07a35f3f6f9769331e50d6}
+      \strng{fullhash}{4b9645be0c07a35f3f6f9769331e50d6}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{1977}
+      \field{labelmonth}{06}
+      \field{labelday}{23}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Introduction to Soil Microbiology}
+      \field{day}{23}
+      \field{isbn}{9780471021797}
+      \field{langid}{english}
+      \field{month}{06}
+      \field{pagetotal}{480}
+      \field{title}{Introduction to Soil Microbiology}
+      \field{year}{1977}
+      \keyw{Technology \& Engineering / Agriculture / Agronomy / Soil Science}
+    \endentry
+    \entry{Allison_2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=2c44fc9becb6cbe584299d4f13fb8711}{Allison}{A\bibinitperiod}{S.\bibnamedelimi D.}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d216f98e3c386ede25133fd53af06715}{Martiny}{M\bibinitperiod}{J.\bibnamedelimi B.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2c44fc9becb6cbe584299d4f13fb8711}{Allison}{A\bibinitperiod}{S.\bibnamedelimi D.}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d216f98e3c386ede25133fd53af06715}{Martiny}{M\bibinitperiod}{J.\bibnamedelimi B.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{4441035a6eb8da9bcf49dcb60ea1abcd}
+      \strng{fullhash}{4441035a6eb8da9bcf49dcb60ea1abcd}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Resistance resilience, and redundancy in microbial communities}}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{08}
+      \field{number}{Supplement 1}
+      \field{title}{{Resistance resilience, and redundancy in microbial communities}}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{11512\bibrangedash 11519}
+      \verb{doi}
+      \verb 10.1073/pnas.0801925105
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1073/pnas.0801925105
+      \endverb
+    \endentry
+    \entry{Amundson_2001}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=92da22bbf16b2cc0844b93ef075a1651}{Amundson}{A\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=92da22bbf16b2cc0844b93ef075a1651}{Amundson}{A\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{92da22bbf16b2cc0844b93ef075a1651}
+      \strng{fullhash}{92da22bbf16b2cc0844b93ef075a1651}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2001}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The carbon budget in soils}
+      \field{journaltitle}{Annu Rev Earth Planet Sci}
+      \field{month}{05}
+      \field{number}{1}
+      \field{title}{The carbon budget in soils}
+      \field{volume}{29}
+      \field{year}{2001}
+      \field{pages}{535\bibrangedash 562}
+      \verb{doi}
+      \verb 10.1146/annurev.earth.29.1.535
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1146/annurev.earth.29.1.535
+      \endverb
+    \endentry
+    \entry{Anderson2001a}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=739ddfb6cbcf5233f84009e6490333fb}{Anderson}{A\bibinitperiod}{Marti\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=739ddfb6cbcf5233f84009e6490333fb}{Anderson}{A\bibinitperiod}{Marti\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{739ddfb6cbcf5233f84009e6490333fb}
+      \strng{fullhash}{739ddfb6cbcf5233f84009e6490333fb}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A new method for non-parametric multivariate analysis of variance}}
+      \field{issn}{1442-9993}
+      \field{journaltitle}{Austral Ecology}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shortjournal}{{Austral Ecol.}}
+      \field{title}{{A new method for non-parametric multivariate analysis of variance}}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2014}
+      \field{volume}{{26}}
+      \field{year}{2001}
+      \field{pages}{32\bibrangedash 46}
+      \verb{doi}
+      \verb 10.1111/j.1442-9993.2001.01070.pp.x
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/10.1111/j.1442-9993.2001.01070.pp.x/abstract
+      \endverb
+      \keyw{ANOVA,distance measure,experimental design,linear model,multifactorial,multivariate dissimilarity,partitioning,permutation tests,statistics}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Anderson2001a'}
+    \endentry
+    \entry{Anderson2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=739ddfb6cbcf5233f84009e6490333fb}{Anderson}{A\bibinitperiod}{Marti\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e458f1f5e6ca7e4bd31d3feadc1fcbf}{Ellingsen}{E\bibinitperiod}{Kari\bibnamedelima E.}{K\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8e135de58f2a09b46c8ea4fcb6d0fa63}{McArdle}{M\bibinitperiod}{Brian\bibnamedelima H.}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=739ddfb6cbcf5233f84009e6490333fb}{Anderson}{A\bibinitperiod}{Marti\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e458f1f5e6ca7e4bd31d3feadc1fcbf}{Ellingsen}{E\bibinitperiod}{Kari\bibnamedelima E.}{K\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8e135de58f2a09b46c8ea4fcb6d0fa63}{McArdle}{M\bibinitperiod}{Brian\bibnamedelima H.}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0711436f17c4ab17b0033d6ce99b4115}
+      \strng{fullhash}{0711436f17c4ab17b0033d6ce99b4115}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2006}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Multivariate dispersion as a measure of beta diversity}}
+      \field{issn}{1461-0248}
+      \field{journaltitle}{Ecology Letters}
+      \field{month}{06}
+      \field{note}{PMID: 16706913}
+      \field{number}{6}
+      \field{shortjournal}{{Ecol. Lett.}}
+      \field{title}{{Multivariate dispersion as a measure of beta diversity}}
+      \field{volume}{{9}}
+      \field{year}{2006}
+      \field{pages}{683\bibrangedash 693}
+      \verb{doi}
+      \verb 10.1111/j.1461-0248.2006.00926.x
+      \endverb
+      \keyw{Animals,Biodiversity,Environmental Monitoring,Kelp,Marine Biology,Models,Theoretical,Multivariate Analysis,New Zealand,Norway,Population Density}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Anderson2006'}
+    \endentry
+    \entry{BATJES_1996}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ab63fe8334685612d21aed931559d877}{Batjes}{B\bibinitperiod}{N.\bibnamedelimi H.}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ab63fe8334685612d21aed931559d877}{Batjes}{B\bibinitperiod}{N.\bibnamedelimi H.}{N\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Blackwell (Blackwell Publishing)}%
+      }
+      \strng{namehash}{ab63fe8334685612d21aed931559d877}
+      \strng{fullhash}{ab63fe8334685612d21aed931559d877}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1996}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Total carbon and nitrogen in the soils of the world}}
+      \field{journaltitle}{European Journal of Soil Science}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{{Total carbon and nitrogen in the soils of the world}}
+      \field{volume}{47}
+      \field{year}{1996}
+      \field{pages}{151\bibrangedash 163}
+      \verb{doi}
+      \verb 10.1111/j.1365-2389.1996.tb01386.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1365-2389.1996.tb01386.x
+      \endverb
+    \endentry
+    \entry{YBenjamini1995}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=e442fdc351dc69e4d2cf5a20b789a645}{Benjamini}{B\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4a186591df0beeba348d0e6a8433be1b}{Hochberg}{H\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e442fdc351dc69e4d2cf5a20b789a645}{Benjamini}{B\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4a186591df0beeba348d0e6a8433be1b}{Hochberg}{H\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1d6446a73f5742819464e3c647af5b48}
+      \strng{fullhash}{1d6446a73f5742819464e3c647af5b48}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Controlling the False Discovery Rate}}
+      \field{issn}{0035-9246}
+      \field{journaltitle}{Journal of the Royal Statistical Society, Series B}
+      \field{shortjournal}{{J R. Stat. Soc Ser. B}}
+      \field{shorttitle}{{Controlling the False Discovery Rate}}
+      \field{title}{Controlling the false discovery rate: a practical and powerful approach to multiple testing}
+      \field{volume}{{57}}
+      \field{year}{1995}
+      \field{pages}{289\bibrangedash 300}
+      \verb{doi}
+      \verb 10.2307/2346101
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'YBenjamini1995'}
+    \endentry
+    \entry{Bergmann_2011}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=eb4927a7103c2cde756b872cba7dae38}{Bergmann}{B\bibinitperiod}{Gaddy\bibnamedelima T.}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85b7cd5a7604028e882347f611a8ea3c}{Bates}{B\bibinitperiod}{Scott\bibnamedelima T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=48e0cf63e365527364dd33aa260449c4}{Eilers}{E\bibinitperiod}{Kathryn\bibnamedelima G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8db7f7d7897d2199553c62c1c2c87051}{Lauber}{L\bibinitperiod}{Christian\bibnamedelima L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5d9647a7b1ca0f1d2acfffed19a5dc0c}{Caporaso}{C\bibinitperiod}{J.\bibnamedelimi Gregory}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=50949b81540d795fce757a88ff6a1090}{Walters}{W\bibinitperiod}{William\bibnamedelima A.}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=607e7274c9442c4ae0ef4ccd9c4b549f}{Knight}{K\bibinitperiod}{Rob}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=eb4927a7103c2cde756b872cba7dae38}{Bergmann}{B\bibinitperiod}{Gaddy\bibnamedelima T.}{G\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85b7cd5a7604028e882347f611a8ea3c}{Bates}{B\bibinitperiod}{Scott\bibnamedelima T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=48e0cf63e365527364dd33aa260449c4}{Eilers}{E\bibinitperiod}{Kathryn\bibnamedelima G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8db7f7d7897d2199553c62c1c2c87051}{Lauber}{L\bibinitperiod}{Christian\bibnamedelima L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5d9647a7b1ca0f1d2acfffed19a5dc0c}{Caporaso}{C\bibinitperiod}{J.\bibnamedelimi Gregory}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=50949b81540d795fce757a88ff6a1090}{Walters}{W\bibinitperiod}{William\bibnamedelima A.}{W\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=607e7274c9442c4ae0ef4ccd9c4b549f}{Knight}{K\bibinitperiod}{Rob}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{cf0bc11d7a28624168c55e5a0635e589}
+      \strng{fullhash}{5a46331f23a554a83829ed16152c35e4}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2011}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The under-recognized dominance of Verrucomicrobia in soil bacterial communities}}
+      \field{journaltitle}{Soil Biology and Biochemistry}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{The under-recognized dominance of Verrucomicrobia in soil bacterial communities}}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{pages}{1450\bibrangedash 1455}
+      \verb{doi}
+      \verb 10.1016/j.soilbio.2011.03.012
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.soilbio.2011.03.012
+      \endverb
+    \endentry
+    \entry{boone2001bergeys}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ca66e1ef16a442626f025892891dbb51}{Boone}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ca66e1ef16a442626f025892891dbb51}{Boone}{B\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{ca66e1ef16a442626f025892891dbb51}
+      \strng{fullhash}{ca66e1ef16a442626f025892891dbb51}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Bergey's manual of systematic bacteriology}}
+      \field{isbn}{978-0-387-24145-6}
+      \field{title}{{Bergey's manual of systematic bacteriology}}
+      \field{year}{2001}
+    \endentry
+    \entry{Bryant_2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=e705de6de4a15788f79accf1d2d6cf04}{Bryant}{B\bibinitperiod}{Jessica\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=96227f0cdd3cea1a5f0b728e6920e918}{Stewart}{S\bibinitperiod}{Frank\bibnamedelima J}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f678c2bbf41c02851eac847512958e73}{Eppley}{E\bibinitperiod}{John\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a6931fdc3158f4720d47d141696de22b}{DeLong}{D\bibinitperiod}{Edward\bibnamedelima F}{E\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=e705de6de4a15788f79accf1d2d6cf04}{Bryant}{B\bibinitperiod}{Jessica\bibnamedelima A}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=96227f0cdd3cea1a5f0b728e6920e918}{Stewart}{S\bibinitperiod}{Frank\bibnamedelima J}{F\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f678c2bbf41c02851eac847512958e73}{Eppley}{E\bibinitperiod}{John\bibnamedelima M}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a6931fdc3158f4720d47d141696de22b}{DeLong}{D\bibinitperiod}{Edward\bibnamedelima F}{E\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ecological Society of America}%
+      }
+      \strng{namehash}{6b6851abeeeb86cc3c0faf3412da789c}
+      \strng{fullhash}{9a749e8845170ec4b2694214ae0dd631}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2012}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial community phylogenetic and trait diversity declines with depth in a marine oxygen minimum zone}}
+      \field{journaltitle}{Ecology}
+      \field{month}{07}
+      \field{number}{7}
+      \field{title}{{Microbial community phylogenetic and trait diversity declines with depth in a marine oxygen minimum zone}}
+      \field{volume}{93}
+      \field{year}{2012}
+      \field{pages}{1659\bibrangedash 1673}
+      \verb{doi}
+      \verb 10.1890/11-1204.1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1890/11-1204.1
+      \endverb
+    \endentry
+    \entry{Buckley_2007}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=2,hash=7804a6a94a31fcd1e6d8ab480462b83c}{Buckley}{B\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7189a3b1a3cb27149f55136102d5db4d}{Huangyutitham}{H\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=104f07f9af6665a418271dbad21c72da}{Hsu}{H\bibinitperiod}{S.\bibnamedelimi F.}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ebb6af3afb9470292c02c01da201e786}{Nelson}{N\bibinitperiod}{T.\bibnamedelimi A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=2,hash=7804a6a94a31fcd1e6d8ab480462b83c}{Buckley}{B\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7189a3b1a3cb27149f55136102d5db4d}{Huangyutitham}{H\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=104f07f9af6665a418271dbad21c72da}{Hsu}{H\bibinitperiod}{S.\bibnamedelimi F.}{S\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ebb6af3afb9470292c02c01da201e786}{Nelson}{N\bibinitperiod}{T.\bibnamedelimi A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{e73781d20ba5afe0ad3449ce79b7f538}
+      \strng{fullhash}{a34196415f21ec65b5ed7387ee623d71}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2007}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Stable isotope probing with 15n achieved by disentangling the effects of genome g$+$c content and isotope enrichment on {dna} Density}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{03}
+      \field{number}{10}
+      \field{title}{{Stable isotope probing with 15n achieved by disentangling the effects of genome g$+$c content and isotope enrichment on {dna} Density}}
+      \field{volume}{73}
+      \field{year}{2007}
+      \field{pages}{3189\bibrangedash 3195}
+      \verb{doi}
+      \verb 10.1128/aem.02609-06
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.02609-06
+      \endverb
+    \endentry
+    \entry{Buckley_2001}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=2,hash=4a4cb6f293c804c50dbd8cd88559df42}{Buckley}{B\bibinitperiod}{Daniel\bibnamedelima H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=7b7d6e3f04034dee976ca368d3a2da99}{Schmidt}{S\bibinitperiod}{Thomas\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=2,hash=4a4cb6f293c804c50dbd8cd88559df42}{Buckley}{B\bibinitperiod}{Daniel\bibnamedelima H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=7b7d6e3f04034dee976ca368d3a2da99}{Schmidt}{S\bibinitperiod}{Thomas\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{d497c691df32addf22b5b7cd09babab7}
+      \strng{fullhash}{d497c691df32addf22b5b7cd09babab7}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2001}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Environmental factors influencing the distribution of {rRNA} from Verrucomicrobia in soil}}
+      \field{journaltitle}{FEMS Microbiol Ecol}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{Environmental factors influencing the distribution of {rRNA} from Verrucomicrobia in soil}}
+      \field{volume}{35}
+      \field{year}{2001}
+      \field{pages}{105\bibrangedash 112}
+      \verb{doi}
+      \verb 10.1111/j.1574-6941.2001.tb00793.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1574-6941.2001.tb00793.x
+      \endverb
+    \endentry
+    \entry{16346402}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=5b88bab9d24fcb90bc9a8889bfa5c029}{Casida}{C\bibinitperiod}{L.\bibnamedelimi E.}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5b88bab9d24fcb90bc9a8889bfa5c029}{Casida}{C\bibinitperiod}{L.\bibnamedelimi E.}{L\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5b88bab9d24fcb90bc9a8889bfa5c029}
+      \strng{fullhash}{5b88bab9d24fcb90bc9a8889bfa5c029}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{1983}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Interaction of Agromyces ramosus with Other Bacteria in Soil.}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{number}{4}
+      \field{title}{{Interaction of Agromyces ramosus with Other Bacteria in Soil.}}
+      \field{volume}{46}
+      \field{year}{1983}
+      \field{pages}{881\bibrangedash 8}
+    \endentry
+    \entry{chapin2002principles}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=dc0bdc6c97b42dce81613c0dcb19aafb}{Chapin}{C\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=dc0bdc6c97b42dce81613c0dcb19aafb}{Chapin}{C\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dc0bdc6c97b42dce81613c0dcb19aafb}
+      \strng{fullhash}{dc0bdc6c97b42dce81613c0dcb19aafb}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Principles of terrestrial ecosystem ecology}}
+      \field{isbn}{0387954430}
+      \field{title}{{Principles of terrestrial ecosystem ecology}}
+      \field{year}{2002}
+    \endentry
+    \entry{Chen_Murrell_2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=4fc4399c66105ac1b3ec0adba08fb2da}{Chen}{C\bibinitperiod}{Yin}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=996347f23c927275ec7332c8e98ad1cc}{Murrell}{M\bibinitperiod}{J.\bibnamedelimi Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4fc4399c66105ac1b3ec0adba08fb2da}{Chen}{C\bibinitperiod}{Yin}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=996347f23c927275ec7332c8e98ad1cc}{Murrell}{M\bibinitperiod}{J.\bibnamedelimi Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0a3eb91085cd4122f93fd9ad032dd73c}
+      \strng{fullhash}{0a3eb91085cd4122f93fd9ad032dd73c}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2010}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{When metagenomics meets stable-isotope probing: progress and perspectives}}
+      \field{journaltitle}{Trends Microbiol}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{When metagenomics meets stable-isotope probing: progress and perspectives}}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{157\bibrangedash 163}
+      \verb{doi}
+      \verb 10.1016/j.tim.2010.02.002
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.tim.2010.02.002
+      \endverb
+    \endentry
+    \entry{10543821}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=8a619a344eac1bdd81d091f59ca7e026}{Chin}{C\bibinitperiod}{Kuk-Jeong}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91a75fd297b9b2d91846b52a8328221d}{Hahn}{H\bibinitperiod}{Dittmar}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6a57a3d6ea0bb4617c3f056270bb361}{Hengstmann}{H\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=866333b32ab438b3c48da827210bfed0}{Liesack}{L\bibinitperiod}{Werner}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=8a619a344eac1bdd81d091f59ca7e026}{Chin}{C\bibinitperiod}{Kuk-Jeong}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91a75fd297b9b2d91846b52a8328221d}{Hahn}{H\bibinitperiod}{Dittmar}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6a57a3d6ea0bb4617c3f056270bb361}{Hengstmann}{H\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=866333b32ab438b3c48da827210bfed0}{Liesack}{L\bibinitperiod}{Werner}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{07e789f8fee6d030049bd1df401ec652}
+      \strng{fullhash}{cce9342da8d1a244fb0dab74f23ae4dd}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{1999}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Characterization and identification of numerically abundant culturable bacteria from the anoxic bulk soil of rice paddy microcosms}
+      \field{issn}{0099-2240}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{Appl Environ Microbiol}
+      \field{title}{Characterization and identification of numerically abundant culturable bacteria from the anoxic bulk soil of rice paddy microcosms}
+      \field{urlday}{24}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{65}
+      \field{year}{1999}
+      \field{pages}{5042\bibrangedash 5049}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC91679/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry '10543821'}
+    \endentry
+    \entry{Cole_2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{uniquename=0,hash=77db53a4000ba0e39b2735b456b2809b}{Cole}{C\bibinitperiod}{J.\bibnamedelimi K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=77960be7e2dfbdca273ee4a8392c9807}{Gieler}{G\bibinitperiod}{B.\bibnamedelimi A.}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=55630344fd648a393a4b6c6231fcd8b1}{Heisler}{H\bibinitperiod}{D.\bibnamedelimi L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=859756c7f1fe449962028bd359cba117}{Palisoc}{P\bibinitperiod}{M.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e5afd654f24cac5a716201835c67d7f}{Williams}{W\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d70ca9826b256734f96d09542dde3f3c}{Dohnalkova}{D\bibinitperiod}{A.\bibnamedelimi C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e959e945d47078abb8e2d465234460d}{Ming}{M\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4e82edbfde0b4c9dd3d45ffb5cea88c}{Yu}{Y\bibinitperiod}{T.\bibnamedelimi T.}{T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9eedd025fbf30d24aafbcedb40a10235}{Dodsworth}{D\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c5fe062eca3ce9f3a28ea53e6e6be7e}{Li}{L\bibinitperiod}{W.\bibnamedelimi J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9c26a31ab2e0572144fda90567fbde3b}{Hedlund}{H\bibinitperiod}{B.\bibnamedelimi P.}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=77db53a4000ba0e39b2735b456b2809b}{Cole}{C\bibinitperiod}{J.\bibnamedelimi K.}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=77960be7e2dfbdca273ee4a8392c9807}{Gieler}{G\bibinitperiod}{B.\bibnamedelimi A.}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=55630344fd648a393a4b6c6231fcd8b1}{Heisler}{H\bibinitperiod}{D.\bibnamedelimi L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=859756c7f1fe449962028bd359cba117}{Palisoc}{P\bibinitperiod}{M.\bibnamedelimi M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e5afd654f24cac5a716201835c67d7f}{Williams}{W\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d70ca9826b256734f96d09542dde3f3c}{Dohnalkova}{D\bibinitperiod}{A.\bibnamedelimi C.}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3e959e945d47078abb8e2d465234460d}{Ming}{M\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4e82edbfde0b4c9dd3d45ffb5cea88c}{Yu}{Y\bibinitperiod}{T.\bibnamedelimi T.}{T\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9eedd025fbf30d24aafbcedb40a10235}{Dodsworth}{D\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c5fe062eca3ce9f3a28ea53e6e6be7e}{Li}{L\bibinitperiod}{W.\bibnamedelimi J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9c26a31ab2e0572144fda90567fbde3b}{Hedlund}{H\bibinitperiod}{B.\bibnamedelimi P.}{B\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{1e829fb096ecf7526b8e28b20ac3f923}
+      \strng{fullhash}{75273f71aba91d32ca1a322fb7adf3de}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2013}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}}
+      \field{journaltitle}{Int J Syst Evol Microbiol}
+      \field{month}{12}
+      \field{number}{Pt 12}
+      \field{title}{{Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}}
+      \field{volume}{63}
+      \field{year}{2013}
+      \field{pages}{4675\bibrangedash 4682}
+      \verb{doi}
+      \verb 10.1099/ijs.0.053348-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/ijs.0.053348-0
+      \endverb
+    \endentry
+    \entry{ColemanCrossley_1996}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=dd52db2f41ce369c7ad63ec262b68af6}{Coleman}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59275730577800bbf5bc434c9440c95b}{Jr}{J\bibinitperiod}{D.A.\bibnamedelimi Crossley}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=dd52db2f41ce369c7ad63ec262b68af6}{Coleman}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59275730577800bbf5bc434c9440c95b}{Jr}{J\bibinitperiod}{D.A.\bibnamedelimi Crossley}{D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press, Inc}%
+      }
+      \strng{namehash}{1517ed4aa77a23e30f0db8d92b0af009}
+      \strng{fullhash}{1517ed4aa77a23e30f0db8d92b0af009}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{1996}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Fundamentals of Soil Ecology}
+      \field{issn}{1478-5498}
+      \field{journaltitle}{American Journal of Alternative Agriculture}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Am. J. Altern. Agric.}
+      \field{title}{Fundamentals of Soil Ecology}
+      \field{urlday}{02}
+      \field{urlmonth}{03}
+      \field{urlyear}{2015}
+      \field{year}{1996}
+      \field{pages}{190\bibrangedash 190}
+      \verb{doi}
+      \verb 10.1017/S0889189300007074
+      \endverb
+      \verb{file}
+      \verb Cambridge Journals Snapshot:/home/chuck/.zotero/zotero/is3tm1mp.default/zotero/storage/2SBAURQV/displayAbstract.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://journals.cambridge.org/article_S0889189300007074
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'ColemanCrossley_1996'}
+    \endentry
+    \entry{DAVIDSON_2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=68083a9e7259d771a363c309535a5459}{Davidson}{D\bibinitperiod}{Eric\bibnamedelima A}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f96678ba766e16e75472860593d1c39e}{Janssens}{J\bibinitperiod}{Ivan\bibnamedelima A}{I\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=43487bfeb4e22c1d4fb387ece174dd63}{Luo}{L\bibinitperiod}{Yiqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=68083a9e7259d771a363c309535a5459}{Davidson}{D\bibinitperiod}{Eric\bibnamedelima A}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f96678ba766e16e75472860593d1c39e}{Janssens}{J\bibinitperiod}{Ivan\bibnamedelima A}{I\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=43487bfeb4e22c1d4fb387ece174dd63}{Luo}{L\bibinitperiod}{Yiqi}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{ebc7706620f4d3c6d68480780fa087f5}
+      \strng{fullhash}{ebc7706620f4d3c6d68480780fa087f5}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labelyear}{2006}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{On the variability of respiration in terrestrial ecosystems: moving beyond Q10}}
+      \field{journaltitle}{Global Change Biology}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{{On the variability of respiration in terrestrial ecosystems: moving beyond Q10}}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{154\bibrangedash 164}
+      \verb{doi}
+      \verb 10.1111/j.1365-2486.2005.01065.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1365-2486.2005.01065.x
+      \endverb
+    \endentry
+    \entry{Fierer_2013}{article}{}
+      \name{labelname}{9}{uniquelist=2}{%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=20a9ecffbf3fd71a652eedd24054aed3}{Ladau}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fad10ba32d87109acec231259fc991e}{Clemente}{C\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c52efee6621f5af23bc5fc41dfa1d43d}{Leff}{L\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8a7b1faa23b94ce029aa3aafda3d05c9}{Owens}{O\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fc45acccfde5dd5a6c85121fd27616b8}{Pollard}{P\bibinitperiod}{K.\bibnamedelimi S.}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=334f5ef0f963a3e056c2048c48c93af9}{Gilbert}{G\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=180ca4a352c053b6ad943b8da7bc9010}{McCulley}{M\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=20a9ecffbf3fd71a652eedd24054aed3}{Ladau}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fad10ba32d87109acec231259fc991e}{Clemente}{C\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c52efee6621f5af23bc5fc41dfa1d43d}{Leff}{L\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8a7b1faa23b94ce029aa3aafda3d05c9}{Owens}{O\bibinitperiod}{S.\bibnamedelimi M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fc45acccfde5dd5a6c85121fd27616b8}{Pollard}{P\bibinitperiod}{K.\bibnamedelimi S.}{K\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bdde7e847c4146b4366dfc60122b53eb}{Knight}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=334f5ef0f963a3e056c2048c48c93af9}{Gilbert}{G\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=180ca4a352c053b6ad943b8da7bc9010}{McCulley}{M\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science (AAAS)}%
+      }
+      \strng{namehash}{f7ab38f35f5634a4f094c503c58d499a}
+      \strng{fullhash}{0087602993a01783aabecd92754e12a5}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2013}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Reconstructing the microbial diversity and function of pre-agricultural tallgrass prairie soils in the united states}}
+      \field{issn}{1095-9203}
+      \field{journaltitle}{Science}
+      \field{month}{11}
+      \field{number}{6158}
+      \field{title}{{Reconstructing the microbial diversity and function of pre-agricultural tallgrass prairie soils in the united states}}
+      \field{volume}{342}
+      \field{year}{2013}
+      \field{pages}{621\bibrangedash 624}
+      \verb{doi}
+      \verb 10.1126/science.1243768
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1126/science.1243768
+      \endverb
+    \endentry
+    \entry{Fierer_2012}{article}{}
+      \name{labelname}{10}{uniquelist=2}{%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c52efee6621f5af23bc5fc41dfa1d43d}{Leff}{L\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a99cb4542d3346e7097e783b48bcc56}{Adams}{A\bibinitperiod}{B.\bibnamedelimi J.}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3b3962a0504c6ca0fedf9393517c15e3}{Nielsen}{N\bibinitperiod}{U.\bibnamedelimi N.}{U\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2af2745614de95ab3d1d8061787debc}{Bates}{B\bibinitperiod}{S.\bibnamedelimi T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ec83cd269c6fde0c7f494d265c53fe7}{Lauber}{L\bibinitperiod}{C.\bibnamedelimi L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7dc3262f2160f675eb1cd7cdf90a24ee}{Owens}{O\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=334f5ef0f963a3e056c2048c48c93af9}{Gilbert}{G\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=467e9076c922d8fac8b245afc2cef24e}{Wall}{W\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35e93f652e86388d44d5fbdab6f9f748}{Caporaso}{C\bibinitperiod}{J.\bibnamedelimi G.}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{uniquelist=2}{%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c52efee6621f5af23bc5fc41dfa1d43d}{Leff}{L\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a99cb4542d3346e7097e783b48bcc56}{Adams}{A\bibinitperiod}{B.\bibnamedelimi J.}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3b3962a0504c6ca0fedf9393517c15e3}{Nielsen}{N\bibinitperiod}{U.\bibnamedelimi N.}{U\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2af2745614de95ab3d1d8061787debc}{Bates}{B\bibinitperiod}{S.\bibnamedelimi T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4ec83cd269c6fde0c7f494d265c53fe7}{Lauber}{L\bibinitperiod}{C.\bibnamedelimi L.}{C\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7dc3262f2160f675eb1cd7cdf90a24ee}{Owens}{O\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=334f5ef0f963a3e056c2048c48c93af9}{Gilbert}{G\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=467e9076c922d8fac8b245afc2cef24e}{Wall}{W\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35e93f652e86388d44d5fbdab6f9f748}{Caporaso}{C\bibinitperiod}{J.\bibnamedelimi G.}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{8700d7efccc5d849feed99c63b3805ee}
+      \strng{fullhash}{2d6294a45f604479fd3e22092089dfc7}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2012}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Cross-biome metagenomic analyses of soil microbial communities and their functional attributes}}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{12}
+      \field{number}{52}
+      \field{title}{{Cross-biome metagenomic analyses of soil microbial communities and their functional attributes}}
+      \field{volume}{109}
+      \field{year}{2012}
+      \field{pages}{21390\bibrangedash 21395}
+      \verb{doi}
+      \verb 10.1073/pnas.1215210110
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1073/pnas.1215210110
+      \endverb
+    \endentry
+    \entry{Friedlingstein_2006}{article}{}
+      \name{labelname}{29}{}{%
+        {{uniquename=0,hash=a13b5ee5ceb82975c813e667444a1e0b}{Friedlingstein}{F\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f46b3ded1756178f1b86b04c8422e97}{Cox}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8406c6538805a092c46e1891a5e4ff32}{Betts}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7d122045ad86420471d9f31d74a7e9bc}{Bopp}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c94a46ad753bc8e9f89e8fea55a34ec4}{von}{v\bibinitperiod}{W.\bibnamedelimi Bloh}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b487103e14daeeda0def17576129ed72}{Brovkin}{B\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1822c011f43dc85c283b8ab17bd3c972}{Cadule}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=02c168165e635f4c8184a82d1fa3956a}{Doney}{D\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5cd1c307690ef715b0f9711fe84f32f7}{Eby}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dbda27facde3633b49c9cc031681ce91}{Fung}{F\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2c060e6f0ed8e6de0dd70eedb531c1f}{Bala}{B\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59680ec5ae4636cd527017f0b1f64f87}{John}{J\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c148d0bf71b674b7012960b90d0c1ba}{Jones}{J\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c09a84edff07fe73d3a2047e47d8625f}{Joos}{J\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c5870453cf8f3b259db3b8c822a93c6}{Kato}{K\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6deef28a8b7c8bc49440a994246ee0c5}{Kawamiya}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13830272820f5869c6f26c04da2e8511}{Knorr}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a7e6def7f1cd2840292e8c8e77855172}{Lindsay}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe0d4c125d698bae144114a428dcb102}{Matthews}{M\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea0bf83300bfc03ff5a5c72c3447bb4c}{Raddatz}{R\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d686b25be9330abf206344170dab8cc8}{Rayner}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e5207c50e57c62e49ccc5b09e62048f2}{Reick}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a79cb3d422c2dd92c4e4f606da61a59e}{Roeckner}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=61cd338879df9f90ef77e7683e4187d9}{Schnitzler}{S\bibinitperiod}{K.\bibnamedelimi G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f3e84bdc6ecfcb027df92fcff94129b}{Schnur}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=631b29e53a483588006cbf45ca3462e7}{Strassmann}{S\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f738ba00fe785876d7b430597a1e6ce}{Weaver}{W\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f5871fc6adab2f3df7b2ac70f6bd02c}{Yoshikawa}{Y\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d9caf25cf6b9fa55a6eb71f1283c1b6c}{Zeng}{Z\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{29}{}{%
+        {{uniquename=0,hash=a13b5ee5ceb82975c813e667444a1e0b}{Friedlingstein}{F\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7f46b3ded1756178f1b86b04c8422e97}{Cox}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8406c6538805a092c46e1891a5e4ff32}{Betts}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7d122045ad86420471d9f31d74a7e9bc}{Bopp}{B\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c94a46ad753bc8e9f89e8fea55a34ec4}{von}{v\bibinitperiod}{W.\bibnamedelimi Bloh}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b487103e14daeeda0def17576129ed72}{Brovkin}{B\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1822c011f43dc85c283b8ab17bd3c972}{Cadule}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=02c168165e635f4c8184a82d1fa3956a}{Doney}{D\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5cd1c307690ef715b0f9711fe84f32f7}{Eby}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dbda27facde3633b49c9cc031681ce91}{Fung}{F\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e2c060e6f0ed8e6de0dd70eedb531c1f}{Bala}{B\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59680ec5ae4636cd527017f0b1f64f87}{John}{J\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c148d0bf71b674b7012960b90d0c1ba}{Jones}{J\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c09a84edff07fe73d3a2047e47d8625f}{Joos}{J\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c5870453cf8f3b259db3b8c822a93c6}{Kato}{K\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6deef28a8b7c8bc49440a994246ee0c5}{Kawamiya}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13830272820f5869c6f26c04da2e8511}{Knorr}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a7e6def7f1cd2840292e8c8e77855172}{Lindsay}{L\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe0d4c125d698bae144114a428dcb102}{Matthews}{M\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea0bf83300bfc03ff5a5c72c3447bb4c}{Raddatz}{R\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d686b25be9330abf206344170dab8cc8}{Rayner}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e5207c50e57c62e49ccc5b09e62048f2}{Reick}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a79cb3d422c2dd92c4e4f606da61a59e}{Roeckner}{R\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=61cd338879df9f90ef77e7683e4187d9}{Schnitzler}{S\bibinitperiod}{K.\bibnamedelimi G.}{K\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f3e84bdc6ecfcb027df92fcff94129b}{Schnur}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=631b29e53a483588006cbf45ca3462e7}{Strassmann}{S\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f738ba00fe785876d7b430597a1e6ce}{Weaver}{W\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5f5871fc6adab2f3df7b2ac70f6bd02c}{Yoshikawa}{Y\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d9caf25cf6b9fa55a6eb71f1283c1b6c}{Zeng}{Z\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Meteorological Society}%
+      }
+      \strng{namehash}{74626421fd20849f01e29cfbd8601c4b}
+      \strng{fullhash}{e522e7533035fa092701210d6ea6cd1b}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2006}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Climate--carbon cycle feedback analysis: Results from the c 4 mip model intercomparison}}
+      \field{journaltitle}{J Climate}
+      \field{month}{07}
+      \field{number}{14}
+      \field{title}{{Climate--carbon cycle feedback analysis: Results from the c 4 mip model intercomparison}}
+      \field{volume}{19}
+      \field{year}{2006}
+      \field{pages}{3337\bibrangedash 3353}
+      \verb{doi}
+      \verb 10.1175/jcli3800.1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1175/jcli3800.1
+      \endverb
+    \endentry
+    \entry{Gilbert_2010}{article}{}
+      \name{labelname}{12}{}{%
+        {{uniquename=0,hash=02a3f589062d5d463a99e91af6776396}{Gilbert}{G\bibinitperiod}{Jack\bibnamedelimb A\bibnamedelima Field}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=79313848ceb6b2f0db6226af25fdfa61}{Dawn}{D\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d217331f6dedf4696012d00278270855}{Swift}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=464f4e389b93f6c64353eed7bbc9b5b7}{Thomas}{T\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cae4469eed0c5497c7eebc292b65861}{Cummings}{C\bibinitperiod}{Denise}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3260679c242ed07ecf612d5e1dd55d15}{Temperton}{T\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a31dd769ed1149aa4da1d50c317b2340}{Weynberg}{W\bibinitperiod}{Karen}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=632880b03fda63756d4137385a6295b2}{Huse}{H\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e1d04bfd1aa1be8a784c71cb8a98dff5}{Hughes}{H\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4a514c7ebe6065da355cc0a3894385c0}{Joint}{J\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=213e2fc44a7b18e61b5c7a2d1d6cd0c2}{Somerfield}{S\bibinitperiod}{Paul\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f54247f7e48fdb0bdfbab08467f5c6c2}{Muhling}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{uniquename=0,hash=02a3f589062d5d463a99e91af6776396}{Gilbert}{G\bibinitperiod}{Jack\bibnamedelimb A\bibnamedelima Field}{J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=79313848ceb6b2f0db6226af25fdfa61}{Dawn}{D\bibinitperiod}{}{}{}{}{}{}}%
+        {{uniquename=0,hash=d217331f6dedf4696012d00278270855}{Swift}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=464f4e389b93f6c64353eed7bbc9b5b7}{Thomas}{T\bibinitperiod}{Simon}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cae4469eed0c5497c7eebc292b65861}{Cummings}{C\bibinitperiod}{Denise}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3260679c242ed07ecf612d5e1dd55d15}{Temperton}{T\bibinitperiod}{Ben}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a31dd769ed1149aa4da1d50c317b2340}{Weynberg}{W\bibinitperiod}{Karen}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=632880b03fda63756d4137385a6295b2}{Huse}{H\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e1d04bfd1aa1be8a784c71cb8a98dff5}{Hughes}{H\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4a514c7ebe6065da355cc0a3894385c0}{Joint}{J\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=213e2fc44a7b18e61b5c7a2d1d6cd0c2}{Somerfield}{S\bibinitperiod}{Paul\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f54247f7e48fdb0bdfbab08467f5c6c2}{Muhling}{M\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=110add280d21d648defbda92acad33c0}{Rodriguez-Valera}{R\bibinithyphendelim V\bibinitperiod}{Francisco}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science (PLoS)}%
+      }
+      \strng{namehash}{e13e8c4451865f3d6041c98a810dc9a8}
+      \strng{fullhash}{48b0e57cbfc6b335ff54dc7f4821e760}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2010}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The taxonomic and functional diversity of microbes at a temperate coastal site: a `multi-omic' study of seasonal and diel temporal variation}}
+      \field{journaltitle}{PLoS ONE}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{The taxonomic and functional diversity of microbes at a temperate coastal site: a `multi-omic' study of seasonal and diel temporal variation}}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{e15545}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0015545
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1371/journal.pone.0015545
+      \endverb
+    \endentry
+    \entry{Goldfarb_2011}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=79786dfa0bd786b4558d110d10591e0d}{Goldfarb}{G\bibinitperiod}{Katherine\bibnamedelima C.}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=365efd06336526de1453e25ed0f40312}{Karaoz}{K\bibinitperiod}{Ulas}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2366f4e067e8273344e1421773423176}{Hanson}{H\bibinitperiod}{China\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f5530ed497cd92c07145c0ae948f7f57}{Santee}{S\bibinitperiod}{Clark\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b3c4265fa7cc05b1fdc0a7adeaf17604}{Bradford}{B\bibinitperiod}{Mark\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4778b6bac638ad5098ab3e8af1782d54}{Treseder}{T\bibinitperiod}{Kathleen\bibnamedelima K.}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e77a2dc2f8286ae691e945abd9fd6628}{Wallenstein}{W\bibinitperiod}{Matthew\bibnamedelima D.}{M\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7a3454ab8ee615c6efdabcc146570661}{Brodie}{B\bibinitperiod}{Eoin\bibnamedelima L.}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=79786dfa0bd786b4558d110d10591e0d}{Goldfarb}{G\bibinitperiod}{Katherine\bibnamedelima C.}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=365efd06336526de1453e25ed0f40312}{Karaoz}{K\bibinitperiod}{Ulas}{U\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2366f4e067e8273344e1421773423176}{Hanson}{H\bibinitperiod}{China\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f5530ed497cd92c07145c0ae948f7f57}{Santee}{S\bibinitperiod}{Clark\bibnamedelima A.}{C\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b3c4265fa7cc05b1fdc0a7adeaf17604}{Bradford}{B\bibinitperiod}{Mark\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4778b6bac638ad5098ab3e8af1782d54}{Treseder}{T\bibinitperiod}{Kathleen\bibnamedelima K.}{K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e77a2dc2f8286ae691e945abd9fd6628}{Wallenstein}{W\bibinitperiod}{Matthew\bibnamedelima D.}{M\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7a3454ab8ee615c6efdabcc146570661}{Brodie}{B\bibinitperiod}{Eoin\bibnamedelima L.}{E\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{1de113d7acbd510730c46c9034410476}
+      \strng{fullhash}{4832c7165bc0e3b3fe8a7d250872febe}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Differential Growth Responses of Soil Bacterial Taxa to Carbon Substrates of Varying Chemical Recalcitrance}}
+      \field{issn}{1664-302X}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{{Differential Growth Responses of Soil Bacterial Taxa to Carbon Substrates of Varying Chemical Recalcitrance}}
+      \field{volume}{2}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.3389/fmicb.2011.00094
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3389/fmicb.2011.00094
+      \endverb
+    \endentry
+    \entry{Griffiths_2000}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=8adf60d4b993c89270eeceda99c25727}{Griffiths}{G\bibinitperiod}{R.\bibnamedelimi I.}{R\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1dd2748d2dfbefe86fdd88d3e6eb83cc}{Whiteley}{W\bibinitperiod}{A.\bibnamedelimi S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb6262dd4d5de7f115d729837285f789}{O{'}Donnell}{O\bibinitperiod}{A.\bibnamedelimi G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c16072d92666af21ef77362f89cd49b4}{Bailey}{B\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=8adf60d4b993c89270eeceda99c25727}{Griffiths}{G\bibinitperiod}{R.\bibnamedelimi I.}{R\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1dd2748d2dfbefe86fdd88d3e6eb83cc}{Whiteley}{W\bibinitperiod}{A.\bibnamedelimi S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb6262dd4d5de7f115d729837285f789}{O{'}Donnell}{O\bibinitperiod}{A.\bibnamedelimi G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c16072d92666af21ef77362f89cd49b4}{Bailey}{B\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{55ef21eefccd430a6f95525e525310e3}
+      \strng{fullhash}{c2f8e4549d8ed89adb89637c39f7b3c3}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2000}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}}
+      \field{volume}{66}
+      \field{year}{2000}
+      \field{pages}{5488\bibrangedash 5491}
+      \verb{doi}
+      \verb 10.1128/aem.66.12.5488-5491.2000
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.66.12.5488-5491.2000
+      \endverb
+    \endentry
+    \entry{Groenigen_2006}{incollection}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=2c53e941f66e4e32681f327f20bb7dc6}{Groenigen}{G\bibinitperiod}{K.\bibnamedelimi J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0e5e95a8f8a10c58af0d820257a055d}{Graaff}{G\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7265adbf883e922317870910dad7d741}{Six}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d31b77dc306543756e7cf54dbe495cd}{Harris}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57aebcabe400fd070ece767abd8ef068}{Kuikman}{K\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=07cd87bdabdae6a46a8d1c0040a7a19f}{Kessel}{K\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=2c53e941f66e4e32681f327f20bb7dc6}{Groenigen}{G\bibinitperiod}{K.\bibnamedelimi J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0e5e95a8f8a10c58af0d820257a055d}{Graaff}{G\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7265adbf883e922317870910dad7d741}{Six}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d31b77dc306543756e7cf54dbe495cd}{Harris}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57aebcabe400fd070ece767abd8ef068}{Kuikman}{K\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=07cd87bdabdae6a46a8d1c0040a7a19f}{Kessel}{K\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science + Business Media}%
+      }
+      \strng{namehash}{92a109a3a91766e31714f77a2c9a1d13}
+      \strng{fullhash}{a75584135a7911173e6071d59aab294c}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The impact of elevated atmospheric [co2] on soil c and n dynamics: a meta-analysis}}
+      \field{booktitle}{Managed Ecosystems and CO2}
+      \field{title}{{The impact of elevated atmospheric [co2] on soil c and n dynamics: a meta-analysis}}
+      \field{year}{2006}
+      \field{pages}{373\bibrangedash 391}
+      \verb{doi}
+      \verb 10.1007/3-540-31237-4_21
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/3-540-31237-4_21
+      \endverb
+    \endentry
+    \entry{Hamady_2008}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=d23dc68865fc795bc58b8217f6f740a7}{Hamady}{H\bibinitperiod}{Micah}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b6a97f5c0235438733ba6c23284a2447}{Walker}{W\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b116119cadc3b2b745f1bde4e220f4b}{Harris}{H\bibinitperiod}{J\bibnamedelima Kirk}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=62d2c90283e4d89f59a16f4ae38164a5}{Gold}{G\bibinitperiod}{Nicholas\bibnamedelima J}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=607e7274c9442c4ae0ef4ccd9c4b549f}{Knight}{K\bibinitperiod}{Rob}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=d23dc68865fc795bc58b8217f6f740a7}{Hamady}{H\bibinitperiod}{Micah}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b6a97f5c0235438733ba6c23284a2447}{Walker}{W\bibinitperiod}{Jeffrey\bibnamedelima J}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b116119cadc3b2b745f1bde4e220f4b}{Harris}{H\bibinitperiod}{J\bibnamedelima Kirk}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=62d2c90283e4d89f59a16f4ae38164a5}{Gold}{G\bibinitperiod}{Nicholas\bibnamedelima J}{N\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=607e7274c9442c4ae0ef4ccd9c4b549f}{Knight}{K\bibinitperiod}{Rob}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7514e0c15f52aa934af304c6995cd319}
+      \strng{fullhash}{7e651c38c4504a248ab71faf376ccd47}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2008}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}}
+      \field{journaltitle}{Nat Meth}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}}
+      \field{volume}{5}
+      \field{year}{2008}
+      \field{pages}{235\bibrangedash 237}
+      \verb{doi}
+      \verb 10.1038/nmeth.1184
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nmeth.1184
+      \endverb
+    \endentry
+    \entry{Herlemann_2013}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=f0067361dfd6f950b36a6dc392d742df}{Herlemann}{H\bibinitperiod}{D.\bibnamedelimi P.\bibnamedelimi R.}{D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9815a61532a0c8f985b9e319bab83a6}{Lundin}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb4a7b675e6ceb38192bf35f4011053c}{Labrenz}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b491d3e7abbb364889fa34984552f21c}{Jurgens}{J\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08c19b88bb8a048489afab826cd78db1}{Zheng}{Z\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4170eeb1232267f5f72eba16b409a9e6}{Aspeborg}{A\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59fd047785150fdb85dc517cc1b38196}{Andersson}{A\bibinitperiod}{A.\bibnamedelimi F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=f0067361dfd6f950b36a6dc392d742df}{Herlemann}{H\bibinitperiod}{D.\bibnamedelimi P.\bibnamedelimi R.}{D\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9815a61532a0c8f985b9e319bab83a6}{Lundin}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb4a7b675e6ceb38192bf35f4011053c}{Labrenz}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b491d3e7abbb364889fa34984552f21c}{Jurgens}{J\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08c19b88bb8a048489afab826cd78db1}{Zheng}{Z\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4170eeb1232267f5f72eba16b409a9e6}{Aspeborg}{A\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=59fd047785150fdb85dc517cc1b38196}{Andersson}{A\bibinitperiod}{A.\bibnamedelimi F.}{A\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{f37295d2a641f958ac3af0b451bf52bd}
+      \strng{fullhash}{622b1d9af065b720cd1749095a09ae77}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2013}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Metagenomic de novo assembly of an aquatic representative of the verrucomicrobial class spartobacteria}}
+      \field{journaltitle}{mBio}
+      \field{month}{05}
+      \field{number}{3}
+      \field{title}{{Metagenomic de novo assembly of an aquatic representative of the verrucomicrobial class spartobacteria}}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{e0056912\bibrangedash e0056912}
+      \verb{doi}
+      \verb 10.1128/mbio.00569-12
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/mbio.00569-12
+      \endverb
+    \endentry
+    \entry{Hu_1997}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=9135ae33dcd85e39878766e9c8d6c1c2}{Hu}{H\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27c47fc8159ba01f69f92041b13d66fd}{Bruggen}{B\bibinitperiod}{A.\bibnamedelimi H.\bibnamedelimi C.}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9135ae33dcd85e39878766e9c8d6c1c2}{Hu}{H\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27c47fc8159ba01f69f92041b13d66fd}{Bruggen}{B\bibinitperiod}{A.\bibnamedelimi H.\bibnamedelimi C.}{A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science + Business Media}%
+      }
+      \strng{namehash}{ec6fa898f2b687633a6ad2a93bb3ca9c}
+      \strng{fullhash}{ec6fa898f2b687633a6ad2a93bb3ca9c}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{1997}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial dynamics associated with multiphasic decomposition of $^{14}$C-Labeled Cellulose in Soil}}
+      \field{journaltitle}{Microb Ecol}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{{Microbial dynamics associated with multiphasic decomposition of $^{14}$C-Labeled Cellulose in Soil}}
+      \field{volume}{33}
+      \field{year}{1997}
+      \field{pages}{134\bibrangedash 143}
+      \verb{doi}
+      \verb 10.1007/s002489900015
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s002489900015
+      \endverb
+    \endentry
+    \entry{Hug_2013}{article}{}
+      \name{labelname}{9}{}{%
+        {{uniquename=0,hash=29b97816ce7232495595cb786a8a6e61}{Hug}{H\bibinitperiod}{Laura\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78e672571baf197e325eef94a9ad2f0b}{Castelle}{C\bibinitperiod}{Cindy\bibnamedelima J}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6040dba9cbcd8c34dd3d5d1740aabd06}{Wrighton}{W\bibinitperiod}{Kelly\bibnamedelima C}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe9be7004abd8330a5c2a2c783ebcc2b}{Thomas}{T\bibinitperiod}{Brian\bibnamedelima C}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f9cc2a3b2e86bdb9f4af6937ea4139f}{Sharon}{S\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e4234a54af7270274b078499f1b2477}{Frischkorn}{F\bibinitperiod}{Kyle\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c109861221c0b6f6c666c9d98b450c9d}{Williams}{W\bibinitperiod}{Kenneth\bibnamedelima H}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7467371444fc1e5a2895e45239db08a4}{Tringe}{T\bibinitperiod}{Susannah\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72671a7c019b37f498a9e7f560605868}{Banfield}{B\bibinitperiod}{Jillian\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{uniquename=0,hash=29b97816ce7232495595cb786a8a6e61}{Hug}{H\bibinitperiod}{Laura\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78e672571baf197e325eef94a9ad2f0b}{Castelle}{C\bibinitperiod}{Cindy\bibnamedelima J}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6040dba9cbcd8c34dd3d5d1740aabd06}{Wrighton}{W\bibinitperiod}{Kelly\bibnamedelima C}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe9be7004abd8330a5c2a2c783ebcc2b}{Thomas}{T\bibinitperiod}{Brian\bibnamedelima C}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f9cc2a3b2e86bdb9f4af6937ea4139f}{Sharon}{S\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9e4234a54af7270274b078499f1b2477}{Frischkorn}{F\bibinitperiod}{Kyle\bibnamedelima R}{K\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c109861221c0b6f6c666c9d98b450c9d}{Williams}{W\bibinitperiod}{Kenneth\bibnamedelima H}{K\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7467371444fc1e5a2895e45239db08a4}{Tringe}{T\bibinitperiod}{Susannah\bibnamedelima G}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72671a7c019b37f498a9e7f560605868}{Banfield}{B\bibinitperiod}{Jillian\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science $\mathplus$ Business Media}%
+      }
+      \strng{namehash}{152a468559b26ae55ddee9d5bf966242}
+      \strng{fullhash}{632ebd2f38801f68ed5e0b5e9596fb4e}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Community genomic analyses constrain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling}}
+      \field{journaltitle}{Microbiome}
+      \field{number}{1}
+      \field{title}{{Community genomic analyses constrain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling}}
+      \field{volume}{1}
+      \field{year}{2013}
+      \field{pages}{22}
+      \verb{doi}
+      \verb 10.1186/2049-2618-1-22
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1186/2049-2618-1-22
+      \endverb
+    \endentry
+    \entry{Janssen2006}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7f492375cb4acd249de646f4943b78d2}
+      \strng{fullhash}{7f492375cb4acd249de646f4943b78d2}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes}
+      \field{issn}{0099-2240}
+      \field{journaltitle}{Applied and Environmental Microbiology}
+      \field{note}{PMID: 16517615 PMCID: PMC1393246}
+      \field{number}{3}
+      \field{shortjournal}{Appl {Environ} {Microbiol}}
+      \field{title}{Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2015}
+      \field{volume}{72}
+      \field{year}{2006}
+      \field{pages}{1719\bibrangedash 1728}
+      \verb{doi}
+      \verb 10.1128/AEM.72.3.1719-1728.2006
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/chuck/.zotero/zotero/is3tm1mp.default/zotero/storage/PAA8ZBZC/Janssen - 2006 - Identifying the Dominant Soil Bacterial Taxa in Li.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1393246/
+      \endverb
+    \endentry
+    \entry{Janssen2002}{article}{}
+      \name{labelname}{5}{uniquelist=1}{%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5c576db1bb99cb0fb155d73bfd85a18d}{Yates}{Y\bibinitperiod}{Penelope\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=99dabe6b1273b367a132a607a4a1679e}{Grinton}{G\bibinitperiod}{Bronwyn\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea6a5043606af77e137d7c20553b2038}{Taylor}{T\bibinitperiod}{Paul\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1c8d544ead6c3ed48ef75ee41f5af08}{Sait}{S\bibinitperiod}{Michelle}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{uniquelist=1}{%
+        {{uniquename=0,hash=7f492375cb4acd249de646f4943b78d2}{Janssen}{J\bibinitperiod}{Peter\bibnamedelima H.}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5c576db1bb99cb0fb155d73bfd85a18d}{Yates}{Y\bibinitperiod}{Penelope\bibnamedelima S.}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=99dabe6b1273b367a132a607a4a1679e}{Grinton}{G\bibinitperiod}{Bronwyn\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea6a5043606af77e137d7c20553b2038}{Taylor}{T\bibinitperiod}{Paul\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a1c8d544ead6c3ed48ef75ee41f5af08}{Sait}{S\bibinitperiod}{Michelle}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{78c36052a2af322b6354b18f80346684}
+      \strng{fullhash}{461b784f767f6f83505eb145501aa1d7}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Improved culturability of soil bacteria and isolation in pure culture of novel members of the divisions acidobacteria, actinobacteria, proteobacteria, and verrucomicrobia}
+      \field{issn}{0099-2240}
+      \field{journaltitle}{Applied and Environmental Microbiology}
+      \field{note}{PMID: 11976113 PMCID: PMC127570}
+      \field{number}{5}
+      \field{shortjournal}{Appl {Environ} {Microbiol}}
+      \field{title}{Improved culturability of soil bacteria and isolation in pure culture of novel members of the divisions acidobacteria, actinobacteria, proteobacteria, and verrucomicrobia}
+      \field{urlday}{04}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{68}
+      \field{year}{2002}
+      \field{pages}{2391\bibrangedash 2396}
+      \verb{doi}
+      \verb 10.1128/AEM.68.5.2391-2396.2002
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/chuck/.zotero/zotero/is3tm1mp.default/zotero/storage/6EU3QKUD/Janssen et al. - 2002 - Improved Culturability of Soil Bacteria and Isolat.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC127570/
+      \endverb
+    \endentry
+    \entry{Jiang_2011}{article}{}
+      \name{labelname}{9}{}{%
+        {{uniquename=0,hash=ef2ed45af4c8b1c09042e75e74508423}{Jiang}{J\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=82083b9908d6e30a4dc9dc2c603e93ba}{Li}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54f4beba186e1f6e1f93dd4744dc0cd4}{Xiao}{X\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5b203088259918436e2d33f83a4692f1}{Dai}{D\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=73f5223de59d00d363853e0fa07506b2}{Kan}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a59c40c928a4caadf9f8dd2965b041f}{Chen}{C\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=82083b9908d6e30a4dc9dc2c603e93ba}{Li}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3acd3400f84fd6f9fbbc8542b3c02bed}{Fang}{F\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc2bc7902907febc45428c3d8dd1a138}{Peng}{P\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{uniquename=0,hash=ef2ed45af4c8b1c09042e75e74508423}{Jiang}{J\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=82083b9908d6e30a4dc9dc2c603e93ba}{Li}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54f4beba186e1f6e1f93dd4744dc0cd4}{Xiao}{X\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5b203088259918436e2d33f83a4692f1}{Dai}{D\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=73f5223de59d00d363853e0fa07506b2}{Kan}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9a59c40c928a4caadf9f8dd2965b041f}{Chen}{C\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=82083b9908d6e30a4dc9dc2c603e93ba}{Li}{L\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3acd3400f84fd6f9fbbc8542b3c02bed}{Fang}{F\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc2bc7902907febc45428c3d8dd1a138}{Peng}{P\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{15467ddb730462de517caf104ccdd646}
+      \strng{fullhash}{e51e4dd2279b007a2b7411440ff788b6}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labelyear}{2011}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Luteolibacter luojiensis sp. nov. isolated from Arctic tundra soil, and emended description of the genus Luteolibacter}}
+      \field{journaltitle}{Int J Syst Evol Microbiol}
+      \field{month}{11}
+      \field{number}{Pt 9}
+      \field{title}{{Luteolibacter luojiensis sp. nov. isolated from Arctic tundra soil, and emended description of the genus Luteolibacter}}
+      \field{volume}{62}
+      \field{year}{2011}
+      \field{pages}{2259\bibrangedash 2263}
+      \verb{doi}
+      \verb 10.1099/ijs.0.037309-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/ijs.0.037309-0
+      \endverb
+    \endentry
+    \entry{Kalbitz_2000}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=8580f61703344e50b7b92e4dd7679c33}{Kalbitz}{K\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e091a126f800b572a49d5fb05d90d9b}{Solinger}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d3aa649c3aeb614a9fc24681aff01dd0}{Park}{P\bibinitperiod}{J.-H.}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b831d98588b2a1815d95af86f04e52e}{Michalzik}{M\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0ae3210193c534af69fdc48eb710ba4}{Matzner}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=8580f61703344e50b7b92e4dd7679c33}{Kalbitz}{K\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e091a126f800b572a49d5fb05d90d9b}{Solinger}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d3aa649c3aeb614a9fc24681aff01dd0}{Park}{P\bibinitperiod}{J.-H.}{J\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b831d98588b2a1815d95af86f04e52e}{Michalzik}{M\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0ae3210193c534af69fdc48eb710ba4}{Matzner}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ovid Technologies (Wolters Kluwer Health)}%
+      }
+      \strng{namehash}{fa22766776c3659ddba6292b0987e186}
+      \strng{fullhash}{93a359d82b5c2cca642ed3603cb38bf8}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Controls on the dynamics of dissolved organic matter in soils: a review}
+      \field{journaltitle}{Soil Sci}
+      \field{number}{4}
+      \field{title}{Controls on the dynamics of dissolved organic matter in soils: a review}
+      \field{volume}{165}
+      \field{year}{2000}
+      \field{pages}{277\bibrangedash 304}
+      \verb{doi}
+      \verb 10.1097/00010694-200004000-00001
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1097/00010694-200004000-00001
+      \endverb
+    \endentry
+    \entry{Kembel_2012}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=383a8a204fc676a7247532b3b29b3322}{Kembel}{K\bibinitperiod}{Steven\bibnamedelima W.}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf780fbad6e2277ca2458578f77694d9}{Wu}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=427d169e4826d8aac8359487aa1e4680}{Eisen}{E\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bb264df860cc01e0884a9a65a16c05c}{Green}{G\bibinitperiod}{Jessica\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=383a8a204fc676a7247532b3b29b3322}{Kembel}{K\bibinitperiod}{Steven\bibnamedelima W.}{S\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf780fbad6e2277ca2458578f77694d9}{Wu}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=427d169e4826d8aac8359487aa1e4680}{Eisen}{E\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bb264df860cc01e0884a9a65a16c05c}{Green}{G\bibinitperiod}{Jessica\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=25a9e149a5ef0ce96c52ca613b4964fc}{Mering}{M\bibinitperiod}{Christian}{C\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science (PLoS)}%
+      }
+      \strng{namehash}{223a7f669a9de3ed0939e649fa3063a7}
+      \strng{fullhash}{0460f6851c659db24ef6e6acdc17d588}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2012}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}}
+      \field{volume}{8}
+      \field{year}{2012}
+      \field{pages}{e1002743}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1002743
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1371/journal.pcbi.1002743
+      \endverb
+    \endentry
+    \entry{Klappenbach_2000}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=1,hash=5c119323e499e3a738fcddfd4f769e59}{Klappenbach}{K\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc382e602b1fa28d51b8a83b1dc2d89b}{Dunbar}{D\bibinitperiod}{J.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=95352fcbfde7d6083d1d67e896e7adbc}{Schmidt}{S\bibinitperiod}{T.\bibnamedelimi M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=1,hash=5c119323e499e3a738fcddfd4f769e59}{Klappenbach}{K\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc382e602b1fa28d51b8a83b1dc2d89b}{Dunbar}{D\bibinitperiod}{J.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=95352fcbfde7d6083d1d67e896e7adbc}{Schmidt}{S\bibinitperiod}{T.\bibnamedelimi M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{80c1219aa4f0781db17ce827f8c2311f}
+      \strng{fullhash}{80c1219aa4f0781db17ce827f8c2311f}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2000}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{rRNA} Operon copy number reflects ecological strategies of bacteria}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{{rRNA} Operon copy number reflects ecological strategies of bacteria}}
+      \field{volume}{66}
+      \field{year}{2000}
+      \field{pages}{1328\bibrangedash 1333}
+      \verb{doi}
+      \verb 10.1128/aem.66.4.1328-1333.2000
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.66.4.1328-1333.2000
+      \endverb
+    \endentry
+    \entry{11125085}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=1,hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=1,hash=a1d0b5b8baea9ae25ef213a5ee2061b7}{Klappenbach}{K\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f95f2ef40c2fc2f2cf2693571a4bc226}{Saxman}{S\bibinitperiod}{PR}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68e41dd4bd998aabf34422881bf27f3d}{Cole}{C\bibinitperiod}{JR}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=745a9a1c0a0e3f8210ffc5e38da86b45}{Schmidt}{S\bibinitperiod}{TM}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{99c85077ca2afe32b9f81860effd1d90}
+      \strng{fullhash}{858aafdef6923f4cf4f8d076b7b83de7}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
+      \field{title}{{rrndb: the Ribosomal RNA Operon Copy Number Database.}}
+      \field{volume}{29}
+      \field{year}{2001}
+      \field{pages}{181\bibrangedash 4}
+      \warn{\item Datamodel: Entry '11125085' (bibliography/biblio.bib): Invalid format '2001 Jan 1' of date field 'date' - ignoring}
+    \endentry
+    \entry{Kong_2012}{article}{}
+      \name{labelname}{12}{}{%
+        {{uniquename=0,hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{12}{}{%
+        {{uniquename=0,hash=0326f894e6932756b392789387e779a9}{Kong}{K\bibinitperiod}{H.\bibnamedelimi H.}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d5a88ff8ba5f6cdc45b5a95b17008e5a}{Oh}{O\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44965171e08559ee36e46f7f2bd8d8c7}{Deming}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=caf4cc23b5108fd59d8d4439b3607841}{Conlan}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=afdc724c966e4b7378fe6ff07c9b4746}{Grice}{G\bibinitperiod}{E.\bibnamedelimi A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=686757f962f573871de465efc4e739f8}{Beatson}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=955aac797afecbfd9bbb1a50c0925fac}{Nomicos}{N\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d1962a3cf8b76ad4beb9bf30f605ecf8}{Polley}{P\bibinitperiod}{E.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c060910f2c6a7f95451553c68ddbda2d}{Komarow}{K\bibinitperiod}{H.\bibnamedelimi D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=077d7ee779429ac86c97636b41c4acde}{Murray}{M\bibinitperiod}{P.\bibnamedelimi R.}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=690a4d4df6eab5eb507ed15a3c8df998}{Turner}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a98af2d06fd7aa7104f861ef16055b2f}{Segre}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory Press}%
+      }
+      \strng{namehash}{ed5f9bdb38bb4ac61ad0910885147480}
+      \strng{fullhash}{37ace75287b6757a962eaab01a52c943}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2012}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{journaltitle}{Genome Res}
+      \field{month}{02}
+      \field{number}{5}
+      \field{title}{{Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{850\bibrangedash 859}
+      \verb{doi}
+      \verb 10.1101/gr.131029.111
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1101/gr.131029.111
+      \endverb
+    \endentry
+    \entry{Labeda_2001}{article}{}
+      \name{labelname}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dc4ae13af8d442299e52872b5e3e571a}{Hatano}{H\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7bcaf02b87aa926939a65c3c72a61c97}{Kroppenstedt}{K\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=02415d9a50197e577e721ff3b4d30b0b}{Tamura}{T\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dc4ae13af8d442299e52872b5e3e571a}{Hatano}{H\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7bcaf02b87aa926939a65c3c72a61c97}{Kroppenstedt}{K\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=02415d9a50197e577e721ff3b4d30b0b}{Tamura}{T\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{efd0b7aa00677cc36e55f66cbc9f6789}
+      \strng{fullhash}{34dee6e7c43dac2e349ed0c90ea74bdb}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2001}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Revival of the genus Lentzea and proposal for Lechevalieria gen. nov}}
+      \field{journaltitle}{Int J Syst Evol Microbiol}
+      \field{month}{05}
+      \field{number}{3}
+      \field{title}{{Revival of the genus Lentzea and proposal for Lechevalieria gen. nov}}
+      \field{volume}{51}
+      \field{year}{2001}
+      \field{pages}{1045\bibrangedash 1050}
+      \verb{doi}
+      \verb 10.1099/00207713-51-3-1045
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/00207713-51-3-1045
+      \endverb
+    \endentry
+    \entry{Labeda_2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7bcaf02b87aa926939a65c3c72a61c97}{Kroppenstedt}{K\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7bcaf02b87aa926939a65c3c72a61c97}{Kroppenstedt}{K\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{c3f9f2a0050c025215688dd43c3d1124}
+      \strng{fullhash}{c3f9f2a0050c025215688dd43c3d1124}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2008}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Proposal for the new genus Allokutzneria gen. nov. within the suborder Pseudonocardineae and transfer of Kibdelosporangium albatum Tomita et al. 1993 as Allokutzneria albata comb. nov.}}
+      \field{journaltitle}{Int J Syst Evol Microbiol}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{{Proposal for the new genus Allokutzneria gen. nov. within the suborder Pseudonocardineae and transfer of Kibdelosporangium albatum Tomita et al. 1993 as Allokutzneria albata comb. nov.}}
+      \field{volume}{58}
+      \field{year}{2008}
+      \field{pages}{1472\bibrangedash 1475}
+      \verb{doi}
+      \verb 10.1099/ijs.0.65474-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/ijs.0.65474-0
+      \endverb
+    \endentry
+    \entry{LABEDA_1989}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d0592fe907a130628619a6ceff492f5}{Lyons}{L\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0faf649b72d50d93413f38d53853d152}{Labeda}{L\bibinitperiod}{D.\bibnamedelimi P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8d0592fe907a130628619a6ceff492f5}{Lyons}{L\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{75e28c820dd736174370fddec488ef7b}
+      \strng{fullhash}{75e28c820dd736174370fddec488ef7b}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{1989}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Saccharothrix texasensis sp. nov. and Saccharothrix waywayandensis sp. nov.}}
+      \field{journaltitle}{Int J Syst Bacteriol}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{{Saccharothrix texasensis sp. nov. and Saccharothrix waywayandensis sp. nov.}}
+      \field{volume}{39}
+      \field{year}{1989}
+      \field{pages}{355\bibrangedash 358}
+      \verb{doi}
+      \verb 10.1099/00207713-39-3-355
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/00207713-39-3-355
+      \endverb
+    \endentry
+    \entry{Lewin1970}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=cafd289ef3107ad2e707a818fa903db3}{Lewin}{L\bibinitperiod}{Ralph\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cafd289ef3107ad2e707a818fa903db3}{Lewin}{L\bibinitperiod}{Ralph\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cafd289ef3107ad2e707a818fa903db3}
+      \strng{fullhash}{cafd289ef3107ad2e707a818fa903db3}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{1970}
+      \field{labelmonth}{06}
+      \field{labelday}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{New {Herpetosiphon} species ({Flexibacterales})}
+      \field{day}{01}
+      \field{issn}{0008-4166}
+      \field{journaltitle}{Canadian Journal of Microbiology}
+      \field{month}{06}
+      \field{number}{6}
+      \field{shortjournal}{Can. J. {Microbiol}.}
+      \field{title}{New {Herpetosiphon} species ({Flexibacterales})}
+      \field{urlday}{04}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{16}
+      \field{year}{1970}
+      \field{pages}{517\bibrangedash 520}
+      \verb{doi}
+      \verb 10.1139/m70-087
+      \endverb
+      \verb{file}
+      \verb NRC Research Press Snapshot:/home/chuck/.zotero/zotero/is3tm1mp.default/zotero/storage/WD78IP7J/m70-087.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.nrcresearchpress.com/doi/abs/10.1139/m70-087
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Lewin1970'}
+    \endentry
+    \entry{Lu_2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=66b38f33aa2ed63e81a07a297c7f9815}{Lu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=66b38f33aa2ed63e81a07a297c7f9815}{Lu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science ({AAAS})}%
+      }
+      \strng{namehash}{66b38f33aa2ed63e81a07a297c7f9815}
+      \strng{fullhash}{66b38f33aa2ed63e81a07a297c7f9815}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labelyear}{2005}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{In situ stable isotope probing of methanogenic archaea in the rice rhizosphere}}
+      \field{journaltitle}{Science}
+      \field{month}{08}
+      \field{number}{5737}
+      \field{title}{{In situ stable isotope probing of methanogenic archaea in the rice rhizosphere}}
+      \field{volume}{309}
+      \field{year}{2005}
+      \field{pages}{1088\bibrangedash 1090}
+      \verb{doi}
+      \verb 10.1126/science.1113435
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1126/science.1113435
+      \endverb
+    \endentry
+    \entry{Manefield_2002}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=6fc14c473c294c4b48bbec158ff130bb}{Manefield}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1dd2748d2dfbefe86fdd88d3e6eb83cc}{Whiteley}{W\bibinitperiod}{A.\bibnamedelimi S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8adf60d4b993c89270eeceda99c25727}{Griffiths}{G\bibinitperiod}{R.\bibnamedelimi I.}{R\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c16072d92666af21ef77362f89cd49b4}{Bailey}{B\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=6fc14c473c294c4b48bbec158ff130bb}{Manefield}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1dd2748d2dfbefe86fdd88d3e6eb83cc}{Whiteley}{W\bibinitperiod}{A.\bibnamedelimi S.}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8adf60d4b993c89270eeceda99c25727}{Griffiths}{G\bibinitperiod}{R.\bibnamedelimi I.}{R\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c16072d92666af21ef77362f89cd49b4}{Bailey}{B\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{5be0395176d106fdeeb78835408edfe0}
+      \strng{fullhash}{30f017a001c00061a7e06ad116bb00cb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2002}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{RNA} Stable isotope probing a novel means of linking microbial community function to phylogeny}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{{{RNA} Stable isotope probing a novel means of linking microbial community function to phylogeny}}
+      \field{volume}{68}
+      \field{year}{2002}
+      \field{pages}{5367\bibrangedash 5373}
+      \verb{doi}
+      \verb 10.1128/aem.68.11.5367-5373.2002
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.68.11.5367-5373.2002
+      \endverb
+    \endentry
+    \entry{Nannipieri_2003}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=928e7838c1e13ff95a3e5a6be538e050}{Nannipieri}{N\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=24505d3eafa1182aa8d965dcbf113516}{Ascher}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c3902b04c22b44b0c2ff1eb0a938d0f}{Ceccherini}{C\bibinitperiod}{M.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=19cdf096c7ac0a774eac2f7f9c053aed}{Landi}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=76505c799b832ac323470172c63c0cca}{Pietramellara}{P\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=90e019a954bf3eb9d1aa6838a8811664}{Renella}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=928e7838c1e13ff95a3e5a6be538e050}{Nannipieri}{N\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=24505d3eafa1182aa8d965dcbf113516}{Ascher}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c3902b04c22b44b0c2ff1eb0a938d0f}{Ceccherini}{C\bibinitperiod}{M.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=19cdf096c7ac0a774eac2f7f9c053aed}{Landi}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=76505c799b832ac323470172c63c0cca}{Pietramellara}{P\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=90e019a954bf3eb9d1aa6838a8811664}{Renella}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{a864ada100b2b102eb1a30ccc410a9a0}
+      \strng{fullhash}{fb74dd7740507e68fb1ca461aadf2dae}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{extrayear}{1}
+      \field{labelyear}{2003}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial diversity and soil functions}}
+      \field{journaltitle}{European Journal of Soil Science}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Microbial diversity and soil functions}}
+      \field{volume}{54}
+      \field{year}{2003}
+      \field{pages}{655\bibrangedash 670}
+      \verb{doi}
+      \verb 10.1046/j.1351-0754.2003.0556.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1046/j.1351-0754.2003.0556.x
+      \endverb
+    \endentry
+    \entry{ndi_Pietramellara_Renella_2003}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=928e7838c1e13ff95a3e5a6be538e050}{Nannipieri}{N\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=24505d3eafa1182aa8d965dcbf113516}{Ascher}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c3902b04c22b44b0c2ff1eb0a938d0f}{Ceccherini}{C\bibinitperiod}{M.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=19cdf096c7ac0a774eac2f7f9c053aed}{Landi}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=76505c799b832ac323470172c63c0cca}{Pietramellara}{P\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=90e019a954bf3eb9d1aa6838a8811664}{Renella}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=928e7838c1e13ff95a3e5a6be538e050}{Nannipieri}{N\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=24505d3eafa1182aa8d965dcbf113516}{Ascher}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c3902b04c22b44b0c2ff1eb0a938d0f}{Ceccherini}{C\bibinitperiod}{M.\bibnamedelimi T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=19cdf096c7ac0a774eac2f7f9c053aed}{Landi}{L\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=76505c799b832ac323470172c63c0cca}{Pietramellara}{P\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=90e019a954bf3eb9d1aa6838a8811664}{Renella}{R\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Blackwell (Blackwell Publishing)}%
+      }
+      \strng{namehash}{a864ada100b2b102eb1a30ccc410a9a0}
+      \strng{fullhash}{fb74dd7740507e68fb1ca461aadf2dae}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{extrayear}{2}
+      \field{labelyear}{2003}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial diversity and soil functions}}
+      \field{journaltitle}{European Journal of Soil Science}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Microbial diversity and soil functions}}
+      \field{volume}{54}
+      \field{year}{2003}
+      \field{pages}{655\bibrangedash 670}
+      \verb{doi}
+      \verb 10.1046/j.1351-0754.2003.0556.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1046/j.1351-0754.2003.0556.x
+      \endverb
+    \endentry
+    \entry{Neff_2001}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=00bf80923c23e500eeb9dbb58a83a184}{Neff}{N\bibinitperiod}{Jason\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf8e33d2ab693c10cc0aa92129f811b4}{Asner}{A\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=00bf80923c23e500eeb9dbb58a83a184}{Neff}{N\bibinitperiod}{Jason\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf8e33d2ab693c10cc0aa92129f811b4}{Asner}{A\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Science $\mathplus$ Business Media}%
+      }
+      \strng{namehash}{0d646547d2b8d85de7f93405c081396f}
+      \strng{fullhash}{0d646547d2b8d85de7f93405c081396f}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labelyear}{2001}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Dissolved organic carbon in terrestrial ecosystems: synthesis and a model}}
+      \field{journaltitle}{Ecosystems}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Dissolved organic carbon in terrestrial ecosystems: synthesis and a model}}
+      \field{volume}{4}
+      \field{year}{2001}
+      \field{pages}{29\bibrangedash 48}
+      \verb{doi}
+      \verb 10.1007/s100210000058
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s100210000058
+      \endverb
+    \endentry
+    \entry{Neufeld_2007}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=159bf1841d46cfda521e6703c634fd75}{Neufeld}{N\bibinitperiod}{Josh\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a0e369909c3d216bfe4c4b0c28e62e3}{Vohra}{V\bibinitperiod}{Jyotsna}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=787eb768563dff0d567ddffabba11640}{Dumont}{D\bibinitperiod}{Marc\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e1228bc5af768292774b446fc24d6c0}{Lueders}{L\bibinitperiod}{Tillmann}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9b6f9b9facf3f332fbef4009158071cb}{Manefield}{M\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6a1ce7d7e0fd627c2abdb154f72e416}{Friedrich}{F\bibinitperiod}{Michael\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=159bf1841d46cfda521e6703c634fd75}{Neufeld}{N\bibinitperiod}{Josh\bibnamedelima D}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a0e369909c3d216bfe4c4b0c28e62e3}{Vohra}{V\bibinitperiod}{Jyotsna}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=787eb768563dff0d567ddffabba11640}{Dumont}{D\bibinitperiod}{Marc\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e1228bc5af768292774b446fc24d6c0}{Lueders}{L\bibinitperiod}{Tillmann}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9b6f9b9facf3f332fbef4009158071cb}{Manefield}{M\bibinitperiod}{Mike}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c6a1ce7d7e0fd627c2abdb154f72e416}{Friedrich}{F\bibinitperiod}{Michael\bibnamedelima W}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5cbeb575d808c3864c2b8dc296b79ed2}{Murrell}{M\bibinitperiod}{J\bibnamedelima Colin}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d14b60ac2bd93645270723fbe28ac2b7}
+      \strng{fullhash}{d93499ecc56cbc293243cabfb03f9c8b}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labelyear}{2007}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{{DNA} stable-isotope probing}}
+      \field{journaltitle}{Nature Protocols}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{{{DNA} stable-isotope probing}}
+      \field{volume}{2}
+      \field{year}{2007}
+      \field{pages}{860\bibrangedash 866}
+      \verb{doi}
+      \verb 10.1038/nprot.2007.109
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nprot.2007.109
+      \endverb
+    \endentry
+    \entry{O_Donnell_2002}{incollection}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=7a31e649932abd007931a0f2a3fd5508}{O'Donnell}{O\bibinitperiod}{Anthony\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3215978ecc5278c345a5fb63da69ab8c}{Seasman}{S\bibinitperiod}{Melanie}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=79d94ca751e8d67ed9397e905561448e}{Macrae}{M\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1eb6aa190f1c42b4ba03078c70cd6c01}{Waite}{W\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92f976ddc2c467319b52c66621aab245}{Davies}{D\bibinitperiod}{John\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=7a31e649932abd007931a0f2a3fd5508}{O'Donnell}{O\bibinitperiod}{Anthony\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3215978ecc5278c345a5fb63da69ab8c}{Seasman}{S\bibinitperiod}{Melanie}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=79d94ca751e8d67ed9397e905561448e}{Macrae}{M\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1eb6aa190f1c42b4ba03078c70cd6c01}{Waite}{W\bibinitperiod}{Ian}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92f976ddc2c467319b52c66621aab245}{Davies}{D\bibinitperiod}{John\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{978fa9d4bbe82a74b46bbbbdb8b33d53}
+      \strng{fullhash}{98853163e524371f1114f94df168ad03}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Plants and fertilisers as drivers of change in microbial community structure and function in soils}}
+      \field{booktitle}{Interactions in the Root Environment: An Integrated Approach}
+      \field{title}{{Plants and fertilisers as drivers of change in microbial community structure and function in soils}}
+      \field{year}{2002}
+      \field{pages}{135\bibrangedash 145}
+      \verb{doi}
+      \verb 10.1007/978-94-010-0566-1_14
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/978-94-010-0566-1_14
+      \endverb
+    \endentry
+    \entry{Otsuka_2012}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=5dde9242de3419e26371bedddb2e275e}{Otsuka}{O\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b43141b33e5fa752d9ef198bdc87acc1}{Ueda}{U\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=db6d79fe797263752d858ce4fdb503b1}{Suenaga}{S\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=97f9c44b2e79ff2b8c1d152ad8b6f673}{Uchino}{U\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d621bd08532f10784d83915f892ec78}{Hamada}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ffeef4e7d35eeda52f0f9a95603c28b0}{Yokota}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26b71c90b9e8a3c6d243e749bb583d9d}{Senoo}{S\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=5dde9242de3419e26371bedddb2e275e}{Otsuka}{O\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b43141b33e5fa752d9ef198bdc87acc1}{Ueda}{U\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=db6d79fe797263752d858ce4fdb503b1}{Suenaga}{S\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=97f9c44b2e79ff2b8c1d152ad8b6f673}{Uchino}{U\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d621bd08532f10784d83915f892ec78}{Hamada}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ffeef4e7d35eeda52f0f9a95603c28b0}{Yokota}{Y\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26b71c90b9e8a3c6d243e749bb583d9d}{Senoo}{S\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{4bd58bf5c35d8994b88c59f7080a3bf2}
+      \strng{fullhash}{a209b7f4d2ccb27dd2c5de48b41274e5}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labelyear}{2012}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Roseimicrobium gellanilyticum gen. nov. sp. nov., a new member of the class Verrucomicrobiae}}
+      \field{journaltitle}{Int J Syst Evol Microbiol}
+      \field{month}{10}
+      \field{number}{Pt 6}
+      \field{title}{{Roseimicrobium gellanilyticum gen. nov. sp. nov., a new member of the class Verrucomicrobiae}}
+      \field{volume}{63}
+      \field{year}{2012}
+      \field{pages}{1982\bibrangedash 1986}
+      \verb{doi}
+      \verb 10.1099/ijs.0.041848-0
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/ijs.0.041848-0
+      \endverb
+    \endentry
+    \entry{Parveen_2013}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=746b4839b2199e29f6d9c80f69c4714b}{Parveen}{P\bibinitperiod}{Bushra}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f1734416e5d4a8310cfb37b20f9de6d}{Mary}{M\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7679e5b2bb0336c7a1f5d4c2de58ca7}{Vellet}{V\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2fd577aeb012d8154e8d0d4783606ad8}{Ravet}{R\bibinitperiod}{Viviane}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e5900475499ccb0a434e4f114a9439e}{Debroas}{D\bibinitperiod}{Didier}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=746b4839b2199e29f6d9c80f69c4714b}{Parveen}{P\bibinitperiod}{Bushra}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1f1734416e5d4a8310cfb37b20f9de6d}{Mary}{M\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7679e5b2bb0336c7a1f5d4c2de58ca7}{Vellet}{V\bibinitperiod}{Agnes}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2fd577aeb012d8154e8d0d4783606ad8}{Ravet}{R\bibinitperiod}{Viviane}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e5900475499ccb0a434e4f114a9439e}{Debroas}{D\bibinitperiod}{Didier}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{e9ffa28f5151cf3f94c154430c635de5}
+      \strng{fullhash}{09eedff09b9fa4b1e0c1b64a0e9596c5}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labelyear}{2013}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Temporal dynamics and phylogenetic diversity of free-living and particle-associated Verrucomicrobia communities in relation to environmental variables in a mesotrophic lake}}
+      \field{journaltitle}{FEMS Microbiol Ecol}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{Temporal dynamics and phylogenetic diversity of free-living and particle-associated Verrucomicrobia communities in relation to environmental variables in a mesotrophic lake}}
+      \field{volume}{83}
+      \field{year}{2013}
+      \field{pages}{189\bibrangedash 201}
+      \verb{doi}
+      \verb 10.1111/j.1574-6941.2012.01469.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1574-6941.2012.01469.x
+      \endverb
+    \endentry
+    \entry{Philippot_2010}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=a70ba4ecbf597ecfbf0200869f40af5a}{Philippot}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8fe2be7c7c7a739e83f98f91f26e9347}{Andersson}{A\bibinitperiod}{Siv\bibnamedelimb G.\bibnamedelimi E.}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd410a34594ac366b1869694706118e4}{Battin}{B\bibinitperiod}{Tom\bibnamedelima J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f8a1c249f4998f0a050b4e0514c5d66}{Prosser}{P\bibinitperiod}{James\bibnamedelima I.}{J\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b172d6bdd34c29ab096b9e6bed0aaa9}{Schimel}{S\bibinitperiod}{Joshua\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b436c4d577e1c464668f62566ea2db9e}{Whitman}{W\bibinitperiod}{William\bibnamedelima B}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff93b487ef19b8369217fd17a4555d75}{Hallin}{H\bibinitperiod}{Sara}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=a70ba4ecbf597ecfbf0200869f40af5a}{Philippot}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8fe2be7c7c7a739e83f98f91f26e9347}{Andersson}{A\bibinitperiod}{Siv\bibnamedelimb G.\bibnamedelimi E.}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dd410a34594ac366b1869694706118e4}{Battin}{B\bibinitperiod}{Tom\bibnamedelima J.}{T\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f8a1c249f4998f0a050b4e0514c5d66}{Prosser}{P\bibinitperiod}{James\bibnamedelima I.}{J\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b172d6bdd34c29ab096b9e6bed0aaa9}{Schimel}{S\bibinitperiod}{Joshua\bibnamedelima P}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b436c4d577e1c464668f62566ea2db9e}{Whitman}{W\bibinitperiod}{William\bibnamedelima B}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ff93b487ef19b8369217fd17a4555d75}{Hallin}{H\bibinitperiod}{Sara}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{b9367691b580db854df30ca0e82f3963}
+      \strng{fullhash}{d7a037928c27f1f4f0d7a011d7149972}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labelyear}{2010}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The ecological coherence of high bacterial taxonomic ranks}}
+      \field{journaltitle}{Nat Rev Micro}
+      \field{month}{06}
+      \field{number}{7}
+      \field{title}{{The ecological coherence of high bacterial taxonomic ranks}}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{523\bibrangedash 529}
+      \verb{doi}
+      \verb 10.1038/nrmicro2367
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrmicro2367
+      \endverb
+    \endentry
+    \entry{Di_Rienzi_2013}{article}{}
+      \name{labelname}{11}{}{%
+        {{uniquename=0,hash=9947e4d874da7b6c471536d1ff6ec66a}{Rienzi}{R\bibinitperiod}{Sara\bibnamedelimb C\bibnamedelima Di}{S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f9cc2a3b2e86bdb9f4af6937ea4139f}{Sharon}{S\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6040dba9cbcd8c34dd3d5d1740aabd06}{Wrighton}{W\bibinitperiod}{Kelly\bibnamedelima C}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4381c7344abb6f1eaf884453ebbcad60}{Koren}{K\bibinitperiod}{Omry}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=29b97816ce7232495595cb786a8a6e61}{Hug}{H\bibinitperiod}{Laura\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe9be7004abd8330a5c2a2c783ebcc2b}{Thomas}{T\bibinitperiod}{Brian\bibnamedelima C}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=777b060aca572c4c9e76cce6be533e55}{Goodrich}{G\bibinitperiod}{Julia\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b55dd363f7cf49fc09386bd82f65ad14}{Bell}{B\bibinitperiod}{Jordana\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83bcd1de394d34d5608950f016a00245}{Spector}{S\bibinitperiod}{Timothy\bibnamedelima D}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72671a7c019b37f498a9e7f560605868}{Banfield}{B\bibinitperiod}{Jillian\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d4d39c76cb2e2f9f44f64d7534b2b13}{Ley}{L\bibinitperiod}{Ruth\bibnamedelima E}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=9947e4d874da7b6c471536d1ff6ec66a}{Rienzi}{R\bibinitperiod}{Sara\bibnamedelimb C\bibnamedelima Di}{S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6f9cc2a3b2e86bdb9f4af6937ea4139f}{Sharon}{S\bibinitperiod}{Itai}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6040dba9cbcd8c34dd3d5d1740aabd06}{Wrighton}{W\bibinitperiod}{Kelly\bibnamedelima C}{K\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4381c7344abb6f1eaf884453ebbcad60}{Koren}{K\bibinitperiod}{Omry}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=29b97816ce7232495595cb786a8a6e61}{Hug}{H\bibinitperiod}{Laura\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe9be7004abd8330a5c2a2c783ebcc2b}{Thomas}{T\bibinitperiod}{Brian\bibnamedelima C}{B\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=777b060aca572c4c9e76cce6be533e55}{Goodrich}{G\bibinitperiod}{Julia\bibnamedelima K}{J\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b55dd363f7cf49fc09386bd82f65ad14}{Bell}{B\bibinitperiod}{Jordana\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83bcd1de394d34d5608950f016a00245}{Spector}{S\bibinitperiod}{Timothy\bibnamedelima D}{T\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=72671a7c019b37f498a9e7f560605868}{Banfield}{B\bibinitperiod}{Jillian\bibnamedelima F}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d4d39c76cb2e2f9f44f64d7534b2b13}{Ley}{L\bibinitperiod}{Ruth\bibnamedelima E}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {{eLife} Sciences Publications Ltd.}%
+      }
+      \strng{namehash}{9bf238a6830c8b8556b7905537b91652}
+      \strng{fullhash}{3603f3530c802ab4370c7126ce38253c}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labelyear}{2013}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}}
+      \field{journaltitle}{eLIFE}
+      \field{month}{10}
+      \field{title}{{The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}}
+      \field{volume}{2}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.7554/elife.01102
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.7554/elife.01102
+      \endverb
+    \endentry
+    \entry{Rui_2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=d416ba6478f3312ece063b273b90d42f}{Rui}{R\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=832d94f662c0ab2a951ce61fffe26948}{Peng}{P\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=66b38f33aa2ed63e81a07a297c7f9815}{Lu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=d416ba6478f3312ece063b273b90d42f}{Rui}{R\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=832d94f662c0ab2a951ce61fffe26948}{Peng}{P\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=66b38f33aa2ed63e81a07a297c7f9815}{Lu}{L\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{19242433472a3c97c883a3ec6e5e63b5}
+      \strng{fullhash}{19242433472a3c97c883a3ec6e5e63b5}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labelyear}{2009}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Succession of bacterial populations during plant residue decomposition in rice field soil}}
+      \field{issn}{0099-2240}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{07}
+      \field{number}{14}
+      \field{title}{{Succession of bacterial populations during plant residue decomposition in rice field soil}}
+      \field{volume}{75}
+      \field{year}{2009}
+      \field{pages}{4879\bibrangedash 4886}
+      \verb{doi}
+      \verb 10.1128/aem.00702-09
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.00702-09
+      \endverb
+    \endentry
+    \entry{Schellenberger_2010}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=8c24c35eadcc3f7c6502e488a93ac330}{Schellenberger}{S\bibinitperiod}{Stefanie}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b59cf05379e7cf06545210a017ef41ad}{Kolb}{K\bibinitperiod}{Steffen}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9051cc9f02962377c85cfaddabb2ca19}{Drake}{D\bibinitperiod}{Harold\bibnamedelima L.}{H\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Ltd}%
+      }
+      \strng{namehash}{bcb57f5aa8b4ab73c24b48708964b7dd}
+      \strng{fullhash}{bcb57f5aa8b4ab73c24b48708964b7dd}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{issn}{1462-2920}
+      \field{journaltitle}{Environ Microbiol}
+      \field{number}{4}
+      \field{title}{Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen}
+      \field{volume}{12}
+      \field{year}{2010}
+      \field{pages}{845\bibrangedash 861}
+      \verb{doi}
+      \verb 10.1111/j.1462-2920.2009.02128.x
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1111/j.1462-2920.2009.02128.x
+      \endverb
+    \endentry
+    \entry{Schimel_1995}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=1,hash=0fbdd2eda9d48e7f635e5c9d106932be}{Schimel}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=0fbdd2eda9d48e7f635e5c9d106932be}{Schimel}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2a79ea73bb03e70dd352cb32073ad80f}{{III}}{I\bibinitperiod}{Prof\bibnamedelimb Dr\bibnamedelimb F.\bibnamedelimi Stuart\bibnamedelima Chapin}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e06eae4088e5ebcebc8e1a33a226ca54}{Korner}{K\bibinitperiod}{Prof\bibnamedelimb Dr\bibnamedelima Christian}{P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{0fbdd2eda9d48e7f635e5c9d106932be}
+      \strng{fullhash}{0fbdd2eda9d48e7f635e5c9d106932be}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{1995}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Ecosystem consequences of microbial diversity and community structure}
+      \field{booktitle}{Arctic and alpine biodiversity: patterns, causes and ecosystem consequences}
+      \field{isbn}{978-3-642-78968-7, 978-3-642-78966-3}
+      \field{langid}{english}
+      \field{number}{113}
+      \field{series}{Ecological Studies}
+      \field{title}{Ecosystem consequences of microbial diversity and community structure}
+      \field{year}{1995}
+      \field{pages}{239\bibrangedash 254}
+      \keyw{Ecology,Geoecology/Natural Processes,Nature Conservation}
+    \endentry
+    \entry{Schimel_2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=2f3babc24398a31cb3b86e1242db4e61}{Schimel}{S\bibinitperiod}{Joshua\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3d81c4936c70e1682f5fd68743410c4}{Schaeffer}{S\bibinitperiod}{Sean\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=2f3babc24398a31cb3b86e1242db4e61}{Schimel}{S\bibinitperiod}{Joshua\bibnamedelima P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3d81c4936c70e1682f5fd68743410c4}{Schaeffer}{S\bibinitperiod}{Sean\bibnamedelima M.}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{65e85c24ce82dec777a94e3c9b767ecc}
+      \strng{fullhash}{65e85c24ce82dec777a94e3c9b767ecc}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial control over carbon cycling in soil}}
+      \field{issn}{1664-302X}
+      \field{journaltitle}{Frontiers in Microbiology}
+      \field{title}{{Microbial control over carbon cycling in soil}}
+      \field{volume}{3}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.3389/fmicb.2012.00348
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3389/fmicb.2012.00348
+      \endverb
+    \endentry
+    \entry{Schloss2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=58f2344ab87ff39b17df46c2bf980cfe}{Schloss}{S\bibinitperiod}{Patrick\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e3b62e9bb18617c020accb8e6adcbd5}{Handelsman}{H\bibinitperiod}{Jo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=58f2344ab87ff39b17df46c2bf980cfe}{Schloss}{S\bibinitperiod}{Patrick\bibnamedelima D}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e3b62e9bb18617c020accb8e6adcbd5}{Handelsman}{H\bibinitperiod}{Jo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{259c2bce1fb255ed04f5f258209cf26d}
+      \strng{fullhash}{259c2bce1fb255ed04f5f258209cf26d}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2006}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Toward a census of bacteria in soil}
+      \field{issn}{1553-734X}
+      \field{journaltitle}{PLoS Comput Biol}
+      \field{month}{07}
+      \field{note}{PMID: 16848637 PMCID: PMC1513271}
+      \field{number}{7}
+      \field{shortjournal}{PLoS {Comput} {Biol}}
+      \field{title}{Toward a census of bacteria in soil}
+      \field{urlday}{04}
+      \field{urlmonth}{02}
+      \field{urlyear}{2015}
+      \field{volume}{2}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.0020092
+      \endverb
+      \verb{file}
+      \verb PubMed Central Full Text PDF:/home/chuck/.zotero/zotero/is3tm1mp.default/zotero/storage/4UCFPQ6J/Schloss and Handelsman - 2006 - Toward a Census of Bacteria in Soil.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1513271/
+      \endverb
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'Schloss2006'}
+    \endentry
+    \entry{Schneckenberger_2008}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=b123a2e59e6562b6d15e3f5c6c28ce4d}{Schneckenberger}{S\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2bf7afd5e2511d7e165dffe5c88f3d86}{Demin}{D\bibinitperiod}{Dmitry}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=228dcd13f6b6c406ebbb784109d947d3}{Stahr}{S\bibinitperiod}{Karl}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e387edcaedf38a20e83157a9a1178a5f}{Kuzyakov}{K\bibinitperiod}{Yakov}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b123a2e59e6562b6d15e3f5c6c28ce4d}{Schneckenberger}{S\bibinitperiod}{Katja}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2bf7afd5e2511d7e165dffe5c88f3d86}{Demin}{D\bibinitperiod}{Dmitry}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=228dcd13f6b6c406ebbb784109d947d3}{Stahr}{S\bibinitperiod}{Karl}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e387edcaedf38a20e83157a9a1178a5f}{Kuzyakov}{K\bibinitperiod}{Yakov}{Y\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{f2ced2e7348feff245cc4f555792b64e}
+      \strng{fullhash}{14eea9b0c4e17d49ec0eb7547ef4d52a}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Microbial utilization and mineralization of [14C]glucose added in six orders of concentration to soil}}
+      \field{journaltitle}{Soil Biology and Biochemistry}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{{Microbial utilization and mineralization of [14C]glucose added in six orders of concentration to soil}}
+      \field{volume}{40}
+      \field{year}{2008}
+      \field{pages}{1981\bibrangedash 1988}
+      \verb{doi}
+      \verb 10.1016/j.soilbio.2008.02.020
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.soilbio.2008.02.020
+      \endverb
+    \endentry
+    \entry{Sollins_Homann_Caldwell_1996}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=ad0b5fae8ec7bd7285c8daa193ffe904}{Sollins}{S\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2302b9d9e4fe7e9d9f5b762e7ca69f06}{Homann}{H\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfd9050210612905b5ab5900f280e9fe}{Caldwell}{C\bibinitperiod}{Bruce\bibnamedelima A.}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=ad0b5fae8ec7bd7285c8daa193ffe904}{Sollins}{S\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2302b9d9e4fe7e9d9f5b762e7ca69f06}{Homann}{H\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfd9050210612905b5ab5900f280e9fe}{Caldwell}{C\bibinitperiod}{Bruce\bibnamedelima A.}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{db031cd1b2401a32208ee458042f620d}
+      \strng{fullhash}{db031cd1b2401a32208ee458042f620d}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{1996}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Stabilization and destabilization of soil organic matter: mechanisms and controls}}
+      \field{journaltitle}{Geoderma}
+      \field{month}{11}
+      \field{number}{1-2}
+      \field{title}{{Stabilization and destabilization of soil organic matter: mechanisms and controls}}
+      \field{volume}{74}
+      \field{year}{1996}
+      \field{pages}{65\bibrangedash 105}
+      \verb{doi}
+      \verb 10.1016/S0016-7061(96)00036-5
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/S0016-7061(96)00036-5
+      \endverb
+    \endentry
+    \entry{Soo_2014}{article}{}
+      \name{labelname}{10}{}{%
+        {{uniquename=0,hash=1538ea6613775fdd753f8f61a8548aa0}{Soo}{S\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d56e940d54eef45b8086357111c15975}{Skennerton}{S\bibinitperiod}{C.\bibnamedelimi T.}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=600e95f6ccd8dd008ed1c6927be88376}{Sekiguchi}{S\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf35734eefc79de0b9f8c24da545b31e}{Imelfort}{I\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d2ef4cd965d447d99d849e4409736d56}{Paech}{P\bibinitperiod}{S.\bibnamedelimi J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d78844f085207d6e922e55d5aa73b514}{Dennis}{D\bibinitperiod}{P.\bibnamedelimi G.}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f738ec9a0a18264f1bce7b51f40156c}{Steen}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=510e896042c6735df5a125a8a56d4517}{Parks}{P\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c4a41aeb45f6fb0d75dea1071eeca0e}{Tyson}{T\bibinitperiod}{G.\bibnamedelimi W.}{G\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4863cf54c0ca2ab67cf8bf1b8a0d3b4}{Hugenholtz}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{uniquename=0,hash=1538ea6613775fdd753f8f61a8548aa0}{Soo}{S\bibinitperiod}{R.\bibnamedelimi M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d56e940d54eef45b8086357111c15975}{Skennerton}{S\bibinitperiod}{C.\bibnamedelimi T.}{C\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=600e95f6ccd8dd008ed1c6927be88376}{Sekiguchi}{S\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bf35734eefc79de0b9f8c24da545b31e}{Imelfort}{I\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d2ef4cd965d447d99d849e4409736d56}{Paech}{P\bibinitperiod}{S.\bibnamedelimi J.}{S\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d78844f085207d6e922e55d5aa73b514}{Dennis}{D\bibinitperiod}{P.\bibnamedelimi G.}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f738ec9a0a18264f1bce7b51f40156c}{Steen}{S\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=510e896042c6735df5a125a8a56d4517}{Parks}{P\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c4a41aeb45f6fb0d75dea1071eeca0e}{Tyson}{T\bibinitperiod}{G.\bibnamedelimi W.}{G\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a4863cf54c0ca2ab67cf8bf1b8a0d3b4}{Hugenholtz}{H\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press ({OUP})}%
+      }
+      \strng{namehash}{8fd0a4fa02e99682d643afb8b66a3778}
+      \strng{fullhash}{9ac62a593b5478e13e017499b19c27bc}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2014}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{An expanded genomic representation of the phylum cyanobacteria}}
+      \field{journaltitle}{Genome Biology and Evolution}
+      \field{month}{04}
+      \field{number}{5}
+      \field{title}{{An expanded genomic representation of the phylum cyanobacteria}}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{1031\bibrangedash 1045}
+      \verb{doi}
+      \verb 10.1093/gbe/evu073
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1093/gbe/evu073
+      \endverb
+    \endentry
+    \entry{Strickland_2009}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=081b6658cdad2a2ed2d13146f0d1f4f0}{Strickland}{S\bibinitperiod}{Michael\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1182ec9b7743d7517ce518713c6fc284}{Lauber}{L\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3ad5ec762e9d166fe10a0f490752e22}{Bradford}{B\bibinitperiod}{Mark\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=081b6658cdad2a2ed2d13146f0d1f4f0}{Strickland}{S\bibinitperiod}{Michael\bibnamedelima S}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1182ec9b7743d7517ce518713c6fc284}{Lauber}{L\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a52765c9f7dcff44813ff65a89d4c5cb}{Fierer}{F\bibinitperiod}{Noah}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3ad5ec762e9d166fe10a0f490752e22}{Bradford}{B\bibinitperiod}{Mark\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ecological Society of America}%
+      }
+      \strng{namehash}{976ac1a89250f53daa91964a87506c0d}
+      \strng{fullhash}{7a285915295d73706fce28a19b0deef7}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2009}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Testing the functional significance of microbial community composition}}
+      \field{journaltitle}{Ecology}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{{Testing the functional significance of microbial community composition}}
+      \field{volume}{90}
+      \field{year}{2009}
+      \field{pages}{441\bibrangedash 451}
+      \verb{doi}
+      \verb 10.1890/08-0296.1
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1890/08-0296.1
+      \endverb
+    \endentry
+    \entry{Tavernier_2008}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=9292bb70fbce7605273535c3bdc517eb}{Tavernier}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb9d9c0fe1d0b466103084df3759153f}{Delattre}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d24d917560dc5dd85dd7d010622d6bdf}{Petit}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7cebca3a057ca18f41df331fe42c0a1}{Michaud}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=9292bb70fbce7605273535c3bdc517eb}{Tavernier}{T\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb9d9c0fe1d0b466103084df3759153f}{Delattre}{D\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d24d917560dc5dd85dd7d010622d6bdf}{Petit}{P\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f7cebca3a057ca18f41df331fe42c0a1}{Michaud}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Bentham Science Publishers Ltd.}%
+      }
+      \strng{namehash}{cf26bf1e3380ce2972728047854c82d0}
+      \strng{fullhash}{5ed8c0dbed9566407448e48c6cb3135d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{2008}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{$\beta$-(1,4)-Polyglucuronic Acids - An Overview}}
+      \field{journaltitle}{TOBIOTJ}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{$\beta$-(1,4)-Polyglucuronic Acids - An Overview}}
+      \field{volume}{2}
+      \field{year}{2008}
+      \field{pages}{73\bibrangedash 86}
+      \verb{doi}
+      \verb 10.2174/1874070700802010073
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.2174/1874070700802010073
+      \endverb
+    \endentry
+    \entry{Tomita_1993}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=477639d885705a35662617af876592cd}{Tomita}{T\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7474dc6e75d15ccbf05c80064a13ae65}{Hoshino}{H\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d045d12a722a454a7dc97988d042bf05}{Miyaki}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=477639d885705a35662617af876592cd}{Tomita}{T\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7474dc6e75d15ccbf05c80064a13ae65}{Hoshino}{H\bibinitperiod}{Y.}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d045d12a722a454a7dc97988d042bf05}{Miyaki}{M\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{5c68443422aaa0f8297e245bc68fa8bf}
+      \strng{fullhash}{5c68443422aaa0f8297e245bc68fa8bf}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{1993}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Kibdelosporangium albatum sp. nov. Producer of the Antiviral Antibiotics Cycloviracins}}
+      \field{journaltitle}{Int J Syst Bacteriol}
+      \field{month}{04}
+      \field{number}{2}
+      \field{title}{{Kibdelosporangium albatum sp. nov. Producer of the Antiviral Antibiotics Cycloviracins}}
+      \field{volume}{43}
+      \field{year}{1993}
+      \field{pages}{297\bibrangedash 301}
+      \verb{doi}
+      \verb 10.1099/00207713-43-2-297
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/00207713-43-2-297
+      \endverb
+    \endentry
+    \entry{Tringe_2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=f084b61d9557d24443245e576efc415f}{Tringe}{T\bibinitperiod}{S.\bibnamedelimi G.}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f084b61d9557d24443245e576efc415f}{Tringe}{T\bibinitperiod}{S.\bibnamedelimi G.}{S\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science (AAAS)}%
+      }
+      \strng{namehash}{f084b61d9557d24443245e576efc415f}
+      \strng{fullhash}{f084b61d9557d24443245e576efc415f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{2005}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Comparative metagenomics of microbial communities}}
+      \field{journaltitle}{Science}
+      \field{month}{04}
+      \field{number}{5721}
+      \field{title}{{Comparative metagenomics of microbial communities}}
+      \field{volume}{308}
+      \field{year}{2005}
+      \field{pages}{554\bibrangedash 557}
+      \verb{doi}
+      \verb 10.1126/science.1107851
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1126/science.1107851
+      \endverb
+    \endentry
+    \entry{Vance_1980}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=cd2160687c719a840317d6a53cb0ffed}{Vance}{V\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c13460d115eabf3e8dee53c80e28544}{Topham}{T\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=399158786678886ada85e2f6b8ea4266}{Blayden}{B\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=701a7a639ae5662888227e1b25631bd4}{Tampion}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=cd2160687c719a840317d6a53cb0ffed}{Vance}{V\bibinitperiod}{I.}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c13460d115eabf3e8dee53c80e28544}{Topham}{T\bibinitperiod}{C.\bibnamedelimi M.}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=399158786678886ada85e2f6b8ea4266}{Blayden}{B\bibinitperiod}{S.\bibnamedelimi L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=701a7a639ae5662888227e1b25631bd4}{Tampion}{T\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Society for General Microbiology}%
+      }
+      \strng{namehash}{561f817d4fe6461435de5c78045030e8}
+      \strng{fullhash}{d37a42c41a93a9906fb6d064e1680fde}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labelyear}{1980}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Extracellular Cellulase Production by Sporocytophaga myxococcoides {NCIB} 8639}}
+      \field{journaltitle}{Microbiology}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{{Extracellular Cellulase Production by Sporocytophaga myxococcoides {NCIB} 8639}}
+      \field{volume}{117}
+      \field{year}{1980}
+      \field{pages}{235\bibrangedash 241}
+      \verb{doi}
+      \verb 10.1099/00221287-117-1-235
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1099/00221287-117-1-235
+      \endverb
+    \endentry
+    \entry{Wertz_2011}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=15a0b437618e20ff08f62eacfe4479da}{Wertz}{W\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5334c2b00099c80a2ea0814a3255930e}{Kim}{K\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d77913c11455d5af821e61b8beb78af6}{Breznak}{B\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=95352fcbfde7d6083d1d67e896e7adbc}{Schmidt}{S\bibinitperiod}{T.\bibnamedelimi M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ddb40496cc769b4fc0a85d3fa991ffd}{Rodrigues}{R\bibinitperiod}{J.\bibnamedelimi L.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=15a0b437618e20ff08f62eacfe4479da}{Wertz}{W\bibinitperiod}{J.\bibnamedelimi T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5334c2b00099c80a2ea0814a3255930e}{Kim}{K\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d77913c11455d5af821e61b8beb78af6}{Breznak}{B\bibinitperiod}{J.\bibnamedelimi A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=95352fcbfde7d6083d1d67e896e7adbc}{Schmidt}{S\bibinitperiod}{T.\bibnamedelimi M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ddb40496cc769b4fc0a85d3fa991ffd}{Rodrigues}{R\bibinitperiod}{J.\bibnamedelimi L.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {American Society for Microbiology}%
+      }
+      \strng{namehash}{50af9957d3827afc294e05ddea5a23c4}
+      \strng{fullhash}{47b4df2daee8aa04b173d83424c76f75}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labelyear}{2011}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Genomic and physiological characterization of the verrucomicrobia isolate diplosphaera colitermitum gen. nov. sp. nov., reveals microaerophily and nitrogen fixation genes}}
+      \field{journaltitle}{Appl Environ Microbiol}
+      \field{month}{12}
+      \field{number}{5}
+      \field{title}{{Genomic and physiological characterization of the verrucomicrobia isolate diplosphaera colitermitum gen. nov. sp. nov., reveals microaerophily and nitrogen fixation genes}}
+      \field{volume}{78}
+      \field{year}{2011}
+      \field{pages}{1544\bibrangedash 1555}
+      \verb{doi}
+      \verb 10.1128/aem.06466-11
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1128/aem.06466-11
+      \endverb
+    \endentry
+    \entry{Wohl_2004}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=eb6f439038feb559e3bc83ad18ca5adc}{Wohl}{W\bibinitperiod}{Debra\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c27cc9b78699150b447d47e6f5b871d}{Arora}{A\bibinitperiod}{Satyam}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3edb3fc326e8aab30feb5dfabd0d9504}{Gladstone}{G\bibinitperiod}{Jessica\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=eb6f439038feb559e3bc83ad18ca5adc}{Wohl}{W\bibinitperiod}{Debra\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4c27cc9b78699150b447d47e6f5b871d}{Arora}{A\bibinitperiod}{Satyam}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3edb3fc326e8aab30feb5dfabd0d9504}{Gladstone}{G\bibinitperiod}{Jessica\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Ecological Society of America}%
+      }
+      \strng{namehash}{137498fb8a83d84716e3404b5c745c88}
+      \strng{fullhash}{137498fb8a83d84716e3404b5c745c88}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labelyear}{2004}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Functional redundancy supports biodiversity and ecosystem function in a closed and constant environment}
+      \field{journaltitle}{Ecology}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{Functional redundancy supports biodiversity and ecosystem function in a closed and constant environment}
+      \field{volume}{85}
+      \field{year}{2004}
+      \field{pages}{1534\bibrangedash 1540}
+      \verb{doi}
+      \verb 10.1890/03-3050
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1890/03-3050
+      \endverb
+    \endentry
+    \entry{yanagita1990natural}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=be5282fa076edd184b6d1d8e89167152}{Yanagita}{Y\bibinitperiod}{Tomomichi}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=be5282fa076edd184b6d1d8e89167152}{Yanagita}{Y\bibinitperiod}{Tomomichi}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Japan Scientific Societies Press. Springer-Verlag}%
+      }
+      \strng{namehash}{be5282fa076edd184b6d1d8e89167152}
+      \strng{fullhash}{be5282fa076edd184b6d1d8e89167152}
+      \field{sortinit}{Y}
+      \field{sortinithash}{29d12db4e709b19996b4b797fbeec132}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Natural microbial communities: ecological and physiological features}}
+      \field{title}{{Natural microbial communities: ecological and physiological features}}
+      \field{year}{1990}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

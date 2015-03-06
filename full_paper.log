@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  6 MAR 2015 06:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  6 MAR 2015 06:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -912,21 +912,54 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
 
 [7]) [8] [9] [10] (./figures.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 473.38274pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
+* \paperwidth=587.19374pt
+* \paperheight=785.93625pt
+* \textwidth=473.38274pt
+* \textheight=672.12524pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=13.5pt
+* \skip\footins=19.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
 <figures/ordination_all1/ordination_all.pdf, id=345, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
 Package pdftex.def Info: figures/ordination_all1/ordination_all.pdf used on inp
-ut line 18.
-(pdftex.def)             Requested size: 461.3694pt x 173.00824pt.
+ut line 6.
+(pdftex.def)             Requested size: 473.38274pt x 177.51407pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
 <figures/l2fc_fig1/l2fc_fig.pdf, id=346, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
-Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 25.
-(pdftex.def)             Requested size: 461.3694pt x 317.03802pt.
+Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 12.
+(pdftex.def)             Requested size: 473.38274pt x 325.29652pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
 <figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=347, 216.81pt x 433.62pt>
@@ -934,8 +967,8 @@ File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
-n input line 32.
-(pdftex.def)             Requested size: 138.41222pt x 276.83435pt.
+n input line 19.
+(pdftex.def)             Requested size: 236.69136pt x 473.40395pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
 <figures/shift_and_rabund1/shift_and_rabund.png, id=348, 722.7pt x 289.08pt>
@@ -943,8 +976,8 @@ File: figures/shift_and_rabund1/shift_and_rabund.png Graphic file (type png)
 
 <use figures/shift_and_rabund1/shift_and_rabund.png>
 Package pdftex.def Info: figures/shift_and_rabund1/shift_and_rabund.png used on
- input line 46.
-(pdftex.def)             Requested size: 461.3694pt x 184.54741pt.
+ input line 26.
+(pdftex.def)             Requested size: 473.38274pt x 189.3554pt.
 
 (./figures/shift_and_rabund1/caption.tex)
 (./figures/shift_and_rabund1/caption.tex)
@@ -953,30 +986,63 @@ File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
 Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
- 54.
-(pdftex.def)             Requested size: 461.3694pt x 205.05855pt.
- (./figures/copy_number/caption.tex))
+ 34.
+(pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
+ (./figures/copy_number/caption.tex)
 [11 <./figures/ordination_all1/ordination_all.pdf> <./figures/l2fc_fig1/l2fc_fi
-g.pdf>] [12 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf> <./figures/shif
-t_and_rabund1/shift_and_rabund.png (PNG copy)>] [13 <./figures/copy_number/copy
-_number.pdf>] (./supp_figs.tex
+g.pdf>] [12 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [13 <./figures
+/shift_and_rabund1/shift_and_rabund.png (PNG copy)> <./figures/copy_number/copy
+_number.pdf>]) (./supp_figs.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 473.38274pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
+* \paperwidth=587.19374pt
+* \paperheight=785.93625pt
+* \textwidth=473.38274pt
+* \textheight=672.12524pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=13.5pt
+* \skip\footins=19.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
 <figures/l2fc_time/l2fc_time.pdf, id=495, 578.16pt x 722.7pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
-Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 4.
-(pdftex.def)             Requested size: 230.6847pt x 288.34706pt.
+Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 8.
+(pdftex.def)             Requested size: 355.03705pt x 443.7907pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.5 ...otect\input{figures/l2fc_time/caption.tex}}
+l.9 ...otect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)pdfTeX warning (ext4): destination with the sa
 me identifier (name{figure.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.5 ...otect\input{figures/l2fc_time/caption.tex}}
+l.9 ...otect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
 <figures/abndVtime_class/abndVtime_class.pdf, id=496, 578.16pt x 433.62pt>
@@ -984,13 +1050,13 @@ File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
 Package pdftex.def Info: figures/abndVtime_class/abndVtime_class.pdf used on in
-put line 10.
-(pdftex.def)             Requested size: 276.82445pt x 207.61914pt.
+put line 14.
+(pdftex.def)             Requested size: 402.3782pt x 301.77855pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.11 ...nput{figures/abndVtime_class/caption.tex}}
+l.15 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
 <figures/bacteria_tree/bacteria_tree.pdf, id=497, 359.86633pt x 1875.31364pt>
@@ -998,36 +1064,33 @@ File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
 Package pdftex.def Info: figures/bacteria_tree/bacteria_tree.pdf used on input 
-line 18.
-(pdftex.def)             Requested size: 115.34235pt x 601.05693pt.
+line 22.
+(pdftex.def)             Requested size: 118.34567pt x 616.7093pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 ...\input{figures/bacteria_tree/caption.tex}}
+l.23 ...\input{figures/bacteria_tree/caption.tex}}
                                                   \label{fig:trees}
 (./figures/bacteria_tree/caption.tex)pdfTeX warning (ext4): destination with th
 e same identifier (name{figure.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 ...\input{figures/bacteria_tree/caption.tex}}
+l.23 ...\input{figures/bacteria_tree/caption.tex}}
                                                   \label{fig:trees}
 (./figures/bacteria_tree/caption.tex)
-
-LaTeX Warning: Float too large for page by 41.56837pt on input line 21.
-
 <figures/bulk_ordination/bulk_ordination.pdf, id=498, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
 Package pdftex.def Info: figures/bulk_ordination/bulk_ordination.pdf used on in
-put line 25.
-(pdftex.def)             Requested size: 461.3694pt x 177.449pt.
+put line 29.
+(pdftex.def)             Requested size: 473.38274pt x 182.06953pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 ...nput{figures/bulk_ordination/caption.tex}}
+l.30 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
 <figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=499, 361.35p
@@ -1037,13 +1100,13 @@ e (type pdf)
 
 <use figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf>
 Package pdftex.def Info: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_ab
-und.pdf used on input line 32.
-(pdftex.def)             Requested size: 184.54494pt x 369.09041pt.
+und.pdf used on input line 36.
+(pdftex.def)             Requested size: 284.03252pt x 568.07062pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.33 ...res/bulk_phylum_rspndr_abund/caption.tex}}
+l.37 ...res/bulk_phylum_rspndr_abund/caption.tex}}
                                                   \label{fig:babund}
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
 <figures/all_rspndr_bar/all_rspndr_bar.pdf, id=500, 361.35pt x 216.81pt>
@@ -1051,24 +1114,26 @@ File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
 Package pdftex.def Info: figures/all_rspndr_bar/all_rspndr_bar.pdf used on inpu
-t line 40.
-(pdftex.def)             Requested size: 346.02704pt x 207.61914pt.
+t line 44.
+(pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
 
 (./figures/all_rspndr_bar/caption.tex)
 <figures/foodweb/foodweb.png, id=501, 667.49374pt x 433.62pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
-Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 47.
-(pdftex.def)             Requested size: 346.02704pt x 224.78896pt.
+Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 51.
+(pdftex.def)             Requested size: 355.03705pt x 230.64456pt.
  (./figures/foodweb/caption.tex)
 (./table_cellulose.tex [14
 
-] [15 <./figures/l2fc_time/l2fc_time.pdf> <./figures/abndVtime_class/abndVtime_
-class.pdf>] [16 <./figures/bacteria_tree/bacteria_tree.pdf>] [17 <./figures/bul
-k_ordination/bulk_ordination.pdf>] [18 <./figures/bulk_phylum_rspndr_abund/bulk
-_phylum_rspndr_abund.pdf>] [19 <./figures/all_rspndr_bar/all_rspndr_bar.pdf> <.
-/figures/foodweb/foodweb.png>]
+
+
+] [15 <./figures/l2fc_time/l2fc_time.pdf>] [16 <./figures/abndVtime_class/abndV
+time_class.pdf>] [17 <./figures/bacteria_tree/bacteria_tree.pdf>] [18 <./figure
+s/bulk_ordination/bulk_ordination.pdf>] [19 <./figures/bulk_phylum_rspndr_abund
+/bulk_phylum_rspndr_abund.pdf>] [20 <./figures/all_rspndr_bar/all_rspndr_bar.pd
+f> <./figures/foodweb/foodweb.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -1106,9 +1171,9 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
 []\OT1/cmr/m/n/9 , 
  []
 
-[20
+[21
 
-] [21]) (./table_xyl.tex
+] [22]) (./table_xyl.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -1146,10 +1211,10 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
 []\OT1/cmr/m/n/9 , 
  []
 
-[22
+[23
 
 
-] [23]))
+] [24]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
  (./full_paper.aux)
@@ -1162,8 +1227,8 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13320 strings out of 493485
- 208804 string characters out of 3143526
+ 13321 strings out of 493485
+ 208811 string characters out of 3143526
  676154 words of memory out of 3000000
  16237 multiletter control sequences out of 15000+200000
  16325 words of font info for 60 fonts, out of 3000000 for 9000
@@ -1182,10 +1247,10 @@ msfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 y9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (23 pages, 1797748 bytes).
+Output written on full_paper.pdf (24 pages, 1798215 bytes).
 PDF statistics:
- 5200 PDF objects out of 6186 (max. 8388607)
- 529 compressed objects within 6 object streams
- 119 named destinations out of 1000 (max. 500000)
+ 5204 PDF objects out of 6186 (max. 8388607)
+ 532 compressed objects within 6 object streams
+ 120 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 

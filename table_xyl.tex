@@ -1,18 +1,34 @@
 \thispagestyle{empty}
 \newgeometry{tmargin=2cm, bmargin=2cm, lmargin=0.25cm, rmargin=0.25cm} 
 
+\begin{ThreePartTable}
+\begin{TableNotes}
+\item[a] Maximum observed $log_{2}$ of fold change. 
+\item[b] Day of maximum fold change.
+\end{TableNotes}
+
 \begin{longtable}{lrrP{5cm}rP{5cm}}
 
-\caption{$^{13}$C-xylose responders BLAST against Living Tree Project} \label{tab:xyl} \\
+\caption{$^{13}$C-xylose responders BLAST against Living Tree Project}\label{tab:xyl} \\
 \toprule 
-    \textbf{OTU ID} & \textbf{Fold change} & \textbf{Day} & \textbf{Top BLAST hits} & \textbf{BLAST \%ID} & \textbf{Phylum;Class;Order} \\
+    \textbf{OTU ID} & 
+    \textbf{Fold change} \tnote{a} & 
+    \textbf{Day} \tnote{b} & 
+    \textbf{Top BLAST hits} & 
+    \textbf{BLAST \%ID} & 
+    \textbf{Phylum;Class;Order} \\
 \midrule
 \endfirsthead
 
 \multicolumn{3}{c}
 {{\tablename\ \thetable{} -- continued from previous page}} \\
 \midrule
-    \textbf{OTU ID} & \textbf{Fold change} & \textbf{Day} & \textbf{Top BLAST hits} & \textbf{BLAST \%ID} & \textbf{Phylum;Class;Order} \\
+    \textbf{OTU ID} & 
+    \textbf{Fold change} & 
+    \textbf{Day} & 
+    \textbf{Top BLAST hits} & 
+    \textbf{BLAST \%ID} & 
+    \textbf{Phylum;Class;Order} \\
 \midrule
 \endhead
     OTU.4446 & 3.49 & 7 & \mbox{\textit{Catenuloplanes niger}}, \mbox{\textit{Catenuloplanes castaneus}}, \mbox{\textit{Catenuloplanes atrovinosus}}, \mbox{\textit{Catenuloplanes crispus}}, \mbox{\textit{Catenuloplanes nepalensis}}, \mbox{\textit{Catenuloplanes japonicus}} & 97.72 & \mbox{\textit{Actinobacteria}} \mbox{\textit{Frankiales}} \mbox{\textit{Nakamurellaceae}} \\ \midrule
@@ -62,6 +78,8 @@ OTU.48 & 2.99 & 1 & \mbox{\textit{Aeromonas spp.}} & 100.0 & \mbox{\textit{Prote
 OTU.241 & 3.38 & 3 & {No hits of at least 90\% identity} & 87.73 & \mbox{\textit{Verrucomicrobia}} \mbox{\textit{Spartobacteria}} \mbox{\textit{Chthoniobacterales}} \\ \midrule
 
 \bottomrule
+\insertTableNotes
 \end{longtable}
+\end{ThreePartTable}
  
 \restoregeometry

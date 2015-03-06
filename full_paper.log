@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  6 MAR 2015 06:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  6 MAR 2015 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -675,6 +675,18 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count310
 \LT@p@ftn=\toks23
 )
+(/usr/share/texlive/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
+Package: threeparttablex 2010/07/14 v0.2 by daleif
+
+(/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2008/06/18 v0.2 A new way to define environments
+)
+\TPTL@width=\skip73
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -687,20 +699,20 @@ File: english.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
 (./full_paper.aux)
 \openout1 = `full_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
  (/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen162
@@ -718,7 +730,7 @@ Package crop Info: using `pdftex' graphics driver on input line 607.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count315
 \scratchdimen=\dimen164
-\scratchbox=\box56
+\scratchbox=\box57
 \nofMPsegments=\count316
 \nofMParguments=\count317
 \everyMPshowfont=\toks24
@@ -786,11 +798,11 @@ Package biblatex Warning: Biber reported the following issues
  'date' for entry 'Schloss2006'.
 
 )
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
-\AtBeginShipoutBox=\box57
+Package biblatex Info: Reference section=0 on input line 40.
+Package biblatex Info: Reference segment=0 on input line 40.
+\AtBeginShipoutBox=\box58
 Package atbegshi Info: Package `crop' patched.
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 40.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -799,9 +811,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count321
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./full_paper.out) (./full_paper.out)
 \@outlinefile=\write4
@@ -812,24 +824,24 @@ LaTeX Info: Redefining \nameref on input line 39.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(79.09305pt, 461.3694pt, 118.63959pt)
-* v-part:(T,H,B)=(102.94238pt, 600.48856pt, 154.4136pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
 * \paperwidth=587.19374pt
 * \paperheight=785.93625pt
-* \textwidth=461.3694pt
-* \textheight=600.48856pt
-* \oddsidemargin=6.82306pt
-* \evensidemargin=46.3696pt
-* \topmargin=-6.3276pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=144.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=13.5pt
 * \skip\footins=19.0pt plus 4.0pt minus 2.0pt
@@ -837,8 +849,8 @@ LaTeX Info: Redefining \nameref on input line 39.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -872,7 +884,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 70.
 
-[3] [4]) (./Discussion.tex [5]
+[3] [4] [5]) (./Discussion.tex [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 93.
@@ -898,26 +910,32 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 93.
 
 
-Overfull \hbox (2.77415pt too wide) in paragraph at lines 93--116
-\tabnumfont re-spon-sive mi-croor-gan-isms.[][] \OT1/cmr/m/it/9 Ver-ru-comi-cro
--bia\OT1/cmr/m/n/9 , cos-mopoli-
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 163--171
+ []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
+o-spheric
  []
 
-[6]) (./Methods.tex
+[7]) (./Methods.tex
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 8.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
+)
+[8] [9] [10]
+Overfull \hbox (11.00468pt too wide) in paragraph at lines 13--13
+[][]\OT1/cmr/m/n/9 Tavernier, M. L. et al. (2008). ``$\OML/cmm/m/it/9 ^^L$\OT1/
+cmr/m/n/9 -(1,4)-Polyglucuronic
+ []
 
-[7]) [8] [9] [10] (./figures.tex
+[11] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(56.9055pt, 473.38274pt, 56.9055pt)
 * v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
 * \paperwidth=587.19374pt
@@ -931,7 +949,7 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=144.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=13.5pt
 * \skip\footins=19.0pt plus 4.0pt minus 2.0pt
@@ -939,13 +957,13 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=345, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=350, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -954,7 +972,7 @@ ut line 6.
 (pdftex.def)             Requested size: 473.38274pt x 177.51407pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=346, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=351, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -962,7 +980,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 12.
 (pdftex.def)             Requested size: 473.38274pt x 325.29652pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=347, 216.81pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=352, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
@@ -971,7 +989,7 @@ n input line 19.
 (pdftex.def)             Requested size: 236.69136pt x 473.40395pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund1/shift_and_rabund.png, id=348, 722.7pt x 289.08pt>
+<figures/shift_and_rabund1/shift_and_rabund.png, id=353, 722.7pt x 289.08pt>
 File: figures/shift_and_rabund1/shift_and_rabund.png Graphic file (type png)
 
 <use figures/shift_and_rabund1/shift_and_rabund.png>
@@ -981,7 +999,7 @@ Package pdftex.def Info: figures/shift_and_rabund1/shift_and_rabund.png used on
 
 (./figures/shift_and_rabund1/caption.tex)
 (./figures/shift_and_rabund1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=349, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=354, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -989,16 +1007,16 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  34.
 (pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
  (./figures/copy_number/caption.tex)
-[11 <./figures/ordination_all1/ordination_all.pdf> <./figures/l2fc_fig1/l2fc_fi
-g.pdf>] [12 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [13 <./figures
+[12 <./figures/ordination_all1/ordination_all.pdf> <./figures/l2fc_fig1/l2fc_fi
+g.pdf>] [13 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>] [14 <./figures
 /shift_and_rabund1/shift_and_rabund.png (PNG copy)> <./figures/copy_number/copy
 _number.pdf>]) (./supp_figs.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(56.9055pt, 473.38274pt, 56.9055pt)
 * v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
 * \paperwidth=587.19374pt
@@ -1012,7 +1030,7 @@ _number.pdf>]) (./supp_figs.tex
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=144.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=13.5pt
 * \skip\footins=19.0pt plus 4.0pt minus 2.0pt
@@ -1020,13 +1038,13 @@ _number.pdf>]) (./supp_figs.tex
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/l2fc_time/l2fc_time.pdf, id=495, 578.16pt x 722.7pt>
+<figures/l2fc_time/l2fc_time.pdf, id=500, 578.16pt x 722.7pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -1045,7 +1063,7 @@ me identifier (name{figure.1}) has been already used, duplicate ignored
 l.9 ...otect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=496, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=501, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -1059,7 +1077,7 @@ s been already used, duplicate ignored
 l.15 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
-<figures/bacteria_tree/bacteria_tree.pdf, id=497, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=502, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1079,7 +1097,7 @@ e same identifier (name{figure.3}) has been already used, duplicate ignored
 l.23 ...\input{figures/bacteria_tree/caption.tex}}
                                                   \label{fig:trees}
 (./figures/bacteria_tree/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=498, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=503, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -1093,7 +1111,7 @@ s been already used, duplicate ignored
 l.30 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
-<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=499, 361.35p
+<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=504, 361.35p
 t x 722.7pt>
 File: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf Graphic fil
 e (type pdf)
@@ -1109,7 +1127,7 @@ s been already used, duplicate ignored
 l.37 ...res/bulk_phylum_rspndr_abund/caption.tex}}
                                                   \label{fig:babund}
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=500, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=505, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -1118,28 +1136,28 @@ t line 44.
 (pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
 
 (./figures/all_rspndr_bar/caption.tex)
-<figures/foodweb/foodweb.png, id=501, 667.49374pt x 433.62pt>
+<figures/foodweb/foodweb.png, id=506, 667.49374pt x 433.62pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
 Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 51.
 (pdftex.def)             Requested size: 355.03705pt x 230.64456pt.
  (./figures/foodweb/caption.tex)
-(./table_cellulose.tex [14
+(./table_cellulose.tex [15
 
 
 
-] [15 <./figures/l2fc_time/l2fc_time.pdf>] [16 <./figures/abndVtime_class/abndV
-time_class.pdf>] [17 <./figures/bacteria_tree/bacteria_tree.pdf>] [18 <./figure
-s/bulk_ordination/bulk_ordination.pdf>] [19 <./figures/bulk_phylum_rspndr_abund
-/bulk_phylum_rspndr_abund.pdf>] [20 <./figures/all_rspndr_bar/all_rspndr_bar.pd
+] [16 <./figures/l2fc_time/l2fc_time.pdf>] [17 <./figures/abndVtime_class/abndV
+time_class.pdf>] [18 <./figures/bacteria_tree/bacteria_tree.pdf>] [19 <./figure
+s/bulk_ordination/bulk_ordination.pdf>] [20 <./figures/bulk_phylum_rspndr_abund
+/bulk_phylum_rspndr_abund.pdf>] [21 <./figures/all_rspndr_bar/all_rspndr_bar.pd
 f> <./figures/foodweb/foodweb.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(7.11317pt, 572.96739pt, 7.11317pt)
 * v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
 * \paperwidth=587.19374pt
@@ -1153,7 +1171,7 @@ f> <./figures/foodweb/foodweb.png>]
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=144.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=13.5pt
 * \skip\footins=19.0pt plus 4.0pt minus 2.0pt
@@ -1161,25 +1179,40 @@ f> <./figures/foodweb/foodweb.png>]
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
+Overfull \hbox (23.69534pt too wide) in paragraph at lines 68--68
 []\OT1/cmr/m/n/9 , 
  []
 
-[21
 
-] [22]) (./table_xyl.tex
+Overfull \hbox (15.41463pt too wide) in paragraph at lines 89--89
+[]|[]|  
+ []
+
+
+Overfull \hbox (25.85794pt too wide) in paragraph at lines 90--90
+[]|[]|  
+ []
+
+
+Overfull \hbox (17.98405pt too wide) in paragraph at lines 91--91
+[]|[]\OT1/cmr/m/n/9 , 
+ []
+
+[22
+
+] [23] [24]) (./table_xyl.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
+* modes: 
 * h-part:(L,W,R)=(7.11317pt, 572.96739pt, 7.11317pt)
 * v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
 * \paperwidth=587.19374pt
@@ -1193,7 +1226,7 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=144.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=13.5pt
 * \skip\footins=19.0pt plus 4.0pt minus 2.0pt
@@ -1201,20 +1234,20 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (2.06589pt too wide) in paragraph at lines 31--31
+Overfull \hbox (2.06589pt too wide) in paragraph at lines 47--47
 []\OT1/cmr/m/n/9 , 
  []
 
-[23
+[25
 
 
-] [24]))
+] [26]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
  (./full_paper.aux)
@@ -1227,13 +1260,13 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13321 strings out of 493485
- 208811 string characters out of 3143526
- 676154 words of memory out of 3000000
- 16237 multiletter control sequences out of 15000+200000
+ 13449 strings out of 493485
+ 210962 string characters out of 3143526
+ 689172 words of memory out of 3000000
+ 16351 multiletter control sequences out of 15000+200000
  16325 words of font info for 60 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,58p,2083b,1165s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,11n,58p,2083b,1164s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/
@@ -1247,10 +1280,10 @@ msfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 y9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (24 pages, 1798215 bytes).
+Output written on full_paper.pdf (26 pages, 1802998 bytes).
 PDF statistics:
- 5204 PDF objects out of 6186 (max. 8388607)
- 532 compressed objects within 6 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 5215 PDF objects out of 6186 (max. 8388607)
+ 541 compressed objects within 6 object streams
+ 122 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 

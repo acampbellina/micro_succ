@@ -17,6 +17,6 @@ figures/shift_and_rabund1/shift_and_rabund.png
 figures/copy_number/copy_number.png
 figures/all_rspndr_bar/all_rspndr_bar.png
 figures/bulk_ordination/bulk_ordination.png
-figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.png
+figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.png
 figures/generalist_specialist/generalist_specialist.png
 figures/foodweb/foodweb.png

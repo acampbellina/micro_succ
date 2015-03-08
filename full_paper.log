@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  6 MAR 2015 15:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 MAR 2015 06:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1111,15 +1111,14 @@ s been already used, duplicate ignored
 l.30 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
-<figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf, id=504, 361.35p
-t x 722.7pt>
-File: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf Graphic fil
-e (type pdf)
-
-<use figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_abund.pdf>
-Package pdftex.def Info: figures/bulk_phylum_rspndr_abund/bulk_phylum_rspndr_ab
-und.pdf used on input line 36.
-(pdftex.def)             Requested size: 284.03252pt x 568.07062pt.
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=504, 722.7pt x 115
+6.32pt>
+File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
+e pdf)
+ <use figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf>
+Package pdftex.def Info: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pd
+f used on input line 36.
+(pdftex.def)             Requested size: 355.03705pt x 568.06622pt.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <to be read again> 
@@ -1150,8 +1149,8 @@ Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 51.
 ] [16 <./figures/l2fc_time/l2fc_time.pdf>] [17 <./figures/abndVtime_class/abndV
 time_class.pdf>] [18 <./figures/bacteria_tree/bacteria_tree.pdf>] [19 <./figure
 s/bulk_ordination/bulk_ordination.pdf>] [20 <./figures/bulk_phylum_rspndr_abund
-/bulk_phylum_rspndr_abund.pdf>] [21 <./figures/all_rspndr_bar/all_rspndr_bar.pd
-f> <./figures/foodweb/foodweb.png>]
+/abund_v_time_phyla.pdf>] [21 <./figures/all_rspndr_bar/all_rspndr_bar.pdf> <./
+figures/foodweb/foodweb.png>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1261,8 +1260,8 @@ Package logreq Info: Writing requests to 'full_paper.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  13449 strings out of 493485
- 210962 string characters out of 3143526
- 689172 words of memory out of 3000000
+ 210932 string characters out of 3143526
+ 689171 words of memory out of 3000000
  16351 multiletter control sequences out of 15000+200000
  16325 words of font info for 60 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1280,7 +1279,7 @@ msfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 y9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (26 pages, 1802998 bytes).
+Output written on full_paper.pdf (26 pages, 1808494 bytes).
 PDF statistics:
  5215 PDF objects out of 6186 (max. 8388607)
  541 compressed objects within 6 object streams

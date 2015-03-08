@@ -5,23 +5,35 @@
 %% Version2: Oct 04, 2013
 
 %% BASIC CLASS FILE
-\documentclass[oneside,onecolumn,a4paper,titlepage]{pnastwo}
+\documentclass[final,oneside,onecolumn,a4paper,titlepage]{pnastwo}
 
 %% ADDITIONAL OPTIONAL STYLE FILES Font specification
 
 %\usepackage{pnastwoF}
 
-\usepackage[
-    backend=biber,
-    style=authoryear-icomp,
-    sortlocale=de_DE,
-    natbib=true,
-    doi=false,
-    url=false, 
-    isbn=false,
-    eprint=false
-]{biblatex}
-\addbibresource{bibliography/biblio.bib}
+%\usepackage[
+%    backend=biber,
+%    style=numeric-comp,
+%    sorting=none,
+%    firstinits=true,
+%    terseinits=true,
+%    maxbibnames=5,
+%    natbib=true,
+%    doi=false,
+%    url=false, 
+%    isbn=false,
+%    eprint=false
+%]{biblatex}
+%\addbibresource{bibliography/biblio.bib}
+%
+%\renewrobustcmd*{\bibinitdelim}{-}
+%\DeclareNameAlias{sortname}{last-first}
+
+\usepackage[numbers,sort&compress]{natbib}
+
+\makeatletter %
+   \renewcommand{\@biblabel}[1]{#1.}
+\makeatother
 
 \usepackage{hyperref}
 

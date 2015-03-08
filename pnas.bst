@@ -10,8 +10,11 @@ authorname.n = [<authorlist.n.prefix> ]<authorlist.n.last>[ <authorlist.n.first.
 au = <authorname.0>, ..., <authorname.9>
 editorname.n = [<editorlist.n.prefix> ]<editorlist.n.last>[ <editorlist.n.first.initial()>][<editorlist.n.middle.initial().compress()>][, <editorlist.n.suffix>]
 ed = <editorname.0>, ..., <editorname.9>
+sortkey = <citenum.zfill(2)>
 null = {}
 
 OPTIONS:
 edmsg1 = ed
 edmsg2 = eds
+maxauthors = 5
+etal_message = , \textit{et~al.} 

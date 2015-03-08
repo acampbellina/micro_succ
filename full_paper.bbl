@@ -6,6 +6,22 @@
 
 \bibitem[1]{Amundson_2001}
 Amundson R (2001) The carbon budget in soils. \textit{Annu Rev Earth Planet Sci} 29(1): 535--562.
+\bibitem[2]{BATJES_1996}
+Batjes NH (1996) {Total carbon and nitrogen in the soils of the world}. \textit{European Journal of Soil Science} 47(2): 151--163.
+\bibitem[3]{yanagita1990natural}
+Yanagita T (1990) {Natural microbial communities: ecological and physiological features}.
+\bibitem[4]{chapin2002principles}
+Chapin F (2002) {Principles of terrestrial ecosystem ecology}.
+\bibitem[5]{Groenigen_2006}
+Groenigen KJ, Graaff MA, Six J, Harris D, Kuikman P, Kessel C (2006) {The impact of elevated atmospheric [co2] on soil c and n dynamics: a meta-analysis}. \textit{Managed Ecosystems and CO2} (Springer Science + Business Media, ???), pp~373--391.
+\bibitem[6]{DAVIDSON_2006}
+Davidson EA, Janssens IA, Luo Y (2006) {On the variability of respiration in terrestrial ecosystems: moving beyond Q10}. \textit{Global Change Biology} 12(2): 154--164.
+\bibitem[7]{Friedlingstein_2006}
+Friedlingstein P, Cox P, Betts R, Bopp L, von WB, Brovkin V, Cadule P, Doney S, Eby M, Fung I, \textit{et~al.} (2006) {Climate--carbon cycle feedback analysis: Results from the c 4 mip model intercomparison}. \textit{J Climate} 19(14): 3337--3353.
+\bibitem[8]{Neff_2001}
+Neff JC, Asner GP (2001) {Dissolved organic carbon in terrestrial ecosystems: synthesis and a model}. \textit{Ecosystems} 4(1): 29--48.
+\bibitem[9]{ColemanCrossley_1996}
+Coleman D, Jr DAC (1996) Fundamentals of Soil Ecology. \textit{American Journal of Alternative Agriculture} ???(4): 190.
 \bibitem[10]{Nannipieri_2003}
 Nannipieri P, Ascher J, Ceccherini MT, Landi L, Pietramellara G, Renella G (2003) {Microbial diversity and soil functions}. \textit{European Journal of Soil Science} 54(4): 655--670.
 \bibitem[11]{Sollins_Homann_Caldwell_1996}
@@ -26,8 +42,6 @@ Strickland MS, Lauber C, Fierer N, Bradford MA (2009) {Testing the functional si
 Wohl DL, Arora S, Gladstone JR (2004) Functional redundancy supports biodiversity and ecosystem function in a closed and constant environment. \textit{Ecology} 85(6): 1534--1540.
 \bibitem[19]{O_Donnell_2002}
 O'Donnell AG, Seasman M, Macrae A, Waite I, Davies JT (2002) {Plants and fertilisers as drivers of change in microbial community structure and function in soils}. \textit{Interactions in the Root Environment: An Integrated Approach} (Springer Netherlands, ???), pp~135--145.
-\bibitem[2]{BATJES_1996}
-Batjes NH (1996) {Total carbon and nitrogen in the soils of the world}. \textit{European Journal of Soil Science} 47(2): 151--163.
 \bibitem[20]{Chen_Murrell_2010}
 Chen Y, Murrell JC (2010) {When metagenomics meets stable-isotope probing: progress and perspectives}. \textit{Trends Microbiol} 18(4): 157--163.
 \bibitem[21]{Lu_2005}
@@ -43,13 +57,11 @@ Anderson MJ, Ellingsen KE, McArdle BH (2006) {Multivariate dispersion as a measu
 \bibitem[26]{YBenjamini1995}
 Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society, Series B} {57}(???): 289--300.
 \bibitem[27]{Kong_2012}
-Kong HH, Oh J, Deming C, Conlan S, Grice EA, Beatson MA, Nomicos E, Polley EC, Komarow HD, Murray PR, \textit{et al.} (2012) {Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}. \textit{Genome Res} 22(5): 850--859.
+Kong HH, Oh J, Deming C, Conlan S, Grice EA, Beatson MA, Nomicos E, Polley EC, Komarow HD, Murray PR, \textit{et~al.} (2012) {Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}. \textit{Genome Res} 22(5): 850--859.
 \bibitem[28]{16346402}
 Casida LE (1983) {Interaction of Agromyces ramosus with Other Bacteria in Soil.}. \textit{Appl Environ Microbiol} 46(4): 881--888.
 \bibitem[29]{boone2001bergeys}
 Boone D (2001) {Bergey's manual of systematic bacteriology}.
-\bibitem[3]{yanagita1990natural}
-Yanagita T (1990) {Natural microbial communities: ecological and physiological features}.
 \bibitem[30]{Tavernier_2008}
 Tavernier ML, Delattre C, Petit E, Michaud P (2008) {$\beta$-(1,4)-Polyglucuronic Acids - An Overview}. \textit{TOBIOTJ} 2(1): 73--86.
 \bibitem[31]{Fierer_2013}
@@ -69,9 +81,7 @@ Hug LA, Castelle CJ, Wrighton KC, Thomas BC, Sharon I, Frischkorn KR, Williams K
 \bibitem[38]{Goldfarb_2011}
 Goldfarb KC, Karaoz U, Hanson CA, Santee CA, Bradford MA, Treseder KK, Wallenstein MD, Brodie EL (2011) {Differential Growth Responses of Soil Bacterial Taxa to Carbon Substrates of Varying Chemical Recalcitrance}. \textit{Frontiers in Microbiology} 2(???): ???.
 \bibitem[39]{Cole_2013}
-Cole JK, Gieler BA, Heisler DL, Palisoc MM, Williams AJ, Dohnalkova AC, Ming H, Yu TT, Dodsworth JA, Li WJ, \textit{et al.} (2013) {Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}. \textit{Int J Syst Evol Microbiol} 63(Pt 12): 4675--4682.
-\bibitem[4]{chapin2002principles}
-Chapin F (2002) {Principles of terrestrial ecosystem ecology}.
+Cole JK, Gieler BA, Heisler DL, Palisoc MM, Williams AJ, Dohnalkova AC, Ming H, Yu TT, Dodsworth JA, Li WJ, \textit{et~al.} (2013) {Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}. \textit{Int J Syst Evol Microbiol} 63(Pt 12): 4675--4682.
 \bibitem[40]{Vance_1980}
 Vance I, Topham CM, Blayden SL, Tampion J (1980) {Extracellular Cellulase Production by Sporocytophaga myxococcoides {NCIB} 8639}. \textit{Microbiology} 117(1): 235--241.
 \bibitem[41]{Labeda_2008}
@@ -83,7 +93,7 @@ Labeda DP, Lyons AJ (1989) {Saccharothrix texasensis sp. nov. and Saccharothrix 
 \bibitem[44]{Labeda_2001}
 Labeda DP, Hatano K, Kroppenstedt RM, Tamura T (2001) {Revival of the genus Lentzea and proposal for Lechevalieria gen. nov}. \textit{Int J Syst Evol Microbiol} 51(3): 1045--1050.
 \bibitem[45]{Di_Rienzi_2013}
-Rienzi SCD, Sharon I, Wrighton KC, Koren O, Hug LA, Thomas BC, Goodrich JK, Bell JT, Spector TD, Banfield JF, \textit{et al.} (2013) {The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}. \textit{eLIFE} 2(???): ???.
+Rienzi SCD, Sharon I, Wrighton KC, Koren O, Hug LA, Thomas BC, Goodrich JK, Bell JT, Spector TD, Banfield JF, \textit{et~al.} (2013) {The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}. \textit{eLIFE} 2(???): ???.
 \bibitem[46]{Soo_2014}
 Soo RM, Skennerton CT, Sekiguchi Y, Imelfort M, Paech SJ, Dennis PG, Steen JA, Parks DH, Tyson GW, Hugenholtz P (2014) {An expanded genomic representation of the phylum cyanobacteria}. \textit{Genome Biology and Evolution} 6(5): 1031--1045.
 \bibitem[47]{Kembel_2012}
@@ -92,8 +102,6 @@ Kembel SW, Wu M, Eisen JA, Green JL (2012) {Incorporating {16S} gene copy number
 Klappenbach JA, Dunbar JM, Schmidt TM (2000) {{rRNA} Operon copy number reflects ecological strategies of bacteria}. \textit{Appl Environ Microbiol} 66(4): 1328--1333.
 \bibitem[49]{Alexander1977}
 Alexander M (???) Introduction to Soil Microbiology.
-\bibitem[5]{Groenigen_2006}
-Groenigen KJ, Graaff MA, Six J, Harris D, Kuikman P, Kessel C (2006) {The impact of elevated atmospheric [co2] on soil c and n dynamics: a meta-analysis}. \textit{Managed Ecosystems and CO2} (Springer Science + Business Media, ???), pp~373--391.
 \bibitem[50]{Janssen2006}
 Janssen PH (2006) Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes. \textit{Applied and Environmental Microbiology} 72(3): 1719--1728.
 \bibitem[51]{Schloss2006}
@@ -114,14 +122,12 @@ Schellenberger S, Kolb S, Drake HL (2010) Metabolic responses of novel celluloly
 Lewin RA (1970) New {Herpetosiphon} species ({Flexibacterales}). \textit{Canadian Journal of Microbiology} 16(6): 517--520.
 \bibitem[59]{Fierer_2012}
 Fierer N, Leff JW, Adams BJ, Nielsen UN, Bates ST, Lauber CL, Owens S, Gilbert JA, Wall DH, Caporaso JG (2012) {Cross-biome metagenomic analyses of soil microbial communities and their functional attributes}. \textit{Proceedings of the National Academy of Sciences} 109(52): 21390--21395.
-\bibitem[6]{DAVIDSON_2006}
-Davidson EA, Janssens IA, Luo Y (2006) {On the variability of respiration in terrestrial ecosystems: moving beyond Q10}. \textit{Global Change Biology} 12(2): 154--164.
 \bibitem[60]{Philippot_2010}
 Philippot L, Andersson SGE, Battin TJ, Prosser JI, Schimel JP, Whitman WB, Hallin S (2010) {The ecological coherence of high bacterial taxonomic ranks}. \textit{Nat Rev Micro} 8(7): 523--529.
 \bibitem[61]{Tringe_2005}
 Tringe SG (2005) {Comparative metagenomics of microbial communities}. \textit{Science} 308(5721): 554--557.
 \bibitem[62]{Gilbert_2010}
-Gilbert JA, Field D, Swift P, Thomas S, Cummings D, Temperton B, Weynberg K, Huse S, Hughes M, Joint I, \textit{et al.} (2010) {The taxonomic and functional diversity of microbes at a temperate coastal site: a `multi-omic' study of seasonal and diel temporal variation}. \textit{PLoS ONE} 5(11): e15545.
+Gilbert JA, Field D, Swift P, Thomas S, Cummings D, Temperton B, Weynberg K, Huse S, Hughes M, Joint I, \textit{et~al.} (2010) {The taxonomic and functional diversity of microbes at a temperate coastal site: a `multi-omic' study of seasonal and diel temporal variation}. \textit{PLoS ONE} 5(11): e15545.
 \bibitem[63]{Bryant_2012}
 Bryant JA, Stewart FJ, Eppley JM, DeLong EF (2012) {Microbial community phylogenetic and trait diversity declines with depth in a marine oxygen minimum zone}. \textit{Ecology} 93(7): 1659--1673.
 \bibitem[64]{Schneckenberger_2008}
@@ -136,11 +142,5 @@ Neufeld JD, Vohra J, Dumont MG, Lueders T, Manefield M, Friedrich MW, Murrell JC
 Manefield M, Whiteley AS, Griffiths RI, Bailey MJ (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
 \bibitem[69]{Hamady_2008}
 Hamady M, Walker JJ, Harris JK, Gold NJ, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
-\bibitem[7]{Friedlingstein_2006}
-Friedlingstein P, Cox P, Betts R, Bopp L, von WB, Brovkin V, Cadule P, Doney S, Eby M, Fung I, \textit{et al.} (2006) {Climate--carbon cycle feedback analysis: Results from the c 4 mip model intercomparison}. \textit{J Climate} 19(14): 3337--3353.
-\bibitem[8]{Neff_2001}
-Neff JC, Asner GP (2001) {Dissolved organic carbon in terrestrial ecosystems: synthesis and a model}. \textit{Ecosystems} 4(1): 29--48.
-\bibitem[9]{ColemanCrossley_1996}
-Coleman D, Jr DAC (1996) Fundamentals of Soil Ecology. \textit{American Journal of Alternative Agriculture} ???(4): 190.
 
 \end{thebibliography}

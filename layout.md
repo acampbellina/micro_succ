@@ -4,8 +4,8 @@ Significance.tex
 Introduction.tex
 Results.tex
 Discussion.tex
-text.tex
 Methods.tex
+Supplemental_notes.tex
 figures/l2fc_time/l2fc_time.png
 figures/abndVtime_class/abndVtime_class.png
 figures/ordination_all1/ordination_all.png
@@ -21,3 +21,4 @@ figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.png
 figures/generalist_specialist/generalist_specialist.png
 figures/tiled_tree/tiled_tree.png
 figures/foodweb/foodweb.png
+text.tex

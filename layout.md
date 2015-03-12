@@ -19,6 +19,7 @@ figures/all_rspndr_bar/all_rspndr_bar.png
 figures/bulk_ordination/bulk_ordination.png
 figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.png
 figures/conceptual1/conceptual1.png
+figures/conceptual3/conceptual3.png
 figures/generalist_specialist/generalist_specialist.png
 figures/tiled_tree/tiled_tree.png
 figures/foodweb/foodweb.png

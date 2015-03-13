@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{66}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -126,5 +126,15 @@ Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, Murrell
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
 \bibitem[61]{Hamady_2008}
 Hamady M, Walker J-J, Harris J-K, Gold N-J, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
+\bibitem[62]{Bergmann_2011}
+Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, Knight R, Fierer N (2011) {The under-recognized dominance of Verrucomicrobia in soil bacterial communities}. \textit{Soil Biology and Biochemistry} 43(7): 1450--1455.
+\bibitem[63]{Buckley_2001}
+Buckley D-H, Schmidt T-M (2001) {Environmental factors influencing the distribution of {rRNA} from Verrucomicrobia in soil}. \textit{FEMS Microbiol Ecol} 35(1): 105--112.
+\bibitem[64]{Wertz_2011}
+Wertz J-T, Kim E, Breznak J-A, Schmidt T-M, Rodrigues J-LM (2011) {Genomic and physiological characterization of the verrucomicrobia isolate diplosphaera colitermitum gen. nov. sp. nov., reveals microaerophily and nitrogen fixation genes}. \textit{Appl Environ Microbiol} 78(5): 1544--1555.
+\bibitem[65]{Schellenberger_2010}
+Schellenberger S, Kolb S, Drake H-L (2010) Metabolic responses of novel cellulolytic and saccharolytic agricultural soil Bacteria to oxygen. \textit{Environ Microbiol} 12(4): 845--861.
+\bibitem[66]{Lewin1970}
+Lewin R-A (1970) New {Herpetosiphon} species ({Flexibacterales}). \textit{Canadian Journal of Microbiology} 16(6): 517--520.
 
 \end{thebibliography}

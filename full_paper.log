@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  12 MAR 2015 17:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  13 MAR 2015 09:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,7 +470,11 @@ Package: environ 2008/06/18 v0.2 A new way to define environments
 )
 \TPTL@width=\skip61
 )
-(./full_paper.aux)
+(./full_paper.aux
+
+LaTeX Warning: Label `fig:c1' multiply defined.
+
+)
 \openout1 = `full_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -582,146 +586,21 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 Package hyperref Warning: Ignoring empty anchor on input line 4.
 
-(./Abstract.tex) (./kwabbr.tex) (./Introduction.tex
+(./Abstract.tex) (./kwabbr.tex) (./Introduction.tex [1{/var/lib/texmf/fonts/map
+/pdftex/updmap/pdftex.map}
 
-Package natbib Warning: Citation `Amundson_2001' on page 1 undefined on input l
-ine 5.
+]) (./Results.tex [2]
 
+Package natbib Warning: Author undefined for citation`Anderson2001a' 
+(natbib)                on page 3 on input line 45.
 
-Package natbib Warning: Citation `BATJES_1996' on page 1 undefined on input lin
-e 5.
 
+Package natbib Warning: Author undefined for citation`Anderson2006' 
+(natbib)                on page 3 on input line 49.
 
-Package natbib Warning: Citation `yanagita1990natural' on page 1 undefined on i
-nput line 8.
 
-
-Package natbib Warning: Citation `chapin2002principles' on page 1 undefined on 
-input line 10.
-
-
-Package natbib Warning: Citation `Groenigen_2006' on page 1 undefined on input 
-line 13.
-
-
-Package natbib Warning: Citation `DAVIDSON_2006' on page 1 undefined on input l
-ine 14.
-
-
-Package natbib Warning: Citation `Friedlingstein_2006' on page 1 undefined on i
-nput line 16.
-
-
-Package natbib Warning: Citation `Neff_2001' on page 1 undefined on input line 
-19.
-
-
-Package natbib Warning: Citation `ColemanCrossley_1996' on page 1 undefined on 
-input line 23.
-
-
-Package natbib Warning: Citation `Nannipieri_2003' on page 1 undefined on input
- line 23.
-
-
-Package natbib Warning: Citation `Nannipieri_2003' on page 1 undefined on input
- line 27.
-
-
-Package natbib Warning: Citation `Sollins_Homann_Caldwell_1996' on page 1 undef
-ined on input line 32.
-
-
-Package natbib Warning: Citation `Kalbitz_2000' on page 1 undefined on input li
-ne 32.
-
-
-Package natbib Warning: Citation `ndi_Pietramellara_Renella_2003' on page 1 und
-efined on input line 34.
-
-
-Package natbib Warning: Citation `Allison_2008' on page 1 undefined on input li
-ne 36.
-
-
-Package natbib Warning: Citation `ndi_Pietramellara_Renella_2003' on page 1 und
-efined on input line 36.
-
-
-Package natbib Warning: Citation `Schimel_2012' on page 1 undefined on input li
-ne 36.
-
-
-Package natbib Warning: Citation `Schimel_1995' on page 1 undefined on input li
-ne 39.
-
-
-Package natbib Warning: Citation `Strickland_2009' on page 1 undefined on input
- line 42.
-
-
-Package natbib Warning: Citation `Wohl_2004' on page 1 undefined on input line 
-44.
-
-
-Package natbib Warning: Citation `O_Donnell_2002' on page 1 undefined on input 
-line 50.
-
-
-Package natbib Warning: Citation `Chen_Murrell_2010' on page 1 undefined on inp
-ut line 56.
-
-
-Package natbib Warning: Citation `Lu_2005' on page 1 undefined on input line 58
-.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-]
-
-Package natbib Warning: Citation `Hu_1997' on page 2 undefined on input line 74
-.
-
-
-Package natbib Warning: Citation `Rui_2009' on page 2 undefined on input line 7
-4.
-
-) (./Results.tex
-
-LaTeX Warning: Reference `fig:ord' on page 2 undefined on input line 25.
-
-[2]
-
-LaTeX Warning: Reference `fig:bulk_ord' on page 3 undefined on input line 44.
-
-
-Package natbib Warning: Citation `Anderson2001a' on page 3 undefined on input l
-ine 45.
-
-
-Package natbib Warning: Citation `Anderson2006' on page 3 undefined on input li
-ne 49.
-
-
-Package natbib Warning: Citation `oksanen2007vegan' on page 3 undefined on inpu
-t line 49.
-
-
-Package natbib Warning: Citation `YBenjamini1995' on page 3 undefined on input 
-line 51.
-
-
-LaTeX Warning: Reference `fig:time' on page 3 undefined on input line 51.
-
-
-LaTeX Warning: Reference `fig:time' on page 3 undefined on input line 57.
-
-
-LaTeX Warning: Reference `fig:time_class' on page 3 undefined on input line 63.
-
-
-
-LaTeX Warning: Reference `fig:time' on page 3 undefined on input line 65.
+Package natbib Warning: Author undefined for citation`YBenjamini1995' 
+(natbib)                on page 3 on input line 51.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -736,317 +615,29 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 69.
 
 
-Package natbib Warning: Citation `Kalbitz_2000' on page 3 undefined on input li
-ne 77.
-
-
-LaTeX Warning: Reference `fig:l2fc' on page 3 undefined on input line 97.
-
-
-LaTeX Warning: Reference `fig:xyl_count' on page 3 undefined on input line 98.
-
-
-LaTeX Warning: Reference `tab:xyl' on page 3 undefined on input line 103.
-
-
-LaTeX Warning: Reference `tab:xyl' on page 3 undefined on input line 108.
-
-
-LaTeX Warning: Reference `tab:xyl' on page 3 undefined on input line 111.
-
-
-Package natbib Warning: Citation `Kong_2012' on page 3 undefined on input line 
-113.
-
-
-LaTeX Warning: Reference `tab:xyl' on page 3 undefined on input line 119.
-
-
-Package natbib Warning: Citation `16346402' on page 3 undefined on input line 1
-21.
+Package natbib Warning: Author undefined for citation`Kong_2012' 
+(natbib)                on page 3 on input line 113.
 
 [3]
 
-LaTeX Warning: Reference `fig:l2fc' on page 4 undefined on input line 150.
+Package natbib Warning: Author undefined for citation`Di_Rienzi_2013' 
+(natbib)                on page 4 on input line 227.
 
-
-Package natbib Warning: Citation `boone2001bergeys' on page 4 undefined on inpu
-t line 158.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 160.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 162.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 164.
-
-
-Package natbib Warning: Citation `Tavernier_2008' on page 4 undefined on input 
-line 171.
-
-
-Package natbib Warning: Citation `Fierer_2013' on page 4 undefined on input lin
-e 175.
-
-
-Package natbib Warning: Citation `Fierer_2013' on page 4 undefined on input lin
-e 176.
-
-
-Package natbib Warning: Citation `Herlemann_2013' on page 4 undefined on input 
-line 176.
-
-
-Package natbib Warning: Citation `10543821' on page 4 undefined on input line 1
-76.
-
-
-Package natbib Warning: Citation `Parveen_2013' on page 4 undefined on input li
-ne 180.
-
-
-Package natbib Warning: Citation `Jiang_2011' on page 4 undefined on input line
- 182.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 185.
-
-
-Package natbib Warning: Citation `Otsuka_2012' on page 4 undefined on input lin
-e 187.
-
-
-Package natbib Warning: Citation `Hug_2013' on page 4 undefined on input line 1
-95.
-
-
-Package natbib Warning: Citation `Hug_2013' on page 4 undefined on input line 1
-96.
-
-
-Package natbib Warning: Citation `Goldfarb_2011' on page 4 undefined on input l
-ine 196.
-
-
-Package natbib Warning: Citation `Cole_2013' on page 4 undefined on input line 
-196.
-
-
-Package natbib Warning: Citation `Goldfarb_2011' on page 4 undefined on input l
-ine 198.
-
-
-Package natbib Warning: Citation `Cole_2013' on page 4 undefined on input line 
-198.
-
-
-Package natbib Warning: Citation `Hug_2013' on page 4 undefined on input line 1
-98.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 201.
-
-
-LaTeX Warning: Reference `fig:trees' on page 4 undefined on input line 201.
-
-
-LaTeX Warning: Reference `fig:trees' on page 4 undefined on input line 204.
-
-
-Package natbib Warning: Citation `Vance_1980' on page 4 undefined on input line
- 209.
-
-
-Package natbib Warning: Citation `Labeda_2008' on page 4 undefined on input lin
-e 215.
-
-
-Package natbib Warning: Citation `Tomita_1993' on page 4 undefined on input lin
-e 215.
-
-
-Package natbib Warning: Citation `LABEDA_1989' on page 4 undefined on input lin
-e 216.
-
-
-Package natbib Warning: Citation `Labeda_2001' on page 4 undefined on input lin
-e 216.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 219.
-
-
-LaTeX Warning: Reference `fig:trees' on page 4 undefined on input line 219.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 224.
-
-
-Package natbib Warning: Citation `Di_Rienzi_2013' on page 4 undefined on input 
-line 227.
-
-
-Package natbib Warning: Citation `Soo_2014' on page 4 undefined on input line 2
-28.
-
-
-Package natbib Warning: Citation `Di_Rienzi_2013' on page 4 undefined on input 
-line 231.
-
-
-Package natbib Warning: Citation `Soo_2014' on page 4 undefined on input line 2
-31.
-
-
-Package natbib Warning: Citation `Di_Rienzi_2013' on page 4 undefined on input 
-line 234.
-
-
-LaTeX Warning: Reference `tab:cell' on page 4 undefined on input line 237.
-
-[4]
-
-LaTeX Warning: Reference `fig:shift' on page 5 undefined on input line 244.
-
-
-LaTeX Warning: Reference `fig:shift' on page 5 undefined on input line 246.
-
-
-LaTeX Warning: Reference `tab:cell' on page 5 undefined on input line 248.
-
-
-LaTeX Warning: Reference `tab:xyl' on page 5 undefined on input line 249.
-
-
-LaTeX Warning: Reference `tab:cell' on page 5 undefined on input line 252.
-
-
-LaTeX Warning: Reference `fig:babund' on page 5 undefined on input line 258.
-
-
-LaTeX Warning: Reference `fig:babund' on page 5 undefined on input line 262.
-
-
-LaTeX Warning: Reference `fig:shift' on page 5 undefined on input line 269.
-
-
-LaTeX Warning: Reference `fig:shift' on page 5 undefined on input line 294.
-
-
-LaTeX Warning: Reference `fig:copy' on page 5 undefined on input line 299.
-
-
-LaTeX Warning: Reference `fig:copy' on page 5 undefined on input line 301.
-
-
-Package natbib Warning: Citation `Kembel_2012' on page 5 undefined on input lin
-e 302.
-
-
-Package natbib Warning: Citation `Klappenbach_2000' on page 5 undefined on inpu
-t line 304.
-
-
-Package natbib Warning: Citation `Klappenbach_2000' on page 5 undefined on inpu
-t line 308.
-
-) (./Discussion.tex
-
-Package natbib Warning: Citation `Alexander1977' on page 5 undefined on input l
-ine 8.
-
-
-Package natbib Warning: Citation `Janssen2006' on page 5 undefined on input lin
-e 8.
-
-
-Package natbib Warning: Citation `Schloss2006' on page 5 undefined on input lin
-e 10.
-
-
-Package natbib Warning: Citation `Janssen2002' on page 5 undefined on input lin
-e 13.
-
-
-Package natbib Warning: Citation `Janssen2006' on page 5 undefined on input lin
-e 15.
-
-[5]
-
-LaTeX Warning: Reference `fig:foodweb' on page 6 undefined on input line 28.
-
-
-Package natbib Warning: Citation `11125085' on page 6 undefined on input line 4
-8.
-
-
-LaTeX Warning: Reference `fig:copy' on page 6 undefined on input line 52.
-
-
-LaTeX Warning: Reference `fig:shift' on page 6 undefined on input line 53.
-
-
-LaTeX Warning: Reference `fig:shift' on page 6 undefined on input line 54.
-
-
-LaTeX Warning: Reference `fig:copy' on page 6 undefined on input line 63.
-
-
-LaTeX Warning: Reference `fig:trees' on page 6 undefined on input line 81.
-
-
-Package natbib Warning: Citation `Banning2010a' on page 6 undefined on input li
-ne 84.
-
-) (./Methods.tex
+[4]) (./Discussion.tex [5]) (./Methods.tex
 Overfull \hbox (0.2284pt too wide) in paragraph at lines 93--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
 
 [6]
-
-Package natbib Warning: Citation `Schneckenberger_2008' on page 7 undefined on 
-input line 5.
-
-
-Package natbib Warning: Citation `Griffiths_2000' on page 7 undefined on input 
-line 8.
-
-
-Package natbib Warning: Citation `Buckley_2007' on page 7 undefined on input li
-ne 8.
-
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 8.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
-
-
-Package natbib Warning: Citation `Neufeld_2007' on page 7 undefined on input li
-ne 8.
-
-
-Package natbib Warning: Citation `Manefield_2002' on page 7 undefined on input 
-line 8.
-
-
-Package natbib Warning: Citation `Buckley_2007' on page 7 undefined on input li
-ne 8.
-
-
-Package natbib Warning: Citation `Buckley_2007' on page 7 undefined on input li
-ne 8.
-
-
-Package natbib Warning: Citation `Hamady_2008' on page 7 undefined on input lin
-e 11.
-
-) (./Supplemental_notes.tex
+)
+(./Supplemental_notes.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 5.
@@ -1071,62 +662,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 5.
 
-
-Package natbib Warning: Citation `Bergmann_2011' on page 7 undefined on input l
-ine 6.
-
-
-Package natbib Warning: Citation `Bergmann_2011' on page 7 undefined on input l
-ine 8.
-
-
-Package natbib Warning: Citation `Buckley_2001' on page 7 undefined on input li
-ne 9.
-
-
-Package natbib Warning: Citation `Wertz_2011' on page 7 undefined on input line
- 10.
-
-
-Package natbib Warning: Citation `Bergmann_2011' on page 7 undefined on input l
-ine 13.
-
-
-Package natbib Warning: Citation `Otsuka_2012' on page 7 undefined on input lin
-e 16.
-
-
-Package natbib Warning: Citation `Wertz_2011' on page 7 undefined on input line
- 16.
-
-
-LaTeX Warning: Reference `tab:cell' on page 7 undefined on input line 20.
-
-
-Package natbib Warning: Citation `Bergmann_2011' on page 7 undefined on input l
-ine 23.
-
-[7]
-
-Package natbib Warning: Citation `Schellenberger_2010' on page 8 undefined on i
-nput line 31.
-
-
-LaTeX Warning: Reference `tab:cell' on page 8 undefined on input line 33.
-
-
-Package natbib Warning: Citation `Janssen2006' on page 8 undefined on input lin
-e 34.
-
-
-Package natbib Warning: Citation `Janssen2006' on page 8 undefined on input lin
-e 37.
-
-
-Package natbib Warning: Citation `Lewin1970' on page 8 undefined on input line 
-42.
-
-) (./full_paper.bbl [8]
+[7]) (./full_paper.bbl [8]
 Underfull \hbox (badness 5637) in paragraph at lines 36--37
 \OT1/cmr/m/it/9 Fron-tiers in Mi-cro-bi-ol-ogy \OT1/cmr/m/n/9 3: 348. doi:
  []
@@ -1173,7 +709,7 @@ Underfull \hbox (badness 5388) in paragraph at lines 82--83
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=147, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=342, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -1182,7 +718,7 @@ ut line 6.
 (pdftex.def)             Requested size: 473.38274pt x 177.51407pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=148, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=343, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -1190,7 +726,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 12.
 (pdftex.def)             Requested size: 473.38274pt x 325.29652pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=149, 216.81pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=344, 216.81pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
@@ -1199,7 +735,7 @@ n input line 19.
 (pdftex.def)             Requested size: 236.69136pt x 473.40395pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund3.png, id=150, 15056.25pt x 5018.75p
+<figures/shift_and_rabund3/shift_and_rabund3.png, id=345, 15056.25pt x 5018.75p
 t>
 File: figures/shift_and_rabund3/shift_and_rabund3.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund3.png>
@@ -1209,7 +745,7 @@ n input line 26.
 
 (./figures/shift_and_rabund3/caption.tex)
 (./figures/shift_and_rabund3/caption.tex)
-<figures/copy_number/copy_number.pdf, id=152, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=347, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -1254,7 +790,7 @@ f>]) (./supp_figs.tex
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/l2fc_time/l2fc_time.pdf, id=303, 578.16pt x 722.7pt>
+<figures/l2fc_time/l2fc_time.pdf, id=494, 578.16pt x 722.7pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -1273,7 +809,7 @@ me identifier (name{figure.1}) has been already used, duplicate ignored
 l.9 ...otect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=304, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=495, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -1293,7 +829,7 @@ same identifier (name{figure.2}) has been already used, duplicate ignored
 l.14 ...ct\input{figures/conceptual1/caption.tex}}
                                                   \label{fig:c1}
 (./figures/conceptual1/caption.tex)
-<figures/conceptual3/conceptual3.pdf, id=305, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=496, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -1313,7 +849,7 @@ same identifier (name{figure.3}) has been already used, duplicate ignored
 l.19 ...ct\input{figures/conceptual3/caption.tex}}
                                                   \label{fig:c1}
 (./figures/conceptual3/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=306, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=497, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -1327,7 +863,7 @@ s been already used, duplicate ignored
 l.25 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
-<figures/bacteria_tree/bacteria_tree.pdf, id=307, 359.86633pt x 1875.31364pt>
+<figures/bacteria_tree/bacteria_tree.pdf, id=498, 359.86633pt x 1875.31364pt>
 File: figures/bacteria_tree/bacteria_tree.pdf Graphic file (type pdf)
 
 <use figures/bacteria_tree/bacteria_tree.pdf>
@@ -1347,7 +883,7 @@ e same identifier (name{figure.5}) has been already used, duplicate ignored
 l.32 ...\input{figures/bacteria_tree/caption.tex}}
                                                   \label{fig:trees}
 (./figures/bacteria_tree/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=308, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=499, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -1356,7 +892,7 @@ put line 38.
 (pdftex.def)             Requested size: 473.38274pt x 182.06953pt.
 
 (./figures/bulk_ordination/caption.tex)
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=309, 722.7pt x 115
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=500, 722.7pt x 115
 6.32pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -1366,7 +902,7 @@ f used on input line 45.
 (pdftex.def)             Requested size: 355.03705pt x 568.06622pt.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=310, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=501, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -1375,7 +911,7 @@ t line 52.
 (pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
 
 (./figures/all_rspndr_bar/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=311, 1156.32pt x 9
+<figures/generalist_specialist/generalist_specialist.pdf, id=502, 1156.32pt x 9
 39.51pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
@@ -1386,7 +922,7 @@ f used on input line 59.
 
 (./figures/generalist_specialist/caption.tex)
 (./figures/generalist_specialist/caption.tex)
-<figures/tiled_tree/tiled_tree.png, id=312, 4561.04pt x 9780.54pt>
+<figures/tiled_tree/tiled_tree.png, id=503, 4561.04pt x 9780.54pt>
 File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree.png>
@@ -1398,7 +934,7 @@ Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 6
 
 LaTeX Warning: Float too large for page by 19.65964pt on input line 69.
 
-<figures/foodweb/foodweb.png, id=313, 667.49374pt x 433.62pt>
+<figures/foodweb/foodweb.png, id=504, 667.49374pt x 433.62pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
@@ -1469,84 +1005,9 @@ Overfull \hbox (17.98405pt too wide) in paragraph at lines 91--91
 []|[]\OT1/cmr/m/n/9 , 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]
- []
-
-
-Overfull \hbox (17.72765pt too wide) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 Maximum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 ob-
- []
-
-
-Overfull \hbox (2.13469pt too wide) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 served
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OML/cmm/m/it/9 log[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 fold
- []
-
-
-Overfull \hbox (6.94092pt too wide) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 change. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]\OT1/cmr/m/n/9 Day
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 max-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 mum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 fold
- []
-
-
-Overfull \hbox (6.94092pt too wide) in paragraph at lines 94--94
-\OT1/cmr/m/n/9 change. 
- []
-
 [25
 
-]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table S1 on input line 95.
-
-[26] [27]) (./table_xyl.tex
+] [26] [27]) (./table_xyl.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1584,125 +1045,30 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 47--47
 []\OT1/cmr/m/n/9 , 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]
- []
-
-
-Overfull \hbox (17.72765pt too wide) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 Maximum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 ob-
- []
-
-
-Overfull \hbox (2.13469pt too wide) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 served
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OML/cmm/m/it/9 log[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 fold
- []
-
-
-Overfull \hbox (6.94092pt too wide) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 change. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]\OT1/cmr/m/n/9 Day
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 max-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 mum
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 fold
- []
-
-
-Overfull \hbox (6.94092pt too wide) in paragraph at lines 81--81
-\OT1/cmr/m/n/9 change. 
- []
-
 [28
 
 
-]
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table S2 on input line 82.
-
-[29] [30]))
-
-Package natbib Warning: There were undefined citations.
-
-
-Package longtable Warning: Table widths have changed. Rerun LaTeX.
-
+] [29]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
-(./full_paper.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+Package rerunfilecheck Info: File `full_paper.out' has not changed.
+(rerunfilecheck)             Checksum: 8116BE907B6BBC42BB66FE05AF96D423;1383.
 
 
-Package rerunfilecheck Warning: File `full_paper.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `full_paper.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  8116BE907B6BBC42BB66FE05AF96D423;1383.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8487 strings out of 493485
- 122715 string characters out of 3143526
- 268128 words of memory out of 3000000
- 11418 multiletter control sequences out of 15000+200000
+ 8519 strings out of 493485
+ 123246 string characters out of 3143526
+ 270545 words of memory out of 3000000
+ 11446 multiletter control sequences out of 15000+200000
  16637 words of font info for 61 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,703s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,2083b,637s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1717,10 +1083,10 @@ y6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (30 pages, 11057038 bytes).
+Output written on full_paper.pdf (29 pages, 11063118 bytes).
 PDF statistics:
- 5075 PDF objects out of 5155 (max. 8388607)
- 390 compressed objects within 4 object streams
- 123 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5258 PDF objects out of 6186 (max. 8388607)
+ 572 compressed objects within 6 object streams
+ 127 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

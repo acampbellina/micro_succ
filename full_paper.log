@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  13 MAR 2015 09:59
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  13 MAR 2015 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -623,20 +623,23 @@ Package natbib Warning: Author undefined for citation`Kong_2012'
 Package natbib Warning: Author undefined for citation`Di_Rienzi_2013' 
 (natbib)                on page 4 on input line 227.
 
-[4]) (./Discussion.tex [5]) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 93--1
+[4]) (./Discussion.tex [5] [6]
+
+LaTeX Warning: Reference `:fig:trees' on page 7 undefined on input line 131.
+
+) (./Methods.tex
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 139--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
 
-[6]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 8.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
-)
+ [7])
 (./Supplemental_notes.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -662,11 +665,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 5.
 
-[7]) (./full_paper.bbl [8]
+[8]) (./full_paper.bbl
 Underfull \hbox (badness 5637) in paragraph at lines 36--37
 \OT1/cmr/m/it/9 Fron-tiers in Mi-cro-bi-ol-ogy \OT1/cmr/m/n/9 3: 348. doi:
  []
 
+[9]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
@@ -675,7 +679,7 @@ Underfull \hbox (badness 5388) in paragraph at lines 82--83
 []\OT1/cmr/m/n/9 Hug L-A, Castelle C-J, Wrighton K-C,
  []
 
-[9] [10]) [11] (./figures.tex
+[10]) [11] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1058,17 +1062,20 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 8116BE907B6BBC42BB66FE05AF96D423;1383.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8519 strings out of 493485
- 123246 string characters out of 3143526
- 270545 words of memory out of 3000000
- 11446 multiletter control sequences out of 15000+200000
+ 8520 strings out of 493485
+ 123258 string characters out of 3143526
+ 270546 words of memory out of 3000000
+ 11447 multiletter control sequences out of 15000+200000
  16637 words of font info for 61 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,637s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,2083b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1083,7 +1090,7 @@ y6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (29 pages, 11063118 bytes).
+Output written on full_paper.pdf (29 pages, 11065500 bytes).
 PDF statistics:
  5258 PDF objects out of 6186 (max. 8388607)
  572 compressed objects within 6 object streams

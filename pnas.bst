@@ -1,5 +1,6 @@
 TEMPLATES:
 article = <au> (<year>) <title>. \textit{<journal>} <volume>[(<number>)]: [<startpage>--<endpage>|<startpage>|<eid>|].[ <note>]
+software = <au> (<year>) <title>.
 incollection = <au> (<year>) <title>. \textit{<booktitle>}[, vol.~<volume>, ][, <edition_ordinal>~ed.][, <null.if_singular(editorlist, edmsg1, edmsg2)>~<ed>][, <series>][, Chap.~<chapter>] (<publisher>, <address>)[, pp~<startpage>--<endpage>|p~<startpage>|<eid>|].[ <note>]
 book = <au> (<year>) <title>. ...
 

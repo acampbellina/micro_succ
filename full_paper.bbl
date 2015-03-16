@@ -13,7 +13,7 @@ Chapin F (2002) {Principles of terrestrial ecosystem ecology}.
 \bibitem[4]{Groenigen_2006}
 Groenigen K-J, Graaff M-A, Six J, Harris D, Kuikman P, Kessel C (2006) {The impact of elevated atmospheric CO$_{2}$ on soil C and N dynamics: a meta-analysis}. \textit{Managed Ecosystems and CO$_{2}$} (Springer Science, Berlin Heidelberg), pp~373--391.
 \bibitem[5]{Friedlingstein_2006}
-Friedlingstein P, Cox P, Betts R, Bopp L, von W-B, Brovkin V, Cadule P, Doney S, Eby M, Fung I, \textit{et~al.} (2006) {Climate--carbon cycle feedback analysis: Results from the C4 mip model intercomparison}. \textit{J Climate} 19(14): 3337--3353.
+Friedlingstein P, Cox P, Betts R, Bopp L, von W-B, Brovkin V, \textit{et~al.} (2006) {Climate--carbon cycle feedback analysis: Results from the C4 mip model intercomparison}. \textit{J Climate} 19(14): 3337--3353.
 \bibitem[6]{Neff_2001}
 Neff J-C, Asner G-P (2001) {Dissolved organic carbon in terrestrial ecosystems: synthesis and a model}. \textit{Ecosystems} 4(1): 29--48.
 \bibitem[7]{O_Donnell_2002}
@@ -35,7 +35,7 @@ Anderson M-J (2001) {A new method for non-parametric multivariate analysis of va
 \bibitem[15]{Anderson2006}
 Anderson M-J, Ellingsen K-E, McArdle B-H (2006) {Multivariate dispersion as a measure of beta diversity}. \textit{Ecology Letters} {9}(6): 683--693.
 \bibitem[16]{oksanen2007vegan}
-Oksanen J, Kindt R, Legendre P, O’Hara B, Stevens M-HH, Oksanen M-J, Suggests M (2007) The vegan package.
+Oksanen J, Kindt R, Legendre P, O’Hara B, Stevens M-HH, Oksanen M-J, \textit{et~al.} (2007) The vegan package.
 \bibitem[17]{YBenjamini1995}
 Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society, Series B} 57(1): 289--300.
 \bibitem[18]{Alexander1977}
@@ -61,7 +61,7 @@ Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for 
 \bibitem[28]{Buckley_2007}
 Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing with $^{15}$N achieved by disentangling the effects of genome G$+$C content and isotope enrichment on {dna} Density}. \textit{Appl Environ Microbiol} 73(10): 3189--3195.
 \bibitem[29]{Neufeld_2007}
-Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, Murrell J-C (2007) {{DNA} stable-isotope probing}. \textit{Nature Protocols} 2(4): 860--866.
+Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, \textit{et~al.} (2007) {{DNA} stable-isotope probing}. \textit{Nature Protocols} 2(4): 860--866.
 \bibitem[30]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
 \bibitem[31]{Hamady_2008}
@@ -71,23 +71,23 @@ Boone D (2001) {Bergey's manual of systematic bacteriology}.
 \bibitem[33]{Tavernier_2008}
 Tavernier M-L, Delattre C, Petit E, Michaud P (2008) {$\beta$-(1,4)-Polyglucuronic Acids - An Overview}. \textit{TOBIOTJ} 2(1): 73--86.
 \bibitem[34]{Fierer_2013}
-Fierer N, Ladau J, Clemente J-C, Leff J-W, Owens S-M, Pollard K-S, Knight R, Gilbert J-A, McCulley R-L (2013) {Reconstructing the microbial diversity and function of pre-agricultural tallgrass prairie soils in the united states}. \textit{Science} 342(6158): 621--624.
+Fierer N, Ladau J, Clemente J-C, Leff J-W, Owens S-M, Pollard K-S, \textit{et~al.} (2013) {Reconstructing the microbial diversity and function of pre-agricultural tallgrass prairie soils in the united states}. \textit{Science} 342(6158): 621--624.
 \bibitem[35]{Herlemann_2013}
-Herlemann D-PR, Lundin D, Labrenz M, Jurgens K, Zheng Z, Aspeborg H, Andersson A-F (2013) {Metagenomic de novo assembly of an aquatic representative of the verrucomicrobial class spartobacteria}. \textit{mBio} 4(3): e0056912.
+Herlemann D-PR, Lundin D, Labrenz M, Jurgens K, Zheng Z, Aspeborg H, \textit{et~al.} (2013) {Metagenomic de novo assembly of an aquatic representative of the verrucomicrobial class spartobacteria}. \textit{mBio} 4(3): e0056912.
 \bibitem[36]{10543821}
 Chin K-J, Hahn D, Hengstmann U, Liesack W, Janssen P-H (1999) Characterization and identification of numerically abundant culturable bacteria from the anoxic bulk soil of rice paddy microcosms. \textit{Appl Environ Microbiol} 65(11): 5042--5049.
 \bibitem[37]{Parveen_2013}
 Parveen B, Mary I, Vellet A, Ravet V, Debroas D (2013) {Temporal dynamics and phylogenetic diversity of free-living and particle-associated Verrucomicrobia communities in relation to environmental variables in a mesotrophic lake}. \textit{FEMS Microbiol Ecol} 83(1): 189--201.
 \bibitem[38]{Jiang_2011}
-Jiang F, Li W, Xiao M, Dai J, Kan W, Chen L, Li W, Fang C, Peng F (2011) {Luteolibacter luojiensis sp. nov. isolated from Arctic tundra soil, and emended description of the genus Luteolibacter}. \textit{Int J Syst Evol Microbiol} 62(Pt 9): 2259--2263.
+Jiang F, Li W, Xiao M, Dai J, Kan W, Chen L, \textit{et~al.} (2011) {Luteolibacter luojiensis sp. nov. isolated from Arctic tundra soil, and emended description of the genus Luteolibacter}. \textit{Int J Syst Evol Microbiol} 62(Pt 9): 2259--2263.
 \bibitem[39]{Otsuka_2012}
-Otsuka S, Ueda H, Suenaga T, Uchino Y, Hamada M, Yokota A, Senoo K (2012) {Roseimicrobium gellanilyticum gen. nov. sp. nov., a new member of the class Verrucomicrobiae}. \textit{Int J Syst Evol Microbiol} 63(Pt 6): 1982--1986.
+Otsuka S, Ueda H, Suenaga T, Uchino Y, Hamada M, Yokota A, \textit{et~al.} (2012) {Roseimicrobium gellanilyticum gen. nov. sp. nov., a new member of the class Verrucomicrobiae}. \textit{Int J Syst Evol Microbiol} 63(Pt 6): 1982--1986.
 \bibitem[40]{Hug_2013}
-Hug L-A, Castelle C-J, Wrighton K-C, Thomas B-C, Sharon I, Frischkorn K-R, Williams K-H, Tringe S-G, Banfield J-F (2013) {Community genomic analyses constrain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling}. \textit{Microbiome} 1(1): 22.
+Hug L-A, Castelle C-J, Wrighton K-C, Thomas B-C, Sharon I, Frischkorn K-R, \textit{et~al.} (2013) {Community genomic analyses constrain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling}. \textit{Microbiome} 1(1): 22.
 \bibitem[41]{Goldfarb_2011}
-Goldfarb K-C, Karaoz U, Hanson C-A, Santee C-A, Bradford M-A, Treseder K-K, Wallenstein M-D, Brodie E-L (2011) {Differential Growth Responses of Soil Bacterial Taxa to Carbon Substrates of Varying Chemical Recalcitrance}. \textit{Frontiers in Microbiology} 2: 94. doi: 10.3389/fmicb.2011.00094
+Goldfarb K-C, Karaoz U, Hanson C-A, Santee C-A, Bradford M-A, Treseder K-K, \textit{et~al.} (2011) {Differential Growth Responses of Soil Bacterial Taxa to Carbon Substrates of Varying Chemical Recalcitrance}. \textit{Frontiers in Microbiology} 2: 94. doi: 10.3389/fmicb.2011.00094
 \bibitem[42]{Cole_2013}
-Cole J-K, Gieler B-A, Heisler D-L, Palisoc M-M, Williams A-J, Dohnalkova A-C, Ming H, Yu T-T, Dodsworth J-A, Li W-J, \textit{et~al.} (2013) {Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}. \textit{Int J Syst Evol Microbiol} 63(Pt 12): 4675--4682.
+Cole J-K, Gieler B-A, Heisler D-L, Palisoc M-M, Williams A-J, Dohnalkova A-C, \textit{et~al.} (2013) {Kallotenue papyrolyticum gen. nov. sp. nov., a cellulolytic and filamentous thermophile that represents a novel lineage (Kallotenuales ord. nov., Kallotenuaceae fam. nov.) within the class Chloroflexia}. \textit{Int J Syst Evol Microbiol} 63(Pt 12): 4675--4682.
 \bibitem[43]{Vance_1980}
 Vance I, Topham C-M, Blayden S-L, Tampion J (1980) {Extracellular Cellulase Production by Sporocytophaga myxococcoides {NCIB} 8639}. \textit{Microbiology} 117(1): 235--241.
 \bibitem[44]{Labeda_2008}
@@ -99,11 +99,11 @@ Labeda D-P, Lyons A-J (1989) {Saccharothrix texasensis sp. nov. and Saccharothri
 \bibitem[47]{Labeda_2001}
 Labeda D-P, Hatano K, Kroppenstedt R-M, Tamura T (2001) {Revival of the genus Lentzea and proposal for Lechevalieria gen. nov}. \textit{Int J Syst Evol Microbiol} 51(3): 1045--1050.
 \bibitem[48]{Di_Rienzi_2013}
-Rienzi S-CD, Sharon I, Wrighton K-C, Koren O, Hug L-A, Thomas B-C, Goodrich J-K, Bell J-T, Spector T-D, Banfield J-F, \textit{et~al.} (2013) {The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}. \textit{eLIFE} 2: e01102.
+Rienzi S-CD, Sharon I, Wrighton K-C, Koren O, Hug L-A, Thomas B-C, \textit{et~al.} (2013) {The human gut and groundwater harbor non-photosynthetic bacteria belonging to a new candidate phylum sibling to Cyanobacteria}. \textit{eLIFE} 2: e01102.
 \bibitem[49]{Soo_2014}
-Soo R-M, Skennerton C-T, Sekiguchi Y, Imelfort M, Paech S-J, Dennis P-G, Steen J-A, Parks D-H, Tyson G-W, Hugenholtz P (2014) {An expanded genomic representation of the phylum cyanobacteria}. \textit{Genome Biology and Evolution} 6(5): 1031--1045.
+Soo R-M, Skennerton C-T, Sekiguchi Y, Imelfort M, Paech S-J, Dennis P-G, \textit{et~al.} (2014) {An expanded genomic representation of the phylum cyanobacteria}. \textit{Genome Biology and Evolution} 6(5): 1031--1045.
 \bibitem[50]{Bergmann_2011}
-Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, Knight R, Fierer N (2011) {The under-recognized dominance of Verrucomicrobia in soil bacterial communities}. \textit{Soil Biology and Biochemistry} 43(7): 1450--1455.
+Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, \textit{et~al.} (2011) {The under-recognized dominance of Verrucomicrobia in soil bacterial communities}. \textit{Soil Biology and Biochemistry} 43(7): 1450--1455.
 \bibitem[51]{Buckley_2001}
 Buckley D-H, Schmidt T-M (2001) {Environmental factors influencing the distribution of {rRNA} from Verrucomicrobia in soil}. \textit{FEMS Microbiol Ecol} 35(1): 105--112.
 \bibitem[52]{Wertz_2011}
@@ -113,7 +113,7 @@ Schellenberger S, Kolb S, Drake H-L (2010) Metabolic responses of novel cellulol
 \bibitem[54]{Lewin1970}
 Lewin R-A (1970) New {Herpetosiphon} species ({Flexibacterales}). \textit{Canadian Journal of Microbiology} 16(6): 517--520.
 \bibitem[55]{Kong_2012}
-Kong H-H, Oh J, Deming C, Conlan S, Grice E-A, Beatson M-A, Nomicos E, Polley E-C, Komarow H-D, Murray P-R, \textit{et~al.} (2012) {Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}. \textit{Genome Res} 22(5): 850--859.
+Kong H-H, Oh J, Deming C, Conlan S, Grice E-A, Beatson M-A, \textit{et~al.} (2012) {Temporal shifts in the skin microbiome associated with disease flares and treatment in children with atopic dermatitis}. \textit{Genome Res} 22(5): 850--859.
 \bibitem[56]{16346402}
 Casida L-E (1983) {Interaction of Agromyces ramosus with Other Bacteria in Soil.}. \textit{Appl Environ Microbiol} 46(4): 881--888.
 \bibitem[57]{Kembel_2012}

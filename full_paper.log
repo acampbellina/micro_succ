@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  16 MAR 2015 12:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  16 MAR 2015 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -587,41 +587,29 @@ Package hyperref Warning: Ignoring empty anchor on input line 4.
 
 ]) (./Results.tex
 
-Package natbib Warning: Author undefined for citation`Anderson2001a' 
-(natbib)                on page 2 on input line 40.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 64.
 
 
-Package natbib Warning: Author undefined for citation`Anderson2006' 
-(natbib)                on page 2 on input line 45.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 64.
 
 
-Package natbib Warning: Author undefined for citation`YBenjamini1995' 
-(natbib)                on page 2 on input line 47.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 64.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 65.
+(hyperref)                removing `math shift' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 65.
+(hyperref)                removing `superscript' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 65.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 140.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 140.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 140.
+(hyperref)                removing `math shift' on input line 112.
 
 ) (./Discussion.tex [3] [4]) (./Methods.tex
 Overfull \hbox (0.2284pt too wide) in paragraph at lines 129--1
@@ -635,8 +623,8 @@ File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
- [5])
-(./Supplemental_notes.tex
+)
+(./Supplemental_notes.tex [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 5.
@@ -1053,7 +1041,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
-(rerunfilecheck)             Checksum: 2DF30A1F436FFB0E3D7A5397EF922D59;1435.
+(rerunfilecheck)             Checksum: CC8779994D17402887EF6CFEF79DB800;1368.
  ) 
 Here is how much of TeX's memory you used:
  8521 strings out of 493485
@@ -1062,7 +1050,7 @@ Here is how much of TeX's memory you used:
  11446 multiletter control sequences out of 15000+200000
  16996 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,623s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,2083b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texl
@@ -1078,7 +1066,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (29 pages, 11070792 bytes).
+Output written on full_paper.pdf (29 pages, 11070663 bytes).
 PDF statistics:
  5273 PDF objects out of 6186 (max. 8388607)
  586 compressed objects within 6 object streams

@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{27}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -42,23 +42,21 @@ Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical
 Janssen P-H (2006) Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes. \textit{Appl Environ Microbiol} 72(3): 1719--1728.
 \bibitem[19]{11125085}
 Klappenbach J, Saxman P, Cole J, Schmidt T (2001) {rrndb: the Ribosomal RNA Operon Copy Number Database.}. \textit{Nucleic Acids Res} 29(1): 181--184.
-\bibitem[20]{Banning2010a}
-Banning E-C, Casciotti K-L, Kujawinski E-B (2010) Novel strains isolated from a coastal aquifer suggest a predatory role for flavobacteria. \textit{{FEMS} Microbiol Ecol} 73(2): 254--270.
-\bibitem[21]{Lueders2006}
+\bibitem[20]{Lueders2006}
 Lueders T, Kindler R, Miltner A, Friedrich M-W, Kaestner M (2006) Identification of bacterial micropredators distinctively active in a soil microbial food web. \textit{Appl Environ Microbiol} 72(8): 5342--5348.
-\bibitem[22]{Schimel_2012}
+\bibitem[21]{Schimel_2012}
 Schimel J-P, Schaeffer S-M (2012) {Microbial control over carbon cycling in soil}. \textit{Frontiers in Microbiology} 3: 348. doi: 10.3389/fmicb.2012.00348
-\bibitem[23]{Schneckenberger_2008}
+\bibitem[22]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biology and Biochemistry} 40(8): 1981--1988.
-\bibitem[24]{Griffiths_2000}
+\bibitem[23]{Griffiths_2000}
 Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
-\bibitem[25]{Buckley_2007}
+\bibitem[24]{Buckley_2007}
 Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing with $^{15}$N achieved by disentangling the effects of genome G$+$C content and isotope enrichment on {dna} Density}. \textit{Appl Environ Microbiol} 73(10): 3189--3195.
-\bibitem[26]{Neufeld_2007}
+\bibitem[25]{Neufeld_2007}
 Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, \textit{et~al.} (2007) {{DNA} stable-isotope probing}. \textit{Nature Protocols} 2(4): 860--866.
-\bibitem[27]{Manefield_2002}
+\bibitem[26]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
-\bibitem[28]{Hamady_2008}
+\bibitem[27]{Hamady_2008}
 Hamady M, Walker J-J, Harris J-K, Gold N-J, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  16 MAR 2015 18:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  17 MAR 2015 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,10 +582,10 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 Package hyperref Warning: Ignoring empty anchor on input line 4.
 
-(./Abstract.tex) (./kwabbr.tex) (./Significance.tex) (./Introduction.tex
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(./Abstract.tex) (./kwabbr.tex) (./Significance.tex) (./Introduction.tex)
+(./Results.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-]) (./Results.tex
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 64.
@@ -612,7 +612,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 112.
 
 ) (./Discussion.tex [3]) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 95--1
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 112--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
@@ -1002,7 +1002,7 @@ Here is how much of TeX's memory you used:
  11330 multiletter control sequences out of 15000+200000
  16637 words of font info for 61 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,11n,37p,2083b,525s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1017,7 +1017,7 @@ y6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (24 pages, 11030525 bytes).
+Output written on full_paper.pdf (24 pages, 11030326 bytes).
 PDF statistics:
  5107 PDF objects out of 5155 (max. 8388607)
  427 compressed objects within 5 object streams

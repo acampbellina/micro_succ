@@ -5,7 +5,6 @@ Introduction.tex
 Results.tex
 Discussion.tex
 Methods.tex
-Supplemental_notes.tex
 figures/l2fc_time/l2fc_time.png
 figures/abndVtime_class/abndVtime_class.png
 figures/ordination_all1/ordination_all.png

@@ -5,7 +5,6 @@ Introduction.tex
 Results.tex
 Discussion.tex
 Methods.tex
-Supplemental_notes.tex
 figures/l2fc_time/l2fc_time.png
 figures/abndVtime_class/abndVtime_class.png
 figures/ordination_all1/ordination_all.png
@@ -13,7 +12,7 @@ figures/l2fc_fig1/l2fc_fig.png
 figures/xylose_rspndr_bar/xylose_rspndr_bar.png
 figures/shift_and_rabund2/shift_and_rabund.png
 figures/bacteria_tree/bacteria_tree.png
-figures/shift_and_rabund3/shift_and_rabund3.png
+figures/shift_and_rabund3/shift_and_rabund.png
 figures/copy_number/copy_number.png
 figures/all_rspndr_bar/all_rspndr_bar.png
 figures/bulk_ordination/bulk_ordination.png

@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{29}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -42,19 +42,25 @@ Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: a practical
 Janssen P-H (2006) Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes. \textit{Appl Environ Microbiol} 72(3): 1719--1728.
 \bibitem[19]{11125085}
 Klappenbach J, Saxman P, Cole J, Schmidt T (2001) {rrndb: the Ribosomal RNA Operon Copy Number Database.}. \textit{Nucleic Acids Res} 29(1): 181--184.
-\bibitem[20]{Lueders2006}
+\bibitem[20]{Berlemont2014a}
+Berlemont R, Allison S-D, Weihe C, Lu Y, Brodie E-L, Martiny J-BH, \textit{et~al.} (2014) Cellulolytic potential under environmental changes in microbial communities from grassland litter. \textit{Front Microbiol} 5: 639.
+\bibitem[21]{Schimel_1995}
+Schimel J (1995) Ecosystem consequences of microbial diversity and community structure. \textit{Arctic and alpine biodiversity: patterns, causes and ecosystem consequences}, {}, eds.~{III} P-DFSC, Korner P-DC, Ecological Studies (Springer, Berlin Heidelberg), pp~239--254.
+\bibitem[22]{McGuire2010}
+{McGuire} K-L, Treseder K-K (2010) Microbial communities and their relevance for ecosystem models: Decomposition as a case study. \textit{Soil Biology and Biochemistry} 42(4): 529--535.
+\bibitem[23]{Lueders2006}
 Lueders T, Kindler R, Miltner A, Friedrich M-W, Kaestner M (2006) Identification of bacterial micropredators distinctively active in a soil microbial food web. \textit{Appl Environ Microbiol} 72(8): 5342--5348.
-\bibitem[21]{Schneckenberger_2008}
+\bibitem[24]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biology and Biochemistry} 40(8): 1981--1988.
-\bibitem[22]{Griffiths_2000}
+\bibitem[25]{Griffiths_2000}
 Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
-\bibitem[23]{Buckley_2007}
+\bibitem[26]{Buckley_2007}
 Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing with $^{15}$N achieved by disentangling the effects of genome G$+$C content and isotope enrichment on {dna} Density}. \textit{Appl Environ Microbiol} 73(10): 3189--3195.
-\bibitem[24]{Neufeld_2007}
+\bibitem[27]{Neufeld_2007}
 Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, \textit{et~al.} (2007) {{DNA} stable-isotope probing}. \textit{Nature Protocols} 2(4): 860--866.
-\bibitem[25]{Manefield_2002}
+\bibitem[28]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
-\bibitem[26]{Hamady_2008}
+\bibitem[29]{Hamady_2008}
 Hamady M, Walker J-J, Harris J-K, Gold N-J, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
 
 \end{thebibliography}

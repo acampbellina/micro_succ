@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  26 MAR 2015 09:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  26 MAR 2015 09:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -637,7 +637,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
 ) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 132--1
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 129--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
@@ -653,7 +653,7 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
-) [6] [7] (./figures.tex
+) [6] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -687,7 +687,7 @@ Missing character: There is no ™ in font cmr9!
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=226, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=222, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -696,7 +696,7 @@ ut line 6.
 (pdftex.def)             Requested size: 324.36124pt x 121.63112pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=227, 837.88533pt x 575.7761pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=223, 837.88533pt x 575.7761pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -704,7 +704,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 12.
 (pdftex.def)             Requested size: 324.36124pt x 222.89128pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=228, 216.81pt x 397.485pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=224, 216.81pt x 397.485pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
@@ -712,7 +712,7 @@ n input line 19.
 (pdftex.def)             Requested size: 170.71652pt x 312.99683pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund.png, id=229, 15056.25pt x 5018.75pt
+<figures/shift_and_rabund3/shift_and_rabund.png, id=225, 15056.25pt x 5018.75pt
 >
 File: figures/shift_and_rabund3/shift_and_rabund.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund.png>
@@ -722,7 +722,7 @@ Package pdftex.def Info: figures/shift_and_rabund3/shift_and_rabund.png used on
 
 (./figures/shift_and_rabund3/caption.tex)
 (./figures/shift_and_rabund3/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=231, 794.97pt x 65
+<figures/generalist_specialist/generalist_specialist.pdf, id=227, 794.97pt x 65
 0.43pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
@@ -732,10 +732,10 @@ f used on input line 33.
 (pdftex.def)             Requested size: 324.36124pt x 265.3878pt.
 
 (./figures/generalist_specialist/caption.tex)
-(./figures/generalist_specialist/caption.tex) [8 <./figures/ordination_all1/ord
-ination_all.pdf> <./figures/l2fc_fig1/l2fc_fig.pdf>] [9 <./figures/xylose_rspnd
+(./figures/generalist_specialist/caption.tex) [7 <./figures/ordination_all1/ord
+ination_all.pdf> <./figures/l2fc_fig1/l2fc_fig.pdf>] [8 <./figures/xylose_rspnd
 r_bar/xylose_rspndr_bar.pdf> <./figures/shift_and_rabund3/shift_and_rabund.png>
-] [10 <./figures/generalist_specialist/generalist_specialist.pdf>])
+] [9 <./figures/generalist_specialist/generalist_specialist.pdf>])
 (./supp_figs.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
@@ -770,7 +770,7 @@ r_bar/xylose_rspndr_bar.pdf> <./figures/shift_and_rabund3/shift_and_rabund.png>
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=376, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=373, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -784,7 +784,7 @@ s been already used, duplicate ignored
 l.10 ...input{figures/all_rspndr_bar/caption.tex}}
                                                   \label{fig:rspndr_count}
 (./figures/all_rspndr_bar/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=377, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=374, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -798,7 +798,7 @@ s been already used, duplicate ignored
 l.17 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
-<figures/l2fc_time/l2fc_time.pdf, id=378, 578.16pt x 614.295pt>
+<figures/l2fc_time/l2fc_time.pdf, id=375, 578.16pt x 614.295pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -818,7 +818,7 @@ me identifier (name{figure.3}) has been already used, duplicate ignored
 l.23 ...tect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=379, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=376, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -832,7 +832,7 @@ s been already used, duplicate ignored
 l.29 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=380, 722.7pt x 101
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=377, 722.7pt x 101
 1.78pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -847,7 +847,7 @@ s been already used, duplicate ignored
 l.36 ...res/bulk_phylum_rspndr_abund/caption.tex}}
                                                   \label{fig:babund}
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=381, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=378, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -856,7 +856,7 @@ Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
 (pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
  (./figures/conceptual1/caption.tex)
 (./figures/conceptual1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=382, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=379, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -864,14 +864,14 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  46.
 (pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
  (./figures/copy_number/caption.tex)
-<figures/foodweb/foodweb.png, id=383, 667.49374pt x 433.62pt>
+<figures/foodweb/foodweb.png, id=380, 667.49374pt x 433.62pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
 Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 52.
 (pdftex.def)             Requested size: 355.03705pt x 230.64456pt.
  (./figures/foodweb/caption.tex)
-<figures/tiled_tree/tiled_tree.png, id=384, 4561.04pt x 9780.54pt>
+<figures/tiled_tree/tiled_tree.png, id=381, 4561.04pt x 9780.54pt>
 File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree.png>
@@ -883,7 +883,7 @@ Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 5
 
 LaTeX Warning: Float too large for page by 19.65964pt on input line 62.
 
-<figures/conceptual3/conceptual3.pdf, id=385, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=382, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -891,16 +891,16 @@ Package pdftex.def Info: figures/conceptual3/conceptual3.pdf used on input line
  67.
 (pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
  (./figures/conceptual3/caption.tex)
-(./figures/conceptual3/caption.tex) (./table_cellulose.tex [11
+(./figures/conceptual3/caption.tex) (./table_cellulose.tex [10
 
 
 
-] [12 <./figures/all_rspndr_bar/all_rspndr_bar.pdf> <./figures/bulk_ordination/
-bulk_ordination.pdf>] [13 <./figures/l2fc_time/l2fc_time.pdf>] [14 <./figures/a
-bndVtime_class/abndVtime_class.pdf>] [15 <./figures/bulk_phylum_rspndr_abund/ab
-und_v_time_phyla.pdf>] [16 <./figures/conceptual1/conceptual1.pdf> <./figures/c
-opy_number/copy_number.pdf>] [17 <./figures/foodweb/foodweb.png>] [18 <./figure
-s/tiled_tree/tiled_tree.png>] [19 <./figures/conceptual3/conceptual3.pdf>]
+] [11 <./figures/all_rspndr_bar/all_rspndr_bar.pdf> <./figures/bulk_ordination/
+bulk_ordination.pdf>] [12 <./figures/l2fc_time/l2fc_time.pdf>] [13 <./figures/a
+bndVtime_class/abndVtime_class.pdf>] [14 <./figures/bulk_phylum_rspndr_abund/ab
+und_v_time_phyla.pdf>] [15 <./figures/conceptual1/conceptual1.pdf> <./figures/c
+opy_number/copy_number.pdf>] [16 <./figures/foodweb/foodweb.png>] [17 <./figure
+s/tiled_tree/tiled_tree.png>] [18 <./figures/conceptual3/conceptual3.pdf>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -953,9 +953,9 @@ Overfull \hbox (15.41463pt too wide) in paragraph at lines 89--89
 []|[]|  
  []
 
-[20
+[19
 
-] [21] [22]) (./table_xyl.tex
+] [20] [21]) (./table_xyl.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -993,10 +993,10 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 38--38
 []\OT1/cmr/m/n/9 , 
  []
 
-[23
+[22
 
 
-] [24] [25]))
+] [23] [24]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
  (./full_paper.aux)
@@ -1006,13 +1006,13 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 3301D2E30D043AA52BE9D817CD16656A;978.
  ) 
 Here is how much of TeX's memory you used:
- 8586 strings out of 493485
- 123404 string characters out of 3143526
- 271293 words of memory out of 3000000
+ 8585 strings out of 493485
+ 123397 string characters out of 3143526
+ 271292 words of memory out of 3000000
  11553 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,2083b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1029,10 +1029,10 @@ hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (25 pages, 9926199 bytes).
+Output written on full_paper.pdf (24 pages, 9925407 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 439 compressed objects within 5 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
+ 84 named destinations out of 1000 (max. 500000)
  188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

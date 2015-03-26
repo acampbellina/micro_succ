@@ -48,6 +48,10 @@
 
 \usepackage{array} 
 
+\usepackage{lineno} 
+\setlength\linenumbersep{0.1cm} 
+\modulolinenumbers[5]
+
 \newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
 
 \begin{document}
@@ -60,3 +64,5 @@
 \setcounter{figure}{0} \renewcommand{\thefigure}{S\arabic{figure}}% 
 }
 %%%%%%%%%%%%
+
+% vim: set paste:

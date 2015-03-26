@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  25 MAR 2015 20:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  25 MAR 2015 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -698,7 +698,7 @@ File: figures/shift_and_rabund3/shift_and_rabund.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund.png>
 Package pdftex.def Info: figures/shift_and_rabund3/shift_and_rabund.png used on
  input line 19.
-(pdftex.def)             Requested size: 506.45914pt x 168.78201pt.
+(pdftex.def)             Requested size: 324.36124pt x 108.05418pt.
 
 (./figures/shift_and_rabund3/caption.tex)
 (./figures/shift_and_rabund3/caption.tex)

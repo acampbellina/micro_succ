@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  27 MAR 2015 09:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  27 MAR 2015 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -630,26 +630,26 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 104.
 
 ) (./Discussion.tex [3]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 62.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
-) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 129--1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+ [4]) (./Methods.tex
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 146--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
 
-[4]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 8.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 8.
-) (./full_paper.bbl [5]
+) (./full_paper.bbl
+[5]
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
@@ -1008,11 +1008,11 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 Here is how much of TeX's memory you used:
  8586 strings out of 493485
  123404 string characters out of 3143526
- 270293 words of memory out of 3000000
+ 270294 words of memory out of 3000000
  11553 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,2083b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,2083b,599s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1029,7 +1029,7 @@ hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (25 pages, 9971078 bytes).
+Output written on full_paper.pdf (25 pages, 9972142 bytes).
 PDF statistics:
  603 PDF objects out of 1000 (max. 8388607)
  440 compressed objects within 5 object streams

@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{43}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -70,23 +70,25 @@ Lueders T, Kindler R, Miltner A, Friedrich M-W, Kaestner M (2006) Identification
 Casida L-E (1983) {Interaction of Agromyces ramosus with Other Bacteria in Soil.}. \textit{Appl Environ Microbiol} 46(4): 881--888.
 \bibitem[33]{Moore1988}
 Moore J-C, Walter D-E, Hunt H-W (1988) Arthropod Regulation of Micro- and Mesobiota in Below-Ground Detrital Food Webs. \textit{Annu Rev Entomol} 33(1): 419--435.
-\bibitem[34]{Nicholson2000}
+\bibitem[34]{Kaiser2014a}
+Kaiser C, Franklin O, Dieckmann U, Richter A (2014) Microbial community dynamics alleviate stoichiometric constraints during litter decay. \textit{Ecol Lett} 17(6): 680--690.
+\bibitem[35]{Nicholson2000}
 Nicholson W-L, Munakata N, Horneck G, Melosh H-J, Setlow P (2000) Resistance of bacillus endospores to extreme terrestrial and extraterrestrial environments. \textit{Microbiol Mol Biol Rev} 64(3): 548--572.
-\bibitem[35]{KILLHAM2007}
+\bibitem[36]{KILLHAM2007}
 Killham K, Prosser J-I (2007) The prokaryotes. \textit{Soil Microbiology, Ecology and Biochemistry (Third Edition)}, {}, ed.~PAUL E-A (Academic Press, San Diego), pp~119--144.
-\bibitem[36]{Bergmann_2011}
+\bibitem[37]{Bergmann_2011}
 Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, \textit{et~al.} (2011) {The under-recognized dominance of Verrucomicrobia in soil bacterial communities}. \textit{Soil Biology and Biochemistry} 43(7): 1450--1455.
-\bibitem[37]{Schneckenberger_2008}
+\bibitem[38]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biology and Biochemistry} 40(8): 1981--1988.
-\bibitem[38]{Griffiths_2000}
+\bibitem[39]{Griffiths_2000}
 Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
-\bibitem[39]{Buckley_2007}
+\bibitem[40]{Buckley_2007}
 Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing with $^{15}$N achieved by disentangling the effects of genome G$+$C content and isotope enrichment on {dna} Density}. \textit{Appl Environ Microbiol} 73(10): 3189--3195.
-\bibitem[40]{Neufeld_2007}
+\bibitem[41]{Neufeld_2007}
 Neufeld J-D, Vohra J, Dumont M-G, Lueders T, Manefield M, Friedrich M-W, \textit{et~al.} (2007) {{DNA} stable-isotope probing}. \textit{Nature Protocols} 2(4): 860--866.
-\bibitem[41]{Manefield_2002}
+\bibitem[42]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
-\bibitem[42]{Hamady_2008}
+\bibitem[43]{Hamady_2008}
 Hamady M, Walker J-J, Harris J-K, Gold N-J, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
 
 \end{thebibliography}

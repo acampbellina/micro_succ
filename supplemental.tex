@@ -4,7 +4,7 @@
 \usepackage{color}
 \usepackage{url}
 
-\usepackage{natbib}
+\usepackage[numbers,sort&compress]{natbib}
 
 \usepackage{geometry}
 
@@ -34,7 +34,9 @@ soil}
 
 \tableofcontents
 
-\listoffigures
+\listoffigures 
+
+\listoftables
 
 \section{Supplemental Methods}\label{SI} 
 
@@ -287,8 +289,8 @@ We used an RNA-Seq differential expression statistical framework
 \citep{Love_2014} to find OTUs enriched in heavy fractions of labeled
 gradients relative to corresponding density fractions in control gradients
 (for review of RNA-Seq differential expression statistics applied to
-microbiome OTU count data see \citet{McMurdie_2014}). We use the term
-“differential abundance” (coined by \citet{McMurdie_2014}) to denote OTUs that
+microbiome OTU count data see \citep{McMurdie_2014}). We use the term
+“differential abundance” (coined by \citep{McMurdie_2014}) to denote OTUs that
 have different abundance across sample classes (in this case the only sample
 class is labeled or control). CsCl gradient fractions were categorized as
 "heavy" or "light". The heavy category denotes fractions with density values
@@ -501,7 +503,7 @@ related to any oxygenic phototrophs (closest cultured isolate match
 Table~\ref{tab:cell}). A sister clade to the oxygenic phototrophs classically
 annotated as ``cyanobacteria'' in SSU rRNA gene reference databases, but does
 not possess any known phototrophs, has recently been proposed to constitute its own
-phylum, "Melainabacteria" \citet{Di_Rienzi_2013}; although, the phylogenetic
+phylum, "Melainabacteria" \citep{Di_Rienzi_2013}; although, the phylogenetic
 position of ``Melainabacteria'' is debated \citep{Soo_2014}. The catalog of
 metabolic capabilities associated with cyanobacteria (or candidate phyla
 previously annotated as cyanobacteria) are quickly expanding
@@ -538,7 +540,7 @@ responder is not closely related to a cultured isolate, ``OTU.183'' (closest
 LTP BLAST hit, \textit{Chitinophaca sp.}, 89.5\% sequence identity,
 Table~\ref{tab:xyl}). OTU.183 shares high sequence identity with environmental
 clones derived from rhizosphere samples (accession AM158371, unpublished) and
-the skin microbiome (accession JF219881, \citet{Kong_2012}). Other
+the skin microbiome (accession JF219881, \citep{Kong_2012}). Other
 \textit{Bacteroidetes} responders share high sequence identities with canonical
 soil genera including \textit{Dyadobacer}, \textit{Solibius} and
 \textit{Terrimonas}. Six of the 8 \textit{Actinobacteria} $^{13}$C-xylose
@@ -557,6 +559,6 @@ primarily attacked $^{13}$C-xylose assimilating organisms.
 
 \input{supp_figs.tex}
 
-\bibliography{bibliography/biblio}
+\bibliography{bibliography/biblio_x}
 
 \end{document}

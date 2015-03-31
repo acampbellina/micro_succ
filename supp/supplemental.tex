@@ -6,7 +6,23 @@
 
 \usepackage{natbib}
 
-\bibliographystyle{plain}
+\usepackage{geometry}
+
+\usepackage{multirow, array, booktabs, longtable, threeparttablex}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\usepackage{caption}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\bibliographystyle{pnas}
 
 \title{Supplemental Information -- DNA-SIP reveals functional guild
 diversity and membership for labile and recalcitrant C decomposition in
@@ -17,6 +33,8 @@ soil}
 \maketitle
 
 \tableofcontents
+
+\listoffigures
 
 \section{Supplemental Methods}\label{SI} 
 
@@ -537,5 +555,8 @@ trophic cascade. It is possible, however, that the $^{13}$C labeled
 \textit{Agromyces} OTU was selective enough with respect to its prey that it
 primarily attacked $^{13}$C-xylose assimilating organisms. 
 
+\input{supp_figs.tex}
+
 \bibliography{bibliography/biblio}
+
 \end{document}

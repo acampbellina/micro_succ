@@ -22,4 +22,3 @@ figures/generalist_specialist/generalist_specialist.png
 figures/tiled_tree/tiled_tree.png
 figures/foodweb/foodweb.png
 figures/20150320methods_conceptual/20150320methods_conceptual.png
-text.tex

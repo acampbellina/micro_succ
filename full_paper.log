@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  31 MAR 2015 10:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  31 MAR 2015 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1030,11 +1030,11 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  8630 strings out of 493485
  124606 string characters out of 3143526
- 271549 words of memory out of 3000000
+ 270549 words of memory out of 3000000
  11578 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,749b,610s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,749b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1050,7 +1050,7 @@ y5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (27 pages, 11554268 bytes).
+Output written on full_paper.pdf (27 pages, 11554318 bytes).
 PDF statistics:
  641 PDF objects out of 1000 (max. 8388607)
  476 compressed objects within 5 object streams

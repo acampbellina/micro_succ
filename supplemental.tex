@@ -22,6 +22,11 @@
     urlcolor=black
 }
 
+\newcommand{\beginsupplement}{%
+\setcounter{table}{0} \renewcommand{\thetable}{S\arabic{table}}%
+\setcounter{figure}{0} \renewcommand{\thefigure}{S\arabic{figure}}% 
+}
+
 \bibliographystyle{pnas}
 
 \title{Supplemental Information -- DNA-SIP reveals functional guild
@@ -556,6 +561,8 @@ trophic cascade. It is possible, however, that the $^{13}$C labeled
 \textit{Agromyces} OTU was assimilating $^{13}$C primarily by predation if the
 \textit{Agromyces} OTU was selective enough with respect to its prey that it
 primarily attacked $^{13}$C-xylose assimilating organisms. 
+
+\beginsupplement
 
 \input{supp_figs.tex}
 

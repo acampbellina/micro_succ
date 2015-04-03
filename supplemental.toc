@@ -10,10 +10,9 @@
 \contentsline {subsubsection}{\numberline {1.7.2}Sequence clustering}{5}{subsubsection.1.7.2}
 \contentsline {subsubsection}{\numberline {1.7.3}Phylogenetic analysis}{6}{subsubsection.1.7.3}
 \contentsline {subsubsection}{\numberline {1.7.4}Identifying OTUs that incorporated $^{13}$C into their DNA}{6}{subsubsection.1.7.4}
-\contentsline {subsubsection}{\numberline {1.7.5}Community and Sequence Analysis}{7}{subsubsection.1.7.5}
+\contentsline {subsubsection}{\numberline {1.7.5}Community and Sequence Analysis}{6}{subsubsection.1.7.5}
 \contentsline {subsection}{\numberline {1.8}Buoyant density shift estimates}{7}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}Sequencing statistics and density fractionation}{7}{subsection.1.9}
-\contentsline {subsection}{\numberline {1.10}Ordination of DNA-SIP gradient fraction SSU rRNA gene composition}{7}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.9}Sequencing and density fractionation statistics}{7}{subsection.1.9}
 \contentsline {section}{\numberline {2}Phylogenetic affiliation of $^{13}$C-responsive microorganisms}{8}{section.2}
 \contentsline {subsection}{\numberline {2.1}Cellulose}{8}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Proteobacteria}{8}{subsubsection.2.1.1}

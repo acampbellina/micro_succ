@@ -229,17 +229,18 @@ denoising with respect to removing pyrosequencing errors. Specifically, reads
 were first truncated to 250 nucleotides (nt) (all reads shorter than 250 nt
 were discarded) and any read that exceeded a maximum expected error threshold
 of 0.5 was removed. After truncation and max expected error trimming, 87\% of
-original reads remained. Forward primer and barcode was then removed from the
-high quality, truncated reads.  Remaining reads were taxonomically annotated
-using the "UClust" taxonomic annotation framework in the QIIME software package
-\citep{Edgar_2010,Caporaso_2010} with cluster seeds from Silva SSU rRNA database
-\citep{Pruesse_2007} 97\% sequence identity OTUs as reference (release 111Ref).
-Reads annotated as "Chloroplast", "Eukaryota", "Archaea", "Unassigned" or
-"mitochondria" were culled from the dataset. Finally, reads were aligned to the
-Silva reference alignment provided by the Mothur software package
-\citep{Schloss_2009} using the Mothur NAST aligner \citep{DeSantis_2006}. All reads that
-did not align to the expected amplicon region of the SSU rRNA gene were
-discarded. Quality control parameters removed 344,472 of 1,720,480 raw reads.
+original reads remained. The forward primer and barcode was then removed from
+the high quality, truncated reads.  Remaining reads were taxonomically
+annotated using the "UClust" taxonomic annotation framework in the QIIME
+software package \citep{Edgar_2010,Caporaso_2010} with cluster seeds from Silva
+SSU rRNA database \citep{Pruesse_2007} 97\% sequence identity OTUs as reference
+(release 111Ref). Reads annotated as "Chloroplast", "Eukaryota", "Archaea",
+"Unassigned" or "mitochondria" were culled from the dataset. Finally, reads
+were aligned to the Silva reference alignment provided by the Mothur software
+package \citep{Schloss_2009} using the Mothur NAST aligner
+\citep{DeSantis_2006}. All reads that did not align to the expected amplicon
+region of the SSU rRNA gene were discarded. Quality control parameters removed
+344,472 of 1,720,480 raw reads.
 
 \subsubsection{Sequence clustering}
 Sequences were distributed into OTUs using the UParse methodology
@@ -262,13 +263,13 @@ the SSU-Align covariance models or were aligned with poor confidence (less than
 at least 95\%) were masked for phylogenetic reconstruction. Additionally, the
 alignment was trimmed to coordinates such that all sequences in the alignment
 began and ended at the same positions. FastTree \citep{Price_2009} was used to
-reconstruct the phylogeny.
+reconstruct the phylogeny with default parameters.
 
 \subsubsection{Identifying OTUs that incorporated $^{13}$C into their DNA}\label{fc}
 DNA-SIP is a culture-independent approach that defines identity-function
 connections in microbial communities
 \citep{Buckley_2011,Neufeld_2007,Radajewski_2003}. Microbes are identified on
-the basis of isotope assimilation into DNA. As the bouyant density (BD) of
+the basis of isotope assimilation into DNA. As the buoyant density (BD) of
 a macromolecule is dependent on many factors in addition to stable isotope
 incorporation (e.g. GC-content in nucleic acids \citep{Youngblut_2014}),
 labeled nucleic acids from one microbial population may have the same BD as
@@ -290,29 +291,55 @@ class is labeled or control). CsCl gradient fractions were categorized as
 "heavy" or "light". The heavy category denotes fractions with density values
 above 1.7125 and below 1.755 g/mL. Since we are only interested in enriched
 OTUs (labeled versus control), we used a one-sided test to assess the
-significance of differential abundance (the null hypothesis is the differential
-abundance (labeled:control) for an OTU is less than a selected threshold).
-P-values were corrected with the Benjamini and Hochberg method
-\citep{Benjamini_1997}. We selected a log$_{2}$ fold change null threshold of
-0.75 (or a labeled:control differential abundance of 1.68). DESeq2 was used to
-calculate moderated log$_{2}$ fold change of labeled:control abundance and
-corresponding standard errors for the Wald test. Mean ratio moderation allows
-for reliable ratio ranking such that high variance and likely statistically
-insignificant mean ratios are appropriately shrunk and subsequently ranked
-lower than they would be as raw ratios. OTU DNA that enriches significantly in
-heavy fractions from $^{13}$C-labeled samples relative to corresponding
-controls has increased significantly in buoyant density in response to $^{13}$C
-treatment.
+significance of differential abundance (the null hypothesis was that the
+differential abundance (labeled:control) for an OTU is less than a selected
+threshold). P-values were corrected with the Benjamini and Hochberg method
+\citep{Benjamini_1997}. 
 
-\subsubsection{Community and Sequence Analysis}
-Principal coordinate ordinations depict the relationships between
-samples. Weighted Unifrac \citep{Lozupone_2005} distances were
-used as the sample distance metric for ordination. The Phyloseq
-\citep{McMurdie_2013} wrapper for Vegan \citep{Dixon_2003} (both R packages) was
-used to compute sample values along principal coordinate axes. GGplot2
-\citep{Wickham_2009} was used to display sample points along the first and
-second principal axes. Adonis tests \citep{Anderson_2001} were done with 1000
-permutations.
+We selected a log$_{2}$ fold change null threshold of
+0.75 (or a labeled:control differential abundance of 1.68). 
+
+DESeq2 was used to calculate moderated log$_{2}$ fold change of labeled:control
+abundance and corresponding standard errors for the one-sided Wald test. Fold
+change moderation allows for reliable ranking of fold change for each OTU such
+that high variance and likely statistically insignificant fold changes are
+appropriately shrunk and subsequently ranked lower than they would be as raw
+fold change. OTU DNA that enriches significantly in heavy fractions from
+$^{13}$C-labeled samples relative to corresponding controls has increased
+significantly in buoyant density in response to $^{13}$C treatment.
+
+\subsubsection{Community and Sequence Analysis}\label{ord} Principal coordinate
+ordinations depict the relationships between samples. Weighted Unifrac
+\citep{Lozupone_2005} distances were used as the sample distance metric for
+ordination. The Phyloseq \citep{McMurdie_2013} wrapper for Vegan
+\citep{Dixon_2003} (both R packages) was used to compute sample values along
+principal coordinate axes. GGplot2 \citep{Wickham_2009} was used to display
+sample points along the first and second principal axes. Adonis tests
+\citep{Anderson_2001} were done with 1000 permutations.
+
+Nucleic-acid SIP coupled to microbiome fingerprinting techniques progressed
+from simple proof-of-concept experiments with pure cultures
+\citep{radajewski2000stable} to DGGE, ARISA and/or tRFLP-enabled studies of
+microcosm microbial assemblages \citep{Haichar_2007}. Recently large
+experiments employed multiple labeled substrates and high-throughput amplicon
+and/or shotgun DNA sequencing \citep{Verastegui_2014} revealing the relative
+contributions of sampling location and DNA-SIP gradient density on phylogenetic
+profile variance from DNA-SIP experiments (CITE Conrad and Neufeld). Although
+density gradient position can account for approximately XX\% of phylogenetic
+profile variance, soil type appears to represent greater variance than can be
+established across density gradients from soil DNA. Association of phylogenetic
+types with "heavy" DNA-SIP density gradient fractions in labeled gradients and
+not "heavy" fractions in unlabeled control gradients suggests label
+incorporation into biomass for the associated phylogenetic type. Our study
+shows that DNA-SIP can also characterize C use in three additional 
+dimensions 1) temporally, isotopic labels can demonstrate C substrate use
+dynamics on the scale of days both between substrates and for a single
+substrate, 2) profiling DNA-SIP density gradients along the full gradient
+length can demonstrate patterns in substrate use specificity, and 3) $^{13}$C
+incorporation can be established at high resolution taxonomic groups such
+as 97\% sequence identity OTUs.
+
+NEED TO ADD NTI NRI CONSENTRAIT AND RRN GENE COPY NUMBER 
 
 Code to take raw sequencing data through the presented figures (including
 download and processing of literature environmental datasets) can be
@@ -340,7 +367,7 @@ responder groups, suggesting that although cellulose degraders are generally
 more substrate specific than xylose utilizers, each responder group
 exhibits a range of substrate specificities (Figure~\ref{fig:shift}). 
 
-\subsection{Sequencing statistics and density fractionation}\label{seq_stats}
+\subsection{Sequencing and density fractionation statistics}\label{seq_stats}
 Microcosm DNA was density fractionated on CsCl density gradients. We sequenced
 SSU rRNA gene amplicons from a total of 277 CsCl gradient fractions from 14
 CsCl gradients and 12 bulk microcosm DNA samples. The SSU rRNA gene data set
@@ -351,29 +378,6 @@ rRNA gene amplicons from an average of
 fractions was  0.0040 g mL$^{-1}$ The sequencing effort recovered a total of
 5,940 OTUs. 2,943 of the total 5,940 OTUs were observed in bulk samples. We
 observed 33 unique phylum and 340 unique genus annotations.
-
-\subsection{Ordination of DNA-SIP gradient fraction SSU rRNA gene composition}\label{ord}
-Nucleic-acid SIP coupled to microbiome fingerprinting techniques progressed
-from simple proof-of-concept experiments with pure cultures
-\citep{radajewski2000stable} to DGGE, ARISA and/or tRFLP-enabled studies of
-microcosm microbial assemblages \citep{Haichar_2007}. Recently large
-experiments employed multiple labeled substrates and high-throughput amplicon
-and/or shotgun DNA sequencing \citep{Verastegui_2014} revealing the relative
-contributions of sampling location and DNA-SIP gradient density on phylogenetic
-profile variance from DNA-SIP experiments (CITE Conrad and Neufeld). Although
-density gradient position can account for approximately XX\% of phylogenetic
-profile variance, soil type appears to represent greater variance than can be
-established across density gradients from soil DNA. Association of phylogenetic
-types with "heavy" DNA-SIP density gradient fractions in labeled gradients and
-not "heavy" fractions in unlabeled control gradients suggests label
-incorporation into biomass for the associated phylogenetic type. Our study
-shows that DNA-SIP can also characterize C use in three additional 
-dimensions 1) temporally, isotopic labels can demonstrate C substrate use
-dynamics on the scale of days both between substrates and for a single
-substrate, 2) profiling DNA-SIP density gradients along the full gradient
-length can demonstrate patterns in substrate use specificity, and 3) $^{13}$C
-incorporation can be established at high resolution taxonomic groups such
-as 97\% sequence identity OTUs.
 
 \section{Phylogenetic affiliation of $^{13}$C-responsive microorganisms}
 \subsection{Cellulose}

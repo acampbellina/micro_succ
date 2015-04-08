@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,20 +367,20 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 23.
 (./supplemental.aux)
 \openout1 = `supplemental.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -448,7 +448,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 37.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -457,20 +457,20 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 
 (./supplemental.out) (./supplemental.out)
 \@outlinefile=\write3
 \openout3 = `supplemental.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 39.
+LaTeX Font Info:    Try loading font information for U+msa on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 39.
+LaTeX Font Info:    Try loading font information for U+msb on input line 40.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -567,29 +567,33 @@ Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
  [3]
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
  [4] [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 268.
+(hyperref)                removing `math shift' on input line 269.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 268.
+(hyperref)                removing `superscript' on input line 269.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 268.
+(hyperref)                removing `math shift' on input line 269.
+
+
+Package natbib Warning: Citation `Love_2014' on page 6 undefined on input line 
+285.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -597,20 +601,20 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[6] [7]
+[6]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 382.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 382.
+(hyperref)                removing `math shift' on input line 383.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 382.
+(hyperref)                removing `superscript' on input line 383.
 
-[8] [9] (./supp_figs.tex [10]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 383.
+
+[7] [8] [9] (./supp_figs.tex [10]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -644,7 +648,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=365, 124
+<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=362, 124
 7.3802pt x 1258.9434pt>
 File: figures/20150320methods_conceptual/20150320methods_conceptual.png Graphic
  file (type png)
@@ -656,7 +660,7 @@ ceptual.png used on input line 9.
 
 (./figures/20150320methods_conceptual/caption.tex)
 (./figures/20150320methods_conceptual/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=366, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=363, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -665,7 +669,7 @@ t line 16.
 (pdftex.def)             Requested size: 375.36299pt x 225.21902pt.
 
 (./figures/all_rspndr_bar/caption.tex) (./figures/all_rspndr_bar/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=367, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=364, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -674,7 +678,7 @@ put line 23.
 (pdftex.def)             Requested size: 500.484pt x 192.49052pt.
 
 (./figures/bulk_ordination/caption.tex) (./figures/bulk_ordination/caption.tex)
-<figures/l2fc_time/l2fc_time.pdf, id=368, 578.16pt x 614.295pt>
+<figures/l2fc_time/l2fc_time.pdf, id=365, 578.16pt x 614.295pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -683,7 +687,7 @@ Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 29.
 (pdftex.def)             Requested size: 375.36299pt x 398.81834pt.
  (./figures/l2fc_time/caption.tex)
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=369, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=366, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -693,7 +697,7 @@ put line 35.
 
 (./figures/abndVtime_class/caption.tex) (./figures/abndVtime_class/caption.tex)
 
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=370, 722.7pt x 101
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=367, 722.7pt x 101
 1.78pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -704,7 +708,7 @@ f used on input line 42.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=371, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=368, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -713,7 +717,7 @@ Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
 (pdftex.def)             Requested size: 375.36299pt x 187.67921pt.
  (./figures/conceptual1/caption.tex)
 (./figures/conceptual1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=372, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=369, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -722,7 +726,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
 (pdftex.def)             Requested size: 500.484pt x 222.4423pt.
  (./figures/copy_number/caption.tex)
 (./figures/copy_number/caption.tex)
-<figures/foodweb/foodweb.png, id=373, 1366.10374pt x 498.86375pt>
+<figures/foodweb/foodweb.png, id=370, 1366.10374pt x 498.86375pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
@@ -730,7 +734,7 @@ Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 59.
 (pdftex.def)             Requested size: 500.484pt x 182.75742pt.
  (./figures/foodweb/caption.tex)
 (./figures/foodweb/caption.tex)
-<figures/tiled_tree/tiled_tree.png, id=374, 4561.04pt x 9780.54pt>
+<figures/tiled_tree/tiled_tree.png, id=371, 4561.04pt x 9780.54pt>
 File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree.png>
@@ -742,7 +746,7 @@ Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 6
 
 LaTeX Warning: Float too large for page by 68.7833pt on input line 69.
 
-<figures/conceptual3/conceptual3.pdf, id=375, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=372, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -868,41 +872,42 @@ Overfull \hbox (13.9907pt too wide) in paragraph at lines 38--38
 ] [26] [27])) (./supplemental.bbl [28
 
 ] [29] [30] [31])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 564.
- [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 564.
 
-(./supplemental.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 564.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 564.
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 565.
+[32]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 565.
+ (./supplemental.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 565.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 565.
 Package rerunfilecheck Info: File `supplemental.out' has not changed.
 (rerunfilecheck)             Checksum: 776CE813CD83526E47B95798E13E8F87;1753.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 564.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 565.
  ) 
 Here is how much of TeX's memory you used:
- 8445 strings out of 493485
- 127674 string characters out of 3143526
- 250263 words of memory out of 3000000
- 11421 multiletter control sequences out of 15000+200000
+ 8442 strings out of 493485
+ 127620 string characters out of 3143526
+ 249253 words of memory out of 3000000
+ 11419 multiletter control sequences out of 15000+200000
  13962 words of font info for 54 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,10n,46p,772b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,46p,772b,543s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b>
-Output written on supplemental.pdf (32 pages, 3161841 bytes).
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on supplemental.pdf (32 pages, 3152693 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 546 compressed objects within 6 object streams
- 138 named destinations out of 1000 (max. 500000)
+ 611 PDF objects out of 1000 (max. 8388607)
+ 541 compressed objects within 6 object streams
+ 137 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

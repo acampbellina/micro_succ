@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  31 MAR 2015 14:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -634,11 +634,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 108.
 
-
-Underfull \hbox (badness 5519) in paragraph at lines 120--139
-\OT1/cmr/m/n/9 in-cor-po-ra-tion (Fig-ure []7[], Fig-ure []4[], P-value
- []
-
 ) (./Discussion.tex [3] [4]) (./Methods.tex
 Overfull \hbox (0.2284pt too wide) in paragraph at lines 206--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
@@ -751,7 +746,7 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 Here is how much of TeX's memory you used:
  8532 strings out of 493485
  121161 string characters out of 3143526
- 249321 words of memory out of 3000000
+ 249305 words of memory out of 3000000
  11555 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -804,7 +799,7 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (11 pages, 8590562 bytes).
+Output written on full_paper.pdf (11 pages, 8590588 bytes).
 PDF statistics:
  486 PDF objects out of 1000 (max. 8388607)
  357 compressed objects within 4 object streams

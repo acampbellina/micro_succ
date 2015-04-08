@@ -2,10 +2,6 @@ bib="bibliography/biblio.bib"
 bib2="bibliography/biblio_x.bib"
 csl="pnas.csl"
 
-#for f in Significance.tex Abstract.tex Introduction.tex Results.tex Discussion.tex Methods.tex Supplemental_notes.tex; do
-#    pandoc -o ${f%.*}.doc $f --bibliography $bib --csl $csl
-#done
-
 cat Significance.tex Abstract.tex  Introduction.tex Results.tex Discussion.tex Methods.tex \
     | pandoc -o manuscript.doc -r latex --bibliography $bib --csl $csl
 
@@ -14,13 +10,36 @@ cat supplemental.tex \
     | grep -v "beginsupplement" \
     | pandoc -o supplemental.doc -r latex --bibliography $bib2 --csl $csl
 
-#sed -i 's/\[fig:ord<sub>h<\/sub>eavy\]/1/g' $1.doc
-#sed  -i  's/\[fig:l2fc\]/2/g' $1.doc
-#sed  -i  's/\[fig:trees\]/3/g' $1.doc
-#sed -i 's/\[fig:scatter<sub>h<\/sub>eavy\]/4/g' $1.doc
-#sed  -i  's/\[fig:ordination\]/S1/g' $1.doc
-#sed  -i  's/\[fig:2v4\]/S2/g' $1.doc
-#sed -i 's/\[fig:rspndr<sub>d<\/sub>ist\]/S3/g' $1.doc
-#sed -i 's/\[fig:study<sub>p<\/sub>hy<sub>d<\/sub>ist\]/S4/g' $1.doc
-#sed  -i  's/\[fig:rarefaction\]/S5/g' $1.doc
-#sed -i 's/\[tab:LTP<sub>b<\/sub>last\]/S1/g' $1.doc
+sed -i 's/\[fig:ord\]/1/g' manuscript.doc
+sed -i 's/\[fig:l2fc\]/2/g' manuscript.doc
+sed -i 's/\[fig:shift\]/3/g' manuscript.doc
+sed -i 's/\[fig:genspec\]/4/g' manuscript.doc
+
+sed -i 's/\[fig:setup\]/S1/g' manuscript.doc
+sed -i 's/\[fig:rspndr<sub>c<\/sub>ount\]/S2/g' manuscript.doc
+sed -i 's/\[fig:bulk<sub>o<\/sub>rd\]/S3/g' manuscript.doc
+sed -i 's/\[fig:time\]/S4/g' manuscript.doc
+sed -i 's/\[fig:time<sub>c<\/sub>lass\]/S5/g' manuscript.doc
+sed -i 's/\[fig:babund\]/S6/g' manuscript.doc
+sed -i 's/\[fig:xyl<sub>c<\/sub>ount\]/S7/g' manuscript.doc
+sed -i 's/\[fig:tiledtree\]/S8/g' manuscript.doc
+sed -i 's/\[fig:c1\]/S9/g' manuscript.doc
+sed -i 's/\[fig:copy\]/S10/g' manuscript.doc
+sed -i 's/\[fig:foodweb\]/S11/g' manuscript.doc
+
+sed -i 's/\[fig:ord\]/1/g' supplemental.doc
+sed -i 's/\[fig:l2fc\]/2/g' supplemental.doc
+sed -i 's/\[fig:shift\]/3/g' supplemental.doc
+sed -i 's/\[fig:genspec\]/4/g' supplemental.doc
+
+sed -i 's/\[fig:setup\]/S1/g' supplemental.doc
+sed -i 's/\[fig:rspndr<sub>c<\/sub>ount\]/S2/g' supplemental.doc
+sed -i 's/\[fig:bulk<sub>o<\/sub>rd\]/S3/g' supplemental.doc
+sed -i 's/\[fig:time\]/S4/g' supplemental.doc
+sed -i 's/\[fig:time<sub>c<\/sub>lass\]/S5/g' supplemental.doc
+sed -i 's/\[fig:babund\]/S6/g' supplemental.doc
+sed -i 's/\[fig:xyl<sub>c<\/sub>ount\]/S7/g' supplemental.doc
+sed -i 's/\[fig:tiledtree\]/S8/g' supplemental.doc
+sed -i 's/\[fig:c1\]/S9/g' supplemental.doc
+sed -i 's/\[fig:copy\]/S10/g' supplemental.doc
+sed -i 's/\[fig:foodweb\]/S11/g' supplemental.doc

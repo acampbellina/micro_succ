@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  3 APR 2015 19:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,15 +563,11 @@ Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
  [2]
-
-Package natbib Warning: Author undefined for citation`Bradford_1976' 
-(natbib)                on page 3 on input line 97.
-
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
-[3]
+ [3]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ¬ in font cmr10!
@@ -595,21 +591,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 268.
 
-
-Package natbib Warning: Citation `Love_2014' on page 6 undefined on input line 
-284.
-
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-[6]
-
-LaTeX Warning: Reference `fig:shift' on page 7 undefined on input line 368.
-
-[7]
+[6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 382.
@@ -622,14 +610,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 382.
 
-[8]
-
-LaTeX Warning: Reference `fig:trees' on page 9 undefined on input line 470.
-
-
-LaTeX Warning: Reference `fig:trees' on page 9 undefined on input line 496.
-
-[9] (./supp_figs.tex [10]
+[8] [9] (./supp_figs.tex [10]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: <default>
@@ -663,7 +644,7 @@ LaTeX Warning: Reference `fig:trees' on page 9 undefined on input line 496.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=361, 124
+<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=365, 124
 7.3802pt x 1258.9434pt>
 File: figures/20150320methods_conceptual/20150320methods_conceptual.png Graphic
  file (type png)
@@ -675,7 +656,7 @@ ceptual.png used on input line 9.
 
 (./figures/20150320methods_conceptual/caption.tex)
 (./figures/20150320methods_conceptual/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=362, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=366, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -684,7 +665,7 @@ t line 16.
 (pdftex.def)             Requested size: 375.36299pt x 225.21902pt.
 
 (./figures/all_rspndr_bar/caption.tex) (./figures/all_rspndr_bar/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=363, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=367, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -693,7 +674,7 @@ put line 23.
 (pdftex.def)             Requested size: 500.484pt x 192.49052pt.
 
 (./figures/bulk_ordination/caption.tex) (./figures/bulk_ordination/caption.tex)
-<figures/l2fc_time/l2fc_time.pdf, id=364, 578.16pt x 614.295pt>
+<figures/l2fc_time/l2fc_time.pdf, id=368, 578.16pt x 614.295pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -702,7 +683,7 @@ Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 29.
 (pdftex.def)             Requested size: 375.36299pt x 398.81834pt.
  (./figures/l2fc_time/caption.tex)
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=365, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=369, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -712,7 +693,7 @@ put line 35.
 
 (./figures/abndVtime_class/caption.tex) (./figures/abndVtime_class/caption.tex)
 
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=366, 722.7pt x 101
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=370, 722.7pt x 101
 1.78pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -723,7 +704,7 @@ f used on input line 42.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=367, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=371, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -732,7 +713,7 @@ Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
 (pdftex.def)             Requested size: 375.36299pt x 187.67921pt.
  (./figures/conceptual1/caption.tex)
 (./figures/conceptual1/caption.tex)
-<figures/copy_number/copy_number.pdf, id=368, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=372, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -741,7 +722,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
 (pdftex.def)             Requested size: 500.484pt x 222.4423pt.
  (./figures/copy_number/caption.tex)
 (./figures/copy_number/caption.tex)
-<figures/foodweb/foodweb.png, id=369, 1366.10374pt x 498.86375pt>
+<figures/foodweb/foodweb.png, id=373, 1366.10374pt x 498.86375pt>
 File: figures/foodweb/foodweb.png Graphic file (type png)
 
 <use figures/foodweb/foodweb.png>
@@ -749,7 +730,7 @@ Package pdftex.def Info: figures/foodweb/foodweb.png used on input line 59.
 (pdftex.def)             Requested size: 500.484pt x 182.75742pt.
  (./figures/foodweb/caption.tex)
 (./figures/foodweb/caption.tex)
-<figures/tiled_tree/tiled_tree.png, id=370, 4561.04pt x 9780.54pt>
+<figures/tiled_tree/tiled_tree.png, id=374, 4561.04pt x 9780.54pt>
 File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree.png>
@@ -761,7 +742,7 @@ Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 6
 
 LaTeX Warning: Float too large for page by 68.7833pt on input line 69.
 
-<figures/conceptual3/conceptual3.pdf, id=371, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=375, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -887,31 +868,25 @@ Overfull \hbox (13.9907pt too wide) in paragraph at lines 38--38
 ] [26] [27])) (./supplemental.bbl [28
 
 ] [29] [30] [31])
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 564.
-[32]
+ [32]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 564.
- (./supplemental.aux)
+
+(./supplemental.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 564.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 564.
 Package rerunfilecheck Info: File `supplemental.out' has not changed.
 (rerunfilecheck)             Checksum: 776CE813CD83526E47B95798E13E8F87;1753.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 564.
  ) 
 Here is how much of TeX's memory you used:
- 8444 strings out of 493485
- 127642 string characters out of 3143526
- 250247 words of memory out of 3000000
+ 8445 strings out of 493485
+ 127674 string characters out of 3143526
+ 250263 words of memory out of 3000000
  11421 multiletter control sequences out of 15000+200000
  13962 words of font info for 54 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,10n,46p,772b,543s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,46p,772b,545s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -924,10 +899,10 @@ sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b>
-Output written on supplemental.pdf (32 pages, 3161918 bytes).
+Output written on supplemental.pdf (32 pages, 3161841 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 542 compressed objects within 6 object streams
- 137 named destinations out of 1000 (max. 500000)
+ 617 PDF objects out of 1000 (max. 8388607)
+ 546 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

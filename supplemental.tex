@@ -283,64 +283,35 @@ with labeled nucleic acids can be determined
 
 We used an RNA-Seq differential expression statistical framework
 \citep{Love_2014} to find OTUs enriched in heavy fractions of labeled
-gradients relative to corresponding density fractions in control gradients
+gradients relative to corresponding heavy fractions in control gradients
 (for review of RNA-Seq differential expression statistics applied to
 microbiome OTU count data see \citep{McMurdie_2014}). We use the term
-“differential abundance” (coined by \citep{McMurdie_2014}) to denote OTUs that
-have different abundance across sample classes (in this case the only sample
-class is labeled or control). CsCl gradient fractions were categorized as
-"heavy" or "light". The heavy category denotes fractions with density values
-above 1.7125 and below 1.755 g/mL. Since we are only interested in enriched
-OTUs (labeled versus control), we used a one-sided test to assess the
-significance of differential abundance (the null hypothesis was that the
-differential abundance (labeled:control) for an OTU is less than a selected
-threshold). P-values were corrected with the Benjamini and Hochberg method
-\citep{Benjamini_1997}. 
+“differential abundance” (coined by \citep{McMurdie_2014}) to denote OTUs
+that have different abundance across sample classes (in this case the only
+sample class is labeled or control). CsCl gradient fractions were
+categorized as "heavy" or "light". The heavy category denotes fractions
+with density values above 1.7125 and below 1.755 g/mL. 
 
-We selected a log$_{2}$ fold change null threshold of
-0.75 (or a labeled:control differential abundance of 1.68). 
-
-DESeq2 was used to calculate moderated log$_{2}$ fold change of labeled:control
-abundance and corresponding standard errors for the one-sided Wald test. Fold
-change moderation allows for reliable ranking of fold change for each OTU such
-that high variance and likely statistically insignificant fold changes are
-appropriately shrunk and subsequently ranked lower than they would be as raw
-fold change. OTU DNA that enriches significantly in heavy fractions from
-$^{13}$C-labeled samples relative to corresponding controls has increased
-significantly in buoyant density in response to $^{13}$C treatment.
+DESeq2 was used to calculate moderated log$_{2}$ fold change of
+labeled:control abundance and corresponding standard errors. We assessed
+the statistical significance of fold change values using a one-sided Wald
+test. The threshold for the null model was set at one standard deviation
+above the mean fold change for all OTUs. OTU DNA that enriches
+significantly in heavy fractions from $^{13}$C-labeled samples relative to
+corresponding controls has increased significantly in buoyant density in
+response to $^{13}$C treatment.
 
 \subsubsection{Community and Sequence Analysis}\label{ord} Principal coordinate
-ordinations depict the relationships between samples. Weighted Unifrac
+ordinations depict the relationships between samples. Weighted UniFrac
 \citep{Lozupone_2005} distances were used as the sample distance metric for
 ordination. The Phyloseq \citep{McMurdie_2013} wrapper for Vegan
 \citep{Dixon_2003} (both R packages) was used to compute sample values along
 principal coordinate axes. GGplot2 \citep{Wickham_2009} was used to display
 sample points along the first and second principal axes. Adonis tests
-\citep{Anderson_2001} were done with 1000 permutations.
-
-Nucleic-acid SIP coupled to microbiome fingerprinting techniques progressed
-from simple proof-of-concept experiments with pure cultures
-\citep{radajewski2000stable} to DGGE, ARISA and/or tRFLP-enabled studies of
-microcosm microbial assemblages \citep{Haichar_2007}. Recently large
-experiments employed multiple labeled substrates and high-throughput amplicon
-and/or shotgun DNA sequencing \citep{Verastegui_2014} revealing the relative
-contributions of sampling location and DNA-SIP gradient density on phylogenetic
-profile variance from DNA-SIP experiments (CITE Conrad and Neufeld). Although
-density gradient position can account for approximately XX\% of phylogenetic
-profile variance, soil type appears to represent greater variance than can be
-established across density gradients from soil DNA. Association of phylogenetic
-types with "heavy" DNA-SIP density gradient fractions in labeled gradients and
-not "heavy" fractions in unlabeled control gradients suggests label
-incorporation into biomass for the associated phylogenetic type. Our study
-shows that DNA-SIP can also characterize C use in three additional 
-dimensions 1) temporally, isotopic labels can demonstrate C substrate use
-dynamics on the scale of days both between substrates and for a single
-substrate, 2) profiling DNA-SIP density gradients along the full gradient
-length can demonstrate patterns in substrate use specificity, and 3) $^{13}$C
-incorporation can be established at high resolution taxonomic groups such
-as 97\% sequence identity OTUs.
-
-NEED TO ADD NTI NRI CONSENTRAIT AND RRN GENE COPY NUMBER 
+\citep{Anderson_2001} were done with 1000 permutations. We used the Picante
+R package to measure NTI and NRI with the default null model
+\citep{Kembel2010}. consenTRAIT values were measured using the R code
+described in the original consenTRAIT publication \citep{Martiny2013}. 
 
 Code to take raw sequencing data through the presented figures (including
 download and processing of literature environmental datasets) can be
@@ -366,7 +337,7 @@ transformation in mind. It should also be noted that there was overlap in
 observed density shifts between $^{13}$C-cellulose and $^{13}$C-xylose
 responder groups, suggesting that although cellulose degraders are generally
 more substrate specific than xylose utilizers, each responder group exhibits
-a range of substrate specificities (Figure~XX). 
+a range of substrate specificities (Figure~2). 
 
 \subsection{Sequencing and density fractionation statistics}\label{seq_stats}
 Microcosm DNA was density fractionated on CsCl density gradients. We sequenced

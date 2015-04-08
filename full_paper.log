@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  8 APR 2015 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,7 +635,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 108.
 
 ) (./Discussion.tex [3] [4]) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 206--1
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 207--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
@@ -744,10 +744,10 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 048373FD80BFDA0C9F29E25D2BA6655D;909.
  ) 
 Here is how much of TeX's memory you used:
- 8532 strings out of 493485
- 121161 string characters out of 3143526
- 249305 words of memory out of 3000000
- 11555 multiletter control sequences out of 15000+200000
+ 8528 strings out of 493485
+ 121084 string characters out of 3143526
+ 249289 words of memory out of 3000000
+ 11552 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  51i,10n,37p,586b,607s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -799,10 +799,10 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (11 pages, 8590588 bytes).
+Output written on full_paper.pdf (11 pages, 8588921 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
  130 words of extra memory for PDF output out of 10000 (max. 10000000)
 

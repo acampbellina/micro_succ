@@ -2,10 +2,12 @@ bib="bibliography/biblio.bib"
 bib2="bibliography/biblio_x.bib"
 csl="pnas.csl"
 
-cat Significance.tex Abstract.tex  Introduction.tex Results.tex Discussion.tex Methods.tex \
+bash captions.sh
+
+cat Significance.tex Abstract.tex  Introduction.tex Results.tex Discussion.tex Methods.tex captions.tex supp_captions.tex \
     | pandoc -o manuscript.doc -r latex --bibliography $bib --csl $csl
 
-cat supplemental.tex \
+cat supplemental.tex supp_captions.tex \
     | grep -v "\input{supp_figs.tex}" \
     | grep -v "beginsupplement" \
     | pandoc -o supplemental.doc -r latex --bibliography $bib2 --csl $csl

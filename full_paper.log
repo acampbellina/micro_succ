@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  15 APR 2015 15:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 JUN 2015 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -606,9 +606,30 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 Package hyperref Warning: Ignoring empty anchor on input line 5.
 
 (./Abstract.tex) (./kwabbr.tex) (./Significance.tex) (./Introduction.tex
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no „ in font cmr9!
+
+
+Package natbib Warning: Citation `Spiridon2008' on page 1 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `AnneliseHKjoller2002' on page 1 undefined on 
+input line 39.
+
+
+Package natbib Warning: Citation `AnneliseHKjoller2002' on page 1 undefined on 
+input line 47.
+
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-]) (./Results.tex
+]
+
+Package natbib Warning: Citation `Buckley2002' on page 2 undefined on input lin
+e 92.
+
+[2]) (./Results.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 43.
@@ -621,7 +642,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 43.
 
-[2]
+[3]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 78.
@@ -636,26 +657,33 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package natbib Warning: Author undefined for citation`Kembel_2012' 
-(natbib)                on page 3 on input line 101.
+(natbib)                on page 4 on input line 101.
 
-) (./Discussion.tex [3] [4]) (./Methods.tex
+) (./Discussion.tex [4] [5]) (./Methods.tex
 Overfull \hbox (0.2284pt too wide) in paragraph at lines 213--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
 
-[5]
+[6]
 LaTeX Font Info:    Try loading font information for OML+cmr on input line 29.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 29.
-) (./full_paper.bbl [6]
+) (./full_paper.bbl [7]
+Underfull \hbox (badness 5637) in paragraph at lines 74--75
+\OT1/cmr/m/it/9 Fron-tiers in Mi-cro-bi-ol-ogy \OT1/cmr/m/n/9 3: 348. doi:
+ []
+
+[8]
+Missing character: There is no Ã in font cmr9!
+Missing character: There is no ¼ in font cmr9!
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
- [7]) [8] (./figures.tex
+ [9]) [10] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -689,7 +717,7 @@ Missing character: There is no ™ in font cmr9!
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=268, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=366, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -698,15 +726,15 @@ ut line 6.
 (pdftex.def)             Requested size: 324.36124pt x 121.63112pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=269, 837.88533pt x 575.7761pt>
-File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
+<figures/l2fc_fig1/l2fc_fig.png, id=367, 833.85126pt x 519.6213pt>
+File: figures/l2fc_fig1/l2fc_fig.png Graphic file (type png)
 
-<use figures/l2fc_fig1/l2fc_fig.pdf>
-Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 12.
-(pdftex.def)             Requested size: 324.36124pt x 222.89128pt.
+<use figures/l2fc_fig1/l2fc_fig.png>
+Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.png used on input line 12.
+(pdftex.def)             Requested size: 324.36124pt x 202.12819pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=270, 216.81pt x 397.485pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=369, 216.81pt x 397.485pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
@@ -714,7 +742,7 @@ n input line 19.
 (pdftex.def)             Requested size: 170.71652pt x 312.99683pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund.png, id=271, 15056.25pt x 5018.75pt
+<figures/shift_and_rabund3/shift_and_rabund.png, id=370, 15056.25pt x 5018.75pt
 >
 File: figures/shift_and_rabund3/shift_and_rabund.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund.png>
@@ -724,7 +752,7 @@ Package pdftex.def Info: figures/shift_and_rabund3/shift_and_rabund.png used on
 
 (./figures/shift_and_rabund3/caption.tex)
 (./figures/shift_and_rabund3/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=273, 794.97pt x 65
+<figures/generalist_specialist/generalist_specialist.pdf, id=371, 794.97pt x 65
 0.43pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
@@ -734,13 +762,15 @@ f used on input line 33.
 (pdftex.def)             Requested size: 324.36124pt x 265.3878pt.
 
 (./figures/generalist_specialist/caption.tex)
-(./figures/generalist_specialist/caption.tex) [9 <./figures/ordination_all1/ord
-ination_all.pdf> <./figures/l2fc_fig1/l2fc_fig.pdf>] [10 <./figures/xylose_rspn
-dr_bar/xylose_rspndr_bar.pdf> <./figures/shift_and_rabund3/shift_and_rabund.png
->] [11 <./figures/generalist_specialist/generalist_specialist.pdf>])
+(./figures/generalist_specialist/caption.tex) [11 <./figures/ordination_all1/or
+dination_all.pdf> <./figures/l2fc_fig1/l2fc_fig.png>] [12 <./figures/xylose_rsp
+ndr_bar/xylose_rspndr_bar.pdf> <./figures/shift_and_rabund3/shift_and_rabund.pn
+g>] [13 <./figures/generalist_specialist/generalist_specialist.pdf>])
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
-
 (./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
@@ -748,13 +778,13 @@ Package rerunfilecheck Info: File `full_paper.out' has not changed.
 (rerunfilecheck)             Checksum: 048373FD80BFDA0C9F29E25D2BA6655D;909.
  ) 
 Here is how much of TeX's memory you used:
- 8536 strings out of 493485
- 121234 string characters out of 3143526
- 249321 words of memory out of 3000000
- 11558 multiletter control sequences out of 15000+200000
+ 8709 strings out of 493485
+ 124291 string characters out of 3143526
+ 249995 words of memory out of 3000000
+ 11687 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,586b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,586b,657s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{figure.caption.12} has been referenced but does n
 ot exist, replaced by a fixed one
 
@@ -803,10 +833,10 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (11 pages, 8591915 bytes).
+Output written on full_paper.pdf (13 pages, 10593005 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 497 PDF objects out of 1000 (max. 8388607)
+ 451 compressed objects within 5 object streams
+ 130 named destinations out of 1000 (max. 500000)
  130 words of extra memory for PDF output out of 10000 (max. 10000000)
 

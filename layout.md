@@ -12,7 +12,7 @@ figures/l2fc_fig1/l2fc_fig.png
 figures/13C_chart/13C_chart.png
 figures/xylose_rspndr_bar/xylose_rspndr_bar.png
 figures/shift_and_rabund2/shift_and_rabund.png
-figures/shift_and_rabund3/shift_and_rabund.svg
+figures/shift_and_rabund3/shift_and_rabund.png
 figures/copy_number/copy_number.png
 figures/all_rspndr_bar/all_rspndr_bar.png
 figures/bulk_ordination/bulk_ordination.png

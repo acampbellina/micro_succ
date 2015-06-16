@@ -9,6 +9,7 @@ figures/l2fc_time/l2fc_time.png
 figures/abndVtime_class/abndVtime_class.png
 figures/ordination_all1/ordination_all.png
 figures/l2fc_fig1/l2fc_fig.png
+figures/13C_chart/13C_chart.png
 figures/xylose_rspndr_bar/xylose_rspndr_bar.png
 figures/shift_and_rabund2/shift_and_rabund.png
 figures/shift_and_rabund3/shift_and_rabund.png

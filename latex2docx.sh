@@ -16,6 +16,7 @@ sed -i 's/\[fig:ord\]/1/g' manuscript.doc
 sed -i 's/\[fig:l2fc\]/2/g' manuscript.doc
 sed -i 's/\[fig:shift\]/3/g' manuscript.doc
 sed -i 's/\[fig:genspec\]/4/g' manuscript.doc
+sed -i 's/\[fig:tiledtree\]/5/g' manuscript.doc
 
 sed -i 's/\[fig:13C\]/S1/g' manuscript.doc
 sed -i 's/\[fig:setup\]/S2/g' manuscript.doc
@@ -25,10 +26,9 @@ sed -i 's/\[fig:time\]/S5/g' manuscript.doc
 sed -i 's/\[fig:time<sub>c<\/sub>lass\]/S6/g' manuscript.doc
 sed -i 's/\[fig:babund\]/S7/g' manuscript.doc
 sed -i 's/\[fig:xyl<sub>c<\/sub>ount\]/S8/g' manuscript.doc
-sed -i 's/\[fig:tiledtree\]/S9/g' manuscript.doc
-sed -i 's/\[fig:c1\]/S10/g' manuscript.doc
-sed -i 's/\[fig:copy\]/S11/g' manuscript.doc
-sed -i 's/\[fig:foodweb\]/S12/g' manuscript.doc
+sed -i 's/\[fig:c1\]/S9/g' manuscript.doc
+sed -i 's/\[fig:copy\]/S10/g' manuscript.doc
+sed -i 's/\[fig:foodweb\]/S11/g' manuscript.doc
 
 sed -i 's/\[fig:ord\]/1/g' supplemental.doc
 sed -i 's/\[fig:l2fc\]/2/g' supplemental.doc

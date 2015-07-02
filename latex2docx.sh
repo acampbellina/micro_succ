@@ -16,7 +16,8 @@ sed -i 's/\[fig:ord\]/1/g' manuscript.doc
 sed -i 's/\[fig:l2fc\]/2/g' manuscript.doc
 sed -i 's/\[fig:shift\]/3/g' manuscript.doc
 sed -i 's/\[fig:genspec\]/4/g' manuscript.doc
-sed -i 's/\[fig:tiledtree\]/5/g' manuscript.doc
+sed -i 's/\[fig:example\]/5/g' manuscript.doc
+sed -i 's/\[fig:tiledtree\]/6/g' manuscript.doc
 
 sed -i 's/\[fig:13C\]/S1/g' manuscript.doc
 sed -i 's/\[fig:setup\]/S2/g' manuscript.doc

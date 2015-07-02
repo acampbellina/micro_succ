@@ -53,31 +53,43 @@ A10510) and pooled in equimolar concentration. Amplicons were sequenced on
 Roche 454 FLX system using titanium chemistry at Selah Genomics (Columbia,
 SC). 
 
-SSU rRNA gene sequences were initially screened by maximum expected
-errors at a specific read length threshold (17) and aligned to the Silva
-reference using the Mothur NAST aligner \citep{}(21, 22). Anomalous reads were
-discarded and 87\% of original reads remained. Remaining reads were annotated
-using the “UClust” taxonomic annotation framework in QIIME (18, 19) with 97\%
-cluster seeds from the Silva SSU rRNA database as reference (provided at QIIME
-website) (20). Sequences were distributed into OTUs using the UPARSE
-methodology (17). OTU centroids were established at a threshold of 97\%
-sequence identity. For phylogenetic reconstruction, alignment was performed
-with SSU-Align (23, 24). Columns in the alignment that were aligned with poor
-confidence (< 95\% of characters had posterior probability alignment scores
-> 95\%) were masked. FastTree (25) was used with default parameters to build
-the phylogeny. NMDS ordination was performed on weighted Unifrac (32)
-distances. The Phyloseq (33) wrapper for Vegan (34) (both R packages) was used
-to compute sample values along NMDS axes. The 'adonis' function in Vegan was
-used to perform Adonis tests (default parameters) (36). 
+SSU rRNA gene sequences were initially screened by maximum expected errors at
+a specific read length threshold  \citep{edgar2013}. Reads that had less
+than~0.5 expected errors at a length of 250 nt were then aligned to the Silva
+Reference Alignment as provided in the Mothur software package using the Mothur
+NAST aligner \citep{DeSantis2005,schloss2009}. Reads that did not align to the
+expected region of the SSU rRNA gene were discarded. After expected error and
+alignment based quality control, 87\% of original reads remained. The remaining
+reads were annotated using the “UClust” taxonomic annotation framework in
+\citep{caparaso2010,edgar2010}. We used 97\% cluster seeds from the Silva
+SSU rRNA database \citep{quast2013} as reference for taxonomic annotation
+(provided at QIIME website) \citep{quast2013}. Sequences were distributed
+into OTUs with a centroid based clustering algorithm (i.e. UPARSE
+\citep{edgar2013}). The centroid selection also included robust chimera
+screening \citep{edgar2013}. OTU centroids were established at a threshold
+of 97\% sequence identity and non-centroid sequences were mapped back to
+centroids. Reads that could not be mapped to an OTU centroid at greater
+than or equal to 97\% sequence identity were discarded. For phylogenetic
+reconstruction, alignment was performed with SSU-Align
+\citep{nawrocki2009,nawrocki2013}. Columns in the alignment that were
+aligned with poor confidence ($<$ 95\% of characters had posterior
+probability $>$ 95\%) were not considered when building
+the phylogenetic tree. FastTree \citep{price2010} was used with default
+parameters to build the phylogeny. NMDS ordination was performed on
+weighted Unifrac \citep{lozupone2005} distances. The Phyloseq
+\citep{mcmurdie2013} wrapper for Vegan \citep{oksanen2015} (both
+R packages) was used to compute sample values along NMDS axes. The
+'adonis' function in Vegan was used to perform Adonis tests (default
+parameters) \citep{Anderson2001a}.
 
-We used DESeq2, an RNA-Seq differential expression statistical framework (29),
-to identify OTUs that were enriched in high density gradient fractions from
-$^{13}$C-treatments relative to corresponding density fractions from control
-treatments (for review of RNA-Seq differential expression statistics applied to
-microbiome OTU count data see (30)). We define "high density gradient
-fractions" as gradient fractions whose density falls between
-1.7125 - 1.755 g ml$^{-1}$. Briefly, DESeq2 includes several features that enable
-robust estimates of standard error in addition to reliable ranking of
+We used DESeq2 (R package), an RNA-Seq differential expression statistical
+framework \citep{love2014}, to identify OTUs that were enriched in high
+density gradient fractions from $^{13}$C-treatments relative to corresponding
+density fractions from control treatments (for review of RNA-Seq differential
+expression statistics applied to microbiome OTU count data see (30)). We define
+"high density gradient fractions" as gradient fractions whose density falls
+between 1.7125 and 1.755 g ml$^{-1}$. Briefly, DESeq2 includes several features that
+enable robust estimates of standard error in addition to reliable ranking of
 logarithmic fold change (LFC) in abundance (i.e. gamma-Poisson regression
 coefficients) even with low count groups where LFC can often be noisy CITE.
 Further, statistical evaluation of LFC can be performed with selected
@@ -91,9 +103,9 @@ The user-defined null hypothesis for the Wald test was that LFC was less than
 one standard deviation above the mean of all LFC values. P-values were
 corrected for multiple comparisons by using the Benjamini and Hochberg (BH)
 method (31). Independent filtering was performed on the basis of sparsity prior
-to correcting P-values for multiple comparisons. The sparsity threshold that
-yielded the most P-values less than 0.10 was used for sparsity independent
-filtering. Briefly, OTUs were eliminated if they failed to appear in at least
-XX\% of high density gradient fractions for a given $^{13}$C and control
+to correcting P-values for multiple comparisons. The sparsity value that
+yielded the most P-values less than 0.10 was used for independent filtering by
+sparsity. Briefly, OTUs were eliminated if they failed to appear in at least
+45\% of high density gradient fractions for a given $^{13}$C and control
 treatment pair, these OTUs are unlikely to have sufficient data to allow for
 the determination of statistical significance.

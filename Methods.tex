@@ -1,30 +1,116 @@
 \section{Methods}
 Additional information on sample collection and analytical methods is provided
-in Supplemental Materials and Methods.
+in Supplemental Materials and Methods. 
 
-Twelve soil cores (5 cm diameter x 10 cm depth) were collected from six random
+Twelve soil cores (5 cm diameter x 10 cm depth) were collected from six 
 sampling locations within an organically managed agricultural field in Penn
-Yan, New York. Soils were pretreated by sieving (2 mm), homogenizing sieved
-soil, and pre-incubating 10 g of dry soil weight in flasks for 2 weeks. Soils
-were amended with a 5.3 mg g soil\textsuperscript{-1} carbon mixture;
-representative of natural concentrations \cite{Schneckenberger_2008}. Mixture
-contained 38\% cellulose, 23\% lignin, 20\% xylose, 3\% arabinose, 1\%
-galactose, 1\% glucose, and 0.5\% mannose by mass, with the remaining 13.5\%
-mass composed of an amino acid (in-house made replica of Teknova C0705) and
-basal salt mixture (Murashige and Skoog, Sigma Aldrich M5524). Three parallel
-treatments were performed; (1) unlabeled
-control,(2)\textsuperscript{13}C-cellulose, (3)\textsuperscript{13}C-xylose (98
-atom\% \textsuperscript{13}C, Sigma Aldrich). Each treatment had 2 replicates
-per time point (n = 4) except day 30 which had 4 replicates; total microcosms
-per treatment n = 12, except \textsuperscript{13}C-cellulose which was not
-sampled at day 1, n = 10. Other details relating to substrate addition can be
-found in SI. Microcosms were sampled destructively (stored at -80$^{\circ}$C
-until nucleic acid processing) at days 1 (control and xylose only), 3, 7,
-14, and 30. Microcosm treatments are identified in figures by the
-following code: ``13CXPS'' refers to the amendment with $^{13}$C-xylose
-($^{13}$\textbf{C} \textbf{X}ylose \textbf{P}lant \textbf{S}imulant),
-``13CCPS'' refers to the $^{13}$C-cellulose amendment and ``12CCPS''
-refers to the amendment that only contained $^{12}$C (i.e. control).
+Yan, New York. Soils were sieved (2 mm), homogenized, distributed into flasks
+(10 g in each 250 ml flask, n = 36) and equilibrated for 2 weeks. Soils were
+amended with a mixture containing 5.3 mg C g-1 soil dry weight (d.w.) and
+brought to 50\% water holding capacity. The mixture contained 38\% cellulose,
+23\% lignin, 20\% xylose, 3\% arabinose, 1\% galactose, 1\% glucose, and 0.5\%
+mannose by mass, with the remaining 13.5\% mass composed of an amino acid
+(in-house made replica of Teknova C0705) and macronutrient mixture (Murashige
+and Skoog, Sigma Aldrich M5524).  This mixture approximates the molecular
+composition of switchgrass biomass with hemicellulose replaced by its
+constituent monomers (Reference 87). Three parallel treatments were performed
+which varied the isotopic composition of the mixture: (1) unlabeled control,
+(2) 13C-cellulose (synthesized as described in Supplemental Methods), (3)
+13C-xylose (98 atom\% 13C, Sigma Aldrich). A total of 12 microcosms were
+established per treatment. Other details relating to substrate addition can be
+found in Supplemental Methods. Microcosms were sampled destructively at days
+1 (control and xylose only), 3, 7, 14, and 30 and soils were stored at
+-80 $^{\circ}$C until nucleic acid extraction. The abbreviation “13CXPS” refers
+to the 13C-xylose treatment (13C Xylose Plant Simulant), “13CCPS” refers to the
+13C-cellulose treatment and “12CCPS” refers to the unlabeled control. 
+
+Nucleic acids were extracted using a modified Griffiths protocol (Reference 88)
+and DNA was prepared for isopycnic centrifugation as previously described
+(Reference 55). A total of 5 μg of DNA was added to each 4.7 ml CsCl density
+gradient composed of 1.69 g ml-1 CsCl in15 mM Tris-HCl, 15 mM EDTA, 15 mM KCl.
+Centrifugation was performed in a TLA-110 rotor at 55,000 rpm and 20°C for 66
+hr. Fractions of 100 μL were collected by displacement at 3.3 μL s-1
+(Reference~48) into Acroprep$^{TM}$ 96 filter plates (Pall Life Sciences 5035).
+The refractive index of each fraction was measured immediately using a Reichart
+AR200 digital refractometer as previously described (Reference 55). The DNA was
+desalted by washing (3 x 200 μL) with TE in the Acroprep filter wells followed
+by resuspension in 50 μL TE. SSU rRNA genes were amplified from gradient
+fractions (n = 20 per gradient) and from non-fractionated DNA.
+Barcoded primers consisted of: 454-specific adapter B, a 10 bp barcode
+(Reference 90), a 2 bp linker (5’-CA-3’), and 806R primer for reverse primer
+(BA806R); and 454-specific adapter A, a 2 bp linker (5’-TC-3’), and 515F primer
+for forward primer (BA515F). Each PCR contained 1.25 U μl-1 AmpliTaq Gold (Life
+Technologies, Grand Island, NY; N8080243), 1X Buffer II (100 mM Tris-HCl, 500
+mM KCl, pH~8.3), 2.5 mM MgCl2, 200 μM of each dNTP, 0.5 mg ml-1 BSA, 0.2 μM
+BA515F, 0.2 μM BA806R, and 10 μL of 1:30 DNA template in 25 μl total volume).
+Reactions were performed in triplicate and pooled. Amplified DNA was gel
+purified using the Wizard SV gel and PCR clean-up system (Promega, Madison, WI;
+A9281) per manufacturer’s protocol. Samples were normalized by SequalPrep
+normalization plates (Invitrogen, Carlsbad, CA; A10510) and pooled in equimolar
+concentration. Amplicons were sequenced on Roche 454 FLX system using titanium
+chemistry at Selah Genomics (Columbia, SC). 
+
+SSU rRNA gene sequences were initially screened by maximum expected
+errors at a specific read length threshold (17) and aligned to the Silva
+reference using the Mothur NAST aligner (21, 22). Anomalous reads were
+discarded and 87\% of original reads remained. Remaining reads were annotated
+using the “UClust” taxonomic annotation framework in QIIME (18, 19) with 97\%
+cluster seeds from the Silva SSU rRNA database as reference (provided at QIIME
+website) (20). Sequences were distributed into OTUs using the UPARSE
+methodology (17). OTU centroids were established at a threshold of 97\%
+sequence identity. For phylogenetic reconstruction, alignment was performed
+with SSU-Align (23, 24). Columns in the alignment that were aligned with poor
+confidence (< 95\% of characters had posterior probability alignment scores
+> 95\%) were masked. FastTree (25) was used with default parameters to build
+the phylogeny. NMDS ordination was performed on weighted Unifrac (32)
+distances. The Phyloseq (33) wrapper for Vegan (34) (both R packages) was used
+to compute sample values along NMDS axes. The 'adonis' function in Vegan was
+used to perform Adonis tests (default parameters) (36). 
+
+We used DESeq2, an RNA-Seq differential expression statistical framework (29),
+to identify OTUs that were enriched in  high density gradient fractions from
+$^{13}$C-treatments relative to corresponding density fractions from control
+treatments (for review of RNA-Seq differential expression statistics applied to
+microbiome OTU count data see (30)). We define "high density gradient
+fractions" as gradient fractions whose density falls between 1.7125 - 1.755
+g ml-1. DESeq2 was used to calculate moderated $log_{2}$ fold change and
+corresponding standard error in OTU relative abundance between $^{13}$C
+treatments and control across high density gradient fractions. A one-sided Wald
+test was used to statistically assess fold change values (using corresponding
+standard errors). The null hypothesis was that $log_{2} Fold Change$ was less
+than one standard deviation above the mean of all $log_{2} Fold Change$ values.
+P-values were corrected for multiple comparisons by using the Benjamini and
+Hochberg (BH) method (31). Independent filtering was performed on the basis of
+sparsity prior to correcting P-values for multiple comparisons. Briefly, OTUs
+were eliminated if they failed to appear in at least XX\% of high density
+gradient fractions for a given $^{13}$C and control treatment pair, these OTUs
+are unlikely to have sufficient data to allow for the determination of
+statistical significance. Following sparsity filtering X,XXX OTUs were analyzed
+for enrichment in $^{13}$C treatment heavy gradient fractions relative to
+control.
+
+Twelve soil cores (5 cm diameter x 10 cm depth) were collected from six 
+sampling locations within an organically managed agricultural field in Penn
+Yan, New York. Soils were sieved (2 mm), homogenizing sieved soil, and
+pre-incubating 10 g of dry soil weight in flasks for 2 weeks. Soils were
+amended with a 5.3 mg g soil\textsuperscript{-1} carbon mixture; representative
+of natural concentrations \cite{Schneckenberger_2008}. Mixture contained 38\%
+cellulose, 23\% lignin, 20\% xylose, 3\% arabinose, 1\% galactose, 1\% glucose,
+and 0.5\% mannose by mass, with the remaining 13.5\% mass composed of an amino
+acid (in-house made replica of Teknova C0705) and basal salt mixture (Murashige
+and Skoog, Sigma Aldrich M5524). Three parallel treatments were performed; (1)
+unlabeled control,(2)\textsuperscript{13}C-cellulose,
+(3)\textsuperscript{13}C-xylose (98 atom\% \textsuperscript{13}C, Sigma
+Aldrich). Each treatment had 2 replicates per time point (n = 4) except day 30
+which had 4 replicates; total microcosms per treatment n = 12, except
+\textsuperscript{13}C-cellulose which was not sampled at day 1, n = 10. Other
+details relating to substrate addition can be found in SI. Microcosms were
+sampled destructively (stored at -80$^{\circ}$C until nucleic acid processing)
+at days 1 (control and xylose only), 3, 7, 14, and 30. Microcosm treatments are
+identified in figures by the following code: ``13CXPS'' refers to the amendment
+with $^{13}$C-xylose ($^{13}$\textbf{C} \textbf{X}ylose \textbf{P}lant
+\textbf{S}imulant), ``13CCPS'' refers to the $^{13}$C-cellulose amendment and
+``12CCPS'' refers to the amendment that only contained $^{12}$C (i.e. control).
 
 Nucleic acids were extracted using a modified Griffiths procotol
 \cite{Griffiths_2000}. To prepare nucleic acid extracts for isopycnic

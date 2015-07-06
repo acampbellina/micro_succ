@@ -60,28 +60,32 @@ reads were aligned to the Silva Reference Alignment as provided in the Mothur
 software package using the Mothur NAST aligner
 \citep{DeSantis2005,schloss2009}. Reads that did not align to the expected
 region of the SSU rRNA gene were discarded. After expected error and alignment
-based quality control. The remaining reads
-were annotated using the “UClust” taxonomic annotation framework in
+based quality control. The remaining quality controlled reads were
+annotated using the “UClust” taxonomic annotation framework in
 \citep{caporaso2010,edgar2010}. We used 97\% cluster seeds from the Silva SSU
-rRNA database \citep{quast2013} as reference for taxonomic annotation
-(provided on the QIIME website) \citep{quast2013}. Sequences were
-distributed into OTUs with a centroid based clustering algorithm (i.e.
-UPARSE \citep{edgar2013}). The centroid selection also included robust
-chimera screening \citep{edgar2013}. OTU centroids were established at
-a threshold of 97\% sequence identity and non-centroid sequences were
-mapped back to centroids. Reads that could not be mapped to an OTU
-centroid at greater than or equal to 97\% sequence identity were
-discarded. For phylogenetic reconstruction, alignment was performed with
-SSU-Align \citep{nawrocki2009,nawrocki2013}. Columns in the alignment that
-were aligned with poor confidence ($<$ 95\% of characters had posterior
-probability $>$ 95\%) were not considered when building the phylogenetic
-tree. FastTree \citep{price2010} was used with default parameters to build
-the phylogeny. NMDS ordination was performed on weighted Unifrac
-\citep{lozupone2005} distances between samples. The Phyloseq
-\citep{mcmurdie2013} wrapper for Vegan \citep{oksanen2015} (both
-R packages) was used to compute sample values along NMDS axes. The
-'adonis' function in Vegan was used to perform Adonis tests (default
-parameters) \citep{Anderson2001a}.
+rRNA database (release 111Ref) \citep{quast2013} as reference for taxonomic
+annotation (provided on the QIIME website) \citep{quast2013}. Quality control
+screening filtered out 344,472 or 1,720,480 raw sequencing reads. Reads
+annotated as "Chlorloplast", "Eukaryota", "Archaea", "Unassigned" or
+"mitochondria" were culled from the dataset. Sequences were distributed into
+OTUs with a centroid based clustering algorithm (i.e. UPARSE
+\citep{edgar2013}). The centroid selection also included robust chimera
+screening \citep{edgar2013}. OTU centroids were established at a threshold of
+97\% sequence identity and non-centroid sequences were mapped back to
+centroids. Reads that could not be mapped to an OTU centroid at greater than or
+equal to 97\% sequence identity were discarded. For phylogenetic
+reconstruction, alignment was performed with SSU-Align
+\citep{nawrocki2009,nawrocki2013}. Columns in the alignment that were aligned
+with poor confidence ($<$ 95\% of characters had posterior probability $>$
+95\%) were not considered when building the phylogenetic tree. Additionally, the
+alignment was trimmed to coordinates such that all sequences in the alignment
+began and ended at the same positions.FastTree
+\citep{price2010} was used with default parameters to build the phylogeny. NMDS
+ordination was performed on weighted Unifrac \citep{lozupone2005} distances
+between samples. The Phyloseq \citep{mcmurdie2013} wrapper for Vegan
+\citep{oksanen2015} (both R packages) was used to compute sample values along
+NMDS axes. The 'adonis' function in Vegan was used to perform Adonis tests
+(default parameters) \citep{Anderson2001a}.
 
 We used DESeq2 (R package), an RNA-Seq differential expression statistical
 framework \citep{love2014}, to identify OTUs that were enriched in high

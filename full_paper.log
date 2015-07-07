@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  11 JUN 2015 16:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 JUL 2015 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,12 +592,12 @@ LaTeX Info: Redefining \nameref on input line 60.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ) (./header.tex (./title.tex)
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -612,37 +612,55 @@ Missing character: There is no Ñ in font cmr9!
 
 
 Package natbib Warning: Citation `Spiridon2008' on page 1 undefined on input li
-ne 29.
+ne 24.
 
 
 Package natbib Warning: Citation `AnneliseHKjoller2002' on page 1 undefined on 
-input line 39.
+input line 33.
 
 
 Package natbib Warning: Citation `AnneliseHKjoller2002' on page 1 undefined on 
-input line 47.
+input line 42.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 
 Package natbib Warning: Citation `Buckley2002' on page 2 undefined on input lin
-e 92.
+e 69.
 
-[2]) (./Results.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 43.
+) (./Results.tex [2]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no Ö in font cmr9!
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 43.
+(hyperref)                removing `math shift' on input line 20.
 
-[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 52.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 52.
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no Ñ in font cmr9!
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 78.
@@ -655,35 +673,109 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 78.
 
+Missing character: There is no ¬ in font cmr9!
+Missing character: There is no † in font cmr9!
+[3]
 
-Package natbib Warning: Author undefined for citation`Kembel_2012' 
-(natbib)                on page 4 on input line 101.
+LaTeX Warning: Reference `tiledtree' on page 4 undefined on input line 149.
 
-) (./Discussion.tex [4] [5]) (./Methods.tex
-Overfull \hbox (0.2284pt too wide) in paragraph at lines 213--1
+
+LaTeX Warning: Reference `:fig:example' on page 4 undefined on input line 152.
+
+
+LaTeX Warning: Reference `tiledtree' on page 4 undefined on input line 165.
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+[4]) (./Discussion.tex [5] [6]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+ [7]) (./Methods.tex
+Overfull \hbox (0.2284pt too wide) in paragraph at lines 241--1
  []\tabnumfont Conclusion.[][] \OT1/cmr/m/n/9 Mi-croor-gan-isms se-quester at-m
 o-spheric
  []
 
-[6]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 29.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <9> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 29.
-) (./full_paper.bbl [7]
-Underfull \hbox (badness 5637) in paragraph at lines 74--75
-\OT1/cmr/m/it/9 Fron-tiers in Mi-cro-bi-ol-ogy \OT1/cmr/m/n/9 3: 348. doi:
- []
-
-[8]
-Missing character: There is no √ in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no Ö in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+Missing character: There is no Œ in font cmr9!
+Missing character: There is no º in font cmr9!
+Missing character: There is no ¬ in font cmr9!
+Missing character: There is no ∞ in font cmr9!
+Missing character: There is no Œ in font cmr9!
 Missing character: There is no º in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ô in font cmr9!
- [9]) [10] (./figures.tex
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+[8]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+
+Underfull \hbox (badness 6001) in paragraph at lines 56--89
+[]\OT1/cmr/m/n/9 SSU rRNA gene se-quences were ini-tially
+ []
+
+) (./full_paper.bbl [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+\OT1/cmr/m/n/9 nomics meets stable-isotope prob-ing:
+ []
+
+Missing character: There is no √ in font cmr9!
+Missing character: There is no º in font cmr9!
+[11]
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ∂ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no ∂ in font cmr9!
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+\OT1/cmr/m/n/9 Fast-Tree2 - ap-prox-i-mately maximum-
+ []
+
+) [13] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -717,126 +809,390 @@ Missing character: There is no ô in font cmr9!
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=366, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=428, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
 Package pdftex.def Info: figures/ordination_all1/ordination_all.pdf used on inp
 ut line 6.
-(pdftex.def)             Requested size: 324.36124pt x 121.63112pt.
+(pdftex.def)             Requested size: 438.17226pt x 164.31415pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.png, id=367, 833.85126pt x 519.6213pt>
+<figures/l2fc_fig1/l2fc_fig.png, id=429, 833.85126pt x 519.6213pt>
 File: figures/l2fc_fig1/l2fc_fig.png Graphic file (type png)
 
 <use figures/l2fc_fig1/l2fc_fig.png>
-Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.png used on input line 12.
-(pdftex.def)             Requested size: 324.36124pt x 202.12819pt.
+Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.png used on input line 13.
+(pdftex.def)             Requested size: 438.17226pt x 273.05106pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=369, 216.81pt x 397.485pt>
+<figures/tiled_tree/tiled_tree.png, id=431, 4561.04pt x 9780.54pt>
+File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
+
+<use figures/tiled_tree/tiled_tree.png>
+Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 2
+0.
+(pdftex.def)             Requested size: 307.69588pt x 659.78488pt.
+ (./figures/tiled_tree/caption.tex)
+(./figures/tiled_tree/caption.tex)
+
+LaTeX Warning: Float too large for page by 19.65964pt on input line 23.
+
+
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=432, 397.485pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
-n input line 19.
-(pdftex.def)             Requested size: 170.71652pt x 312.99683pt.
+n input line 27.
+(pdftex.def)             Requested size: 284.03252pt x 309.86392pt.
 
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund.png, id=370, 15056.25pt x 5018.75pt
+(./figures/xylose_rspndr_bar/caption.tex)
+<figures/shift_and_rabund3/shift_and_rabund.png, id=433, 15056.25pt x 5018.75pt
 >
 File: figures/shift_and_rabund3/shift_and_rabund.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund.png>
 Package pdftex.def Info: figures/shift_and_rabund3/shift_and_rabund.png used on
- input line 26.
-(pdftex.def)             Requested size: 324.36124pt x 108.05418pt.
+ input line 34.
+(pdftex.def)             Requested size: 438.17226pt x 146.0378pt.
 
 (./figures/shift_and_rabund3/caption.tex)
-(./figures/shift_and_rabund3/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=371, 794.97pt x 65
+(./figures/shift_and_rabund3/caption.tex) [14 <./figures/ordination_all1/ordina
+tion_all.pdf> <./figures/l2fc_fig1/l2fc_fig.png>] [15 <./figures/tiled_tree/til
+ed_tree.png>] [16 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf> <./figure
+s/shift_and_rabund3/shift_and_rabund.png>]) (./supp_figs.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 473.38274pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
+* \paperwidth=587.19374pt
+* \paperheight=785.93625pt
+* \textwidth=473.38274pt
+* \textheight=672.12524pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=13.5pt
+* \skip\footins=19.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=472, 124
+7.3802pt x 1258.9434pt>
+File: figures/20150320methods_conceptual/20150320methods_conceptual.png Graphic
+ file (type png)
+
+<use figures/20150320methods_conceptual/20150320methods_conceptual.png>
+Package pdftex.def Info: figures/20150320methods_conceptual/20150320methods_con
+ceptual.png used on input line 9.
+(pdftex.def)             Requested size: 355.03705pt x 358.32236pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 ...s/20150320methods_conceptual/caption.tex}}
+                                                  \label{fig:setup}
+(./figures/20150320methods_conceptual/caption.tex)pdfTeX warning (ext4): destin
+ation with the same identifier (name{figure.1}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.10 ...s/20150320methods_conceptual/caption.tex}}
+                                                  \label{fig:setup}
+(./figures/20150320methods_conceptual/caption.tex)
+<figures/13C_chart/13C_chart.pdf, id=473, 433.62pt x 289.08pt>
+File: figures/13C_chart/13C_chart.pdf Graphic file (type pdf)
+
+<use figures/13C_chart/13C_chart.pdf>
+Package pdftex.def Info: figures/13C_chart/13C_chart.pdf used on input line 16.
+
+(pdftex.def)             Requested size: 324.36124pt x 216.24925pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 ...tect\input{figures/13C_chart/caption.tex}}
+                                                  \label{fig:13C}
+(./figures/13C_chart/caption.tex)
+<figures/bulk_ordination/bulk_ordination.pdf, id=474, 939.51pt x 361.35pt>
+File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
+
+<use figures/bulk_ordination/bulk_ordination.pdf>
+Package pdftex.def Info: figures/bulk_ordination/bulk_ordination.pdf used on in
+put line 23.
+(pdftex.def)             Requested size: 473.38274pt x 182.06953pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 ...nput{figures/bulk_ordination/caption.tex}}
+                                                  \label{fig:bulk_ord}
+(./figures/bulk_ordination/caption.tex)
+<figures/l2fc_time/l2fc_time.pdf, id=475, 578.16pt x 614.295pt>
+File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
+
+<use figures/l2fc_time/l2fc_time.pdf>
+Package pdftex.def Info: figures/l2fc_time/l2fc_time.pdf used on input line 29.
+
+(pdftex.def)             Requested size: 355.03705pt x 377.22209pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 ...tect\input{figures/l2fc_time/caption.tex}}
+                                                  \label{fig:time}
+(./figures/l2fc_time/caption.tex)pdfTeX warning (ext4): destination with the sa
+me identifier (name{figure.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 ...tect\input{figures/l2fc_time/caption.tex}}
+                                                  \label{fig:time}
+(./figures/l2fc_time/caption.tex)
+<figures/abndVtime_class/abndVtime_class.pdf, id=476, 578.16pt x 433.62pt>
+File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
+
+<use figures/abndVtime_class/abndVtime_class.pdf>
+Package pdftex.def Info: figures/abndVtime_class/abndVtime_class.pdf used on in
+put line 35.
+(pdftex.def)             Requested size: 402.3782pt x 301.77855pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.36 ...nput{figures/abndVtime_class/caption.tex}}
+                                                  \label{fig:time_class}
+(./figures/abndVtime_class/caption.tex)
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=477, 722.7pt x 101
+1.78pt>
+File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
+e pdf)
+ <use figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf>
+Package pdftex.def Info: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pd
+f used on input line 42.
+(pdftex.def)             Requested size: 355.03705pt x 497.05794pt.
+
+(./figures/bulk_phylum_rspndr_abund/caption.tex)
+<figures/generalist_specialist/generalist_specialist.pdf, id=478, 794.97pt x 65
 0.43pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
  <use figures/generalist_specialist/generalist_specialist.pdf>
 Package pdftex.def Info: figures/generalist_specialist/generalist_specialist.pd
-f used on input line 33.
+f used on input line 49.
 (pdftex.def)             Requested size: 324.36124pt x 265.3878pt.
 
 (./figures/generalist_specialist/caption.tex)
-(./figures/generalist_specialist/caption.tex) [11 <./figures/ordination_all1/or
-dination_all.pdf> <./figures/l2fc_fig1/l2fc_fig.png>] [12 <./figures/xylose_rsp
-ndr_bar/xylose_rspndr_bar.pdf> <./figures/shift_and_rabund3/shift_and_rabund.pn
-g>] [13 <./figures/generalist_specialist/generalist_specialist.pdf>])
+(./figures/generalist_specialist/caption.tex)
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=479, 361.35pt x 216.81pt>
+File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
+
+<use figures/all_rspndr_bar/all_rspndr_bar.pdf>
+Package pdftex.def Info: figures/all_rspndr_bar/all_rspndr_bar.pdf used on inpu
+t line 56.
+(pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
+
+(./figures/all_rspndr_bar/caption.tex)
+<figures/example/examples.pdf, id=480, 939.51pt x 1806.75pt>
+File: figures/example/examples.pdf Graphic file (type pdf)
+
+<use figures/example/examples.pdf>
+Package pdftex.def Info: figures/example/examples.pdf used on input line 63.
+(pdftex.def)             Requested size: 307.69588pt x 591.70807pt.
+ (./figures/example/caption.tex)
+(./figures/example/caption.tex)
+<figures/copy_number/copy_number.pdf, id=481, 650.43pt x 289.08pt>
+File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
+
+<use figures/copy_number/copy_number.pdf>
+Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
+ 69.
+(pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
+ (./figures/copy_number/caption.tex)
+<figures/conceptual1/conceptual1.pdf, id=482, 578.16pt x 289.08pt>
+File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
+
+<use figures/conceptual1/conceptual1.pdf>
+Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
+ 74.
+(pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
+ (./figures/conceptual1/caption.tex)
+(./figures/conceptual1/caption.tex)
+<figures/conceptual3/conceptual3.pdf, id=483, 578.16pt x 289.08pt>
+File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
+
+<use figures/conceptual3/conceptual3.pdf>
+Package pdftex.def Info: figures/conceptual3/conceptual3.pdf used on input line
+ 79.
+(pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
+ (./figures/conceptual3/caption.tex)
+(./figures/conceptual3/caption.tex) (./table_cellulose.tex [17
+
+
+
+] [18 <./figures/20150320methods_conceptual/20150320methods_conceptual.png (PNG
+ copy)> <./figures/13C_chart/13C_chart.pdf>] [19 <./figures/bulk_ordination/bul
+k_ordination.pdf> <./figures/l2fc_time/l2fc_time.pdf>] [20 <./figures/abndVtime
+_class/abndVtime_class.pdf>] [21 <./figures/bulk_phylum_rspndr_abund/abund_v_ti
+me_phyla.pdf>]
+[22 <./figures/generalist_specialist/generalist_specialist.pdf> <./figures/all_
+rspndr_bar/all_rspndr_bar.pdf>] [23 <./figures/example/examples.pdf>] [24 <./fi
+gures/copy_number/copy_number.pdf> <./figures/conceptual1/conceptual1.pdf>]
+[25 <./figures/conceptual3/conceptual3.pdf>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(7.11317pt, 572.96739pt, 7.11317pt)
+* v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
+* \paperwidth=587.19374pt
+* \paperheight=785.93625pt
+* \textwidth=572.96739pt
+* \textheight=672.12524pt
+* \oddsidemargin=-65.15681pt
+* \evensidemargin=-65.15681pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=13.5pt
+* \skip\footins=19.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (23.69534pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/9 , 
+ []
+
+
+Overfull \hbox (25.85794pt too wide) in paragraph at lines 81--81
+[]|[]|  
+ []
+
+
+Overfull \hbox (17.98405pt too wide) in paragraph at lines 83--83
+[]|[]\OT1/cmr/m/n/9 , 
+ []
+
+
+Overfull \hbox (15.41463pt too wide) in paragraph at lines 89--89
+[]|[]|  
+ []
+
+[26
+
+] [27] [28]) (./table_xyl.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(7.11317pt, 572.96739pt, 7.11317pt)
+* v-part:(T,H,B)=(56.9055pt, 672.12524pt, 56.9055pt)
+* \paperwidth=587.19374pt
+* \paperheight=785.93625pt
+* \textwidth=572.96739pt
+* \textheight=672.12524pt
+* \oddsidemargin=-65.15681pt
+* \evensidemargin=-65.15681pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=13.5pt
+* \skip\footins=19.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (2.06589pt too wide) in paragraph at lines 38--38
+[]\OT1/cmr/m/n/9 , 
+ []
+
+[29
+
+
+] [30] [31]))
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 (./full_paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
-(rerunfilecheck)             Checksum: 048373FD80BFDA0C9F29E25D2BA6655D;909.
+(rerunfilecheck)             Checksum: 0FCA2B623E50D8826B3209ECD162305D;854.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 8709 strings out of 493485
- 124291 string characters out of 3143526
- 249995 words of memory out of 3000000
- 11687 multiletter control sequences out of 15000+200000
+ 8896 strings out of 493485
+ 129328 string characters out of 3143526
+ 272062 words of memory out of 3000000
+ 11772 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,586b,657s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.caption.12} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.11} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{table.1} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.13} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.9} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.8} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.7} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.6} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.5} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (13 pages, 10593005 bytes).
+ 51i,10n,37p,770b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
+Output written on full_paper.pdf (31 pages, 9591313 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
- 451 compressed objects within 5 object streams
- 130 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 743 PDF objects out of 1000 (max. 8388607)
+ 655 compressed objects within 7 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 

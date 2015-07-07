@@ -1,4 +1,3 @@
-Thesis Statement.tex
 Abstract.tex
 Significance.tex
 Introduction.tex
@@ -22,3 +21,4 @@ figures/conceptual3/conceptual3.png
 figures/generalist_specialist/generalist_specialist.png
 figures/tiled_tree/tiled_tree.png
 figures/20150320methods_conceptual/20150320methods_conceptual.png
+figures/example/examples.png

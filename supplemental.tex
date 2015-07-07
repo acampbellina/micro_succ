@@ -29,9 +29,7 @@
 
 \bibliographystyle{pnas}
 
-\title{Supplemental Information -- DNA-SIP reveals functional guild
-diversity and membership for labile and recalcitrant C decomposition in
-soil}
+\title{Supplemental Information}
 \date{\vspace{-5ex}}
 
 \begin{document}
@@ -53,10 +51,10 @@ Honoeye/Lima, a silty clay loam on calcareous bedrock. To get a field average,
 cores (5 cm diameter x 10 cm depth) were collected in duplicate from six
 different sampling locations around the field using a slide hammer bulk density
 sampler (coordinates: (1) N 42$^{\circ}$ 40.288’ W 77$^{\circ}$ 02.438’, (2)
-N 42° 40.296’ W 77$^{\circ}$
-02.438’, (3) N 42$^{\circ}$ 40.309’ W 77$^{\circ}$ 02.445’, (4) N 42$^{\circ}$
-40.333’ W 77$^{\circ}$ 02.425’, (5) N 42$^{\circ}$ 40.340’ W 77$^{\circ}$
-02.420’, (6) N 42$^{\circ}$ 40.353’ W 77$^{\circ}$ 02.417’) on November 21,
+N 42° 40.296’ W 77$^{\circ}$ 02.438’, (3) N 42$^{\circ}$ 40.309’ W 77$^{\circ}$
+02.445’, (4) N 42$^{\circ}$ 40.333’ W 77$^{\circ}$ 02.425’, (5) N 42$^{\circ}$
+   40.340’ W 77$^{\circ}$ 02.420’, (6) N 42$^{\circ}$ 40.353’ W 77$^{\circ}$
+      02.417’) on November 21,
 2011. Soil cores were sieved (2mm), homogenized by mixing, and
 stored at 4°C until preincubation (within 1-2 week of collection).
 Carbon and nitrogen content were previously measured for these soils
@@ -206,15 +204,17 @@ average density between fractions was~0.0040 g mL$^{-1}$. The DNA was desalted
 by washing with TE (5X 200 $\mu$L) in the Acroprep filter wells. DNA was
 resuspeneded in~50 $\mu$L TE. 
 
-\subsection{DNA Sequencing} 
+\subsection{DNA Sequencing}
+\subsubsection{PCR amplification of SSU rRNA genes} 
 % Fakesubsubsection: SSU rRNA genes
-SSU rRNA genes were amplified from gradient fractions (n = 20 per gradient) and
-from non-fractionated DNA from soil. Barcoded primers consisted of:
-454-specific adapter B, a 10 bp barcode (Reference 90), a 2 bp linker
-(5’-CA-3’), and 806R primer for reverse primer (BA806R); and 454-specific
-adapter A, a 2 bp linker (5’-TC-3’), and 515F primer for forward primer
-(BA515F). Each PCR contained 1.25 U μl-1 AmpliTaq Gold (Life Technologies,
-Grand Island, NY; N8080243), 1X Buffer II (100 mM Tris-HCl, 500 mM KCl, pH
+SSU rRNA genes were amplified from gradient fractions (n = 20 per
+gradient) and from non-fractionated DNA from soil. Barcoded primers
+consisted of: 454-specific adapter B, a 10 bp barcode (Reference
+90), a 2 bp linker (5’-CA-3’), and 806R primer for reverse primer
+(BA806R); and 454-specific adapter A, a 2 bp linker (5’-TC-3’), and 515F
+primer for forward primer (BA515F). Each PCR contained 1.25 U μl-1
+AmpliTaq Gold (Life Technologies, Grand Island, NY; N8080243), 1X Buffer
+II (100 mM Tris-HCl, 500 mM KCl, pH
 8.3), 2.5 mM MgCl2, 200 μM of each dNTP, 0.5 mg ml-1 BSA, 0.2 μM BA515F, 0.2 μM
 BA806R, and 10 μL of 1:30 DNA template in 25 μl total volume). The PCR
 conditions were 95°C for 5min followed by 22 cycles of 95°C for 10s, 53°C for
@@ -227,7 +227,65 @@ SequalPrepTM normalization plates (Invitrogen, Carlsbad, CA; A10510) and pooled
 in equimolar concentration. Amplicons were sequenced on Roche 454 FLX system
 using titanium chemistry at Selah Genomics (Columbia, SC).
 
-\subsection{OTU characteristics} 
+\subsubsection{DNA sequence quality control}
+% Fakesubsubsection: SSU rRNA gene sequences
+SSU rRNA gene sequences were initially screened by maximum expected errors
+at a specific read length threshold \citep{edgar2013}. Reads that had more
+than~0.5 expected errors at a length of 250 nt were discarded. The
+remaining reads were aligned to the Silva Reference Alignment as provided
+in the Mothur software package using the Mothur NAST aligner
+\citep{DeSantis2005,schloss2009}. Reads that did not align to the expected
+region of the SSU rRNA gene were discarded. After expected error and
+alignment based quality control. The remaining quality controlled reads
+were annotated using the “UClust” taxonomic annotation framework in
+\citep{caporaso2010,edgar2010}. We used 97\% cluster seeds from the Silva
+SSU rRNA database (release 111Ref) \citep{quast2013} as reference for
+taxonomic annotation (provided on the QIIME website) \citep{quast2013}.
+Quality control screening filtered out 344,472 or 1,720,480 raw sequencing
+reads. Reads annotated as "Chlorloplast", "Eukaryota", "Archaea",
+"Unassigned" or "mitochondria" were culled from the dataset. 
+
+\subsubsection{OTU binning} 
+% Fakesubsubsection: Sequences were distributed
+Sequences were distributed into OTUs with a centroid based clustering
+algorithm (i.e. UPARSE \citep{edgar2013}). The centroid selection also
+included robust chimera screening \citep{edgar2013}. OTU centroids were
+established at a threshold of 97\% sequence identity and non-centroid
+sequences were mapped back to centroids. Reads that could not be mapped to
+an OTU centroid at greater than or equal to 97\% sequence identity were
+discarded. 
+
+\subsubsection{Phylogenetic reconstruction}
+% Fakesubsubsection: For phylogenetic
+We used SSU-Align \citep{nawrocki2009,nawrocki2013} to align SSU rRNA gene
+sequences. Columns in the alignment that were aligned with poor confidence
+($<$ 95\% of characters had posterior probability $>$ 95\%) were not
+considered when building the phylogenetic tree. Additionally, the
+alignment was trimmed to coordinates such that all sequences in the
+alignment began and ended at the same positions. FastTree
+\citep{price2010} was used with default parameters to build the phylogeny.
+NMDS ordination was performed on weighted Unifrac \citep{lozupone2005}
+distances between samples. The Phyloseq \citep{mcmurdie2013} wrapper for
+Vegan \citep{oksanen2015} (both R packages) was used to compute sample
+values along NMDS axes. The 'adonis' function in Vegan was used to perform
+Adonis tests (default parameters) \citep{Anderson2001a}.
+
+\subsection{OTU characteristics}
+%
+\subsubsection{Identifying $^{13}$C responders} 
+% Fakesubsubsection: Figures S11 and S12
+Figures~S11 and~S12 demonstrate raw data for responder and non-responder OTUs,
+respectively. Responders increased in relative abundance in the heavy fractions
+due to $^{13}$C-labeling of their DNA. As our data is compositional, often OTUs
+had consistent \textit{relative} abundance across the density gradients. If OTU
+DNA is positioned in heavy or light fractions, however, due to G$+$C content
+and/or $^{13}$C-labeling, it spikes in relative abundance near where it is
+centered. Thus, we identified responders by finding OTUs enriched in heavy
+fractions of $^{13}$C treatment gradients relative to control. This technique
+accounts for the variation in OTU base abundance and the variation in OTU G$+$C
+content (and therefore natural buoyant density) because $^{13}$C treatment
+abundances are always compared to appropriate control abundances.  
+
 \subsubsection{Estimating rrn copy number}
 % Fakesubsubsection: We estimated the rrn
 We estimated the \textit{rrn} copy number for each OTU as described in \citet{Kembel_2012}
@@ -255,16 +313,16 @@ substrate specificity given our experimental design as only one substrate was
 labeled in each amendment (assuming all members of an OTU behave similarly with
 respect to $^{13}$C incorporation). We measured $\Delta\hat{BD}$ as the change in
 an OTU's density profile center of mass between corresponding control and
-labeled gradients. Because all gradients did not span the same density range
-and gradient fractions cannot be taken at specific density positions, we
-limited our BD shift analysis to the density range for which fractions were
-taken for all gradients. Within this density range we linearly interpolated~20
-evenly spaced relative abundance values. The center of mass for an OTU along
-the density gradient was then the density weighted average where weights were
-the linearly interpolated relative abundance values. $\Delta\hat{BD}$ should
-not be evaluated on an individual OTU basis as a small number of
-$\Delta\hat{BD}$ values are observed for each OTU and the variance of the
-density shift metric at the level of individual OTUs is unknown. It is
+labeled gradients (Figure~S11). Because all gradients did not span the same
+density range and gradient fractions cannot be taken at specific density
+positions, we limited our BD shift analysis to the density range for which
+fractions were taken for all gradients. Within this density range we linearly
+interpolated~20 evenly spaced relative abundance values. The center of mass for
+an OTU along the density gradient was then the density weighted average where
+weights were the linearly interpolated relative abundance values.
+$\Delta\hat{BD}$ should not be evaluated on an individual OTU basis as a small
+number of $\Delta\hat{BD}$ values are observed for each OTU and the variance of
+the density shift metric at the level of individual OTUs is unknown. It is
 therefore more informative to compare $\Delta\hat{BD}$ among substrate
 responder groups. Further, $\Delta\hat{BD}$ values are based on relative
 abundance profiles and would be distorted in comparison to $\Delta\hat{BD}$
@@ -285,5 +343,8 @@ rRNA gene amplicons from an average of 19.8 fractions per CsCl gradient (sd
 sequencing effort recovered a total of 5,940 OTUs. 2,943 of the total 5,940
 OTUs were observed in bulk samples. We observed 33 unique phylum and 340 unique
 genus annotations.
+
+% Fakesubsubseciton: bib
+\bibliography{bibliography/biblio}
 
 \end{document}

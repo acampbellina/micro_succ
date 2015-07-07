@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 JUL 2015 13:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 JUL 2015 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,8 +491,13 @@ LaTeX Info: Redefining \\ on input line 3056.
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM supplemental.aux on input line 58.
- (./full_paper.aux)
+
+Package xr Warning: 
+No file supplemental.aux
+LABELS NOT IMPORTED.
+ on input line 58.
+
+(./full_paper.aux)
 \openout1 = `full_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -509,8 +514,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
-
-(/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen167
 \stockheight=\dimen168
@@ -758,7 +762,12 @@ Underfull \hbox (badness 6001) in paragraph at lines 56--89
 []\OT1/cmr/m/n/9 SSU rRNA gene se-quences were ini-tially
  []
 
-) (./full_paper.bbl [9] [10]
+) (./full_paper.bbl [9]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\OT1/cmr/m/n/9 cro-bial con-trol over car-bon cy-cling
+ []
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 84--85
 \OT1/cmr/m/n/9 nomics meets stable-isotope prob-ing:
  []
@@ -1167,13 +1176,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8896 strings out of 493485
- 129328 string characters out of 3143526
- 272062 words of memory out of 3000000
- 11772 multiletter control sequences out of 15000+200000
+ 8894 strings out of 493485
+ 129313 string characters out of 3143526
+ 271940 words of memory out of 3000000
+ 11770 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,770b,700s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,770b,702s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1189,7 +1198,7 @@ y5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (31 pages, 9591313 bytes).
+Output written on full_paper.pdf (31 pages, 9535990 bytes).
 PDF statistics:
  743 PDF objects out of 1000 (max. 8388607)
  655 compressed objects within 7 object streams

@@ -204,15 +204,17 @@ average density between fractions was~0.0040 g mL$^{-1}$. The DNA was desalted
 by washing with TE (5X 200 $\mu$L) in the Acroprep filter wells. DNA was
 resuspeneded in~50 $\mu$L TE. 
 
-\subsection{DNA Sequencing} 
+\subsection{DNA Sequencing}
+\subsubsection{PCR amplification of SSU rRNA genes} 
 % Fakesubsubsection: SSU rRNA genes
-SSU rRNA genes were amplified from gradient fractions (n = 20 per gradient) and
-from non-fractionated DNA from soil. Barcoded primers consisted of:
-454-specific adapter B, a 10 bp barcode (Reference 90), a 2 bp linker
-(5’-CA-3’), and 806R primer for reverse primer (BA806R); and 454-specific
-adapter A, a 2 bp linker (5’-TC-3’), and 515F primer for forward primer
-(BA515F). Each PCR contained 1.25 U μl-1 AmpliTaq Gold (Life Technologies,
-Grand Island, NY; N8080243), 1X Buffer II (100 mM Tris-HCl, 500 mM KCl, pH
+SSU rRNA genes were amplified from gradient fractions (n = 20 per
+gradient) and from non-fractionated DNA from soil. Barcoded primers
+consisted of: 454-specific adapter B, a 10 bp barcode (Reference
+90), a 2 bp linker (5’-CA-3’), and 806R primer for reverse primer
+(BA806R); and 454-specific adapter A, a 2 bp linker (5’-TC-3’), and 515F
+primer for forward primer (BA515F). Each PCR contained 1.25 U μl-1
+AmpliTaq Gold (Life Technologies, Grand Island, NY; N8080243), 1X Buffer
+II (100 mM Tris-HCl, 500 mM KCl, pH
 8.3), 2.5 mM MgCl2, 200 μM of each dNTP, 0.5 mg ml-1 BSA, 0.2 μM BA515F, 0.2 μM
 BA806R, and 10 μL of 1:30 DNA template in 25 μl total volume). The PCR
 conditions were 95°C for 5min followed by 22 cycles of 95°C for 10s, 53°C for
@@ -224,6 +226,49 @@ Madison, WI; A9281) per manufacturer’s protocol. Samples were normalized by
 SequalPrepTM normalization plates (Invitrogen, Carlsbad, CA; A10510) and pooled
 in equimolar concentration. Amplicons were sequenced on Roche 454 FLX system
 using titanium chemistry at Selah Genomics (Columbia, SC).
+
+\subsubsection{DNA sequence quality control}
+% Fakesubsubsection: SSU rRNA gene sequences
+SSU rRNA gene sequences were initially screened by maximum expected errors
+at a specific read length threshold \citep{edgar2013}. Reads that had more
+than~0.5 expected errors at a length of 250 nt were discarded. The
+remaining reads were aligned to the Silva Reference Alignment as provided
+in the Mothur software package using the Mothur NAST aligner
+\citep{DeSantis2005,schloss2009}. Reads that did not align to the expected
+region of the SSU rRNA gene were discarded. After expected error and
+alignment based quality control. The remaining quality controlled reads
+were annotated using the “UClust” taxonomic annotation framework in
+\citep{caporaso2010,edgar2010}. We used 97\% cluster seeds from the Silva
+SSU rRNA database (release 111Ref) \citep{quast2013} as reference for
+taxonomic annotation (provided on the QIIME website) \citep{quast2013}.
+Quality control screening filtered out 344,472 or 1,720,480 raw sequencing
+reads. Reads annotated as "Chlorloplast", "Eukaryota", "Archaea",
+"Unassigned" or "mitochondria" were culled from the dataset. 
+
+\subsubsection{OTU binning} 
+% Fakesubsubsection: Sequences were distributed
+Sequences were distributed into OTUs with a centroid based clustering
+algorithm (i.e. UPARSE \citep{edgar2013}). The centroid selection also
+included robust chimera screening \citep{edgar2013}. OTU centroids were
+established at a threshold of 97\% sequence identity and non-centroid
+sequences were mapped back to centroids. Reads that could not be mapped to
+an OTU centroid at greater than or equal to 97\% sequence identity were
+discarded. 
+
+\subsubsection{Phylogenetic reconstruction}
+% Fakesubsubsection: For phylogenetic
+We used SSU-Align \citep{nawrocki2009,nawrocki2013} to align SSU rRNA gene
+sequences. Columns in the alignment that were aligned with poor confidence
+($<$ 95\% of characters had posterior probability $>$ 95\%) were not
+considered when building the phylogenetic tree. Additionally, the
+alignment was trimmed to coordinates such that all sequences in the
+alignment began and ended at the same positions. FastTree
+\citep{price2010} was used with default parameters to build the phylogeny.
+NMDS ordination was performed on weighted Unifrac \citep{lozupone2005}
+distances between samples. The Phyloseq \citep{mcmurdie2013} wrapper for
+Vegan \citep{oksanen2015} (both R packages) was used to compute sample
+values along NMDS axes. The 'adonis' function in Vegan was used to perform
+Adonis tests (default parameters) \citep{Anderson2001a}.
 
 \subsection{OTU characteristics} 
 \subsubsection{Estimating rrn copy number}

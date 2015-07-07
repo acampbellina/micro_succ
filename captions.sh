@@ -31,5 +31,3 @@ echo '\subsection{Figure S11}' >> supp_captions.tex
 cat figures/copy_number/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S12}' >> supp_captions.tex
 cat figures/conceptual3/caption.tex | sed 's// /g' >> supp_captions.tex
-echo '\subsection{Figure S13}' >> supp_captions.tex
-cat figures/foodweb/caption.tex | sed 's// /g' >> supp_captions.tex

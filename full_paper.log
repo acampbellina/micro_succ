@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 JUL 2015 15:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  7 JUL 2015 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,13 +491,8 @@ LaTeX Info: Redefining \\ on input line 3056.
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-
-Package xr Warning: 
-No file supplemental.aux
-LABELS NOT IMPORTED.
- on input line 58.
-
-(./full_paper.aux)
+Package xr Info: IMPORTING LABELS FROM supplemental.aux on input line 58.
+ (./full_paper.aux)
 \openout1 = `full_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -514,7 +509,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
- (/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen167
 \stockheight=\dimen168
@@ -711,80 +707,38 @@ o-spheric
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no Ö in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-Missing character: There is no Œ in font cmr9!
-Missing character: There is no º in font cmr9!
-Missing character: There is no ¬ in font cmr9!
-Missing character: There is no ∞ in font cmr9!
-Missing character: There is no Œ in font cmr9!
-Missing character: There is no º in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ô in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ô in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ô in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ô in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ô in font cmr9!
-[8]
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
-
-Underfull \hbox (badness 6001) in paragraph at lines 56--89
-[]\OT1/cmr/m/n/9 SSU rRNA gene se-quences were ini-tially
- []
-
-) (./full_paper.bbl [9]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-\OT1/cmr/m/n/9 cro-bial con-trol over car-bon cy-cling
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-\OT1/cmr/m/n/9 nomics meets stable-isotope prob-ing:
- []
-
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ú in font cmbx9!
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ù in font cmbx9!
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ú in font cmbx9!
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ù in font cmbx9!
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ú in font cmbx9!
+Missing character: There is no ‚ in font cmbx9!
+Missing character: There is no Ä in font cmbx9!
+Missing character: There is no ù in font cmbx9!
+[8]) (./full_paper.bbl [9]
 Missing character: There is no √ in font cmr9!
 Missing character: There is no º in font cmr9!
-[11]
+ [10]
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ∂ in font cmr9!
 Missing character: There is no √ in font cmr9!
 Missing character: There is no ∂ in font cmr9!
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-\OT1/cmr/m/n/9 Fast-Tree2 - ap-prox-i-mately maximum-
+
+Underfull \hbox (badness 5388) in paragraph at lines 158--159
+[]\OT1/cmr/m/n/9 Hug L-A, Castelle C-J, Wrighton K-C,
  []
 
-) [13] (./figures.tex
+[11]) [12] (./figures.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -818,7 +772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=428, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=389, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -827,7 +781,7 @@ ut line 6.
 (pdftex.def)             Requested size: 438.17226pt x 164.31415pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.png, id=429, 833.85126pt x 519.6213pt>
+<figures/l2fc_fig1/l2fc_fig.png, id=390, 833.85126pt x 519.6213pt>
 File: figures/l2fc_fig1/l2fc_fig.png Graphic file (type png)
 
 <use figures/l2fc_fig1/l2fc_fig.png>
@@ -835,7 +789,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.png used on input line 13.
 (pdftex.def)             Requested size: 438.17226pt x 273.05106pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/tiled_tree/tiled_tree.png, id=431, 4561.04pt x 9780.54pt>
+<figures/tiled_tree/tiled_tree.png, id=392, 4561.04pt x 9780.54pt>
 File: figures/tiled_tree/tiled_tree.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree.png>
@@ -848,7 +802,7 @@ Package pdftex.def Info: figures/tiled_tree/tiled_tree.png used on input line 2
 LaTeX Warning: Float too large for page by 19.65964pt on input line 23.
 
 
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=432, 397.485pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=393, 397.485pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
@@ -857,7 +811,7 @@ n input line 27.
 
 (./figures/xylose_rspndr_bar/caption.tex)
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund.png, id=433, 15056.25pt x 5018.75pt
+<figures/shift_and_rabund3/shift_and_rabund.png, id=394, 15056.25pt x 5018.75pt
 >
 File: figures/shift_and_rabund3/shift_and_rabund.png Graphic file (type png)
  <use figures/shift_and_rabund3/shift_and_rabund.png>
@@ -866,9 +820,9 @@ Package pdftex.def Info: figures/shift_and_rabund3/shift_and_rabund.png used on
 (pdftex.def)             Requested size: 438.17226pt x 146.0378pt.
 
 (./figures/shift_and_rabund3/caption.tex)
-(./figures/shift_and_rabund3/caption.tex) [14 <./figures/ordination_all1/ordina
-tion_all.pdf> <./figures/l2fc_fig1/l2fc_fig.png>] [15 <./figures/tiled_tree/til
-ed_tree.png>] [16 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf> <./figure
+(./figures/shift_and_rabund3/caption.tex) [13 <./figures/ordination_all1/ordina
+tion_all.pdf> <./figures/l2fc_fig1/l2fc_fig.png>] [14 <./figures/tiled_tree/til
+ed_tree.png>] [15 <./figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf> <./figure
 s/shift_and_rabund3/shift_and_rabund.png>]) (./supp_figs.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
@@ -903,7 +857,7 @@ s/shift_and_rabund3/shift_and_rabund.png>]) (./supp_figs.tex
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=472, 124
+<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=433, 124
 7.3802pt x 1258.9434pt>
 File: figures/20150320methods_conceptual/20150320methods_conceptual.png Graphic
  file (type png)
@@ -926,7 +880,7 @@ e ignored
 l.10 ...s/20150320methods_conceptual/caption.tex}}
                                                   \label{fig:setup}
 (./figures/20150320methods_conceptual/caption.tex)
-<figures/13C_chart/13C_chart.pdf, id=473, 433.62pt x 289.08pt>
+<figures/13C_chart/13C_chart.pdf, id=434, 433.62pt x 289.08pt>
 File: figures/13C_chart/13C_chart.pdf Graphic file (type pdf)
 
 <use figures/13C_chart/13C_chart.pdf>
@@ -940,7 +894,7 @@ s been already used, duplicate ignored
 l.17 ...tect\input{figures/13C_chart/caption.tex}}
                                                   \label{fig:13C}
 (./figures/13C_chart/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=474, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=435, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -954,7 +908,7 @@ s been already used, duplicate ignored
 l.24 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
-<figures/l2fc_time/l2fc_time.pdf, id=475, 578.16pt x 614.295pt>
+<figures/l2fc_time/l2fc_time.pdf, id=436, 578.16pt x 614.295pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -974,7 +928,7 @@ me identifier (name{figure.4}) has been already used, duplicate ignored
 l.30 ...tect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=476, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=437, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -988,7 +942,7 @@ s been already used, duplicate ignored
 l.36 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=477, 722.7pt x 101
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=438, 722.7pt x 101
 1.78pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -998,7 +952,7 @@ f used on input line 42.
 (pdftex.def)             Requested size: 355.03705pt x 497.05794pt.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=478, 794.97pt x 65
+<figures/generalist_specialist/generalist_specialist.pdf, id=439, 794.97pt x 65
 0.43pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
@@ -1009,7 +963,7 @@ f used on input line 49.
 
 (./figures/generalist_specialist/caption.tex)
 (./figures/generalist_specialist/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=479, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=440, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -1018,7 +972,7 @@ t line 56.
 (pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
 
 (./figures/all_rspndr_bar/caption.tex)
-<figures/example/examples.pdf, id=480, 939.51pt x 1806.75pt>
+<figures/example/examples.pdf, id=441, 939.51pt x 1806.75pt>
 File: figures/example/examples.pdf Graphic file (type pdf)
 
 <use figures/example/examples.pdf>
@@ -1026,7 +980,7 @@ Package pdftex.def Info: figures/example/examples.pdf used on input line 63.
 (pdftex.def)             Requested size: 307.69588pt x 591.70807pt.
  (./figures/example/caption.tex)
 (./figures/example/caption.tex)
-<figures/copy_number/copy_number.pdf, id=481, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=442, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -1034,7 +988,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
  69.
 (pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
  (./figures/copy_number/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=482, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=443, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -1043,7 +997,7 @@ Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
 (pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
  (./figures/conceptual1/caption.tex)
 (./figures/conceptual1/caption.tex)
-<figures/conceptual3/conceptual3.pdf, id=483, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=444, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -1051,19 +1005,19 @@ Package pdftex.def Info: figures/conceptual3/conceptual3.pdf used on input line
  79.
 (pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
  (./figures/conceptual3/caption.tex)
-(./figures/conceptual3/caption.tex) (./table_cellulose.tex [17
+(./figures/conceptual3/caption.tex) (./table_cellulose.tex [16
 
 
 
-] [18 <./figures/20150320methods_conceptual/20150320methods_conceptual.png (PNG
- copy)> <./figures/13C_chart/13C_chart.pdf>] [19 <./figures/bulk_ordination/bul
-k_ordination.pdf> <./figures/l2fc_time/l2fc_time.pdf>] [20 <./figures/abndVtime
-_class/abndVtime_class.pdf>] [21 <./figures/bulk_phylum_rspndr_abund/abund_v_ti
+] [17 <./figures/20150320methods_conceptual/20150320methods_conceptual.png (PNG
+ copy)> <./figures/13C_chart/13C_chart.pdf>] [18 <./figures/bulk_ordination/bul
+k_ordination.pdf> <./figures/l2fc_time/l2fc_time.pdf>] [19 <./figures/abndVtime
+_class/abndVtime_class.pdf>] [20 <./figures/bulk_phylum_rspndr_abund/abund_v_ti
 me_phyla.pdf>]
-[22 <./figures/generalist_specialist/generalist_specialist.pdf> <./figures/all_
-rspndr_bar/all_rspndr_bar.pdf>] [23 <./figures/example/examples.pdf>] [24 <./fi
+[21 <./figures/generalist_specialist/generalist_specialist.pdf> <./figures/all_
+rspndr_bar/all_rspndr_bar.pdf>] [22 <./figures/example/examples.pdf>] [23 <./fi
 gures/copy_number/copy_number.pdf> <./figures/conceptual1/conceptual1.pdf>]
-[25 <./figures/conceptual3/conceptual3.pdf>]
+[24 <./figures/conceptual3/conceptual3.pdf>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1116,9 +1070,9 @@ Overfull \hbox (15.41463pt too wide) in paragraph at lines 89--89
 []|[]|  
  []
 
-[26
+[25
 
-] [27] [28]) (./table_xyl.tex
+] [26] [27]) (./table_xyl.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1156,10 +1110,10 @@ Overfull \hbox (2.06589pt too wide) in paragraph at lines 38--38
 []\OT1/cmr/m/n/9 , 
  []
 
-[29
+[28
 
 
-] [30] [31]))
+] [29] [30]))
 
 Package natbib Warning: There were undefined citations.
 
@@ -1176,13 +1130,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8894 strings out of 493485
- 129313 string characters out of 3143526
- 271940 words of memory out of 3000000
- 11770 multiletter control sequences out of 15000+200000
+ 8839 strings out of 493485
+ 128295 string characters out of 3143526
+ 272830 words of memory out of 3000000
+ 11730 multiletter control sequences out of 15000+200000
  16937 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,770b,702s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,770b,692s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive
@@ -1198,10 +1152,10 @@ y5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (31 pages, 9535990 bytes).
+Output written on full_paper.pdf (30 pages, 9529772 bytes).
 PDF statistics:
- 743 PDF objects out of 1000 (max. 8388607)
- 655 compressed objects within 7 object streams
- 164 named destinations out of 1000 (max. 500000)
+ 701 PDF objects out of 1000 (max. 8388607)
+ 614 compressed objects within 7 object streams
+ 149 named destinations out of 1000 (max. 500000)
  190 words of extra memory for PDF output out of 10000 (max. 10000000)
 

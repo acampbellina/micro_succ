@@ -1,4 +1,4 @@
-\begin{thebibliography}{107}
+\begin{thebibliography}{93}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -180,37 +180,9 @@ Wieder W-R, Grandy A-S, Kallenbach C-M, Bonan G-B (2014) Integrating microbial p
 Schimel J (1995) Ecosystem consequences of microbial diversity and community structure. \textit{Arctic and alpine biodiversity: patterns, causes and ecosystem consequences}, {}, eds.~Chapin  {III} F-S, Korner C, Ecological Studies (Springer, Berlin Heidelberg), pp~239--254.
 \bibitem[91]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
-\bibitem[92]{Griffiths_2000}
-Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
-\bibitem[93]{Hamady_2008}
-Hamady M, Walker J-J, Harris J-K, Gold N-J, Knight R (2008) {Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex}. \textit{Nat Meth} 5(3): 235--237.
-\bibitem[94]{edgar2013}
-Edgar R-C (2013) {UPARSE}: highly accurate {OTU} sequences from microbial amplicon reads. \textit{Nat. Methods} 10(10): 996--998.
-\bibitem[95]{DeSantis2005}
-DeSantis T-Z, Hugenholtz P, Keller K, Brodie E-L, Larsen N, Piceno Y-M, \textit{et~al.} (2006) NAST: a multiple sequence alignment server for comparative analysis of 16S rRNA genes. \textit{Nucleic Acids Res} 34(suppl 2): W394--W399.
-\bibitem[96]{schloss2009}
-Schloss P-D, Westcott S-L, Ryabin T, Hall J-R, Hartmann M, Hollister E-B, \textit{et~al.} (2009) Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. \textit{Appl Environ Microbiol} 75(23): 7537--7541.
-\bibitem[97]{caporaso2010}
-Caporaso J-G, Kuczynski J, Stombaugh J, Bittinger K, Bushman F-D, Costello E-K, \textit{et~al.} (2010) {QIIME} allows analysis of high-throughput community sequencing data. \textit{Nat. Methods} 7(5): 335--336.
-\bibitem[98]{edgar2010}
-Edgar R-C (2010) Search and clustering orders of magnitude faster than {BLAST}. \textit{Bioinformatics} 26(19): 2460--2461.
-\bibitem[99]{quast2013}
-Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, \textit{et~al.} (2013) The {SILVA} ribosomal {RNA} gene database project: improved data processing and web-based tools. \textit{Nucleic Acids Res} 41: D590--596.
-\bibitem[100]{nawrocki2009}
-Nawrocki E-P, Kolbe D-L, Eddy S-R (2009) Infernal 1.0: inference of {RNA} alignments. \textit{Bioinformatics} 25(10): 1335--1337.
-\bibitem[101]{nawrocki2013}
-Nawrocki E-P, Eddy S-R (2013) Infernal 1.1: 100-fold faster {RNA} homology searches. \textit{Bioinformatics} 29(22): 2933--2935.
-\bibitem[102]{price2010}
-Price M-N, Dehal P-S, Arkin A-P (2010) {FastTree}2 - approximately maximum-likelihood trees for large alignments. \textit{{PLoS} {ONE}} 5(3): e9490.
-\bibitem[103]{lozupone2005}
-Lozupone C, Knight R (2005) {UniFrac}: a new phylogenetic method for comparing microbial communities. \textit{Appl Environ Microbiol} 71(12): 8228--8235.
-\bibitem[104]{mcmurdie2013}
-{McMurdie} P-J, Holmes S (2013) phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data. \textit{{PLoS} {ONE}} 8(4): e61217.
-\bibitem[105]{oksanen2015}
-Oksanen J, Blanchet F-G, Kindt R, Legendre P, Minchin P-R, O'Hara R-B, \textit{et~al.} (2015) vegan: Community Ecology Package.
-\bibitem[106]{love2014}
+\bibitem[92]{love2014}
 Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
-\bibitem[107]{benjamini1995}
+\bibitem[93]{benjamini1995}
 Benjamini Y, Hochberg Y (???) Controlling the false discovery rate: {A} practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society. Series B (Methodological)} 57(1): 289--300.
 
 \end{thebibliography}

@@ -5,8 +5,13 @@
 \BOOKMARK [2][-]{subsection.1.4}{Nucleic acid extraction}{section.1}% 5
 \BOOKMARK [2][-]{subsection.1.5}{Isopycnic centrifugation and fractionation}{section.1}% 6
 \BOOKMARK [2][-]{subsection.1.6}{DNA Sequencing}{section.1}% 7
-\BOOKMARK [2][-]{subsection.1.7}{OTU characteristics}{section.1}% 8
-\BOOKMARK [3][-]{subsubsection.1.7.1}{Estimating rrn copy number}{subsection.1.7}% 9
-\BOOKMARK [3][-]{subsubsection.1.7.2}{NRI, NTI, and consenTRAIT}{subsection.1.7}% 10
-\BOOKMARK [3][-]{subsubsection.1.7.3}{Buoyant density shift estimates}{subsection.1.7}% 11
-\BOOKMARK [2][-]{subsection.1.8}{Sequencing and density fractionation statistics}{section.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.6.1}{PCR amplification of SSU rRNA genes}{subsection.1.6}% 8
+\BOOKMARK [3][-]{subsubsection.1.6.2}{DNA sequence quality control}{subsection.1.6}% 9
+\BOOKMARK [3][-]{subsubsection.1.6.3}{OTU binning}{subsection.1.6}% 10
+\BOOKMARK [3][-]{subsubsection.1.6.4}{Phylogenetic reconstruction}{subsection.1.6}% 11
+\BOOKMARK [2][-]{subsection.1.7}{OTU characteristics}{section.1}% 12
+\BOOKMARK [3][-]{subsubsection.1.7.1}{Identifying 13C responders}{subsection.1.7}% 13
+\BOOKMARK [3][-]{subsubsection.1.7.2}{Estimating rrn copy number}{subsection.1.7}% 14
+\BOOKMARK [3][-]{subsubsection.1.7.3}{NRI, NTI, and consenTRAIT}{subsection.1.7}% 15
+\BOOKMARK [3][-]{subsubsection.1.7.4}{Buoyant density shift estimates}{subsection.1.7}% 16
+\BOOKMARK [2][-]{subsection.1.8}{Sequencing and density fractionation statistics}{section.1}% 17

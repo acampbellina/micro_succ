@@ -1,11 +1,11 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{31}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
 
 
 \bibitem[1]{Berthrong_2013}
-Berthrong S-T, Buckley D-H, Drinkwater L-E (2013) {Agricultural Management and Labile Carbon Additions Affect Soil Microbial Community Structure and Interact with Carbon and Nitrogen Cycling}. \textit{Microbial Ecology} 66(1): 158--170.
+Berthrong S-T, Buckley D-H, Drinkwater L-E (2013) {Agricultural Management and Labile Carbon Additions Affect Soil Microbial Community Structure and Interact with Carbon and Nitrogen Cycling}. \textit{Microb Ecol} 66(1): 158--170.
 \bibitem[2]{Heo_2002}
 Heo M-S, Son H-J (2002) {Development of an optimized, simple chemically defined medium for bacterial cellulose production by Acetobacter sp. A9 in shaking cultures}. \textit{Biotechnol Appl Biochem} 36(1): 41.
 \bibitem[3]{Bradford_1976}
@@ -17,11 +17,11 @@ Datta R, Vranov{\'{a}} V, Pavelka M, Rej{\v{s}}ek K, Form{\'{a}}nek P (2014) {Ef
 \bibitem[6]{Yan_2010}
 Yan J, Hu Z, Pu Y, Brummer E-C, Ragauskas A-J (2010) {Chemical compositions of four switchgrass populations}. \textit{Biomass and Bioenergy} 34(1): 48--53.
 \bibitem[7]{David_2010}
-David K, Ragauskas A-J (2010) {Switchgrass as an energy crop for biofuel production: A review of its ligno-cellulosic chemical properties}. \textit{Energy Environ. Sci.} 3(9): 1182.
+David K, Ragauskas A-J (2010) {Switchgrass as an energy crop for biofuel production: A review of its ligno-cellulosic chemical properties}. \textit{Energy Environ Sci} 3(9): 1182.
 \bibitem[8]{Schneckenberger_2008}
-Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biology and Biochemistry} 40(8): 1981--1988.
+Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
 \bibitem[9]{Linn_1984}
-Linn D-M, Doran J-W (1984) {Aerobic and Anaerobic Microbial Populations in No-till and Plowed Soils1}. \textit{Soil Science Society of America Journal} 48(4): 794.
+Linn D-M, Doran J-W (1984) {Aerobic and Anaerobic Microbial Populations in No-till and Plowed Soils1}. \textit{Soil Sci Soc Am J} 48(4): 794.
 \bibitem[10]{Griffiths_2000}
 Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
 \bibitem[11]{Buckley_2007}
@@ -29,16 +29,42 @@ Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing
 \bibitem[12]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
 \bibitem[13]{9780408708036}
-Birnie G-D (1978) {Centrifugal separations: Molecular and cell biology}.
-\bibitem[14]{Kembel_2012}
+Birnie G-D (1978) {Centrifugal separations in Molecular and cell biology}. (Butterworth \& Co Publishers Ltd, Boston)
+\bibitem[14]{edgar2013}
+Edgar R-C (2013) {UPARSE}: highly accurate {OTU} sequences from microbial amplicon reads. \textit{Nat. Methods} 10(10): 996--998.
+\bibitem[15]{DeSantis2005}
+DeSantis T-Z, Hugenholtz P, Keller K, Brodie E-L, Larsen N, Piceno Y-M, \textit{et~al.} (2006) NAST: a multiple sequence alignment server for comparative analysis of 16S rRNA genes. \textit{Nucleic Acids Res} 34(suppl 2): W394--W399.
+\bibitem[16]{schloss2009}
+Schloss P-D, Westcott S-L, Ryabin T, Hall J-R, Hartmann M, Hollister E-B, \textit{et~al.} (2009) Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities. \textit{Appl Environ Microbiol} 75(23): 7537--7541.
+\bibitem[17]{caporaso2010}
+Caporaso J-G, Kuczynski J, Stombaugh J, Bittinger K, Bushman F-D, Costello E-K, \textit{et~al.} (2010) {QIIME} allows analysis of high-throughput community sequencing data. \textit{Nat. Methods} 7(5): 335--336.
+\bibitem[18]{edgar2010}
+Edgar R-C (2010) Search and clustering orders of magnitude faster than {BLAST}. \textit{Bioinformatics} 26(19): 2460--2461.
+\bibitem[19]{quast2013}
+Quast C, Pruesse E, Yilmaz P, Gerken J, Schweer T, Yarza P, \textit{et~al.} (2013) The {SILVA} ribosomal {RNA} gene database project: improved data processing and web-based tools. \textit{Nucleic Acids Res} 41: D590--596.
+\bibitem[20]{nawrocki2009}
+Nawrocki E-P, Kolbe D-L, Eddy S-R (2009) Infernal 1.0: inference of {RNA} alignments. \textit{Bioinformatics} 25(10): 1335--1337.
+\bibitem[21]{nawrocki2013}
+Nawrocki E-P, Eddy S-R (2013) Infernal 1.1: 100-fold faster {RNA} homology searches. \textit{Bioinformatics} 29(22): 2933--2935.
+\bibitem[22]{price2010}
+Price M-N, Dehal P-S, Arkin A-P (2010) {FastTree}2 - approximately maximum-likelihood trees for large alignments. \textit{{PLoS} {ONE}} 5(3): e9490.
+\bibitem[23]{lozupone2005}
+Lozupone C, Knight R (2005) {UniFrac}: a new phylogenetic method for comparing microbial communities. \textit{Appl Environ Microbiol} 71(12): 8228--8235.
+\bibitem[24]{mcmurdie2013}
+{McMurdie} P-J, Holmes S (2013) phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data. \textit{{PLoS} {ONE}} 8(4): e61217.
+\bibitem[25]{oksanen2015}
+Oksanen J, Blanchet F-G, Kindt R, Legendre P, Minchin P-R, O'Hara R-B, \textit{et~al.} (2015) vegan: Community Ecology Package.
+\bibitem[26]{Anderson2001a}
+Anderson M-J (2001) {A new method for non-parametric multivariate analysis of variance}. \textit{Austral Ecol} {26}(1): 32--46.
+\bibitem[27]{Kembel_2012}
 Kembel S-W, Wu M, Eisen J-A, Green J-L (2012) {Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}. \textit{PLoS Comput Biol} 8(10): e1002743.
-\bibitem[15]{matsen2010}
+\bibitem[28]{matsen2010}
 Matsen F-A, Kodner R-B, Armbrust E-V (2010) pplacer: linear time maximum-likelihood and Bayesian phylogenetic placement of sequences onto a fixed reference tree. \textit{{BMC} Bioinformatics} 11: 538.
-\bibitem[16]{kembel2010}
+\bibitem[29]{kembel2010}
 Kembel S, Cowan P, Helmus M, Cornwell W, Morlon H, Ackerly D, \textit{et~al.} (2010) Picante: {R} tools for integrating phylogenies and ecology. \textit{Bioinformatics} 26: 1463--1464.
-\bibitem[17]{Martiny2013}
-Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISMEJ}} 7(4): 830--838.
-\bibitem[18]{jombart2010}
+\bibitem[30]{Martiny2013}
+Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
+\bibitem[31]{jombart2010}
 Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic comparative method.. \textit{Bioinformatics} 26: 1907--1909.
 
 \end{thebibliography}

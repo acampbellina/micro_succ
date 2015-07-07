@@ -270,7 +270,22 @@ Vegan \citep{oksanen2015} (both R packages) was used to compute sample
 values along NMDS axes. The 'adonis' function in Vegan was used to perform
 Adonis tests (default parameters) \citep{Anderson2001a}.
 
-\subsection{OTU characteristics} 
+\subsection{OTU characteristics}
+%
+\subsubsection{Identifying $^{13}$C responders} 
+% Fakesubsubsection: Figures S11 and S12
+Figures~S11 and~S12 demonstrate raw data for responder and non-responder OTUs,
+respectively. Responders increase abundance in the heavy fractions due to
+$^{13}$C-labeling of their DNA. As our data is compositional, often OTUs had
+consistent \textit{relative} abundance across the density gradients. If OTU DNA
+is positioned in heavy or light fractions, however, due to G$+$C content and/or
+$^{13}$C-labeling, it spikes in relative abundance near where it is centered.
+Thus, we identified responders by finding OTUs enriched in heavy fractions of
+$^{13}$C treatment gradients relative to control. This technique accounts for
+the variation in OTU base abundance and the variation in OTU G$+$C content (and
+therefore natural buoyant density) because $^{13}$C treatment abundances are
+always compared to appropriate control abundances.  
+
 \subsubsection{Estimating rrn copy number}
 % Fakesubsubsection: We estimated the rrn
 We estimated the \textit{rrn} copy number for each OTU as described in \citet{Kembel_2012}
@@ -298,16 +313,16 @@ substrate specificity given our experimental design as only one substrate was
 labeled in each amendment (assuming all members of an OTU behave similarly with
 respect to $^{13}$C incorporation). We measured $\Delta\hat{BD}$ as the change in
 an OTU's density profile center of mass between corresponding control and
-labeled gradients. Because all gradients did not span the same density range
-and gradient fractions cannot be taken at specific density positions, we
-limited our BD shift analysis to the density range for which fractions were
-taken for all gradients. Within this density range we linearly interpolated~20
-evenly spaced relative abundance values. The center of mass for an OTU along
-the density gradient was then the density weighted average where weights were
-the linearly interpolated relative abundance values. $\Delta\hat{BD}$ should
-not be evaluated on an individual OTU basis as a small number of
-$\Delta\hat{BD}$ values are observed for each OTU and the variance of the
-density shift metric at the level of individual OTUs is unknown. It is
+labeled gradients (Figure~S11). Because all gradients did not span the same
+density range and gradient fractions cannot be taken at specific density
+positions, we limited our BD shift analysis to the density range for which
+fractions were taken for all gradients. Within this density range we linearly
+interpolated~20 evenly spaced relative abundance values. The center of mass for
+an OTU along the density gradient was then the density weighted average where
+weights were the linearly interpolated relative abundance values.
+$\Delta\hat{BD}$ should not be evaluated on an individual OTU basis as a small
+number of $\Delta\hat{BD}$ values are observed for each OTU and the variance of
+the density shift metric at the level of individual OTUs is unknown. It is
 therefore more informative to compare $\Delta\hat{BD}$ among substrate
 responder groups. Further, $\Delta\hat{BD}$ values are based on relative
 abundance profiles and would be distorted in comparison to $\Delta\hat{BD}$

@@ -22,11 +22,11 @@ cat figures/abndVtime_class/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S6}' >> supp_captions.tex
 cat figures/bulk_phylum_rspndr_abund/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S7}' >> supp_captions.tex
-cat figures/generalist_specialist/caption.tex | sed 's// /g' >> captions.tex
+cat figures/generalist_specialist/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S8}' >> supp_captions.tex
 cat figures/all_rspndr_bar/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S9}' >> supp_captions.tex
-#cat figures/conceptual1/caption.tex | sed 's// /g' >> supp_captions.tex
+cat figures/example/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S10}' >> supp_captions.tex
 cat figures/copy_number/caption.tex | sed 's// /g' >> supp_captions.tex
 echo '\subsection{Figure S11}' >> supp_captions.tex

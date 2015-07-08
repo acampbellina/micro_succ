@@ -13,17 +13,18 @@ mannose by mass, with the remaining 13.5\% mass composed of an amino acid
 (in-house made replica of Teknova C0705) and macronutrient mixture (Murashige
 and Skoog, Sigma Aldrich M5524).  This mixture approximates the molecular
 composition of switchgrass biomass with hemicellulose replaced by its
-constituent monomers \citep{Schneckenberger_2008}. Three parallel
-treatments were performed which varied the isotopic composition of the mixture:
-(1) unlabeled control, (2) $^{13}$C-cellulose (synthesized as described in
-Supplemental Methods), (3) $^{13}$C-xylose (98 atom\% $^{13}$C, Sigma Aldrich).
-A total of 12 microcosms were established per treatment. Other details relating
-to substrate addition can be found in Supplemental Methods. Microcosms were
-sampled destructively at days 1 (control and xylose only), 3, 7, 14, and 30 and
-soils were stored at -80 $^{\circ}$C until nucleic acid extraction. \textbf{
-The abbreviation “13CXPS” refers to the 13C-xylose treatment ($^{13}$C Xylose
-Plant Simulant), “13CCPS” refers to the $^{13}$C treatment and “12CCPS” refers
-to the unlabeled control.}
+constituent monomers \citep{Schneckenberger_2008}. We set up three parallel
+treatments varying the isotopically labeled component in each treatment. The
+treatments were (1) an control treatment with all unlabeled components, (2)
+a treatment with $^{13}$C-cellulose instead of unlabeled cellulose (synthesized
+as described in Supplemental Methods), and (3) a treatment with $^{13}$C-xylose
+(98 atom\% $^{13}$C, Sigma Aldrich) instead of unlabeled xylose. Other details
+relating to substrate addition can be found in Supplemental Methods. Microcosms
+were sampled destructively at days~1 (control and xylose only),~3,~7,~14,
+and~30 and soils were stored at -80 $^{\circ}$C until nucleic acid extraction.
+In the manuscript figures, the abbreviation “13CXPS” refers to the 13C-xylose
+treatment ($^{13}$C Xylose Plant Simulant), “13CCPS” refers to the
+$^{13}$C-cellulose treatment, and “12CCPS” refers to the control treatment.
 
 We used DESeq2 (R package), an RNA-Seq differential expression statistical
 framework \citep{love2014}, to identify OTUs that were enriched in high
@@ -34,25 +35,26 @@ expression statistics applied to microbiome OTU count data see (30)). We define
 between 1.7125 and 1.755 g ml$^{-1}$. Briefly, DESeq2 includes several features that
 enable robust estimates of standard error in addition to reliable ranking of
 logarithmic fold change (LFC) in abundance (i.e. gamma-Poisson regression
-coefficients) even with low count groups where LFC can often be noisy.
-Further, statistical evaluation of LFC can be performed with selected
-thresholds as opposed to the often default null hypothesis that differential
-abundance for an OTU is exactly zero. This enables the most biologically
-interesting OTUs to be selected for subsequent analyses. We calculated LFC
-and corresponding standard errors for comparisons between $^{13}$C
-treatments and control (high density fractions only) for each OTU.
-Subsequently, a one-sided Wald test was used to statistically assess LFC
-values (using corresponding standard errors). The user-defined null
-hypothesis for the Wald test was that LFC was less than one standard
-deviation above the mean of all LFC values. P-values were corrected for
-multiple comparisons by using the Benjamini and Hochberg method
-\citep{benjamini1995}. Independent filtering was performed on the basis of
-sparsity prior to correcting P-values for multiple comparisons. The sparsity
-value that yielded the most adjusted P-values less than 0.10 was selected for
-independent filtering by sparsity. Briefly, OTUs were eliminated if they failed
-to appear in at least 45\% of high density gradient fractions for a given
-$^{13}$C/control treatment pair, these OTUs are unlikely to have sufficient
-data to allow for the determination of statistical significance.
+coefficients) in abundance even with low count groups where LFC can often be
+noisy. Further, statistical evaluation of LFC can be performed with
+user-selected thresholds as opposed to the often default null hypothesis that
+differential abundance for an OTU is exactly zero enabling the most
+biologically interesting OTUs to be identified for subsequent analyses. We
+calculated LFC and corresponding standard errors for enrichment in  $^{13}$C
+treatments relative to control (high density fractions only) for each OTU.
+Subsequently, a one-sided Wald test was used to statistically assess LFC values
+(using corresponding standard errors). The user-defined null hypothesis for the
+Wald test was that LFC was less than one standard deviation above the mean of
+all LFC values. P-values were corrected for multiple comparisons by using the
+Benjamini and Hochberg method \citep{benjamini1995}. We independently filtered
+OTUs on the basis of sparsity prior to correcting P-values for multiple
+comparisons. The sparsity value that yielded the most adjusted P-values less
+than 0.10 was selected for independent filtering by sparsity. Briefly, OTUs
+were eliminated if they failed to appear in at least 45\% of high density
+gradient fractions for a given $^{13}$C/control treatment pair, these sparse
+OTUs are unlikely to have sufficient data to allow for the determination of
+statistical significance. We selected a false discovery rate of 10\% to denote
+statistical significance.
 
 See Supplemental Information for DNA extraction, PCR, DNA sequence quality
 control, OTU ecological characteristic calculations, and SIP density gradient

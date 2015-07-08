@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{34}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -66,5 +66,11 @@ Kembel S, Cowan P, Helmus M, Cornwell W, Morlon H, Ackerly D, \textit{et~al.} (2
 Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
 \bibitem[31]{jombart2010}
 Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic comparative method.. \textit{Bioinformatics} 26: 1907--1909.
+\bibitem[32]{altschul2990}
+\textit{Warning: citation key ``altschul2990'' is not in the bibliography database}.
+\bibitem[33]{camacho2009}
+Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, \textit{et~al.} (2009) {BLAST}+: architecture and applications. \textit{{BMC} Bioinformatics} 10: 421.
+\bibitem[34]{yarza2008}
+Yarza P, Richter M, Peplies J, Euzeby J, Amann R, Schleifer K-H, \textit{et~al.} (2008) The All-Species Living Tree project: a 16S {rRNA}-based phylogenetic tree of all sequenced type strains. \textit{Syst Appl Microbiol} 31(4): 241--250.
 
 \end{thebibliography}

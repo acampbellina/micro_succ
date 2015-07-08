@@ -339,6 +339,16 @@ a collection of SSU rRNA gene sequences for classified species of Archaea
 and Bacteria \citep{yarza2008}. We used LTP version~115 for analyses in
 this paper.
 
+\subsubsection{OTU changes in relative abundance with time}
+% Fakesubsubsection: We identified OTUs that changed in
+We identified OTUs that changed in relative abundance over time using
+DESeq2 \citep{love2014}. Specifically, we used day treated as an ordered
+factor as the regressor with LFC of the relative abundance in
+non-fractionated DNA as the outcome in the general linear model. We used
+the default DESeq2 base mean independent filtering and disabled the Cook's
+cutoff outlier detection. The null model was that abundance did not change
+with time and we assessed significance at a false discovery rate of 10\%. 
+
 \subsection{Sequencing and density fractionation statistics}\label{seq_stats}
 % Fakesubsubsection: Microcosm DNA was density
 Microcosm DNA was density fractionated on CsCl density gradients. We sequenced

@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{35}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -72,5 +72,7 @@ Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic com
 Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, \textit{et~al.} (2009) {BLAST}+: architecture and applications. \textit{{BMC} Bioinformatics} 10: 421.
 \bibitem[34]{yarza2008}
 Yarza P, Richter M, Peplies J, Euzeby J, Amann R, Schleifer K-H, \textit{et~al.} (2008) The All-Species Living Tree project: a 16S {rRNA}-based phylogenetic tree of all sequenced type strains. \textit{Syst Appl Microbiol} 31(4): 241--250.
+\bibitem[35]{love2014}
+Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
 
 \end{thebibliography}

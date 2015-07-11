@@ -9,11 +9,12 @@
 \contentsline {subsubsection}{\numberline {1.6.2}DNA sequence quality control}{4}{subsubsection.1.6.2}
 \contentsline {subsubsection}{\numberline {1.6.3}OTU binning}{4}{subsubsection.1.6.3}
 \contentsline {subsubsection}{\numberline {1.6.4}Phylogenetic reconstruction}{5}{subsubsection.1.6.4}
+\contentsline {subsubsection}{\numberline {1.6.5}Ordination and statistical analysis of differences in SSU rRNA gene composition}{5}{subsubsection.1.6.5}
 \contentsline {subsection}{\numberline {1.7}OTU characteristics}{5}{subsection.1.7}
 \contentsline {subsubsection}{\numberline {1.7.1}Identifying $^{13}$C responders}{5}{subsubsection.1.7.1}
 \contentsline {subsubsection}{\numberline {1.7.2}Estimating rrn copy number}{5}{subsubsection.1.7.2}
 \contentsline {subsubsection}{\numberline {1.7.3}NRI, NTI, and consenTRAIT}{5}{subsubsection.1.7.3}
-\contentsline {subsubsection}{\numberline {1.7.4}Buoyant density shift estimates}{5}{subsubsection.1.7.4}
+\contentsline {subsubsection}{\numberline {1.7.4}Buoyant density shift estimates}{6}{subsubsection.1.7.4}
 \contentsline {subsubsection}{\numberline {1.7.5}Finding cultured relatives of OTUs}{6}{subsubsection.1.7.5}
 \contentsline {subsubsection}{\numberline {1.7.6}OTU changes in relative abundance with time}{6}{subsubsection.1.7.6}
 \contentsline {subsection}{\numberline {1.8}Sequencing and density fractionation statistics}{6}{subsection.1.8}

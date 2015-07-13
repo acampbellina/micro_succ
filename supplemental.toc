@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {1.6}DNA Sequencing}{4}{subsection.1.6}
 \contentsline {subsubsection}{\numberline {1.6.1}PCR amplification of SSU rRNA genes}{4}{subsubsection.1.6.1}
 \contentsline {subsubsection}{\numberline {1.6.2}DNA sequence quality control}{4}{subsubsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.3}OTU binning}{4}{subsubsection.1.6.3}
+\contentsline {subsubsection}{\numberline {1.6.3}OTU binning}{5}{subsubsection.1.6.3}
 \contentsline {subsubsection}{\numberline {1.6.4}Phylogenetic reconstruction}{5}{subsubsection.1.6.4}
 \contentsline {subsubsection}{\numberline {1.6.5}Ordination and statistical analysis of differences in SSU rRNA gene composition}{5}{subsubsection.1.6.5}
 \contentsline {subsection}{\numberline {1.7}OTU characteristics}{5}{subsection.1.7}

@@ -336,32 +336,32 @@ This version is dated \currversion^^J^^J}
 \vss}}}%
 \def\@oddfoot{%
 %\leftnumber
-{\dospecialaccents%
-\iftitlepage\global\titlepagefalse%
-\footlinefont
-\ifodd\c@page
-\hbox to \textwidth{\footlinefont \let\it\footlineit
-\theurl\hfill\footlinefont PNAS\hskip6pt  \vrule depth 2pt\hskip6pt
-{\foliofont\theissuedate}\hskip6pt\vrule\hskip6pt\thevolume\hskip6pt
-\vrule\hskip6pt\theissuenumber\hskip6pt \vrule\hskip6pt
-{\foliofont\the\c@page{\footlineit--}\expandafter\ifx\csname
-lastpage\endcsname\relax ??\else\lastpage\fi}}%
-\else
-\hbox to \textwidth{\footlinefont \let\it\footlineit
-{\foliofont\the\c@page{\footlineit--}\expandafter\ifx\csname
-lastpage\endcsname\relax ??\else\lastpage\fi}\hskip6pt
-\vrule depth 2pt\hskip6pt PNAS\hskip6pt
-\vrule\hskip6pt{\foliofont\theissuedate}\hskip6pt\vrule\hskip6pt
-\thevolume\hskip6pt\vrule\hskip6pt\theissuenumber\hfill
-\theurl}%
-\fi\else%
-\ifodd\c@page
-\hbox to\textwidth{{\let\it\footlineit\footlinefont\thefootlineauthor}\hfill
-\footlinefont PNAS\hskip6pt\vrule depth 2pt\hskip6pt{\foliofont\theissuedate}%
-\hskip6pt\vrule depth2pt\hskip6pt\thevolume\hskip6pt\vrule depth 2pt\hskip6pt\theissuenumber\hskip6pt\vrule\hskip6pt{\foliofont\the\c@page}}%
-\else%
-\hbox to\textwidth{\let\it\footlineit\footlinefont{\foliofont \the\c@page}%
-\hskip6pt\vrule depth 2pt height 6pt\hskip6pt\theurl\hfill\thefootlineauthor}\fi\fi}%\rightnumber
+%{\dospecialaccents%
+%\iftitlepage\global\titlepagefalse%
+%\footlinefont
+%\ifodd\c@page
+%\hbox to \textwidth{\footlinefont \let\it\footlineit
+%%\theurl\hfill\footlinefont PNAS\hskip6pt  \vrule depth 2pt\hskip6pt
+%{\foliofont\theissuedate}\hskip6pt\vrule\hskip6pt\thevolume\hskip6pt
+%\vrule\hskip6pt\theissuenumber\hskip6pt \vrule\hskip6pt
+%{\foliofont\the\c@page{\footlineit--}\expandafter\ifx\csname
+%lastpage\endcsname\relax ??\else\lastpage\fi}}%
+%\else
+%\hbox to \textwidth{\footlinefont \let\it\footlineit
+%{\foliofont\the\c@page{\footlineit--}\expandafter\ifx\csname
+%lastpage\endcsname\relax ??\else\lastpage\fi}\hskip6pt
+%%\vrule depth 2pt\hskip6pt PNAS\hskip6pt
+%\vrule\hskip6pt{\foliofont\theissuedate}\hskip6pt\vrule\hskip6pt
+%\thevolume\hskip6pt\vrule\hskip6pt\theissuenumber\hfill
+%\theurl}%
+%\fi\else%
+%\ifodd\c@page
+%\hbox to\textwidth{{\let\it\footlineit\footlinefont\thefootlineauthor}\hfill
+%%\footlinefont PNAS\hskip6pt\vrule depth 2pt\hskip6pt{\foliofont\theissuedate}%
+%\hskip6pt\vrule depth2pt\hskip6pt\thevolume\hskip6pt\vrule depth 2pt\hskip6pt\theissuenumber\hskip6pt\vrule\hskip6pt{\foliofont\the\c@page}}%
+%\else%
+%\hbox to\textwidth{\let\it\footlineit\footlinefont{\foliofont \the\c@page}%
+%\hskip6pt\vrule depth 2pt height 6pt\hskip6pt\theurl\hfill\thefootlineauthor}\fi\fi}%\rightnumber
 }
 \let\@evenfoot\@oddfoot
 %
@@ -459,10 +459,7 @@ $^{\expandafter\@fnsymbol\csname affilsymb\the\affilcount\endcsname}$%
 \def\contributor#1{\def\@contributor{#1}}
 \let\@contributor\relax
 
-\contributor{Submitted to Proceedings
-of the National Academy of Sciences of the United States of America}
-
-
+\contributor{}
 
 \setcounter{secnumdepth}{3}
 \newcounter {part}

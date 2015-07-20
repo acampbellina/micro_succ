@@ -1,8 +1,8 @@
 TEMPLATES:
 article = <au> (<year>) <title>. \textit{<journal>} <volume>[(<number>)]: [<startpage>--<endpage>|<startpage>|<eid>|].[ <note>]
 software = <au> (<year>) <title>.
-incollection = <au> (<year>) <title>. \textit{<booktitle>}[, vol.~<volume>, ][, <edition_ordinal>~ed.][, <null.if_singular(editorlist, edmsg1, edmsg2)>~<ed>][, <series>][, Chap.~<chapter>] (<publisher>, <address>)[, pp~<startpage>--<endpage>|p~<startpage>|<eid>|].[ <note>]
-book = <au> (<year>) <title>. (<publisher>, <address>)...
+incollection = <au> (<year>) <title>. \textit{<booktitle>}[, vol.~<volume>][, <edition_ordinal>~ed.][. <null.if_singular(editorlist, edmsg1, edmsg2)>~<ed>][, <series>][, Chap.~<chapter>] (<publisher>, <address>)[, pp~<startpage>--<endpage>|p~<startpage>|<eid>|].[ <note>]
+book = <au> (<year>) <title>. (<publisher>, <address>). ...
 
 SPECIAL-TEMPLATES:
 authorlist = <author.to_namelist()>
@@ -16,6 +16,6 @@ null = {}
 
 OPTIONS:
 maxauthors = 5
-edmsg1 = , ed.
-edmsg2 = , eds.
+edmsg1 = ed.
+edmsg2 = eds.
 etal_message = , \textit{et~al.}

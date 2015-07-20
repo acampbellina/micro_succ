@@ -1,21 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.7.14)  16 JUL 2015 10:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  20 JUL 2015 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **full_paper.tex
 (./full_paper.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
-hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
- czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
-n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
-reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
- sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
-n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
-speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
-lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
-celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
-ai, loaded.
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (./preamble.tex (./pnastwo.cls
 
 
@@ -189,18 +179,18 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
@@ -220,20 +210,20 @@ Package: amsbsy 1999/11/29 v1.2d
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count106
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count107
 \leftroot@=\count108
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count109
 \DOTSCASE@=\count110
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box49
 \strutbox@=\box50
 \big@size=\dimen125
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count111
 \c@MaxMatrixCols=\count112
 \dotsspace@=\muskip10
@@ -254,8 +244,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/share/texmf/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -295,7 +285,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count126
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
@@ -333,45 +323,49 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
 \@linkdim=\dimen134
 \Hy@linkcounter=\count127
 \Hy@pagecounter=\count128
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count129
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `final' set `true' on input line 3941.
-Package hyperref Info: Hyper figures OFF on input line 4062.
-Package hyperref Info: Link nesting OFF on input line 4067.
-Package hyperref Info: Hyper index ON on input line 4070.
-Package hyperref Info: Plain pages OFF on input line 4077.
-Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Option `final' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4300.
+Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count130
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4653.
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen135
 \Fld@menulength=\count131
-\Field@Width=\dimen135
-\Fld@charsize=\dimen136
-Package hyperref Info: Hyper figures OFF on input line 5773.
-Package hyperref Info: Link nesting OFF on input line 5778.
-Package hyperref Info: Hyper index ON on input line 5781.
-Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring OFF on input line 5793.
-Package hyperref Info: Link coloring with OCG OFF on input line 5798.
-Package hyperref Info: PDF/A mode OFF on input line 5803.
-LaTeX Info: Redefining \ref on input line 5843.
-LaTeX Info: Redefining \pageref on input line 5847.
+\Field@Width=\dimen136
+\Fld@charsize=\dimen137
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
 \Hy@abspage=\count132
 \c@Item=\count133
 \c@Hfootnote=\count134
@@ -380,7 +374,7 @@ LaTeX Info: Redefining \pageref on input line 5847.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count135
 \c@bookmark@seq@number=\count136
 
@@ -399,46 +393,46 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count137
 \Gm@cntv=\count138
 \c@Gm@tempcnt=\count139
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen145
+\bigstrutjot=\dimen146
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen146
-\extrarowheight=\dimen147
+\col@sep=\dimen147
+\extrarowheight=\dimen148
 \NC@list=\toks22
 \extratabsurround=\skip55
 \backup@length=\skip56
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen148
-\lightrulewidth=\dimen149
-\cmidrulewidth=\dimen150
-\belowrulesep=\dimen151
-\belowbottomsep=\dimen152
-\aboverulesep=\dimen153
-\abovetopsep=\dimen154
-\cmidrulesep=\dimen155
-\cmidrulekern=\dimen156
-\defaultaddspace=\dimen157
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
 \@cmidla=\count140
 \@cmidlb=\count141
-\@aboverulesep=\dimen158
-\@belowrulesep=\dimen159
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
 \@thisruleclass=\count142
 \@lastruleclass=\count143
-\@thisrulewidth=\dimen160
+\@thisrulewidth=\dimen161
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
@@ -447,7 +441,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTpre=\skip59
 \LTpost=\skip60
 \LTchunksize=\count144
-\LTcapwidth=\dimen161
+\LTcapwidth=\dimen162
 \LT@head=\box52
 \LT@firsthead=\box53
 \LT@foot=\box54
@@ -459,15 +453,18 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LT@p@ftn=\toks23
 )
 (/usr/share/texlive/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
-Package: threeparttablex 2010/07/14 v0.2 by daleif
+Package: threeparttablex 2013/07/23 v0.3 by daleif
 
 (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box56
 )
 (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2008/06/18 v0.2 A new way to define environments
-)
+Package: environ 2013/04/01 v0.3 A new environment syntax
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
 \TPTL@width=\skip61
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
@@ -475,24 +472,29 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count149
 \output=\toks24
 \linenoprevgraf=\count150
-\linenumbersep=\dimen162
-\linenumberwidth=\dimen163
+\linenumbersep=\dimen163
+\linenumberwidth=\dimen164
 \c@linenumber=\count151
 \c@pagewiselinenumber=\count152
 \c@LN@truepage=\count153
 \c@internallinenumber=\count154
 \c@internallinenumbers=\count155
-\quotelinenumbersep=\dimen164
-\bframerule=\dimen165
-\bframesep=\dimen166
+\quotelinenumbersep=\dimen165
+\bframerule=\dimen166
+\bframesep=\dimen167
 \bframebox=\box57
 LaTeX Info: Redefining \\ on input line 3056.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xr.sty
 Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 )
-Package xr Info: IMPORTING LABELS FROM supplemental.aux on input line 58.
- (./full_paper.aux)
+
+Package xr Warning: 
+No file supplemental.aux
+LABELS NOT IMPORTED.
+ on input line 58.
+
+(./full_paper.aux)
 \openout1 = `full_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
@@ -509,11 +511,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
-
-(/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
-\stockwidth=\dimen167
-\stockheight=\dimen168
+\stockwidth=\dimen168
+\stockheight=\dimen169
 \CROP@index=\count156
 Package crop Info: requested driver: `' on input line 123.
 Package crop Info: detected driver: `pdftex' on input line 123.
@@ -526,13 +527,13 @@ Package crop Info: using `pdftex' graphics driver on input line 607.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count158
-\scratchdimen=\dimen169
+\scratchdimen=\dimen170
 \scratchbox=\box58
 \nofMPsegments=\count159
 \nofMParguments=\count160
 \everyMPshowfont=\toks25
 \MPscratchCnt=\count161
-\MPscratchDim=\dimen170
+\MPscratchDim=\dimen171
 \MPnumerator=\count162
 \makeMPintoPDFobject=\count163
 \everyMPtoPDFconversion=\toks26
@@ -541,7 +542,7 @@ Package crop Info: using `pdftex' graphics driver on input line 607.
 Package atbegshi Info: Package `crop' patched.
 Package hyperref Info: Link coloring OFF on input line 60.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
@@ -595,12 +596,12 @@ LaTeX Info: Redefining \nameref on input line 60.
 LaTeX Font Info:    Try loading font information for U+msa on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 
 Package hyperref Warning: Ignoring empty anchor on input line 5.
@@ -712,7 +713,7 @@ Missing character: There is no ¶ in font cmr6!
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/ordination_all1/ordination_all.pdf, id=411, 1156.32pt x 433.62pt>
+<figures/ordination_all1/ordination_all.pdf, id=410, 1156.32pt x 433.62pt>
 File: figures/ordination_all1/ordination_all.pdf Graphic file (type pdf)
 
 <use figures/ordination_all1/ordination_all.pdf>
@@ -721,7 +722,7 @@ ut line 6.
 (pdftex.def)             Requested size: 438.17226pt x 164.31415pt.
 
 (./figures/ordination_all1/caption.tex) (./figures/ordination_all1/caption.tex)
-<figures/l2fc_fig1/l2fc_fig.pdf, id=412, 833.9958pt x 519.66963pt>
+<figures/l2fc_fig1/l2fc_fig.pdf, id=411, 833.9958pt x 519.66963pt>
 File: figures/l2fc_fig1/l2fc_fig.pdf Graphic file (type pdf)
 
 <use figures/l2fc_fig1/l2fc_fig.pdf>
@@ -729,7 +730,7 @@ Package pdftex.def Info: figures/l2fc_fig1/l2fc_fig.pdf used on input line 13.
 (pdftex.def)             Requested size: 438.17226pt x 273.0368pt.
  (./figures/l2fc_fig1/caption.tex)
 (./figures/l2fc_fig1/caption.tex)
-<figures/tiled_tree/tiled_tree300.png, id=413, 4556.02126pt x 9775.52126pt>
+<figures/tiled_tree/tiled_tree300.png, id=412, 4556.02126pt x 9775.52126pt>
 File: figures/tiled_tree/tiled_tree300.png Graphic file (type png)
 
 <use figures/tiled_tree/tiled_tree300.png>
@@ -742,7 +743,7 @@ e 20.
 LaTeX Warning: Float too large for page by 47.0669pt on input line 23.
 
 
-<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=415, 397.485pt x 433.62pt>
+<figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf, id=414, 397.485pt x 433.62pt>
 File: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf Graphic file (type pdf)
 <use figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf>
 Package pdftex.def Info: figures/xylose_rspndr_bar/xylose_rspndr_bar.pdf used o
@@ -751,7 +752,7 @@ n input line 27.
 
 (./figures/xylose_rspndr_bar/caption.tex)
 (./figures/xylose_rspndr_bar/caption.tex)
-<figures/shift_and_rabund3/shift_and_rabund.pdf, id=416, 722.7pt x 289.08pt>
+<figures/shift_and_rabund3/shift_and_rabund.pdf, id=415, 722.7pt x 289.08pt>
 File: figures/shift_and_rabund3/shift_and_rabund.pdf Graphic file (type pdf)
 
 <use figures/shift_and_rabund3/shift_and_rabund.pdf>
@@ -797,7 +798,7 @@ ures/shift_and_rabund3/shift_and_rabund.pdf>]) (./supp_figs.tex
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=562, 124
+<figures/20150320methods_conceptual/20150320methods_conceptual.png, id=561, 124
 7.3802pt x 1258.9434pt>
 File: figures/20150320methods_conceptual/20150320methods_conceptual.png Graphic
  file (type png)
@@ -820,7 +821,7 @@ e ignored
 l.8 ...es/20150320methods_conceptual/caption.tex}}
                                                   \label{fig:setup}
 (./figures/20150320methods_conceptual/caption.tex)
-<figures/13C_chart/13C_chart.pdf, id=563, 433.62pt x 289.08pt>
+<figures/13C_chart/13C_chart.pdf, id=562, 433.62pt x 289.08pt>
 File: figures/13C_chart/13C_chart.pdf Graphic file (type pdf)
 
 <use figures/13C_chart/13C_chart.pdf>
@@ -834,7 +835,7 @@ s been already used, duplicate ignored
 l.15 ...tect\input{figures/13C_chart/caption.tex}}
                                                   \label{fig:13C}
 (./figures/13C_chart/caption.tex)
-<figures/bulk_ordination/bulk_ordination.pdf, id=564, 939.51pt x 361.35pt>
+<figures/bulk_ordination/bulk_ordination.pdf, id=563, 939.51pt x 361.35pt>
 File: figures/bulk_ordination/bulk_ordination.pdf Graphic file (type pdf)
 
 <use figures/bulk_ordination/bulk_ordination.pdf>
@@ -854,7 +855,7 @@ the same identifier (name{figure.3}) has been already used, duplicate ignored
 l.22 ...nput{figures/bulk_ordination/caption.tex}}
                                                   \label{fig:bulk_ord}
 (./figures/bulk_ordination/caption.tex)
-<figures/l2fc_time/l2fc_time.pdf, id=565, 578.16pt x 614.295pt>
+<figures/l2fc_time/l2fc_time.pdf, id=564, 578.16pt x 614.295pt>
 File: figures/l2fc_time/l2fc_time.pdf Graphic file (type pdf)
 
 <use figures/l2fc_time/l2fc_time.pdf>
@@ -874,7 +875,7 @@ me identifier (name{figure.4}) has been already used, duplicate ignored
 l.28 ...tect\input{figures/l2fc_time/caption.tex}}
                                                   \label{fig:time}
 (./figures/l2fc_time/caption.tex)
-<figures/abndVtime_class/abndVtime_class.pdf, id=566, 578.16pt x 433.62pt>
+<figures/abndVtime_class/abndVtime_class.pdf, id=565, 578.16pt x 433.62pt>
 File: figures/abndVtime_class/abndVtime_class.pdf Graphic file (type pdf)
 
 <use figures/abndVtime_class/abndVtime_class.pdf>
@@ -887,8 +888,14 @@ s been already used, duplicate ignored
                    \relax 
 l.34 ...nput{figures/abndVtime_class/caption.tex}}
                                                   \label{fig:time_class}
+(./figures/abndVtime_class/caption.tex)pdfTeX warning (ext4): destination with 
+the same identifier (name{figure.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 ...nput{figures/abndVtime_class/caption.tex}}
+                                                  \label{fig:time_class}
 (./figures/abndVtime_class/caption.tex)
-<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=567, 722.7pt x 101
+<figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf, id=566, 722.7pt x 101
 1.78pt>
 File: figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf Graphic file (typ
 e pdf)
@@ -899,7 +906,7 @@ f used on input line 40.
 
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
 (./figures/bulk_phylum_rspndr_abund/caption.tex)
-<figures/generalist_specialist/generalist_specialist.pdf, id=568, 794.97pt x 65
+<figures/generalist_specialist/generalist_specialist.pdf, id=567, 794.97pt x 65
 0.43pt>
 File: figures/generalist_specialist/generalist_specialist.pdf Graphic file (typ
 e pdf)
@@ -910,7 +917,7 @@ f used on input line 47.
 
 (./figures/generalist_specialist/caption.tex)
 (./figures/generalist_specialist/caption.tex)
-<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=569, 361.35pt x 216.81pt>
+<figures/all_rspndr_bar/all_rspndr_bar.pdf, id=568, 361.35pt x 216.81pt>
 File: figures/all_rspndr_bar/all_rspndr_bar.pdf Graphic file (type pdf)
 
 <use figures/all_rspndr_bar/all_rspndr_bar.pdf>
@@ -919,7 +926,7 @@ t line 54.
 (pdftex.def)             Requested size: 355.03705pt x 213.02481pt.
 
 (./figures/all_rspndr_bar/caption.tex)
-<figures/example/examples.pdf, id=570, 939.51pt x 1806.75pt>
+<figures/example/examples.pdf, id=569, 939.51pt x 1806.75pt>
 File: figures/example/examples.pdf Graphic file (type pdf)
 
 <use figures/example/examples.pdf>
@@ -927,7 +934,7 @@ Package pdftex.def Info: figures/example/examples.pdf used on input line 61.
 (pdftex.def)             Requested size: 307.69588pt x 591.70807pt.
  (./figures/example/caption.tex)
 (./figures/example/caption.tex)
-<figures/copy_number/copy_number.pdf, id=571, 650.43pt x 289.08pt>
+<figures/copy_number/copy_number.pdf, id=570, 650.43pt x 289.08pt>
 File: figures/copy_number/copy_number.pdf Graphic file (type pdf)
 
 <use figures/copy_number/copy_number.pdf>
@@ -936,7 +943,7 @@ Package pdftex.def Info: figures/copy_number/copy_number.pdf used on input line
 (pdftex.def)             Requested size: 473.38274pt x 210.39586pt.
  (./figures/copy_number/caption.tex)
 (./figures/copy_number/caption.tex)
-<figures/conceptual1/conceptual1.pdf, id=572, 578.16pt x 289.08pt>
+<figures/conceptual1/conceptual1.pdf, id=571, 578.16pt x 289.08pt>
 File: figures/conceptual1/conceptual1.pdf Graphic file (type pdf)
 
 <use figures/conceptual1/conceptual1.pdf>
@@ -945,7 +952,7 @@ Package pdftex.def Info: figures/conceptual1/conceptual1.pdf used on input line
 (pdftex.def)             Requested size: 355.03705pt x 177.51627pt.
  (./figures/conceptual1/caption.tex)
 (./figures/conceptual1/caption.tex)
-<figures/conceptual3/conceptual3.pdf, id=573, 578.16pt x 289.08pt>
+<figures/conceptual3/conceptual3.pdf, id=572, 578.16pt x 289.08pt>
 File: figures/conceptual3/conceptual3.pdf Graphic file (type pdf)
 
 <use figures/conceptual3/conceptual3.pdf>
@@ -959,12 +966,13 @@ Package pdftex.def Info: figures/conceptual3/conceptual3.pdf used on input line
 
 ] [16 <./figures/20150320methods_conceptual/20150320methods_conceptual.png (PNG
  copy)> <./figures/13C_chart/13C_chart.pdf>] [17 <./figures/bulk_ordination/bul
-k_ordination.pdf> <./figures/l2fc_time/l2fc_time.pdf>] [18 <./figures/abndVtime
-_class/abndVtime_class.pdf>] [19 <./figures/bulk_phylum_rspndr_abund/abund_v_ti
-me_phyla.pdf>] [20 <./figures/generalist_specialist/generalist_specialist.pdf> 
-<./figures/all_rspndr_bar/all_rspndr_bar.pdf>] [21 <./figures/example/examples.
-pdf>] [22 <./figures/copy_number/copy_number.pdf> <./figures/conceptual1/concep
-tual1.pdf>] [23 <./figures/conceptual3/conceptual3.pdf>]
+k_ordination.pdf>]
+[18 <./figures/l2fc_time/l2fc_time.pdf>] [19 <./figures/abndVtime_class/abndVti
+me_class.pdf>] [20 <./figures/bulk_phylum_rspndr_abund/abund_v_time_phyla.pdf>]
+[21 <./figures/generalist_specialist/generalist_specialist.pdf> <./figures/all_
+rspndr_bar/all_rspndr_bar.pdf>] [22 <./figures/example/examples.pdf>] [23 <./fi
+gures/copy_number/copy_number.pdf> <./figures/conceptual1/conceptual1.pdf>]
+[24 <./figures/conceptual3/conceptual3.pdf>]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1067,9 +1075,9 @@ Overfull \hbox (11.0347pt too wide) in alignment at lines 76--89
  [] [] [] [] [] [] [] 
  []
 
-[24
+[25
 
-] [25] [26]) (./table_cellulose.tex
+] [26] [27]) (./table_cellulose.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1192,7 +1200,7 @@ Overfull \hbox (11.0347pt too wide) in alignment at lines 76--96
  [] [] [] [] [] [] [] 
  []
 
-[27
+[28
 
 
 ]
@@ -1200,45 +1208,46 @@ Overfull \hbox (11.0347pt too wide) in alignment at lines 96--102
  [] [] [] [] [] [] [] 
  []
 
-[28] [29]))
+[29] [30]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
  (./full_paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 Package rerunfilecheck Info: File `full_paper.out' has not changed.
-(rerunfilecheck)             Checksum: 33C66CCF7C891F21862D7E699F1FC1FD;976.
+(rerunfilecheck)             Checksum: 3EE4DBA613C218593E3DB2C1AAD0D8DF;996.
  ) 
 Here is how much of TeX's memory you used:
- 8862 strings out of 493485
- 128858 string characters out of 3143526
- 294170 words of memory out of 3000000
- 11739 multiletter control sequences out of 15000+200000
- 17453 words of font info for 64 fonts, out of 3000000 for 9000
+ 8982 strings out of 493304
+ 131101 string characters out of 6139871
+ 280714 words of memory out of 5000000
+ 12001 multiletter control sequences out of 15000+600000
+ 17453 words of font info for 64 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 51i,10n,37p,482b,736s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,10n,37p,482b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (29 pages, 8876762 bytes).
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/latxfont/lcircle1.pfb>
+Output written on full_paper.pdf (30 pages, 8887074 bytes).
 PDF statistics:
- 839 PDF objects out of 1000 (max. 8388607)
- 670 compressed objects within 7 object streams
- 152 named destinations out of 1000 (max. 500000)
+ 846 PDF objects out of 1000 (max. 8388607)
+ 675 compressed objects within 7 object streams
+ 153 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 

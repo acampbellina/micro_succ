@@ -5,9 +5,9 @@
 
 
 \bibitem[1]{Berthrong_2013}
-Berthrong S-T, Buckley D-H, Drinkwater L-E (2013) {Agricultural Management and Labile Carbon Additions Affect Soil Microbial Community Structure and Interact with Carbon and Nitrogen Cycling}. \textit{Microb Ecol} 66(1): 158--170.
+Berthrong S-T, Buckley D-H, Drinkwater L-E (2013) {Agricultural management and labile carbon additions affect soil microbial community structure and interact with carbon and nitrogen cycling}. \textit{Microb Ecol} 66(1): 158--170.
 \bibitem[2]{Heo_2002}
-Heo M-S, Son H-J (2002) {Development of an optimized, simple chemically defined medium for bacterial cellulose production by Acetobacter sp. A9 in shaking cultures}. \textit{Biotechnol Appl Biochem} 36(1): 41.
+Heo M-S, Son H-J (2002) {Development of an optimized, simple chemically defined medium for bacterial cellulose production by \textit{Acetobacter} sp. A9 in shaking cultures}. \textit{Biotechnol Appl Biochem} 36(1): 41.
 \bibitem[3]{Bradford_1976}
 Bradford M-M (1976) {A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding}. \textit{Analytical Biochemistry} 72(1-2): 248--254.
 \bibitem[4]{benedict1909reagent}
@@ -21,7 +21,7 @@ David K, Ragauskas A-J (2010) {Switchgrass as an energy crop for biofuel product
 \bibitem[8]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
 \bibitem[9]{Linn_1984}
-Linn D-M, Doran J-W (1984) {Aerobic and Anaerobic Microbial Populations in No-till and Plowed Soils1}. \textit{Soil Sci Soc Am J} 48(4): 794.
+Linn D-M, Doran J-W (1984) {Aerobic and anaerobic microbial populations in no-till and plowed soils}. \textit{Soil Sci Soc Am J} 48(4): 794.
 \bibitem[10]{Griffiths_2000}
 Griffiths R-I, Whiteley A-S, O'Donnell A-G, Bailey M-J (2000) {Rapid method for coextraction of {DNA} and {RNA} from natural environments for analysis of ribosomal {DNA}- and {rRNA}-based microbial community composition}. \textit{Appl Environ Microbiol} 66(12): 5488--5491.
 \bibitem[11]{Buckley_2007}
@@ -29,7 +29,7 @@ Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing
 \bibitem[12]{Manefield_2002}
 Manefield M, Whiteley A-S, Griffiths R-I, Bailey M-J (2002) {{RNA} Stable isotope probing a novel means of linking microbial  community function to phylogeny}. \textit{Appl Environ Microbiol} 68(11): 5367--5373.
 \bibitem[13]{9780408708036}
-Birnie G-D (1978) {Centrifugal separations in Molecular and cell biology}. (Butterworth \& Co Publishers Ltd, Boston)
+Birnie G-D (1978) {Centrifugal separations in Molecular and cell biology}. (Butterworth \& Co Publishers Ltd, Boston).
 \bibitem[14]{edgar2013}
 Edgar R-C (2013) {UPARSE}: highly accurate {OTU} sequences from microbial amplicon reads. \textit{Nat. Methods} 10(10): 996--998.
 \bibitem[15]{DeSantis2005}
@@ -66,8 +66,8 @@ Kembel S, Cowan P, Helmus M, Cornwell W, Morlon H, Ackerly D, \textit{et~al.} (2
 Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
 \bibitem[31]{jombart2010}
 Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic comparative method.. \textit{Bioinformatics} 26: 1907--1909.
-\bibitem[32]{altschul2990}
-\textit{Warning: citation key ``altschul2990'' is not in the bibliography database}.
+\bibitem[32]{altschul1990}
+Altschul S-F, Gish W, Miller W, Myers E-W, Lipman D-J (1990) Basic local alignment search tool. \textit{J Mol Biol} 215(3): 403--410.
 \bibitem[33]{camacho2009}
 Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, \textit{et~al.} (2009) {BLAST}+: architecture and applications. \textit{{BMC} Bioinformatics} 10: 421.
 \bibitem[34]{yarza2008}

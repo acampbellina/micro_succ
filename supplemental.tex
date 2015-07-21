@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage{url}
+\usepackage{lineno}
 
 \usepackage[numbers,sort&compress]{natbib}
 
@@ -33,6 +34,8 @@
 \date{\vspace{-5ex}}
 
 \begin{document}
+
+\linenumbers[1222]
 
 \maketitle
 
@@ -124,7 +127,7 @@ Respiration rate (CO$_{2}$) stabilized after 10 days (data not shown).
 % Fakesubsubsection: Three parallel treatments
 Three parallel treatments were established. Each treatment received the same
 amendment, where the only difference was the isotopically labeled component in
-the amendment. The treatments includeThe treatments includedl treatment and
+the amendment. The treatments included an unlabeled control treatment and
 treatments that substituted either $^{13}$C-cellulose (synthesized as described
 above) or $^{13}$C$_{5}$-D-xylose (98 atom \% $^{13}$C (Isotec)) for their
 unlabeled equivalents. The molecular composition of the amendment was designed
@@ -284,19 +287,48 @@ NMDS axes. The 'adonis' function in Vegan was used to perform Adonis tests
 \subsubsection{Identifying $^{13}$C responders} 
 % Fakesubsubsection: Figures S11 and S12
 Figures~S11 and~S12 demonstrate raw data for responder and non-responder OTUs,
-respectively. Responders increased in relative abundance in the heavy fractions
+respectively. Responders increased in relative abundance in the high density fractions
 due to $^{13}$C-labeling of their DNA. As our data is compositional, often OTUs
 had consistent \textit{relative} abundance across the density gradients indicating the
-OTUs concentration across the gradient mirrored that of the total DNA. If OTU
-DNA is positioned in heavy or light fractions, however, due to G$+$C content
-and/or $^{13}$C-labeling, it increases in relative abundance in the density region
-where the OTU absolute abundance is centered. Thus, we identified responders by finding OTUs
-enriched in heavy fractions of $^{13}$C-treatment gradients relative to
+OTU DNA concentration across the gradient mirrored that of the total DNA concentration. If OTU
+DNA is centered outside the main distribution of DNA due to G$+$C content
+and/or $^{13}$C-labeling its relative abundance increases near the center of the OTU DNA
+concentration profile. Thus, we identified responders by finding OTUs
+enriched in high density fractions of $^{13}$C-treatment gradients relative to
 control. This technique accounts for the variation in OTU base abundance and
 the variation in OTU G$+$C content (and therefore natural buoyant density)
 because relative abundances in gradient fractions from $^{13}$C-treatments are
 always compared to those in corresponding gradient fractions from control
 gradients.  
+
+We used DESeq2 (R package), an RNA-Seq differential expression statistical
+framework \citep{love2014}, to identify OTUs that were enriched in high density
+gradient fractions from $^{13}$C-treatments relative to corresponding gradient
+fractions from control treatments (for review of RNA-Seq differential
+expression statistics applied to microbiome OTU count data see
+\citep{McMurdie2014}). We define "high density gradient fractions" as gradient
+fractions whose density falls between 1.7125 and 1.755 g ml$^{-1}$.
+Briefly, DESeq2 includes several features that enable robust estimates of standard error
+in addition to reliable ranking of logarithmic fold change (LFC) (i.e.
+gamma-Poisson regression coefficients) in OTU relative abundance even with low
+count OTUs where LFC can often be noisy. Further, statistical evaluation of LFC
+can be performed with user-selected thresholds, as opposed to the typical null
+hypothesis that LFC is exactly zero, enabling the most biologically interesting
+OTUs to be identified for subsequent analyses. For each OTU, we calculated LFC
+and corresponding standard errors for enrichment in high density gradient
+fractions of $^{13}$C treatments relative to control. Subsequently, a one-sided
+Wald test was used to statistically assess LFC values. The user-defined null
+hypothesis was that LFC was less than one standard deviation above the mean of
+all LFC values. P-values were corrected for multiple comparisons using the
+Benjamini and Hochberg method \citep{benjamini1995}. We independently filtered
+OTUs on the basis of sparsity prior to correcting P-values for multiple
+comparisons. The sparsity value that yielded the most adjusted P-values less
+than 0.10 was selected for independent filtering by sparsity. Briefly, OTUs
+were eliminated if they failed to appear in at least 45\% of high density
+gradient fractions for a given $^{13}$C/control treatment pair. These sparse
+OTUs are unlikely to have sufficient data to allow for the determination of
+statistical significance. We selected a false discovery rate of 10\% to denote
+statistical significance.
 
 \subsubsection{Estimating rrn copy number}
 % Fakesubsubsection: We estimated the rrn

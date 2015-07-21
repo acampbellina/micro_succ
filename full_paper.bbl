@@ -1,4 +1,4 @@
-\begin{thebibliography}{93}
+\begin{thebibliography}{94}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -25,7 +25,7 @@ Neff J-C, Asner G-P (2001) {Dissolved organic carbon in terrestrial ecosystems: 
 \bibitem[10]{Wieder2013}
 Wieder W-R, Bonan G-B, Allison S-D (2013) Global soil carbon projections are improved by modelling microbial processes. \textit{Nat Clim Chang} 3(10): 909--912.
 \bibitem[11]{Lynd2002}
-Lynd L-R, Weimer P-J, van Zyl W-H, Pretorius I-S (2002) Microbial cellulose utilization: fundamentals and biotechnology. \textit{Microbiol Mol Biol Rev} 66(3): 506--table of contents.
+Lynd L-R, Weimer P-J, van Zyl W-H, Pretorius I-S (2002) Microbial cellulose utilization: fundamentals and biotechnology. \textit{Microbiol Mol Biol Rev} 66(3): 506--577.
 \bibitem[12]{Saha2003}
 Saha B-C (2003) Hemicellulose bioconversion. \textit{J Ind Microbiol Biotechnol} 30(5): 279--291.
 \bibitem[13]{Spiridon2008}
@@ -161,7 +161,7 @@ Chatzinotas A, Sandaa R-A, Schönhuber W, Amann R, Daae F-L, Torsvik V, \textit{
 \bibitem[78]{buckley_2003}
 Buckley D-H, Schmidt T-M (2003) Diversity and dynamics of microbial communities in soils from agro-ecosystems. \textit{Environ Microbiol} 5(6): 441--452.
 \bibitem[79]{Hug_2013}
-Hug L-A, Castelle C-J, Wrighton K-C, Thomas B-C, Sharon I, Frischkorn K-R, \textit{et~al.} (2013) {Community genomic analyses constrain the distribution of metabolic traits across the Chloroflexi phylum and indicate roles in sediment carbon cycling}. \textit{Microbiome} 1(1): 22.
+Hug L-A, Castelle C-J, Wrighton K-C, Thomas B-C, Sharon I, Frischkorn K-R, \textit{et~al.} (2013) {Community genomic analyses constrain the distribution of metabolic traits across the \textit{Chloroflexi} phylum and indicate roles in sediment carbon cycling}. \textit{Microbiome} 1(1): 22.
 \bibitem[80]{Goldfarb_2011}
 Goldfarb K-C, Karaoz U, Hanson C-A, Santee C-A, Bradford M-A, Treseder K-K, \textit{et~al.} (2011) Differential growth responses of soil bacterial taxa to carbon substrates of varying chemical recalcitrance. \textit{Front Microbiol} 2: 94. doi: 10.3389/fmicb.2011.00094
 \bibitem[81]{Cole_2013}
@@ -188,7 +188,9 @@ Schimel J (1995) Ecosystem consequences of microbial diversity and community str
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
 \bibitem[92]{love2014}
 Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
-\bibitem[93]{benjamini1995}
+\bibitem[93]{McMurdie2014}
+McMurdie P-J, Holmes S (2014) {Waste not, want not: why rarefying microbiome data is inadmissible}. \textit{PLoS Comput Biol} {10}(4): e1003531.
+\bibitem[94]{benjamini1995}
 Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: {A} practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society. Series B (Methodological)} 57(1): 289--300.
 
 \end{thebibliography}

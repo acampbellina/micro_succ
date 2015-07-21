@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{37}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -56,23 +56,27 @@ Lozupone C, Knight R (2005) {UniFrac}: a new phylogenetic method for comparing m
 Oksanen J, Blanchet F-G, Kindt R, Legendre P, Minchin P-R, O'Hara R-B, \textit{et~al.} (2015) vegan: Community Ecology Package.
 \bibitem[26]{Anderson2001a}
 Anderson M-J (2001) {A new method for non-parametric multivariate analysis of variance}. \textit{Austral Ecol} {26}(1): 32--46.
-\bibitem[27]{Kembel_2012}
-Kembel S-W, Wu M, Eisen J-A, Green J-L (2012) {Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}. \textit{PLoS Comput Biol} 8(10): e1002743.
-\bibitem[28]{matsen2010}
-Matsen F-A, Kodner R-B, Armbrust E-V (2010) pplacer: linear time maximum-likelihood and Bayesian phylogenetic placement of sequences onto a fixed reference tree. \textit{{BMC} Bioinformatics} 11: 538.
-\bibitem[29]{kembel2010}
-Kembel S, Cowan P, Helmus M, Cornwell W, Morlon H, Ackerly D, \textit{et~al.} (2010) Picante: {R} tools for integrating phylogenies and ecology. \textit{Bioinformatics} 26: 1463--1464.
-\bibitem[30]{Martiny2013}
-Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
-\bibitem[31]{jombart2010}
-Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic comparative method.. \textit{Bioinformatics} 26: 1907--1909.
-\bibitem[32]{altschul1990}
-Altschul S-F, Gish W, Miller W, Myers E-W, Lipman D-J (1990) Basic local alignment search tool. \textit{J Mol Biol} 215(3): 403--410.
-\bibitem[33]{camacho2009}
-Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, \textit{et~al.} (2009) {BLAST}+: architecture and applications. \textit{{BMC} Bioinformatics} 10: 421.
-\bibitem[34]{yarza2008}
-Yarza P, Richter M, Peplies J, Euzeby J, Amann R, Schleifer K-H, \textit{et~al.} (2008) The All-Species Living Tree project: a 16S {rRNA}-based phylogenetic tree of all sequenced type strains. \textit{Syst Appl Microbiol} 31(4): 241--250.
-\bibitem[35]{love2014}
+\bibitem[27]{love2014}
 Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
+\bibitem[28]{McMurdie2014}
+McMurdie P-J, Holmes S (2014) {Waste not, want not: why rarefying microbiome data is inadmissible}. \textit{PLoS Comput Biol} {10}(4): e1003531.
+\bibitem[29]{benjamini1995}
+Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: {A} practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society. Series B (Methodological)} 57(1): 289--300.
+\bibitem[30]{Kembel_2012}
+Kembel S-W, Wu M, Eisen J-A, Green J-L (2012) {Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}. \textit{PLoS Comput Biol} 8(10): e1002743.
+\bibitem[31]{matsen2010}
+Matsen F-A, Kodner R-B, Armbrust E-V (2010) pplacer: linear time maximum-likelihood and Bayesian phylogenetic placement of sequences onto a fixed reference tree. \textit{{BMC} Bioinformatics} 11: 538.
+\bibitem[32]{kembel2010}
+Kembel S, Cowan P, Helmus M, Cornwell W, Morlon H, Ackerly D, \textit{et~al.} (2010) Picante: {R} tools for integrating phylogenies and ecology. \textit{Bioinformatics} 26: 1463--1464.
+\bibitem[33]{Martiny2013}
+Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
+\bibitem[34]{jombart2010}
+Jombart T, Dray S (2010) adephylo: exploratory analyses for the phylogenetic comparative method.. \textit{Bioinformatics} 26: 1907--1909.
+\bibitem[35]{altschul1990}
+Altschul S-F, Gish W, Miller W, Myers E-W, Lipman D-J (1990) Basic local alignment search tool. \textit{J Mol Biol} 215(3): 403--410.
+\bibitem[36]{camacho2009}
+Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, \textit{et~al.} (2009) {BLAST}+: architecture and applications. \textit{{BMC} Bioinformatics} 10: 421.
+\bibitem[37]{yarza2008}
+Yarza P, Richter M, Peplies J, Euzeby J, Amann R, Schleifer K-H, \textit{et~al.} (2008) The All-Species Living Tree project: a 16S {rRNA}-based phylogenetic tree of all sequenced type strains. \textit{Syst Appl Microbiol} 31(4): 241--250.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{54}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -92,15 +92,25 @@ Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional 
 Evans S-E, Wallenstein M-D (2014) Climate change alters ecological strategies of soil bacteria. \textit{Ecol Lett} 17(2): 155--164.
 \bibitem[44]{Berlemont2013}
 Berlemont R, Martiny A-C (2013) Phylogenetic distribution of potential cellulases in bacteria. \textit{Appl Environ Microbiol} 79(5): 1545--1554.
-\bibitem[45]{Bergmann_2011}
+\bibitem[45]{Crowther2015}
+Crowther T-W, Thomas S-M, Maynard D-S, Baldrian P, Covey K, Frey S-D, \textit{et~al.} (2015) Biotic interactions mediate soil microbial feedbacks to climate change. \textit{Proceedings of the National Academy of Sciences} 112(22): 7033--7038.
+\bibitem[46]{Moore1988}
+Moore J-C, Walter D-E, Hunt H-W (1988) Arthropod regulation of micro- and mesobiota in below-ground detrital food webs. \textit{Annu Rev Entomol} 33(1): 419--435.
+\bibitem[47]{Bergmann_2011}
 Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, \textit{et~al.} (2011) {The under-recognized dominance of \textit{Verrucomicrobia} in soil bacterial communities}. \textit{Soil Biol Biochem} 43(7): 1450--1455.
-\bibitem[46]{Schneckenberger_2008}
+\bibitem[48]{Schimel_1995}
+Schimel J (1995) Ecosystem consequences of microbial diversity and community structure. \textit{Arctic and alpine biodiversity: patterns, causes and ecosystem consequences}. {}eds.~Chapin  {III} F-S, Korner C, Ecological Studies (Springer, Berlin Heidelberg), pp~239--254.
+\bibitem[49]{Lueders2006}
+Lueders T, Kindler R, Miltner A, Friedrich M-W, Kaestner M (2006) Identification of bacterial micropredators distinctively active in a soil microbial food web. \textit{Appl Environ Microbiol} 72(8): 5342--5348.
+\bibitem[50]{16346402}
+Casida L-E (1983) Interaction of \textit{Agromyces} \textit{ramosus} with other bacteria in soil. \textit{Appl Environ Microbiol} 46(4): 881--888.
+\bibitem[51]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
-\bibitem[47]{love2014}
+\bibitem[52]{love2014}
 Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
-\bibitem[48]{McMurdie2014}
+\bibitem[53]{McMurdie2014}
 McMurdie P-J, Holmes S (2014) {Waste not, want not: why rarefying microbiome data is inadmissible}. \textit{PLoS Comput Biol} {10}(4): e1003531.
-\bibitem[49]{benjamini1995}
+\bibitem[54]{benjamini1995}
 Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: {A} practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society. Series B (Methodological)} 57(1): 289--300.
 
 \end{thebibliography}

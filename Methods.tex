@@ -11,7 +11,7 @@ sampling locations within an organically managed agricultural field in Penn
 Yan, New York. Soils were sieved (2 mm), homogenized, distributed into flasks
 (10 g in each 250 ml flask, n = 36) and equilibrated for 2 weeks. We amended
 soils with a mixture containing 2.9 mg C g$^{-1}$ soil dry weight (d.w.) and
-brought experimental soil to 50\% water holding capacity. By mass the amendment
+brought soil to 50\% water holding capacity. By mass the amendment
 contained 38\% cellulose, 23\% lignin, 20\% xylose, 3\% arabinose, 1\%
 galactose, 1\% glucose, and 0.5\% mannose. 10.6\% amino acids (Teknova C9795)
 and 2.9\% Murashige Skoog basal salt mixture which contains macro and
@@ -35,29 +35,20 @@ We used DESeq2 (R package), an RNA-Seq differential expression statistical
 framework \citep{love2014}, to identify OTUs that were enriched in high density
 gradient fractions from $^{13}$C-treatments relative to corresponding gradient
 fractions from control treatments (for review of RNA-Seq differential
-expression statistics applied to microbiome OTU count data see (30)). We define
-"high density gradient fractions" as gradient fractions whose density falls
-between 1.7125 and 1.755 g ml$^{-1}$. Briefly, DESeq2 includes several features
-that enable robust estimates of standard error in addition to reliable ranking
-of logarithmic fold change (LFC) (i.e. gamma-Poisson regression coefficients)
-in OTU relative abundance even with low count OTUs where LFC can often be
-noisy. Further, statistical evaluation of LFC can be performed with
-user-selected thresholds as opposed to the typical null hypothesis that LFC is
-exactly zero enabling the most biologically interesting OTUs to be identified
-for subsequent analyses. For each OTU, we calculated LFC and corresponding
-standard errors for enrichment in high density gradient fractions of $^{13}$C
-treatments relative to control. Subsequently, a one-sided Wald
-test was used to statistically assess LFC values. The user-defined null
-hypothesis was that LFC was less than one standard deviation
-above the mean of all LFC values. P-values
-were corrected for multiple comparisons using the Benjamini and Hochberg method
-\citep{benjamini1995}. We independently filtered OTUs on the basis of sparsity
-prior to correcting P-values for multiple comparisons. The sparsity value that
-yielded the most adjusted P-values less than 0.10 was selected for independent
-filtering by sparsity. Briefly, OTUs were eliminated if they failed to appear
-in at least 45\% of high density gradient fractions for a given
-$^{13}$C/control treatment pair. These sparse OTUs are unlikely to have
-sufficient data to allow for the determination of statistical significance. We
-selected a false discovery rate of 10\% to denote statistical significance.
+expression statistics applied to microbiome OTU count data see
+\citep{McMurdie2014}). We define "high density gradient fractions" as gradient
+fractions whose density falls between 1.7125 and 1.755 g ml$^{-1}$. For each OTU,
+we calculates logarithmic fold change (LFC) and corresponding standard error for
+enrichment in high density fractions of $^{13}$C treatments relative to control.
+Subsequently, a one-sided Wald test was used to assess the statistical significance
+of LFC values with the null hypothesis that LFC was less than one standard deviation
+above the mean of all LFC values. We independently filtered OTUs prior to multiple
+comparison corrections on the basis of sparsity eliminating OTUs that failed to 
+appear in at least 45\% of high density fractions for a given comparison. P-values
+were adjusted for multiple comparisons using the Benjamini and Hochberg method
+\citep{benjamini1995}. We selected a false discoverty rate of 10\% to denote
+statistical significance.
+
+
 
 See SI for additional information on experimental and analytical methods.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  21 JUL 2015 12:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  10 SEP 2015 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,143 +499,527 @@ LaTeX Warning: No \author given.
 \tf@toc=\write4
 \openout4 = `supplemental.toc'.
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
- [1
+
+
+Package natbib Warning: Citation `Bergmann_2011' on page 1 undefined on input l
+ine 52.
+
+
+Package natbib Warning: Citation `Bergmann_2011' on page 1 undefined on input l
+ine 54.
+
+
+Package natbib Warning: Citation `Buckley_2001' on page 1 undefined on input li
+ne 54.
+
+
+Package natbib Warning: Citation `Wertz_2011' on page 1 undefined on input line
+ 57.
+
+
+Package natbib Warning: Citation `Otsuka_2012' on page 1 undefined on input lin
+e 57.
+
+
+Package natbib Warning: Citation `Fierer_2013' on page 1 undefined on input lin
+e 59.
+
+
+Package natbib Warning: Citation `10543821' on page 1 undefined on input line 5
+9.
+
+
+Package natbib Warning: Citation `Herlemann_2013' on page 1 undefined on input 
+line 59.
+
+
+LaTeX Warning: Reference `fig:tiledtree' on page 1 undefined on input line 62.
+
+
+Package natbib Warning: Citation `Bergmann_2011' on page 1 undefined on input l
+ine 65.
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no † in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no † in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
+
+Package natbib Warning: Citation `Schellenberger_2010' on page 2 undefined on i
+nput line 75.
+
+
+Package natbib Warning: Citation `Janssen2006' on page 2 undefined on input lin
+e 76.
+
+
+Package natbib Warning: Citation `Zarda_1997' on page 2 undefined on input line
+ 77.
+
+
+Package natbib Warning: Citation `Chatzinotas_1998' on page 2 undefined on inpu
+t line 77.
+
+
+Package natbib Warning: Citation `buckley_2003' on page 2 undefined on input li
+ne 78.
+
+
+Package natbib Warning: Citation `Hug_2013' on page 2 undefined on input line 8
+3.
+
+
+Package natbib Warning: Citation `Janssen2006' on page 2 undefined on input lin
+e 84.
+
+
+Package natbib Warning: Citation `Hug_2013' on page 2 undefined on input line 8
+6.
+
+
+Package natbib Warning: Citation `Goldfarb_2011' on page 2 undefined on input l
+ine 86.
+
+
+Package natbib Warning: Citation `Cole_2013' on page 2 undefined on input line 
+86.
+
+
+Package natbib Warning: Citation `Hug_2013' on page 2 undefined on input line 8
+7.
+
+
+Package natbib Warning: Citation `Goldfarb_2011' on page 2 undefined on input l
+ine 87.
+
+
+Package natbib Warning: Citation `Cole_2013' on page 2 undefined on input line 
+87.
+
+
+LaTeX Warning: Reference `fig:tiledtree' on page 2 undefined on input line 89.
+
+
+Package natbib Warning: Citation `Di_Rienzi_2013' on page 2 undefined on input 
+line 97.
+
+
+Package natbib Warning: Citation `gromov_1972' on page 2 undefined on input lin
+e 99.
+
+
+Package natbib Warning: Citation `wieder_2014a' on page 2 undefined on input li
+ne 107.
+
+
+Package natbib Warning: Citation `Kaiser2014a' on page 2 undefined on input lin
+e 107.
+
+
+Package natbib Warning: Citation `Kaiser2014a' on page 2 undefined on input lin
+e 109.
+
+
+Package natbib Warning: Citation `Berlemont2013' on page 2 undefined on input l
+ine 111.
+
+
+Package natbib Warning: Citation `Martiny2013' on page 2 undefined on input lin
+e 112.
+
+
+Package natbib Warning: Citation `McGuire2010' on page 2 undefined on input lin
+e 115.
+
+
+Package natbib Warning: Citation `Schimel_1995' on page 2 undefined on input li
+ne 128.
+
+
+Package natbib Warning: Citation `McGuire2010' on page 2 undefined on input lin
+e 128.
+
+
+Package natbib Warning: Citation `McGuire2010' on page 2 undefined on input lin
+e 130.
+
+
+Package natbib Warning: Citation `Berlemont2013' on page 2 undefined on input l
+ine 139.
+
+
+LaTeX Warning: Reference `fig:tiledtree' on page 2 undefined on input line 142.
+
+
+
+LaTeX Warning: Reference `fig:xyl_count' on page 2 undefined on input line 142.
+
 
 [2]
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
-Missing character: There is no ¬ in font cmr10!
-Missing character: There is no ∞ in font cmr10!
- [3]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no Œ in font cmr10!
-Missing character: There is no º in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+
+Package natbib Warning: Citation `wieder_2014a' on page 3 undefined on input li
+ne 159.
+
+
+Package natbib Warning: Citation `Cleveland2007' on page 3 undefined on input l
+ine 191.
+
+
+Package natbib Warning: Citation `Verastegui_2014' on page 3 undefined on input
+ line 192.
+
+[3]
+
+LaTeX Warning: Reference `fig:tiledtree' on page 4 undefined on input line 209.
+
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [4]
+
+LaTeX Warning: Reference `tab:xyl' on page 4 undefined on input line 211.
+
+
+Package natbib Warning: Citation `16346402' on page 4 undefined on input line 2
+13.
+
+
+Package natbib Warning: Citation `Lueders2006' on page 4 undefined on input lin
+e 215.
+
+
+Package natbib Warning: Citation `Moore1988' on page 4 undefined on input line 
+228.
+
+
+Package natbib Warning: Citation `Kaiser2014a' on page 4 undefined on input lin
+e 230.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Package natbib Warning: Citation `Berthrong_2013' on page 4 undefined on input 
+line 247.
+
+
+Package natbib Warning: Citation `Berthrong_2013' on page 4 undefined on input 
+line 250.
+
+
+Package natbib Warning: Citation `Heo_2002' on page 4 undefined on input line 2
+55.
+
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no † in font cmr10!
+[4]
+
+Package natbib Warning: Citation `Bradford_1976' on page 5 undefined on input l
+ine 289.
+
+
+Package natbib Warning: Citation `benedict1909reagent' on page 5 undefined on i
+nput line 292.
+
+
+Package natbib Warning: Citation `Datta_2014' on page 5 undefined on input line
+ 306.
+
+
+Package natbib Warning: Citation `Yan_2010' on page 5 undefined on input line 3
+18.
+
+
+Package natbib Warning: Citation `David_2010' on page 5 undefined on input line
+ 318.
+
+
+Package natbib Warning: Citation `Schneckenberger_2008' on page 5 undefined on 
+input line 320.
+
+
+Package natbib Warning: Citation `Linn_1984' on page 5 undefined on input line 
+333.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+[5]
+
+Package natbib Warning: Citation `Griffiths_2000' on page 6 undefined on input 
+line 347.
+
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+
+Package natbib Warning: Citation `Buckley_2007' on page 6 undefined on input li
+ne 364.
+
+
+Package natbib Warning: Citation `Manefield_2002' on page 6 undefined on input 
+line 381.
+
+
+Package natbib Warning: Citation `Buckley_2007' on page 6 undefined on input li
+ne 384.
+
+
+Package natbib Warning: Citation `Buckley_2007' on page 6 undefined on input li
+ne 385.
+
+
+Package natbib Warning: Citation `9780408708036' on page 6 undefined on input l
+ine 389.
+
+[6]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+
+Package natbib Warning: Citation `edgar2013' on page 7 undefined on input line 
+422.
+
+
+Package natbib Warning: Citation `DeSantis2005' on page 7 undefined on input li
+ne 426.
+
+
+Package natbib Warning: Citation `schloss2009' on page 7 undefined on input lin
+e 426.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Package natbib Warning: Citation `caporaso2010' on page 7 undefined on input li
+ne 430.
+
+
+Package natbib Warning: Citation `edgar2010' on page 7 undefined on input line 
+430.
+
+
+Package natbib Warning: Citation `quast2013' on page 7 undefined on input line 
+431.
+
+
+Package natbib Warning: Citation `quast2013' on page 7 undefined on input line 
+432.
+
+
+Package natbib Warning: Citation `edgar2013' on page 7 undefined on input line 
+441.
+
+
+Package natbib Warning: Citation `edgar2013' on page 7 undefined on input line 
+442.
+
+
+Package natbib Warning: Citation `nawrocki2009' on page 7 undefined on input li
+ne 450.
+
+
+Package natbib Warning: Citation `nawrocki2013' on page 7 undefined on input li
+ne 450.
+
+
+Package natbib Warning: Citation `price2010' on page 7 undefined on input line 
+456.
+
+[7]
+
+Package natbib Warning: Citation `lozupone2005' on page 8 undefined on input li
+ne 462.
+
+
+Package natbib Warning: Citation `mcmurdie2013' on page 8 undefined on input li
+ne 463.
+
+
+Package natbib Warning: Citation `oksanen2015' on page 8 undefined on input lin
+e 464.
+
+
+Package natbib Warning: Citation `Anderson2001a' on page 8 undefined on input l
+ine 466.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 287.
+(hyperref)                removing `math shift' on input line 470.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 287.
+(hyperref)                removing `superscript' on input line 470.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 287.
+(hyperref)                removing `math shift' on input line 470.
 
-[5] [6] (./supplemental.bbl [7] [8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 402.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 402.
+
+Package natbib Warning: Citation `love2014' on page 8 undefined on input line 4
+88.
+
+
+Package natbib Warning: Citation `McMurdie2014' on page 8 undefined on input li
+ne 492.
+
+
+Package natbib Warning: Citation `benjamini1995' on page 8 undefined on input l
+ine 506.
+
+[8]
+
+Package natbib Warning: Citation `Kembel_2012' on page 9 undefined on input lin
+e 519.
+
+
+Package natbib Warning: Citation `Kembel_2012' on page 9 undefined on input lin
+e 520.
+
+
+Package natbib Warning: Citation `matsen2010' on page 9 undefined on input line
+ 521.
+
+
+Package natbib Warning: Citation `kembel2010' on page 9 undefined on input line
+ 528.
+
+
+Package natbib Warning: Citation `Martiny2013' on page 9 undefined on input lin
+e 531.
+
+
+Package natbib Warning: Citation `jombart2010' on page 9 undefined on input lin
+e 532.
+
+
+Package natbib Warning: Citation `altschul1990' on page 9 undefined on input li
+ne 553.
+
+
+Package natbib Warning: Citation `camacho2009' on page 9 undefined on input lin
+e 553.
+
+
+Package natbib Warning: Citation `yarza2008' on page 9 undefined on input line 
+556.
+
+
+Package natbib Warning: Citation `love2014' on page 9 undefined on input line 5
+62.
+
+[9]
+No file supplemental.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 585.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 585.
  (./supplemental.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 402.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 402.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 585.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 585.
 Package rerunfilecheck Info: File `supplemental.out' has not changed.
-(rerunfilecheck)             Checksum: B8E76FE36ACA005000459D980587654C;1683.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 402.
+(rerunfilecheck)             Checksum: 8333B3FA3BA91B7ACAB70D4610B33231;2076.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 585.
  ) 
 Here is how much of TeX's memory you used:
- 8494 strings out of 493304
- 126408 string characters out of 6139871
- 224480 words of memory out of 5000000
- 11764 multiletter control sequences out of 15000+600000
+ 8416 strings out of 493304
+ 124598 string characters out of 6139871
+ 223855 words of memory out of 5000000
+ 11721 multiletter control sequences out of 15000+600000
  12847 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,6n,38p,354b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,38p,242b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -646,10 +1030,10 @@ ype1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti10.pfb>
-Output written on supplemental.pdf (9 pages, 162308 bytes).
+Output written on supplemental.pdf (10 pages, 163723 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

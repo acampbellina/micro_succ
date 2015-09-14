@@ -1,5 +1,5 @@
 bib="bibliography/biblio.bib"
-bib2="bibliography/biblio_x.bib"
+bib2="bibliography/biblio.bib"
 csl="pnas.csl"
 
 bash captions.sh

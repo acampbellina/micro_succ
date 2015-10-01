@@ -4,7 +4,7 @@ csl="pnas.csl"
 
 bash captions.sh
 
-cat Abstract.tex Introduction.tex Results.tex Discussion.tex Methods.tex captions.tex supp_captions.tex \
+cat header2.tex Abstract.tex Introduction.tex Results.tex Discussion.tex Methods.tex captions.tex supp_captions.tex \
     | pandoc -o manuscript.doc -r latex --bibliography $bib --csl $csl
 
 cat supplemental.tex supp_captions.tex \

@@ -1,4 +1,4 @@
-\begin{thebibliography}{53}
+\begin{thebibliography}{55}
 \providecommand{\enquote}[1]{``#1''}
 \providecommand{\url}[1]{{\tt #1}}
 \providecommand{\href}[2]{#2}
@@ -28,87 +28,91 @@ Wieder W-R, Bonan G-B, Allison S-D (2013) Global soil carbon projections are imp
 Lynd L-R, Weimer P-J, van Zyl W-H, Pretorius I-S (2002) Microbial cellulose utilization: fundamentals and biotechnology. \textit{Microbiol Mol Biol Rev} 66(3): 506--577.
 \bibitem[12]{Bunnell2013}
 Bunnell K, Rich A, Luckett C, Wang Y-J, Martin E, Carrier D-J (2013) Plant maturity effects on the physicochemical properties and dilute acid hydrolysis of switchgrass (\textit{panicum} \textit{virgatum}, l.) hemicelluloses. \textit{{ACS} Sustain Chem Eng} 1(6): 649--654.
-\bibitem[13]{Garrett1951}
-Garrett S-D (1951) Ecological groups of soil fungi: a survey of substrate relationships. \textit{New Phytol} 50(2): 149--166.
-\bibitem[14]{Alexander1964}
-Alexander M (1964) Biochemical ecology of soil microorganisms. \textit{Annual Rev Microbiol} 18(1): 217--250.
-\bibitem[15]{Engelking2007}
-Engelking B, Flessa H, Joergensen R-G (2007) Microbial use of maize cellulose and sugarcane sucrose monitored by changes in the 13C/12C ratio. \textit{Soil Biol Biochem} 39(8): 1888--1896.
-\bibitem[16]{Hu1997}
-Hu S, van Bruggen A-HC (1997) Microbial dynamics associated with multiphasic decomposition of $^{14}$C-labeled cellulose in soil. \textit{Microb Ecol} 33(2): 134--143.
-\bibitem[17]{Garrett1963}
+\bibitem[13]{Garrett1963}
 Garrett S-D (1963) Soil Fungi and soil fertility. (Pergamon Press, New York).
-\bibitem[18]{Bremer1994}
+\bibitem[14]{Bremer1994}
 Bremer E, Kuikman P (1994) Microbial utilization of 14C{[}U{]}glucose in soil is affected by the amount and timing of glucose additions. \textit{Soil Biol Biochem} 26(4): 511--517.
-\bibitem[19]{AnneliseHKjoller2002}
+\bibitem[15]{Garrett1951}
+Garrett S-D (1951) Ecological groups of soil fungi: a survey of substrate relationships. \textit{New Phytol} 50(2): 149--166.
+\bibitem[16]{Alexander1964}
+Alexander M (1964) Biochemical ecology of soil microorganisms. \textit{Annual Rev Microbiol} 18(1): 217--250.
+\bibitem[17]{Engelking2007}
+Engelking B, Flessa H, Joergensen R-G (2007) Microbial use of maize cellulose and sugarcane sucrose monitored by changes in the 13C/12C ratio. \textit{Soil Biol Biochem} 39(8): 1888--1896.
+\bibitem[18]{Hu1997}
+Hu S, van Bruggen A-HC (1997) Microbial dynamics associated with multiphasic decomposition of $^{14}$C-labeled cellulose in soil. \textit{Microb Ecol} 33(2): 134--143.
+\bibitem[19]{Fierer2007}
+Fierer N, Bradford M-A, Jackson R-B (2007) Toward an ecological classification of soil bacteria. \textit{Ecology} 88(6): 1354--1364.
+\bibitem[20]{AnneliseHKjoller2002}
 Kj{\"o}ller A-H, Struwe S (2002) Fungal communities, succession, enzymes, and decomposition. \textit{Enzymes in the Environment} (Marcel Dekker, New York), pp~306--324.
-\bibitem[20]{Frankland_1998}
+\bibitem[21]{Frankland_1998}
 Frankland J-C (1998) {Fungal succession -- unravelling the unpredictable}. \textit{Mycol Res} 102(1): 1--15.
-\bibitem[21]{Osono_2005}
+\bibitem[22]{Osono_2005}
 Osono T (2005) {Colonization and succession of fungi during decomposition of Swida controversa leaf litter}. \textit{Mycologia} 97(3): 589--597.
-\bibitem[22]{ColemanCrossley_1996}
+\bibitem[23]{ColemanCrossley_1996}
 Coleman D-C, Crossley D-A (1996) fundamentals of soil ecology. (Academic Press, Waltham, Massachusetts).
-\bibitem[23]{Nannipieri_2003}
+\bibitem[24]{Nannipieri_2003}
 Nannipieri P, Ascher J, Ceccherini M-T, Landi L, Pietramellara G, Renella G (2003) {Microbial diversity and soil functions}. \textit{Eur J Soil Sci} 54(4): 655--670.
-\bibitem[24]{Strickland_2009}
+\bibitem[25]{Strickland_2009}
 Strickland M-S, Lauber C, Fierer N, Bradford M-A (2009) {Testing the functional significance of microbial community composition}. \textit{Ecology} 90(2): 441--451.
-\bibitem[25]{Zak2006}
+\bibitem[26]{Zak2006}
 Zak D-R, Blackwood C-B, Waldrop M-P (2006) A molecular dawn for biogeochemistry. \textit{Trends Ecol Evol} 21(6): 288--295.
-\bibitem[26]{Reed2007}
+\bibitem[27]{Reed2007}
 Reed H-E, Martiny J-BH (2007) Testing the functional significance of microbial composition in natural communities. \textit{{FEMS} Microbiol Ecol} 62(2): 161--170.
-\bibitem[27]{Hsu2009}
+\bibitem[28]{Hsu2009}
 Hsu S-F, Buckley D-H (2009) Evidence for the functional significance of diazotroph community structure in soil. \textit{{ISME J}} 3(1): 124--136.
-\bibitem[28]{Janssen2006}
+\bibitem[29]{Janssen2006}
 Janssen P-H (2006) Identifying the dominant soil bacterial taxa in libraries of {16S} {rRNA} and {16S} {rRNA} genes. \textit{Appl Environ Microbiol} 72(3): 1719--1728.
-\bibitem[29]{Buckley2002}
+\bibitem[30]{Buckley2002}
 Buckley D-H, Schmidt T-M (2002) Exploring the diversity of soil - a microbial rainforest. \textit{Biodiversity of Microbial Life: Foundation of Earth{\textquoteright}s Biosphere}. {}ed.~Reysenbach A-L (Wiley, New York, New York), pp~183--208.
-\bibitem[30]{Chen_Murrell_2010}
+\bibitem[31]{Chen_Murrell_2010}
 Chen Y, Murrell J-C (2010) {When metagenomics meets stable-isotope probing: progress and perspectives}. \textit{Trends Microbiol} 18(4): 157--163.
-\bibitem[31]{radajewski2000stable}
+\bibitem[32]{radajewski2000stable}
 Radajewski S, Ineson P, Parekh N-R, Murrell J-C (2000) {Stable-isotope probing as a tool in microbial ecology}. \textit{Nature} 403(6770): 646--649.
-\bibitem[32]{DeRito2005}
+\bibitem[33]{DeRito2005}
 {DeRito} C-M, Pumphrey G-M, Madsen E-L (2005) Use of field-based stable isotope probing to identify adapted populations and track carbon flow through a phenol-degrading soil microbial community. \textit{Appl Environ Microbiol} 71(12): 7858--7865.
-\bibitem[33]{Buckley_2007}
+\bibitem[34]{Buckley_2007}
 Buckley D-H, Huangyutitham V, Hsu S-F, Nelson T-A (2007) {Stable isotope probing with $^{15}$N achieved by disentangling the effects of genome G$+$C content and isotope enrichment on {DNA} density}. \textit{Appl Environ Microbiol} 73(10): 3189--3195.
-\bibitem[34]{lueders2004}
+\bibitem[35]{lueders2004b}
+Lueders T, Wagner B, Claus P, Friedrich M-W (2004) Stable isotope probing of {rRNA} and {DNA} reveals a dynamic methylotroph community and trophic interactions with fungi and protozoa in oxic rice field soil. \textit{Environmental Microbiology} 6(1): 60--72.
+\bibitem[36]{lueders2004}
 Lueders T, Pommerenke B, Friedrich M-W (2004) Stable-isotope probing of microorganisms thriving at thermodynamic limits: syntrophic propionate oxidation in flooded soil. \textit{Appl Environ Microbiol} 70(10): 5778--5786.
-\bibitem[35]{derito2005}
+\bibitem[37]{derito2005}
 {DeRito} C-M, Pumphrey G-M, Madsen E-L (2005) Use of field-based stable isotope probing to identify adapted populations and track carbon flow through a phenol-degrading soil microbial community. \textit{Appl Environ Microbiol} 71(12): 7858--7865.
-\bibitem[36]{Aoyagi2015}
+\bibitem[38]{Aoyagi2015}
 Aoyagi T, Hanada S, Itoh H, Sato Y, Ogata A, Friedrich M-W, \textit{et~al.} (2015) Ultra-high-sensitivity stable-isotope probing of {rRNA} by high-throughput sequencing of isopycnic centrifugation gradients. \textit{Environ Microbiol Rep} 7(2): 282--287.
-\bibitem[37]{Verastegui_2014}
+\bibitem[39]{Verastegui_2014}
 Verastegui Y, Cheng J, Engel K, Kolczynski D, Mortimer S, Lavigne J, \textit{et~al.} (2014) {Multisubstrate isotope labeling and metagenomic analysis of active soil bacterial communities}. \textit{mBio} 5(4): e01157--14.
-\bibitem[38]{Anderson2001a}
+\bibitem[40]{Anderson2001a}
 Anderson M-J (2001) {A new method for non-parametric multivariate analysis of variance}. \textit{Austral Ecol} {26}(1): 32--46.
-\bibitem[39]{Kembel_2012}
+\bibitem[41]{Kembel_2012}
 Kembel S-W, Wu M, Eisen J-A, Green J-L (2012) {Incorporating {16S} gene copy number information improves estimates of microbial diversity and abundance}. \textit{PLoS Comput Biol} 8(10): e1002743.
-\bibitem[40]{Klappenbach_2000}
+\bibitem[42]{Klappenbach_2000}
 Klappenbach J-A, Dunbar J-M, Schmidt T-M (2000) {{rRNA} Operon copy number reflects ecological strategies of bacteria}. \textit{Appl Environ Microbiol} 66(4): 1328--1333.
-\bibitem[41]{Webb2000}
+\bibitem[43]{Webb2000}
 Webb C-O (2000) Exploring the phylogenetic structure of ecological communities: an example for rain forest trees.. \textit{Am Nat} 156(2): 145--155.
-\bibitem[42]{Martiny2013}
+\bibitem[44]{Martiny2013}
 Martiny A-C, Treseder K, Pusch G (2013) Phylogenetic conservatism of functional traits in microorganisms. \textit{{ISME J}} 7(4): 830--838.
-\bibitem[43]{Evans2014a}
+\bibitem[45]{Evans2014a}
 Evans S-E, Wallenstein M-D (2014) Climate change alters ecological strategies of soil bacteria. \textit{Ecol Lett} 17(2): 155--164.
-\bibitem[44]{Berlemont2013}
+\bibitem[46]{Berlemont2013}
 Berlemont R, Martiny A-C (2013) Phylogenetic distribution of potential cellulases in bacteria. \textit{Appl Environ Microbiol} 79(5): 1545--1554.
-\bibitem[45]{Crowther2015}
+\bibitem[47]{Crowther2015}
 Crowther T-W, Thomas S-M, Maynard D-S, Baldrian P, Covey K, Frey S-D, \textit{et~al.} (2015) Biotic interactions mediate soil microbial feedbacks to climate change. \textit{Proceedings of the National Academy of Sciences} 112(22): 7033--7038.
-\bibitem[46]{Moore1988}
+\bibitem[48]{Moore1988}
 Moore J-C, Walter D-E, Hunt H-W (1988) Arthropod regulation of micro- and mesobiota in below-ground detrital food webs. \textit{Annu Rev Entomol} 33(1): 419--435.
-\bibitem[47]{Bergmann_2011}
+\bibitem[49]{Bergmann_2011}
 Bergmann G-T, Bates S-T, Eilers K-G, Lauber C-L, Caporaso J-G, Walters W-A, \textit{et~al.} (2011) {The under-recognized dominance of \textit{Verrucomicrobia} in soil bacterial communities}. \textit{Soil Biol Biochem} 43(7): 1450--1455.
-\bibitem[48]{Lueders2006}
+\bibitem[50]{Lueders2006}
 Lueders T, Kindler R, Miltner A, Friedrich M-W, Kaestner M (2006) Identification of bacterial micropredators distinctively active in a soil microbial food web. \textit{Appl Environ Microbiol} 72(8): 5342--5348.
-\bibitem[49]{16346402}
+\bibitem[51]{16346402}
 Casida L-E (1983) Interaction of \textit{Agromyces} \textit{ramosus} with other bacteria in soil. \textit{Appl Environ Microbiol} 46(4): 881--888.
-\bibitem[50]{Schneckenberger_2008}
+\bibitem[52]{Schneckenberger_2008}
 Schneckenberger K, Demin D, Stahr K, Kuzyakov Y (2008) {Microbial utilization and mineralization of $^{14}$C glucose added in six orders of concentration to soil}. \textit{Soil Biol Biochem} 40(8): 1981--1988.
-\bibitem[51]{love2014}
+\bibitem[53]{love2014}
 Love M-I, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for {RNA}-seq data with {DESeq}2. \textit{Genome Biol} 15(12): 550.
-\bibitem[52]{McMurdie2014}
+\bibitem[54]{McMurdie2014}
 McMurdie P-J, Holmes S (2014) {Waste not, want not: why rarefying microbiome data is inadmissible}. \textit{PLoS Comput Biol} {10}(4): e1003531.
-\bibitem[53]{benjamini1995}
+\bibitem[55]{benjamini1995}
 Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: {A} practical and powerful approach to multiple testing. \textit{Journal of the Royal Statistical Society. Series B (Methodological)} 57(1): 289--300.
 
 \end{thebibliography}

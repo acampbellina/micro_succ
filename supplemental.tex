@@ -4,6 +4,8 @@
 \usepackage{color}
 \usepackage{url}
 \usepackage{lineno}
+\usepackage{xr}
+\externaldocument{full_paper}
 
 \usepackage[numbers,sort&compress]{natbib}
 
@@ -99,28 +101,6 @@ genomic capacity to degrade polysaccharides though \textit{Vampirovibrio
 chlorellavorus} is an obligate predator of green alga \citep{gromov_1972}.
 
 \subsection{Supplemental note 2 -- Implications for soil-C models}
-% Fakesubsubsection: Models of soil
-Functional niche characterization for soil microorganisms is necessary to
-predict whether and how biogeochemical processes vary with microbial community
-composition. Functional niches are defined by soil microbiologists and have
-been successfully incorporated into biogeochemical process models (E.g.
-\citep{wieder_2014a,Kaiser2014a}). In some C models ecological strategies such
-as growth rate and substrate specificity are parameters for functional niche
-behavior \citep{Kaiser2014a}. The phylogenetic breadth of a functionally
-defined group is often inferred from the distribution of diagnostic genes
-across genomes \citep{Berlemont2013} or from the physiology of isolates
-cultured on laboratory media \citep{Martiny2013}. For instance, the wide
-distribution of the glycolysis operon in microbial genomes is interpreted
-as evidence that many soil microorganisms participate in glucose turnover
-\citep{McGuire2010}. However, the functional niche may depend less on the
-distribution of diagnostic genes across genomes and more on life history
-traits that allow organisms to compete for a given substrate as it occurs
-in the soil. For instance, fast growth and rapid resuscitation allow
-microorganisms to compete for labile C which may often be transient in
-soil. Hence, life history traits may constrain the diversity of microbes
-that metabolize a given C source in the soil under a given set of
-conditions.
-
 % Fakesubsubsection: Biogeochemical processes
 Biogeochemical processes mediated by a broad array of taxa are assumed
 insensitive to community change relative to
@@ -229,11 +209,20 @@ exclude trophic interactions between soil bacteria (e.g.
 saprophytes, trophic interactions are predicted to have significant
 effects on the fate of soil C \citep{Kaiser2014a}. 
 
+\subsection{Supplemental Note 4 -- Major C components of plant biomass}
+% Fakesubsubsection: The degradative succession
+Most plant C is comprised of cellulose (30-50\%) followed by hemicellulose
+(20-40\%), and lignin (15-25\%) \citep{Lynd2002}. Hemicellulose, being the most
+soluble, degrades in the early stages of decomposition. Xylans are often an
+abundant component of hemicellulose, and xylose is often the most abundant
+sugar in hemicellulose, comprising as much as 60-90\% of xylan in some plants
+(e.g  switchgrass \citep{Bunnell2013}). 
+
 \section{Supplemental Methods} 
 \subsection{Soil Collection and Preparation} 
 % Fakesubsubsection: We collected soils from
 We collected soils from an organic farm in Penn Yan, New York. Soils were
-Honoeye/Lima, a silty clay loam on calcareous bedrock and this agricultural
+Honoeye/Lima, a silty clay loam on calcareous bedrock. The agricultural
 field site has been described previously \citep{Berthrong_2013}. To get a field average,
 cores (5 cm diameter x 10 cm depth) were collected in duplicate from six
 different sampling locations around the field using a slide hammer bulk density
@@ -254,8 +243,11 @@ N 42° 40.296’ W 77$^{\circ}$ 02.438’, (3) N 42$^{\circ}$ 40.309’ W 77$^{\
 % Fakesubsubsection: Bacterial cellulose was produced by
 Bacterial cellulose was produced by \textit{Gluconoacetobacter xylinus} grown
 in Heo and Son \citep{Heo_2002} minimal media (HS medium) made with 0.1\%
-glucose and without inositol.  For the production of $^{13}$C-cellulose,
-$^{13}$C$_{6}$-D-glucose, 99 atom \% $^{13}$C (Isotec) was used. Cellulose
+glucose and without inositol. This cellulose while tractable for use in the lab
+will not possess the structural complexity of lignocellulosic plant biomass and thus
+we cannot account for the effects plant biomass structural complexity on which 
+microorganisms utilize cellulose in soil .For the production of $^{13}$C-cellulose,
+$^{13}$C$_{6}$-D-glucose, 99 atom \% $^{13}$C (Cambridge Isotope) was used. Cellulose
 was produced in 1L Erlenmeyer flasks containing 100 mL HS medium inoculated
 with three colonies of \textit{Gluconoacetobacter xylinus} grown on HS agar
 plates. Flasks were incubated statically in the dark at 30$^{\circ}$C for 2-3
@@ -301,7 +293,7 @@ Microcosms were created by adding 10 g d.w. sieved soil to a 250 mL
 Erlenmeyer flask capped with a butyl rubber stopper. The headspace was flushed
 with air every 3 days which was sufficient to prevent anoxia (data not shown).
 Microcosms were pre-incubated at room temperature for 2 weeks until the soil
-respiration rate (determined by GCMS measurement of head space CO$_{2}$) had
+respiration rate (determined by GCMS measurement of headspace CO$_{2}$) had
 stabilized. Sieving causes a transient increase in soil respiration rate
 presumably due to the liberation of fresh labile soil organic matter
 \citep{Datta_2014}. Pre-incubation ensures that this labile organic matter is
@@ -332,15 +324,16 @@ soil moisture to achieve 50\% water holding capacity. Water holding capacity
 of 50\% was chosen, in relation to the texture for this soil, to achieve
 approximately 70\% water filled pore space, which is the optimal water content
 for respiration \citep{Linn_1984}. A total of 12 microcosms were established
-per treatment. Microcosms were sampled destructively on days 1, 3, 7, 14, and
-30 and soils were frozen at -80 $^{\circ}$C. The cellulose treatment was not
-sampled on day 1 because it was not expected that significant cellulose
-metabolism would have occurred within this time. The abbreviation “13CXPS”
-refers to the $^{13}$C-xylose treatment ($^{13}$C Xylose Plant Simulant), “13CCPS”
-refers to the $^{13}$C-cellulose treatment and “12CCPS” refers to the unlabeled
-control. A subset of soil from each sample was reserved for isotopic
-analysis at the Cornell University Stable Isotope Laboratory to determine
-the mass of $^{13}$C remaining in soil.
+for the $^{13}$C-xylose treatment and 10 for the $^{13}$C-cellulose treatment.
+Microcosms were sampled destructively on days 1, 3, 7, 14, and 30 and soils
+were frozen at -80 $^{\circ}$C. The cellulose treatment was not sampled on day
+1 because it was not expected that significant cellulose metabolism would have
+occurred within this time. The abbreviation “13CXPS” refers to the
+$^{13}$C-xylose treatment ($^{13}$C Xylose Plant Simulant), “13CCPS” refers to
+the $^{13}$C-cellulose treatment and “12CCPS” refers to the unlabeled control.
+A subset of soil from each sample was reserved for isotopic analysis at the
+Cornell University Stable Isotope Laboratory to determine the mass of $^{13}$C
+remaining in soil.
 
 \subsection{Nucleic acid extraction}
 % Fakesubsubsection: Nucleic acids were extracted
@@ -387,11 +380,12 @@ the refractive index as previously described \citep{Buckley_2007} using the
 equation $\rho$=\textit{a}$\eta$-\textit{b}, where $\rho$ is the density of the
 CsCl (g ml$^{-1}$), $\eta$ is the measured refractive index, and \textit{a} and
 \textit{b} are coefficient values of 10.9276 and 13.593, respectively, for CsCl
-at 20 $^{\circ}$C \citep{9780408708036} and correcting for non-CsCl salts in
-the gradient buffer. A total of 35 gractions were collected from each gradient
-and the average density between fractions was~0.0040 g mL$^{-1}$. The DNA was
-desalted by washing with TE (5X 200 $\mu$L) in the Acroprep filter wells. DNA
-was resuspeneded in~50 $\mu$L TE. 
+at 20 $^{\circ}$C \citep{9780408708036}. The refractive index (Ri) was
+corrected to account for the Ri of the gradient buffer using the equation: 
+$Ri_{corrected} = Ri_{observed} - (Ri_{buffer} - 1.3333)$. A total of 35
+gractions were collected from each gradient and the average density between
+fractions was~0.0040 g mL$^{-1}$. The DNA was desalted by washing with TE (5X
+200 $\mu$L) in the Acroprep filter wells. DNA was resuspeneded in~50 $\mu$L TE. 
 
 \subsection{DNA Sequencing}
 \subsubsection{PCR amplification of SSU rRNA genes} 
@@ -412,10 +406,10 @@ a final elongation at 72 $^{\circ}$C for 5 min. Amplification products were
 checked by 1\% agarose gel. Reactions were performed in triplicate and pooled.
 Amplified DNA was gel purified (1\% low melt agarose) using the Wizard SV gel
 and PCR clean-up system (Promega, Madison, WI; A9281) per manufacturer’s
-protocol. Samples were normalized by SequalPrepTM normalization plates
-(Invitrogen, Carlsbad, CA; A10510) and pooled in equimolar concentration.
-Amplicons were sequenced on Roche 454 FLX system using titanium chemistry at
-Selah Genomics (Columbia, SC).
+protocol. Samples were normalized by SequalPrep normalization plates
+(Invitrogen, Carlsbad, CA; A10510) or based on PicoGreen DNA quantification and
+pooled in equimolar concentration. Amplicons were sequenced on Roche 454 FLX
+system using titanium chemistry at Selah Genomics (Columbia, SC).
 
 \subsubsection{DNA sequence quality control}
 % Fakesubsubsection: SSU rRNA gene sequences
@@ -490,7 +484,7 @@ framework \citep{love2014}, to identify OTUs that were enriched in high density
 gradient fractions from $^{13}$C-treatments relative to corresponding gradient
 fractions from control treatments (for review of RNA-Seq differential
 expression statistics applied to microbiome OTU count data see
-\citep{McMurdie2014}). We define "high density gradient fractions" as gradient
+\citep{McMurdie2014}). We define ``high density gradient fractions'' as gradient
 fractions whose density falls between 1.7125 and 1.755 g ml$^{-1}$.
 Briefly, DESeq2 includes several features that enable robust estimates of standard error
 in addition to reliable ranking of logarithmic fold change (LFC) (i.e.

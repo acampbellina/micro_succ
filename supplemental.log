@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  7 OCT 2015 10:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  5 JAN 2016 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -507,13 +507,14 @@ LaTeX Warning: No \author given.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3]
+[2]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
+ [3] [4]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -556,33 +557,33 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
- [4]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no œ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no  in font cmr10!
  [5]
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ° in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ° in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no ° in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
  [6]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ° in font cmr10!
+ [7]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -616,43 +617,47 @@ Missing character: There is no œ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
- [7]
+ [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 474.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `superscript' on input line 474.
+(hyperref)                removing `math shift' on input line 537.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 474.
+(hyperref)                removing `superscript' on input line 537.
 
-[8] [9] (./supplemental.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 537.
+
+[9] [10] (./supplemental.bbl [11]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
- [10] [11] [12] [13])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 589.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 589.
+ [12]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [13] [14] [15])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 655.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 655.
  (./supplemental.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 589.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 589.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 655.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 655.
 Package rerunfilecheck Info: File `supplemental.out' has not changed.
-(rerunfilecheck)             Checksum: 8333B3FA3BA91B7ACAB70D4610B33231;2076.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 589.
+(rerunfilecheck)             Checksum: 27EB2CF363348B0114456386814F5B6A;2370.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 655.
  ) 
 Here is how much of TeX's memory you used:
- 8657 strings out of 493304
- 129094 string characters out of 6139871
- 227440 words of memory out of 5000000
- 11884 multiletter control sequences out of 15000+600000
+ 8693 strings out of 493304
+ 129705 string characters out of 6139871
+ 226554 words of memory out of 5000000
+ 11908 multiletter control sequences out of 15000+600000
  12847 words of font info for 49 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,6n,38p,478b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,38p,478b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{table.1} has been referenced but does not exist, 
 replaced by a fixed one
 
@@ -673,10 +678,10 @@ ic/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb>
-Output written on supplemental.pdf (14 pages, 197025 bytes).
+Output written on supplemental.pdf (16 pages, 204365 bytes).
 PDF statistics:
- 415 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
- 108 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 419 compressed objects within 5 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

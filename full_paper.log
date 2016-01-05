@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  5 JAN 2016 10:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.20)  5 JAN 2016 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1255,7 +1255,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/latxfont/lcircle1.pfb>
-Output written on full_paper.pdf (28 pages, 13551868 bytes).
+Output written on full_paper.pdf (28 pages, 13551865 bytes).
 PDF statistics:
  612 PDF objects out of 1000 (max. 8388607)
  524 compressed objects within 6 object streams

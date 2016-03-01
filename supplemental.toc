@@ -1,5 +1,5 @@
-\contentsline {section}{\numberline {1}Supplemental Discussion}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Supplemental note 1 -- Phylogenetic affiliation of cellulose responders}{1}{subsection.1.1}
+\contentsline {section}{\numberline {1}Supplemental Discussion}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Supplemental note 1 -- Phylogenetic affiliation of cellulose responders}{2}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Supplemental note 2 -- Implications for soil-C models}{2}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}Supplemental note 3 -- Evidence for trophic C exchange}{3}{subsection.1.3}
 \contentsline {subsection}{\numberline {1.4}Supplemental Note 4 -- Major C components of plant biomass}{4}{subsection.1.4}
@@ -7,14 +7,14 @@
 \contentsline {subsection}{\numberline {1.6}Supplemental Note 6 -- Experimental design}{4}{subsection.1.6}
 \contentsline {section}{\numberline {2}Supplemental Methods}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Soil Collection and Preparation}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Cellulose production}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Cellulose production}{6}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Soil microcosms}{6}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Nucleic acid extraction}{7}{subsection.2.4}
 \contentsline {subsection}{\numberline {2.5}Isopycnic centrifugation and fractionation}{7}{subsection.2.5}
 \contentsline {subsection}{\numberline {2.6}DNA Sequencing}{8}{subsection.2.6}
 \contentsline {subsubsection}{\numberline {2.6.1}PCR amplification of SSU rRNA genes}{8}{subsubsection.2.6.1}
 \contentsline {subsubsection}{\numberline {2.6.2}DNA sequence quality control}{8}{subsubsection.2.6.2}
-\contentsline {subsubsection}{\numberline {2.6.3}OTU binning}{8}{subsubsection.2.6.3}
+\contentsline {subsubsection}{\numberline {2.6.3}OTU binning}{9}{subsubsection.2.6.3}
 \contentsline {subsubsection}{\numberline {2.6.4}Phylogenetic reconstruction}{9}{subsubsection.2.6.4}
 \contentsline {subsubsection}{\numberline {2.6.5}Ordination and statistical analysis of differences in SSU rRNA gene composition}{9}{subsubsection.2.6.5}
 \contentsline {subsection}{\numberline {2.7}OTU characteristics}{9}{subsection.2.7}
@@ -22,6 +22,6 @@
 \contentsline {subsubsection}{\numberline {2.7.2}Estimating rrn copy number}{10}{subsubsection.2.7.2}
 \contentsline {subsubsection}{\numberline {2.7.3}NRI, NTI, and consenTRAIT}{10}{subsubsection.2.7.3}
 \contentsline {subsubsection}{\numberline {2.7.4}Buoyant density shift estimates}{10}{subsubsection.2.7.4}
-\contentsline {subsubsection}{\numberline {2.7.5}Finding cultured relatives of OTUs}{10}{subsubsection.2.7.5}
-\contentsline {subsubsection}{\numberline {2.7.6}OTU changes in relative abundance with time}{10}{subsubsection.2.7.6}
+\contentsline {subsubsection}{\numberline {2.7.5}Finding cultured relatives of OTUs}{11}{subsubsection.2.7.5}
+\contentsline {subsubsection}{\numberline {2.7.6}OTU changes in relative abundance with time}{11}{subsubsection.2.7.6}
 \contentsline {subsection}{\numberline {2.8}Sequencing and density fractionation statistics}{11}{subsection.2.8}

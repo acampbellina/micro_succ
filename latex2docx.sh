@@ -1,6 +1,6 @@
 bib="bibliography/biblio.bib"
 bib2="bibliography/biblio.bib"
-csl="pnas.csl"
+csl="frontiers.csl"
 
 bash captions.sh
 
